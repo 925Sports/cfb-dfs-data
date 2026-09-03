@@ -56,23 +56,23 @@
             --muted: #6b5a4a;
         }
         body[data-theme="dark"] {
-            --bg-color: #0B1324;
-            --text-color: #FFF4E6;
-            --card-bg: #14213D;
-            --border-color: #3d4f73;
-            --button-bg: #E85D04;
+            --bg-color: #070b14;
+            --text-color: #e7ecf5;
+            --card-bg: #101726;
+            --border-color: #1c2538;
+            --button-bg: #1d4ed8;
             --button-text: #ffffff;
-            --button-hover: #F4A261;
-            --input-bg: #101a33;
-            --table-head-bg: #1B3A6B;
-            --table-even-bg: #101a33;
-            --shadow: 0 4px 16px rgba(0,0,0,0.45);
+            --button-hover: #3b82f6;
+            --input-bg: #0c1220;
+            --table-head-bg: #121a2c;
+            --table-even-bg: #0c1220;
+            --shadow: 0 8px 28px rgba(0,0,0,0.45);
             --low-rank: #0d3d32;
             --mid-rank: #3d3420;
             --high-rank: #3d1f1f;
-            --muted: #c9b8a4;
-            --accent: #E85D04;
-            --accent-hover: #FFD7A8;
+            --muted: #8b93a7;
+            --accent: #3b82f6;
+            --accent-hover: #93c5fd;
         }
         body[data-theme="dark"] .primary-settings label { color: #FFD7A8; }
         body[data-theme="dark"] .card { border-color: #3d4f73; }
@@ -106,6 +106,23 @@
             background-color: var(--bg-color);
             color: var(--text-color);
         }
+        /* ev-dark polish */
+        body[data-theme="dark"] header,
+        body[data-theme="dark"] .workspace-tabs,
+        body[data-theme="dark"] .card,
+        body[data-theme="dark"] .sticky-run-bar {
+            background: #101726;
+            border-color: #1c2538;
+        }
+        body[data-theme="dark"] .workspace-tab.active {
+            background: #1d4ed8;
+            border-color: #3b82f6;
+            color: #fff;
+        }
+        body[data-theme="dark"] header h1 { color: #e7ecf5; }
+        body[data-theme="dark"] .cs-kpi { background: #121a2c; }
+        body[data-theme="dark"] #cheatSheetTable th { background: #121a2c; }
+        
         body[data-theme="light"] #dataTable thead th,
         body[data-theme="light"] table thead th {
             color: #fff !important;
@@ -1748,72 +1765,103 @@
         .cs-act button {
             font-size: 0.65rem; padding: 0.15rem 0.35rem; border-radius: 6px;
         }
-        .gp-grid {
+        .gp-shell {
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
-            gap: 0.9rem;
+            grid-template-columns: 240px 1fr;
+            gap: 0.85rem;
+            min-height: 72vh;
+            align-items: stretch;
         }
-        .gp-card {
-            border: 1px solid var(--border-color);
+        @media (max-width: 900px) {
+            .gp-shell { grid-template-columns: 1fr; }
+        }
+        .gp-rail {
+            background: #0c1220;
+            border: 1px solid #1c2538;
             border-radius: 14px;
-            background: var(--card-bg);
-            overflow: hidden;
-            box-shadow: var(--shadow);
-            display: flex;
-            flex-direction: column;
+            overflow: auto;
+            max-height: 78vh;
         }
-        .gp-card-head {
-            background: linear-gradient(135deg, #122445 0%, #1B3A6B 70%, #E85D04 160%);
-            color: #fff;
-            padding: 0.85rem 0.95rem 0.75rem;
+        body[data-theme="light"] .gp-rail { background: #f8fafc; border-color: var(--border-color); }
+        .gp-rail-item {
+            display: block; width: 100%; text-align: left;
+            background: transparent; border: none;
+            color: inherit; padding: 0.72rem 0.85rem;
+            border-bottom: 1px solid #1c2538;
+            cursor: pointer;
         }
-        .gp-card-head h3 { margin: 0 0 0.3rem; font-size: 1.12rem; color: #fff; letter-spacing: 0.01em; }
-        .gp-meta { font-size: 0.74rem; opacity: 0.92; display: flex; flex-wrap: wrap; gap: 0.3rem 0.7rem; }
-        .gp-lines { display: flex; gap: 0.4rem; flex-wrap: wrap; padding: 0.55rem 0.9rem 0.2rem; }
-        .gp-chip {
-            font-size: 0.7rem; font-weight: 700;
-            padding: 0.16rem 0.45rem; border-radius: 999px;
-            background: #fff4e8; border: 1px solid #f0c9a0; color: #1B3A6B;
+        .gp-rail-item:hover { background: rgba(59,130,246,0.08); }
+        .gp-rail-item.active { background: #151d32; box-shadow: inset 3px 0 0 #3b82f6; }
+        .gp-rail-item .t { font-weight: 800; font-size: 0.88rem; display:block; }
+        .gp-rail-item .s { font-size: 0.72rem; color: var(--muted); }
+        .gp-desk { display: flex; flex-direction: column; gap: 0.75rem; min-width: 0; }
+        .gp-hero-card, .gp-panel {
+            background: #101726;
+            border: 1px solid #1c2538;
+            border-radius: 14px;
         }
-        .gp-chip.hot { background: #E85D04; border-color: #E85D04; color: #fff; }
-        .gp-chip.cool { background: #e2e8f0; border-color: #cbd5e1; color: #334155; }
-        body[data-theme="dark"] .gp-chip { background: #1B3A6B; border-color: #3d4f73; color: #FFD7A8; }
-        body[data-theme="dark"] .gp-chip.hot { background: #E85D04; color: #fff; }
-        .gp-sides {
+        body[data-theme="light"] .gp-hero-card,
+        body[data-theme="light"] .gp-panel { background: #fff; }
+        .gp-hero-card { padding: 1rem 1.1rem 0.95rem; }
+        .gp-kicker { font-size: 0.68rem; font-weight: 800; letter-spacing: 0.08em; color: #93c5fd; margin: 0 0 0.25rem; }
+        .gp-hero-card h3 { margin: 0 0 0.2rem; font-size: 1.55rem; letter-spacing: -0.02em; }
+        .gp-hero-meta { font-size: 0.78rem; color: var(--muted); margin-bottom: 0.75rem; }
+        .gp-stats {
             display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 0;
-            flex: 1;
+            grid-template-columns: repeat(4, minmax(0, 1fr));
+            gap: 0.5rem;
         }
-        .gp-side { padding: 0.45rem 0.75rem 0.7rem; }
-        .gp-side + .gp-side { border-left: 1px solid var(--border-color); }
-        .gp-side h4 {
-            margin: 0.15rem 0 0.35rem; font-size: 0.78rem;
-            text-transform: uppercase; letter-spacing: 0.05em; color: #1B3A6B;
-        }
-        body[data-theme="dark"] .gp-side h4 { color: #FFD7A8; }
-        .gp-player {
-            display: grid;
-            grid-template-columns: 28px 1fr auto;
-            gap: 0.3rem;
-            font-size: 0.76rem;
-            padding: 0.22rem 0;
-            border-bottom: 1px solid var(--border-color);
-            align-items: center;
-        }
-        .gp-player:last-child { border-bottom: none; }
-        .gp-fp { font-variant-numeric: tabular-nums; font-weight: 700; }
-        .gp-stack {
-            margin: 0.45rem 0.75rem 0.75rem;
-            padding: 0.5rem 0.6rem;
+        @media (max-width: 700px) { .gp-stats { grid-template-columns: 1fr 1fr; } }
+        .gp-stat {
+            border: 1px solid #1c2538;
             border-radius: 10px;
-            background: #fff6eb;
-            border: 1px dashed #f0c9a0;
-            font-size: 0.75rem;
+            padding: 0.55rem 0.65rem;
+            background: #0c1220;
         }
-        body[data-theme="dark"] .gp-stack { background: #1a2744; border-color: #3d4f73; }
-        .gp-stack strong { color: #E85D04; }
+        .gp-stat .k { font-size: 0.65rem; font-weight: 800; letter-spacing: 0.06em; color: var(--muted); text-transform: uppercase; }
+        .gp-stat .v { font-size: 1.05rem; font-weight: 800; margin-top: 0.15rem; }
+        .gp-split {
+            display: grid;
+            grid-template-columns: 1.15fr 0.85fr;
+            gap: 0.75rem;
+        }
+        @media (max-width: 900px) { .gp-split { grid-template-columns: 1fr; } }
+        .gp-panel { padding: 0.85rem 0.95rem 0.7rem; }
+        .gp-panel h4 {
+            margin: 0 0 0.65rem;
+            font-size: 0.72rem;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            color: #93c5fd;
+        }
+        .gp-play {
+            display: grid;
+            grid-template-columns: 36px 1fr auto;
+            gap: 0.55rem;
+            align-items: center;
+            padding: 0.48rem 0.1rem;
+            border-top: 1px solid #1c2538;
+        }
+        .gp-play:first-of-type { border-top: none; }
+        .gp-play .who { font-weight: 700; font-size: 0.86rem; }
+        .gp-play .why { font-size: 0.72rem; color: var(--muted); }
+        .gp-pill {
+            font-size: 0.72rem; font-weight: 800;
+            padding: 0.22rem 0.5rem; border-radius: 999px;
+            white-space: nowrap;
+        }
+        .gp-pill.good { background: #065f46; color: #6ee7b7; }
+        .gp-pill.mid { background: #3f2d0c; color: #fcd34d; }
+        .gp-pill.soft { background: #3f1d24; color: #fda4af; }
+        .gp-idea { padding: 0.55rem 0; border-top: 1px solid #1c2538; }
+        .gp-idea:first-of-type { border-top: none; }
+        .gp-idea h5 { margin: 0 0 0.15rem; font-size: 0.88rem; }
+        .gp-idea p { margin: 0; font-size: 0.75rem; color: var(--muted); line-height: 1.4; }
+        .gp-idea-actions { display:flex; gap:0.35rem; margin-top:0.35rem; }
+        .gp-idea-actions button { font-size: 0.7rem; padding: 0.2rem 0.45rem; }
         .gp-empty { padding: 1.2rem; color: var(--muted); }
+        .gp-grid { display:none; }
+
 
         /* Workspace tabs (Builder / Stacks Lab) */
         .workspace-tabs {
@@ -2060,7 +2108,7 @@
         }
     </style>
 </head>
-<body data-theme="light">
+<body data-theme="dark">
     <!-- Header -->
     <header class="app-header">
         <h1>CFB DFS Lineup Builder <span style="font-size:0.68rem;letter-spacing:0.06em;background:#E85D04;color:#fff;padding:0.18rem 0.45rem;border-radius:999px;vertical-align:middle;">COLLEGE</span> <span class="info-icon" onclick="openModal()" title="How to use">ℹ️</span></h1>
@@ -3015,30 +3063,27 @@
         </div>
 
         <div id="panelPreview" class="workspace-panel" hidden>
-            <div class="card">
-                <div class="card-body">
-                    <div class="gp-hero">
+            <div class="card" style="background:transparent;border:none;box-shadow:none;padding:0;">
+                <div class="card-body" style="padding:0;">
+                    <div class="gp-toolbar" style="margin-bottom:0.65rem;">
                         <div>
-                            <h2>Game Preview</h2>
-                            <p class="gp-note" style="margin:0;" id="gpSlateLabel">Matchup cards with implied scripts, top plays, and stack ideas.</p>
-                        </div>
-                    </div>
-                    <div class="cs-kpis" id="gpKpis"></div>
-                    <div class="gp-toolbar">
-                        <div>
-                            <label>Sort</label>
+                            <label>Sort games</label>
                             <select id="gpSort" onchange="renderGamePreview()">
                                 <option value="total">Highest combined proj</option>
                                 <option value="time">Start time</option>
-                                <option value="value">Best values in game</option>
+                                <option value="value">Best values</option>
                             </select>
                         </div>
                         <div>
-                            <label>Search games</label>
-                            <input type="text" id="gpSearch" placeholder="Team…" oninput="renderGamePreview()">
+                            <label>Search</label>
+                            <input type="text" id="gpSearch" placeholder="Team or player…" oninput="renderGamePreview()">
                         </div>
+                        <div style="margin-left:auto;font-size:0.75rem;color:var(--muted);" id="gpSlateLabel"></div>
                     </div>
-                    <div class="gp-grid" id="gamePreviewGrid"></div>
+                    <div class="gp-shell">
+                        <aside class="gp-rail" id="gpRail"></aside>
+                        <div class="gp-desk" id="gamePreviewGrid"></div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -3433,7 +3478,7 @@
             // Start data load immediately while loading screen is visible
             fetchData(false);
 
-            const savedTheme = localStorage.getItem('theme') || 'light';
+            const savedTheme = localStorage.getItem('theme') || 'dark';
             document.body.setAttribute('data-theme', savedTheme);
             document.getElementById('darkModeSwitch').checked = (savedTheme === 'dark');
 
@@ -3975,15 +4020,13 @@
             if (teams.length >= 2) return teams[0] + ' vs ' + teams[1];
             return teams[0] || 'Game';
         }
-        function renderGamePreview() {
-            const grid = document.getElementById('gamePreviewGrid');
-            if (!grid) return;
+        let gpSelectedKey = null;
+        function gpBuildGames() {
             const q = (document.getElementById('gpSearch')?.value || '').toLowerCase().trim();
             const isSd = selectedSlate && String(selectedSlate).includes('Showdown');
             const pool = csSourcePool().filter(p => {
                 if (deselectedPlayers.has(p.displayName)) return false;
-                if (!isSd && p.slotType === 'Captain') return false;
-                if (isSd && p.slotType === 'Captain') return false;
+                if (p.slotType === 'Captain') return false;
                 return ['QB','RB','WR','TE','K'].includes(csPos(p));
             });
             const games = new Map();
@@ -4007,10 +4050,9 @@
             (finalRows || []).forEach(r => {
                 const team = r.Team || r.team;
                 const opp = r.Opp || r.Opponent;
-                if (!team) return;
                 games.forEach(g => {
                     const teams = [...new Set(g.players.map(p => p.Team))];
-                    if (teams.includes(team) || teams.includes(opp)) {
+                    if (team && (teams.includes(team) || teams.includes(opp))) {
                         if (!g.spread) g.spread = r.Spread || '';
                         if (!g.ou) g.ou = r['O/U'] || '';
                         if (!g.venue) g.venue = r['Venue Name (Underdog)'] || '';
@@ -4020,82 +4062,167 @@
             });
             let list = [...games.values()].filter(g => {
                 if (!q) return true;
-                const blob = [g.venue, g.broadcasts, ...g.players.map(p => p.Team + ' ' + csName(p))].join(' ').toLowerCase();
+                const blob = [g.venue, g.broadcasts, ...g.players.map(p => (p.Team||'') + ' ' + csName(p))].join(' ').toLowerCase();
                 return blob.includes(q);
             });
             const totalFp = g => g.players.reduce((s, p) => s + csFp(p), 0);
             const bestVal = g => Math.max(0, ...g.players.map(csPtsPerK));
             const sort = document.getElementById('gpSort')?.value || 'total';
             if (sort === 'value') list.sort((a,b) => bestVal(b) - bestVal(a));
-            else if (sort === 'time') list.sort((a,b) => String(a.start).localeCompare(String(b.start)) || totalFp(b) - totalFp(a));
+            else if (sort === 'time') list.sort((a,b) => String(a.start).localeCompare(String(b.start)));
             else list.sort((a,b) => totalFp(b) - totalFp(a));
-
-            const kpi = document.getElementById('gpKpis');
-            if (kpi) {
-                kpi.innerHTML = `
-                    <div class="cs-kpi"><div class="k">Games</div><div class="v">${list.length}</div></div>
-                    <div class="cs-kpi"><div class="k">Skill players</div><div class="v">${pool.length}</div></div>
-                    <div class="cs-kpi"><div class="k">Top game</div><div class="v">${list[0] ? prettyMatch([...new Set(list[0].players.map(p=>p.Team))]) : '—'}</div></div>
-                    <div class="cs-kpi"><div class="k">Best dart</div><div class="v">${list.length ? bestVal(list[0] || list[list.length-1]).toFixed(2) + 'x' : '—'}</div></div>`;
-            }
+            list.forEach(g => {
+                g.teams = [...new Set(g.players.map(p => p.Team).filter(Boolean))].slice(0, 2);
+                g.title = prettyMatch(g.teams);
+                g.combined = totalFp(g);
+                g.bestVal = bestVal(g);
+            });
+            return list;
+        }
+        function selectGamePreview(key) {
+            gpSelectedKey = key;
+            renderGamePreview();
+        }
+        function gpAddStack(qbName, wrName) {
+            if (!qbName || !wrName) return;
+            const qb = csSourcePool().find(p => csName(p) === qbName && csPos(p) === 'QB') || csSourcePool().find(p => csName(p) === qbName);
+            const wr = csSourcePool().find(p => csName(p) === wrName);
+            if (!qb || !wr) { jumpToBuilderPlayer(qbName); return; }
+            stackList.push({
+                captain: qb.displayName,
+                receiver: wr.displayName,
+                receiver2: null,
+                recipe: 'qb_wr',
+                bringBack: 'none',
+                bringPlayer: null,
+                fadeGameDst: false,
+                percentage: 35
+            });
+            if (typeof renderStackList === 'function') renderStackList();
+            alert('Added stack: ' + qbName + ' + ' + wrName + ' at 35% of builds.');
+        }
+        function renderGamePreview() {
+            const rail = document.getElementById('gpRail');
+            const desk = document.getElementById('gamePreviewGrid');
+            if (!desk) return;
+            const list = gpBuildGames();
             const sl = document.getElementById('gpSlateLabel');
-            if (sl) sl.textContent = selectedSlate ? selectedSlate : 'Pick a slate in Builder.';
-
+            if (sl) sl.textContent = (selectedSlate || 'No slate') + ' · ' + list.length + ' games';
             if (!list.length) {
-                grid.innerHTML = '<div class="gp-empty">No games on this slate yet. Pick a Classic or Showdown slate in Builder.</div>';
+                if (rail) rail.innerHTML = '';
+                desk.innerHTML = '<div class="gp-empty">Pick a slate in Builder to load CFB matchups.</div>';
                 return;
             }
-            const fmt = (n) => Number(n) ? Number(n).toFixed(1) : '—';
-            grid.innerHTML = list.map(g => {
-                const teams = [...new Set(g.players.map(p => p.Team).filter(Boolean))];
-                const sides = teams.length ? teams.slice(0, 2) : ['Pool'];
-                const combined = totalFp(g);
-                const script = combined >= 90 ? 'Shootout script' : combined >= 60 ? 'Solid total' : 'Lower scoring';
-                const sideHtml = sides.map(team => {
-                    const guys = g.players.filter(p => !team || p.Team === team);
-                    const pick = (pos, n) => guys.filter(p => csPos(p) === pos).sort((a,b)=>csFp(b)-csFp(a)).slice(0, n);
-                    const ordered = [...pick('QB', 1), ...pick('RB', 2), ...pick('WR', 3)];
-                    const dart = guys.slice().sort((a,b)=>csPtsPerK(b)-csPtsPerK(a))[0];
-                    return `<div class="gp-side">
-                        <h4>${csEsc(team)}</h4>
-                        ${ordered.map(p => `<div class="gp-player">
-                            <span class="pos-pill pos-${csEsc(csPos(p))}">${csEsc(csPos(p))}</span>
-                            <button type="button" class="cs-name-btn" onclick="jumpToBuilderPlayer(${csArg(csName(p))})">${csEsc(csName(p))}</button>
-                            <span class="gp-fp">${fmt(csFp(p))}</span>
-                        </div>`).join('') || '<div class="gp-player"><span>No skill proj</span></div>'}
-                        ${dart && csPtsPerK(dart) >= 2.4 ? `<div class="cs-sub" style="margin-top:0.35rem;">Value dart · ${csEsc(csName(dart))} ${csPtsPerK(dart).toFixed(2)}x</div>` : ''}
-                    </div>`;
-                }).join('');
-                const stacks = sides.map(team => {
-                    const guys = g.players.filter(p => p.Team === team);
-                    const qb = guys.filter(p => csPos(p)==='QB').sort((a,b)=>csFp(b)-csFp(a))[0];
-                    const wr = guys.filter(p => csPos(p)==='WR').sort((a,b)=>csFp(b)-csFp(a))[0];
-                    if (!qb || !wr) return '';
-                    return `${csName(qb).split(' ').slice(-1)[0]} + ${csName(wr).split(' ').slice(-1)[0]} (${team})`;
-                }).filter(Boolean);
-                const chips = [
-                    `<span class="gp-chip ${combined>=90?'hot':''}">${script}</span>`,
-                    g.spread ? `<span class="gp-chip">Spread ${csEsc(g.spread)}</span>` : '',
-                    g.ou ? `<span class="gp-chip">O/U ${csEsc(g.ou)}</span>` : '',
-                    g.venueType ? `<span class="gp-chip cool">${csEsc(g.venueType)}</span>` : ''
-                ].join('');
-                return `<article class="gp-card">
-                    <div class="gp-card-head">
-                        <h3>${csEsc(prettyMatch(sides))}</h3>
-                        <div class="gp-meta">
-                            ${g.start ? `<span>${csEsc(g.start)}</span>` : ''}
-                            ${g.venue ? `<span>${csEsc(g.venue)}</span>` : ''}
-                            ${g.broadcasts ? `<span>${csEsc(g.broadcasts)}</span>` : ''}
-                        </div>
+            if (!gpSelectedKey || !list.some(g => g.key === gpSelectedKey)) gpSelectedKey = list[0].key;
+            if (rail) {
+                rail.innerHTML = list.map(g => `
+                    <button type="button" class="gp-rail-item ${g.key === gpSelectedKey ? 'active' : ''}" onclick="selectGamePreview(${JSON.stringify(g.key)})">
+                        <span class="t">${csEsc(g.title)}</span>
+                        <span class="s">${csEsc(g.start || 'TBD')} · ${g.combined.toFixed(0)} slate proj</span>
+                    </button>`).join('');
+            }
+            const g = list.find(x => x.key === gpSelectedKey) || list[0];
+            const fmt = (n,d=1) => Number(n) ? Number(n).toFixed(d) : '—';
+            const plays = g.players.slice().sort((a,b) => csFp(b) - csFp(a)).slice(0, 10);
+            const playRows = plays.map(p => {
+                const val = csPtsPerK(p);
+                const pillCls = val >= 3 ? 'good' : val >= 2.4 ? 'mid' : 'soft';
+                const why = [
+                    csPos(p) === 'QB' && Number(p.rushYds||0) >= 25 ? 'dual-threat' : '',
+                    val >= 3 ? 'elite value' : val >= 2.4 ? 'playable value' : '',
+                    Number(p.atd||0) >= 0.7 ? ('ATD ' + Number(p.atd).toFixed(2)) : ''
+                ].filter(Boolean).join(' · ') || (p.Team + (p.Opponent ? ' vs ' + p.Opponent : ''));
+                return `<div class="gp-play">
+                    <span class="pos-pill pos-${csEsc(csPos(p))}">${csEsc(csPos(p))}</span>
+                    <div>
+                        <div class="who"><button type="button" class="cs-name-btn" onclick="jumpToBuilderPlayer(${JSON.stringify(csName(p))})">${csEsc(csName(p))}</button></div>
+                        <div class="why">${csEsc(why)} · $${Number(p.salary||0).toLocaleString()} · ${fmt(csFp(p))} FP</div>
                     </div>
-                    <div class="gp-lines">${chips}</div>
-                    <div class="gp-sides">${sideHtml}</div>
-                    ${stacks.length ? `<div class="gp-stack"><strong>Stack ideas:</strong> ${csEsc(stacks.join(' · '))}</div>` : ''}
-                </article>`;
+                    <span class="gp-pill ${pillCls}">${fmt(val,2)}x</span>
+                </div>`;
             }).join('');
+
+            const ideas = [];
+            g.teams.forEach(team => {
+                const guys = g.players.filter(p => p.Team === team);
+                const qb = guys.filter(p => csPos(p)==='QB').sort((a,b)=>csFp(b)-csFp(a))[0];
+                const wr = guys.filter(p => csPos(p)==='WR').sort((a,b)=>csFp(b)-csFp(a))[0];
+                const wr2 = guys.filter(p => csPos(p)==='WR').sort((a,b)=>csFp(b)-csFp(a))[1];
+                const rb = guys.filter(p => csPos(p)==='RB').sort((a,b)=>csFp(b)-csFp(a))[0];
+                if (qb && wr) {
+                    const dual = Number(qb.rushYds||0) >= 25;
+                    ideas.push({
+                        title: csName(qb) + ' + ' + csName(wr),
+                        body: dual
+                            ? (team + ' dual-threat can go skinny or naked. Default is still QB + 1 WR at 30–40%.')
+                            : (team + ' pocket / volume passer — stack the WR1. Add WR2 only if the target tree is condensed.'),
+                        qb: csName(qb), wr: csName(wr)
+                    });
+                }
+                if (qb && wr2 && Number(qb.rushYds||0) < 20) {
+                    ideas.push({
+                        title: csName(qb) + ' + ' + csName(wr) + ' + ' + csName(wr2),
+                        body: 'Optional 3-man only on condensed passing games. Keep it off large-slate cash.',
+                        qb: csName(qb), wr: csName(wr)
+                    });
+                }
+            });
+            if (g.teams.length === 2) {
+                const a = g.players.filter(p => p.Team === g.teams[0]);
+                const b = g.players.filter(p => p.Team === g.teams[1]);
+                const qbA = a.filter(p => csPos(p)==='QB').sort((x,y)=>csFp(y)-csFp(x))[0];
+                const rbB = b.filter(p => csPos(p)==='RB').sort((x,y)=>csFp(y)-csFp(x))[0];
+                const qbB = b.filter(p => csPos(p)==='QB').sort((x,y)=>csFp(y)-csFp(x))[0];
+                const rbA = a.filter(p => csPos(p)==='RB').sort((x,y)=>csFp(y)-csFp(x))[0];
+                if (qbA && rbB) ideas.push({
+                    title: csName(qbA) + ' / bring-back ' + csName(rbB),
+                    body: 'Same-game correlation: stack the first offense, bring back the opposing RB — the default CFB GPP bring-back.',
+                    qb: csName(qbA), wr: null
+                });
+                if (qbB && rbA) ideas.push({
+                    title: csName(qbB) + ' / bring-back ' + csName(rbA),
+                    body: 'Flip script: if ' + g.teams[1] + ' owns the clock, the other RB still cashes on volume.',
+                    qb: csName(qbB), wr: null
+                });
+            }
+            const ideaHtml = ideas.slice(0, 5).map(idea => `
+                <div class="gp-idea">
+                    <h5>${csEsc(idea.title)}</h5>
+                    <p>${csEsc(idea.body)}</p>
+                    <div class="gp-idea-actions">
+                        ${idea.wr ? `<button type="button" class="ghost" onclick="gpAddStack(${JSON.stringify(idea.qb)}, ${JSON.stringify(idea.wr)})">Add 35% stack</button>` : ''}
+                        <button type="button" class="ghost" onclick="jumpToBuilderPlayer(${JSON.stringify(idea.qb)})">Open in builder</button>
+                    </div>
+                </div>`).join('') || '<p class="gp-empty">No stack ideas until projections load.</p>';
+
+            const script = g.combined >= 90 ? 'Shootout' : g.combined >= 60 ? 'Solid total' : 'Grind / low';
+            desk.innerHTML = `
+                <section class="gp-hero-card">
+                    <div class="gp-kicker">CFB DFS · GAME PREVIEW</div>
+                    <h3>${csEsc(g.title)}</h3>
+                    <div class="gp-hero-meta">${csEsc(g.start || '')}${g.venue ? ' · ' + csEsc(g.venue) : ''}${g.broadcasts ? ' · ' + csEsc(g.broadcasts) : ''}</div>
+                    <div class="gp-stats">
+                        <div class="gp-stat"><div class="k">Script</div><div class="v">${script}</div></div>
+                        <div class="gp-stat"><div class="k">Slate proj</div><div class="v">${g.combined.toFixed(1)}</div></div>
+                        <div class="gp-stat"><div class="k">Spread</div><div class="v">${csEsc(g.spread || '—')}</div></div>
+                        <div class="gp-stat"><div class="k">Total / O/U</div><div class="v">${csEsc(g.ou || '—')}</div></div>
+                    </div>
+                </section>
+                <div class="gp-split">
+                    <section class="gp-panel">
+                        <h4>Best DFS plays</h4>
+                        ${playRows}
+                    </section>
+                    <section class="gp-panel">
+                        <h4>Correlated ideas</h4>
+                        ${ideaHtml}
+                    </section>
+                </div>`;
         }
 
-                function switchWorkspace(which) {
+
+
+        function switchWorkspace(which) {
             const panels = {
                 builder: 'panelBuilder',
                 cheat: 'panelCheat',
