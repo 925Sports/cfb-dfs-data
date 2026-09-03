@@ -8,23 +8,23 @@
     <style>
         :root {
             --transition: all 0.2s ease;
-            /* 925 Sports brand */
-            --brand-teal: #237374;
-            --brand-aqua: #47C6C8;
-            --brand-mint: #A5FFEE;
-            --brand-light-teal: #A3E2E3;
-            --brand-deep: #174D4D;
-            --brand-ink: #0C2627;
-            --brand-green: #00D2AA;
+            /* 925 Sports CFB brand — navy + burnt orange (distinct from NFL teal) */
+            --brand-teal: #1B3A6B;
+            --brand-aqua: #E85D04;
+            --brand-mint: #FFD7A8;
+            --brand-light-teal: #F4A261;
+            --brand-deep: #122445;
+            --brand-ink: #0B1324;
+            --brand-green: #2A9D8F;
             --low-rank-light: #d1fae5;
             --mid-rank-light: #fef3c7;
             --high-rank-light: #fee2e2;
             --low-rank-dark: #064e3b;
             --mid-rank-dark: #713f12;
             --high-rank-dark: #7f1d1d;
-            --accent: #237374;
-            --accent-hover: #174D4D;
-            --success: #00D2AA;
+            --accent: #E85D04;
+            --accent-hover: #C24B00;
+            --success: #2A9D8F;
             --warning: #f59e0b;
             --danger: #ef4444;
         }
@@ -39,64 +39,64 @@
             transition: var(--transition);
         }
         body[data-theme="light"] {
-            --bg-color: #f0fafa;
-            --text-color: #0C2627;
+            --bg-color: #fff6eb;
+            --text-color: #0B1324;
             --card-bg: #ffffff;
-            --border-color: #c5e8e8;
-            --button-bg: #237374;
+            --border-color: #f0c9a0;
+            --button-bg: #1B3A6B;
             --button-text: #ffffff;
-            --button-hover: #174D4D;
-            --input-bg: #f7fffe;
-            --table-head-bg: #e8f7f7;
-            --table-even-bg: #f7fffe;
-            --shadow: 0 1px 3px rgba(35,115,116,0.12), 0 1px 2px rgba(12,38,39,0.06);
+            --button-hover: #E85D04;
+            --input-bg: #fffaf3;
+            --table-head-bg: #1B3A6B;
+            --table-even-bg: #fffaf3;
+            --shadow: 0 1px 3px rgba(27,58,107,0.14), 0 1px 2px rgba(232,93,4,0.08);
             --low-rank: var(--low-rank-light);
             --mid-rank: var(--mid-rank-light);
             --high-rank: var(--high-rank-light);
-            --muted: #5a7a7a;
+            --muted: #6b5a4a;
         }
         body[data-theme="dark"] {
-            --bg-color: #0a1e1e;
-            --text-color: #eef9f8;
-            --card-bg: #102c2c;
-            --border-color: #2a5c5c;
-            --button-bg: #2f8f8f;
+            --bg-color: #0B1324;
+            --text-color: #FFF4E6;
+            --card-bg: #14213D;
+            --border-color: #3d4f73;
+            --button-bg: #E85D04;
             --button-text: #ffffff;
-            --button-hover: #47C6C8;
-            --input-bg: #0d2424;
-            --table-head-bg: #153838;
-            --table-even-bg: #0d2424;
+            --button-hover: #F4A261;
+            --input-bg: #101a33;
+            --table-head-bg: #1B3A6B;
+            --table-even-bg: #101a33;
             --shadow: 0 4px 16px rgba(0,0,0,0.45);
             --low-rank: #0d3d32;
             --mid-rank: #3d3420;
             --high-rank: #3d1f1f;
-            --muted: #8eb8b8;
-            --accent: #47C6C8;
-            --accent-hover: #A5FFEE;
+            --muted: #c9b8a4;
+            --accent: #E85D04;
+            --accent-hover: #FFD7A8;
         }
-        body[data-theme="dark"] .primary-settings label { color: #A5FFEE; }
-        body[data-theme="dark"] .card { border-color: #2a5c5c; }
+        body[data-theme="dark"] .primary-settings label { color: #FFD7A8; }
+        body[data-theme="dark"] .card { border-color: #3d4f73; }
         body[data-theme="dark"] .dropdown-button,
         body[data-theme="dark"] input,
         body[data-theme="dark"] select {
-            border-color: #2a5c5c;
-            color: #eef9f8;
+            border-color: #3d4f73;
+            color: #FFF4E6;
         }
         body[data-theme="dark"] .preset-btn {
-            background: #153838;
-            border-color: #2a5c5c;
-            color: #eef9f8;
+            background: #1B3A6B;
+            border-color: #3d4f73;
+            color: #FFF4E6;
         }
         body[data-theme="dark"] .preset-btn:hover,
         body[data-theme="dark"] .preset-btn.active {
-            background: #237374;
-            border-color: #47C6C8;
+            background: #E85D04;
+            border-color: #F4A261;
             color: #fff;
         }
-        body[data-theme="dark"] td.lineup-player { color: #A5FFEE; }
+        body[data-theme="dark"] td.lineup-player { color: #FFD7A8; }
         body[data-theme="dark"] .ghost {
-            border-color: #2a5c5c;
-            color: #c5e8e8;
+            border-color: #3d4f73;
+            color: #FFD7A8;
         }
         body[data-theme="dark"] .ghost:hover {
             background: #174D4D;
@@ -105,6 +105,14 @@
         body {
             background-color: var(--bg-color);
             color: var(--text-color);
+        }
+        body[data-theme="light"] #dataTable thead th,
+        body[data-theme="light"] table thead th {
+            color: #fff !important;
+        }
+        body[data-theme="light"] #dataTable thead th:hover {
+            background: #E85D04 !important;
+            color: #fff !important;
         }
 
         /* Header */
@@ -1842,7 +1850,7 @@
 <body data-theme="light">
     <!-- Header -->
     <header class="app-header">
-        <h1>CFB DFS Lineup Builder <span class="info-icon" onclick="openModal()" title="How to use">ℹ️</span></h1>
+        <h1>CFB DFS Lineup Builder <span style="font-size:0.68rem;letter-spacing:0.06em;background:#E85D04;color:#fff;padding:0.18rem 0.45rem;border-radius:999px;vertical-align:middle;">COLLEGE</span> <span class="info-icon" onclick="openModal()" title="How to use">ℹ️</span></h1>
         <div class="header-actions">
             <div class="data-status" id="dataStatus">
                 <span class="dot"></span>
@@ -8232,7 +8240,7 @@
                 }
             }
 
-            const minNeeded = isShowdown ? 6 : 9;
+            const minNeeded = isShowdown ? 6 : 8;
             if (availablePlayers.length < minNeeded) {
                 alert(`Need at least ${minNeeded} players. Currently ${availablePlayers.length}.`);
                 return;
@@ -8313,9 +8321,9 @@
 
             const validLineup = (lineup) => {
                 if (!lineup) return false;
-                return isShowdown
-                    ? (lineup.lineup.captain && lineup.lineup.flex.length === 5)
-                    : (Object.keys(lineup.lineup).length === 9);
+                if (isShowdown) return !!(lineup.lineup.captain && (lineup.lineup.flex || []).length === 5);
+                const lu = lineup.lineup || {};
+                return CLASSIC_SLOTS.every(s => lu[s]);
             };
 
             // One solve attempt; always yields after so the tab stays responsive
@@ -8484,7 +8492,7 @@
                 const b = getNames(generatedLineups[i+1]);
                 let shared = 0;
                 a.forEach(n => { if (b.has(n)) shared++; });
-                const slots = isShowdown ? 6 : 9;
+                const slots = isShowdown ? 6 : 8;
                 totalDiff += (slots - shared);
                 pairs++;
             }
@@ -8530,6 +8538,9 @@
                 else logMessages.push('Try relaxing salary floor, exposure, uniqueness, or stacks.');
             } else {
                 logMessages.push(`Successfully generated ${generatedLineups.length} lineups.`);
+            }
+            if (!generatedLineups.length) {
+                alert('No lineups generated.\n\nMost common CFB causes:\n• Slate not selected or pool empty\n• Min salary floor too high\n• QB-only Superflex with too few QBs\n• Stacks/locks that cannot fit $50k\n\nTry: Classic GPP preset, min salary 45,000, max exposure 100%, then Run again.');
             }
 
             // Min exposure check
