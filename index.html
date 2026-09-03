@@ -1602,6 +1602,91 @@
             margin: 0.35rem 0 0.1rem;
         }
 
+
+        /* Cheat Sheet + Game Preview */
+        .cs-toolbar, .gp-toolbar {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.55rem;
+            align-items: flex-end;
+            margin-bottom: 0.75rem;
+        }
+        .cs-toolbar input, .cs-toolbar select, .gp-toolbar select {
+            min-width: 160px;
+        }
+        .cs-note, .gp-note {
+            font-size: 0.8rem;
+            color: var(--muted);
+            margin: 0 0 0.75rem;
+        }
+        #cheatSheetTable th, #cheatSheetTable td { font-size: 0.78rem; white-space: nowrap; }
+        #cheatSheetTable td.num { text-align: right; font-variant-numeric: tabular-nums; }
+        .cs-name-btn {
+            background: none;
+            border: none;
+            color: var(--brand-teal);
+            font-weight: 700;
+            cursor: pointer;
+            padding: 0;
+            font-size: inherit;
+        }
+        .cs-name-btn:hover { text-decoration: underline; color: var(--accent); }
+        .gp-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+            gap: 0.85rem;
+        }
+        .gp-card {
+            border: 1px solid var(--border-color);
+            border-radius: 12px;
+            background: var(--card-bg);
+            overflow: hidden;
+            box-shadow: var(--shadow);
+        }
+        .gp-card-head {
+            background: #1B3A6B;
+            color: #fff;
+            padding: 0.7rem 0.85rem;
+        }
+        .gp-card-head h3 { margin: 0 0 0.25rem; font-size: 1rem; color: #fff; }
+        .gp-meta { font-size: 0.75rem; opacity: 0.9; display: flex; flex-wrap: wrap; gap: 0.35rem 0.7rem; }
+        .gp-lines {
+            display: flex;
+            gap: 0.45rem;
+            flex-wrap: wrap;
+            padding: 0.55rem 0.85rem 0.15rem;
+        }
+        .gp-chip {
+            font-size: 0.72rem;
+            font-weight: 700;
+            padding: 0.18rem 0.45rem;
+            border-radius: 999px;
+            background: #fff4e8;
+            border: 1px solid #f0c9a0;
+            color: #1B3A6B;
+        }
+        body[data-theme="dark"] .gp-chip {
+            background: #1B3A6B;
+            border-color: #3d4f73;
+            color: #FFD7A8;
+        }
+        .gp-side { padding: 0.45rem 0.85rem 0.7rem; }
+        .gp-side h4 { margin: 0.45rem 0 0.25rem; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.04em; color: var(--muted); }
+        .gp-player {
+            display: grid;
+            grid-template-columns: 22px 1fr auto auto;
+            gap: 0.35rem;
+            font-size: 0.78rem;
+            padding: 0.18rem 0;
+            border-bottom: 1px solid var(--border-color);
+            align-items: center;
+        }
+        .gp-player:last-child { border-bottom: none; }
+        .gp-pos { font-weight: 700; color: var(--muted); font-size: 0.68rem; }
+        .gp-fp { font-variant-numeric: tabular-nums; font-weight: 700; }
+        .gp-sal { color: var(--muted); font-variant-numeric: tabular-nums; }
+        .gp-empty { padding: 1rem; color: var(--muted); }
+
         /* Workspace tabs (Builder / Stacks Lab) */
         .workspace-tabs {
             display: flex;
@@ -1877,6 +1962,8 @@
     <div class="main">
         <div class="workspace-tabs" id="workspaceTabs" role="tablist">
             <button type="button" class="workspace-tab active" id="tabBtnBuilder" onclick="switchWorkspace('builder')">⚙️ Builder</button>
+            <button type="button" class="workspace-tab" id="tabBtnCheat" onclick="switchWorkspace('cheat')">📋 Cheat Sheet</button>
+            <button type="button" class="workspace-tab" id="tabBtnPreview" onclick="switchWorkspace('preview')">🏈 Game Preview</button>
             <button type="button" class="workspace-tab" id="tabBtnStacks" onclick="switchWorkspace('stacks')">🔗 Stacks Lab</button>
         </div>
 
@@ -2749,6 +2836,88 @@
                 </div>
             </div>
         </div>
+
+        <div id="panelCheat" class="workspace-panel" hidden>
+            <div class="card">
+                <div class="card-header" style="cursor:default;">
+                    <span>📋 CFB Cheat Sheet</span>
+                    <span style="font-size:0.78rem;font-weight:500;color:var(--muted);">Same slate as the builder — projections, value, and props</span>
+                </div>
+                <div class="card-body">
+                    <p class="cs-note">Uses the loaded cheat-sheet CSV (players.csv / Google Sheet). Click a name to jump back to the Builder pool. Sort any column. Filtered to the slate selected in Builder.</p>
+                    <div class="cs-toolbar">
+                        <div>
+                            <label>Search</label>
+                            <input type="text" id="csSearch" placeholder="Player or team…" oninput="renderCheatSheet()">
+                        </div>
+                        <div>
+                            <label>Position</label>
+                            <select id="csPos" onchange="renderCheatSheet()">
+                                <option value="">All</option>
+                                <option value="QB">QB</option>
+                                <option value="RB">RB</option>
+                                <option value="WR">WR / TE</option>
+                                <option value="CPT">CPT</option>
+                                <option value="K">K</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label>Min Proj FP</label>
+                            <input type="number" id="csMinFp" value="0" min="0" step="0.5" onchange="renderCheatSheet()">
+                        </div>
+                        <button type="button" class="ghost" onclick="csExportCsv()">Export this view</button>
+                    </div>
+                    <div class="table-wrapper">
+                        <table id="cheatSheetTable">
+                            <thead>
+                                <tr>
+                                    <th onclick="csSort('name')">Player</th>
+                                    <th onclick="csSort('pos')">Pos</th>
+                                    <th onclick="csSort('team')">Team</th>
+                                    <th onclick="csSort('opp')">Opp</th>
+                                    <th onclick="csSort('salary')">Salary</th>
+                                    <th onclick="csSort('fp')">Proj FP</th>
+                                    <th onclick="csSort('value')">Value</th>
+                                    <th onclick="csSort('combined')">Comb FP</th>
+                                    <th onclick="csSort('implied')">Implied</th>
+                                    <th onclick="csSort('passYds')">Pass Yds</th>
+                                    <th onclick="csSort('rushYds')">Rush Yds</th>
+                                    <th onclick="csSort('recYds')">Rec Yds</th>
+                                    <th onclick="csSort('ptd')">Pass TD</th>
+                                    <th onclick="csSort('atd')">ATD</th>
+                                    <th onclick="csSort('own')">Own%</th>
+                                </tr>
+                            </thead>
+                            <tbody id="cheatSheetBody"></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div id="panelPreview" class="workspace-panel" hidden>
+            <div class="card">
+                <div class="card-header" style="cursor:default;">
+                    <span>🏈 Game Preview</span>
+                    <span style="font-size:0.78rem;font-weight:500;color:var(--muted);">Matchups, lines, venue / TV, and top projected plays</span>
+                </div>
+                <div class="card-body">
+                    <p class="gp-note">Built from the slate pool plus the Final / matchup sheet (spread, O/U, opponent). Top skill players per side by projected FP.</p>
+                    <div class="gp-toolbar">
+                        <div>
+                            <label>Sort games by</label>
+                            <select id="gpSort" onchange="renderGamePreview()">
+                                <option value="time">Start time</option>
+                                <option value="total">Highest combined proj</option>
+                                <option value="ou">O/U (high to low)</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="gp-grid" id="gamePreviewGrid"></div>
+                </div>
+            </div>
+        </div>
+
     </div>
 
     <!-- INFO MODAL -->
@@ -3057,6 +3226,9 @@
 
         let rawData = [];
         let filteredData = [];
+        let finalRows = [];
+        let csSortKey = 'fp';
+        let csSortDir = -1;
         let allSlatePlayers = [];
         let selectedPositions = [];
         let selectedTeams = [];
@@ -3422,19 +3594,230 @@
             updateStickyBar();
         }
 
+
+        function csVal(p, key) {
+            const map = {
+                name: p.baseName || p['Player Name'] || p.displayName || '',
+                pos: p.Position || '',
+                team: p.Team || '',
+                opp: p.Opponent || '',
+                salary: p.salary || 0,
+                fp: p.projectedFP || p['Projected FP'] || 0,
+                value: p.value || 0,
+                combined: p.combinedFP || 0,
+                implied: p.impliedFP || 0,
+                passYds: p.passYds || 0,
+                rushYds: p.rushYds || 0,
+                recYds: p.recYds || 0,
+                ptd: p.passTd || 0,
+                atd: p.atd || 0,
+                own: p.ownership || 0
+            };
+            return map[key];
+        }
+        function csSort(key) {
+            if (csSortKey === key) csSortDir *= -1;
+            else { csSortKey = key; csSortDir = key === 'name' || key === 'team' || key === 'pos' || key === 'opp' ? 1 : -1; }
+            renderCheatSheet();
+        }
+        function cheatPool() {
+            const q = (document.getElementById('csSearch')?.value || '').toLowerCase().trim();
+            const pos = document.getElementById('csPos')?.value || '';
+            const minFp = parseFloat(document.getElementById('csMinFp')?.value) || 0;
+            const rows = (filteredData || []).filter(p => {
+                if (deselectedPlayers.has(p.displayName)) return false;
+                const fp = p.projectedFP || p['Projected FP'] || 0;
+                if (fp < minFp) return false;
+                if (pos && String(p.Position || '') !== pos && !(pos === 'WR' && p.Position === 'TE')) return false;
+                if (!q) return true;
+                const blob = [p.baseName, p['Player Name'], p.displayName, p.Team, p.Opponent].join(' ').toLowerCase();
+                return blob.includes(q);
+            });
+            rows.sort((a, b) => {
+                const av = csVal(a, csSortKey), bv = csVal(b, csSortKey);
+                if (typeof av === 'string' || typeof bv === 'string') return String(av).localeCompare(String(bv)) * csSortDir;
+                return ((Number(av) || 0) - (Number(bv) || 0)) * csSortDir;
+            });
+            return rows;
+        }
+        function jumpToBuilderPlayer(name) {
+            switchWorkspace('builder');
+            const box = document.getElementById('playerSearch');
+            if (box) {
+                box.value = name.split(' (')[0];
+                box.dispatchEvent(new Event('input'));
+            }
+            document.getElementById('poolCard')?.scrollIntoView({ behavior: 'smooth' });
+        }
+        function renderCheatSheet() {
+            const body = document.getElementById('cheatSheetBody');
+            if (!body) return;
+            const rows = cheatPool();
+            if (!rows.length) {
+                body.innerHTML = '<tr><td colspan="15">No players for this slate / filter.</td></tr>';
+                return;
+            }
+            const fmt = (n, d=2) => (n || n === 0) && !isNaN(n) && Number(n) !== 0 ? Number(n).toFixed(d) : '—';
+            const money = (n) => n ? ('$' + Number(n).toLocaleString()) : '—';
+            body.innerHTML = rows.map(p => {
+                const name = p.baseName || p['Player Name'] || p.displayName || '';
+                return `<tr>
+                    <td><button type="button" class="cs-name-btn" onclick="jumpToBuilderPlayer(${JSON.stringify(name)})">${name}</button></td>
+                    <td>${p.Position || ''}</td>
+                    <td>${p.Team || ''}</td>
+                    <td>${p.Opponent || ''}</td>
+                    <td class="num">${money(p.salary)}</td>
+                    <td class="num">${fmt(p.projectedFP || p['Projected FP'])}</td>
+                    <td class="num">${fmt(p.value)}</td>
+                    <td class="num">${fmt(p.combinedFP)}</td>
+                    <td class="num">${fmt(p.impliedFP)}</td>
+                    <td class="num">${fmt(p.passYds, 1)}</td>
+                    <td class="num">${fmt(p.rushYds, 1)}</td>
+                    <td class="num">${fmt(p.recYds, 1)}</td>
+                    <td class="num">${fmt(p.passTd, 2)}</td>
+                    <td class="num">${fmt(p.atd, 2)}</td>
+                    <td class="num">${fmt(p.ownership, 1)}</td>
+                </tr>`;
+            }).join('');
+        }
+        function csExportCsv() {
+            const rows = cheatPool();
+            const headers = ['Player','Pos','Team','Opp','Salary','Proj FP','Value','Comb FP','Implied','Pass Yds','Rush Yds','Rec Yds','Pass TD','ATD','Own%'];
+            const lines = [headers.join(',')];
+            rows.forEach(p => {
+                const name = p.baseName || p['Player Name'] || '';
+                lines.push([name, p.Position, p.Team, p.Opponent, p.salary, p.projectedFP || p['Projected FP'] || 0, p.value || 0, p.combinedFP || 0, p.impliedFP || 0, p.passYds || 0, p.rushYds || 0, p.recYds || 0, p.passTd || 0, p.atd || 0, p.ownership || 0].join(','));
+            });
+            const blob = new Blob([lines.join('\\n')], { type: 'text/csv;charset=utf-8;' });
+            const a = document.createElement('a');
+            a.href = URL.createObjectURL(blob);
+            a.download = 'cfb-cheat-sheet.csv';
+            a.click();
+        }
+        function gameKeyFromPlayer(p) {
+            if (p.matchTitle) return p.matchTitle;
+            if (p.gameShort) return p.gameShort;
+            const t = p.Team || '', o = p.Opponent || '';
+            if (t && o) return [t, o].sort().join(' vs ');
+            return t || 'Unknown';
+        }
+        function renderGamePreview() {
+            const grid = document.getElementById('gamePreviewGrid');
+            if (!grid) return;
+            const pool = (filteredData || []).filter(p => !deselectedPlayers.has(p.displayName));
+            const games = new Map();
+            pool.forEach(p => {
+                const key = gameKeyFromPlayer(p);
+                if (!games.has(key)) {
+                    games.set(key, {
+                        key,
+                        title: p.matchTitle || p.gameShort || key,
+                        start: p.startDisplay || '',
+                        venue: p.venue || '',
+                        venueType: p.venueType || '',
+                        broadcasts: p.broadcasts || '',
+                        spread: p.spread || '',
+                        ou: p.ou || '',
+                        players: []
+                    });
+                }
+                const g = games.get(key);
+                if (!g.venue && p.venue) g.venue = p.venue;
+                if (!g.broadcasts && p.broadcasts) g.broadcasts = p.broadcasts;
+                if (!g.spread && p.spread) g.spread = p.spread;
+                if (!g.ou && p.ou) g.ou = p.ou;
+                if (!g.start && p.startDisplay) g.start = p.startDisplay;
+                g.players.push(p);
+            });
+            // fill lines from finalRows if missing
+            (finalRows || []).forEach(r => {
+                const title = r['Match Title (Underdog)'] || '';
+                games.forEach(g => {
+                    if (title && g.title === title) {
+                        if (!g.spread) g.spread = r.Spread || r.Fav || '';
+                        if (!g.ou) g.ou = r['O/U'] || '';
+                        if (!g.venue) g.venue = r['Venue Name (Underdog)'] || '';
+                        if (!g.broadcasts) g.broadcasts = r['Broadcasts (Underdog)'] || '';
+                    }
+                });
+            });
+            let list = [...games.values()];
+            const sort = document.getElementById('gpSort')?.value || 'time';
+            const totalFp = g => g.players.reduce((s, p) => s + (p.projectedFP || p['Projected FP'] || 0), 0);
+            if (sort === 'total') list.sort((a, b) => totalFp(b) - totalFp(a));
+            else if (sort === 'ou') list.sort((a, b) => (parseFloat(b.ou) || 0) - (parseFloat(a.ou) || 0));
+            else list.sort((a, b) => String(a.start).localeCompare(String(b.start)) || String(a.title).localeCompare(String(b.title)));
+
+            if (!list.length) {
+                grid.innerHTML = '<div class="gp-empty">No games on this slate yet. Pick a slate in Builder.</div>';
+                return;
+            }
+            const fmt = (n) => (n || n === 0) && Number(n) ? Number(n).toFixed(1) : '—';
+            grid.innerHTML = list.map(g => {
+                const teams = [...new Set(g.players.map(p => p.Team).filter(Boolean))];
+                const sides = teams.length ? teams : ['Pool'];
+                const sideHtml = sides.map(team => {
+                    const guys = g.players
+                        .filter(p => !team || p.Team === team)
+                        .filter(p => ['QB','RB','WR','TE','CPT'].includes(p.Position))
+                        .sort((a, b) => (b.projectedFP || b['Projected FP'] || 0) - (a.projectedFP || a['Projected FP'] || 0))
+                        .slice(0, 6);
+                    if (!guys.length) return '';
+                    return `<div class="gp-side"><h4>${team}</h4>${guys.map(p => {
+                        const nm = p.baseName || p['Player Name'] || '';
+                        return `<div class="gp-player">
+                            <span class="gp-pos">${p.Position}</span>
+                            <button type="button" class="cs-name-btn" onclick="jumpToBuilderPlayer(${JSON.stringify(nm)})">${nm}</button>
+                            <span class="gp-fp">${fmt(p.projectedFP || p['Projected FP'])}</span>
+                            <span class="gp-sal">${p.salary ? ('$' + Number(p.salary).toLocaleString()) : ''}</span>
+                        </div>`;
+                    }).join('')}</div>`;
+                }).join('');
+                const chips = [
+                    g.spread ? `Spread ${g.spread}` : '',
+                    g.ou ? `O/U ${g.ou}` : '',
+                    g.venueType ? g.venueType : ''
+                ].filter(Boolean).map(c => `<span class="gp-chip">${c}</span>`).join('');
+                return `<article class="gp-card">
+                    <div class="gp-card-head">
+                        <h3>${g.title}</h3>
+                        <div class="gp-meta">
+                            ${g.start ? `<span>${g.start}</span>` : ''}
+                            ${g.venue ? `<span>${g.venue}</span>` : ''}
+                            ${g.broadcasts ? `<span>${g.broadcasts}</span>` : ''}
+                        </div>
+                    </div>
+                    <div class="gp-lines">${chips || '<span class="gp-chip">Lines not in sheet yet</span>'}</div>
+                    ${sideHtml}
+                </article>`;
+            }).join('');
+        }
+
         function switchWorkspace(which) {
-            const builder = document.getElementById('panelBuilder');
-            const stacks = document.getElementById('panelStacks');
-            const btnB = document.getElementById('tabBtnBuilder');
-            const btnS = document.getElementById('tabBtnStacks');
-            const showStacks = which === 'stacks';
-            if (builder) builder.hidden = showStacks;
-            if (stacks) stacks.hidden = !showStacks;
-            if (btnB) btnB.classList.toggle('active', !showStacks);
-            if (btnS) btnS.classList.toggle('active', showStacks);
+            const panels = {
+                builder: 'panelBuilder',
+                cheat: 'panelCheat',
+                preview: 'panelPreview',
+                stacks: 'panelStacks'
+            };
+            const buttons = {
+                builder: 'tabBtnBuilder',
+                cheat: 'tabBtnCheat',
+                preview: 'tabBtnPreview',
+                stacks: 'tabBtnStacks'
+            };
+            if (!panels[which]) which = 'builder';
+            Object.keys(panels).forEach(k => {
+                const el = document.getElementById(panels[k]);
+                if (el) el.hidden = k !== which;
+                const btn = document.getElementById(buttons[k]);
+                if (btn) btn.classList.toggle('active', k === which);
+            });
             const sticky = document.getElementById('stickyRunBar');
-            if (sticky) sticky.style.display = showStacks ? 'none' : '';
-            if (showStacks) refreshStacksLab();
+            if (sticky) sticky.style.display = which === 'builder' ? '' : 'none';
+            if (which === 'stacks') refreshStacksLab();
+            if (which === 'cheat') renderCheatSheet();
+            if (which === 'preview') renderGamePreview();
         }
 
         function slOwnBand(own) {
@@ -4934,16 +5317,27 @@
                 }
 
                 const finalMap = new Map();
+                finalRows = [];
                 if (finalCsv) {
                     Papa.parse(finalCsv, {
                         header: true, skipEmptyLines: true, dynamicTyping: true,
                         complete: (r) => {
+                            finalRows = r.data.filter(row => row.Player);
                             r.data.forEach(row => {
                                 if (row.Player) {
                                     finalMap.set(normalizeName(row.Player), {
-                                        spread: row.Spread || '',
+                                        spread: row.Spread || row.Fav || '',
                                         ou: row['O/U'] || '',
-                                        opponent: row.Opp || ''
+                                        opponent: row.Opp || '',
+                                        fav: row.Fav || '',
+                                        fptsAvg: row['FPTS Avg'] || '',
+                                        passYdsAvg: row['PASS_YDS Avg'] || '',
+                                        rushYdsAvg: row['RUSH_YDS Avg'] || '',
+                                        recYdsAvg: row['REC_YDS Avg'] || '',
+                                        venue: row['Venue Name (Underdog)'] || '',
+                                        broadcasts: row['Broadcasts (Underdog)'] || '',
+                                        matchTitle: row['Match Title (Underdog)'] || '',
+                                        start: row['Game Start Time'] || ''
                                     });
                                 }
                             });
@@ -5028,7 +5422,22 @@
                                     ou: finalData.ou,
                                     combinedFP: parseFloat(row['Combined FP']) || proj,
                                     value: parseFloat(row['Value']) || 0,
-                                    impliedFP: parseFloat(row['Implied FP']) || 0
+                                    impliedFP: parseFloat(row['Implied FP']) || 0,
+                                    passYds: parseFloat(row['Passing Yards']) || 0,
+                                    rushYds: parseFloat(row['Rushing Yards']) || 0,
+                                    recYds: parseFloat(row['Receiving Yards']) || 0,
+                                    passTd: parseFloat(row['Passing TDs']) || 0,
+                                    rushRecYds: parseFloat(row['Rush+Rec Yards']) || 0,
+                                    atd: parseFloat(row['Anytime TD']) || 0,
+                                    passAtt: parseFloat(row['Passing Attempts']) || 0,
+                                    fantasyScore: parseFloat(row['Fantasy Score']) || 0,
+                                    headshot: row['Headshot URL'] || '',
+                                    matchTitle: row['Match Title (Underdog)'] || '',
+                                    gameShort: row['Game Short Title (Underdog)'] || '',
+                                    venue: row['Venue Name (Underdog)'] || '',
+                                    venueType: row['Venue Type (Underdog)'] || '',
+                                    broadcasts: row['Broadcasts (Underdog)'] || '',
+                                    startDisplay: row['Game Start Time (DRAFTTABLE)'] || row['Game Start Time'] || ''
                                 };
                             }).filter(row => row['Player Name']);
 
@@ -5575,7 +5984,14 @@
                     Position: row.Position, Team: normalizeTeam(row.Team), Opponent: row.Opponent,
                     salary: row.salary, id: row.id, projectedFP, slotType, positions,
                     gameStartTime: row.gameStartTime, ownership: row.ownership,
-                    spread: row.spread, ou: row.ou
+                    spread: row.spread, ou: row.ou,
+                    combinedFP: row.combinedFP, value: row.value, impliedFP: row.impliedFP,
+                    passYds: row.passYds, rushYds: row.rushYds, recYds: row.recYds,
+                    passTd: row.passTd, atd: row.atd, passAtt: row.passAtt,
+                    fantasyScore: row.fantasyScore, headshot: row.headshot,
+                    matchTitle: row.matchTitle, gameShort: row.gameShort,
+                    venue: row.venue, venueType: row.venueType, broadcasts: row.broadcasts,
+                    startDisplay: row.startDisplay
                 };
             });
 
@@ -6592,6 +7008,12 @@
         }
 
         function updateTable() {
+            if (typeof renderCheatSheet === 'function') {
+                const cheatOpen = document.getElementById('panelCheat') && !document.getElementById('panelCheat').hidden;
+                const prevOpen = document.getElementById('panelPreview') && !document.getElementById('panelPreview').hidden;
+                if (cheatOpen) renderCheatSheet();
+                if (prevOpen) renderGamePreview();
+            }
             if (!selectedSlate) {
                 document.getElementById('tableBody').innerHTML = '<tr><td colspan="13">No slate selected</td></tr>';
                 return;
