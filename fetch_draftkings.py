@@ -249,12 +249,6 @@ def main():
                     if key not in seen or int(v["draftable_id"]) < int(seen[key]["draftable_id"]):
                         seen[key] = v
                 for v in seen.values():
-                    # Role string used by the optimizer as the slate key.
-                    role = group["slate_type"]
-                    if slate_header and slate_header != group["slate_type"]:
-                        role = f"{group['slate_type']} {slate_header}" if group["slate_type"] not in slate_header else slate_header
-                    # Prefer the richer Role style used in the cheat sheet:
-                    # "Night 9/5 12:00PM, 12 Games"
                     role = slate_header if slate_header else group["slate_type"]
                     rows.append([
                         f"{v['name']} - {group['slate_type']}",
