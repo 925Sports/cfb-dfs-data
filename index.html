@@ -2274,6 +2274,74 @@
             font-size: 0.75rem;
         }
 
+
+        .cs-top-board {
+            display: grid;
+            grid-template-columns: repeat(3, minmax(0, 1fr));
+            gap: 0.65rem;
+            margin: 0 0 0.85rem;
+        }
+        @media (max-width: 900px) { .cs-top-board { grid-template-columns: 1fr; } }
+        .cs-top-col {
+            background: #0c1220;
+            border: 1px solid #1c2538;
+            border-radius: 12px;
+            padding: 0.65rem 0.7rem;
+        }
+        .cs-top-col .k { font-size: 0.68rem; font-weight: 800; letter-spacing: 0.06em; text-transform: uppercase; color: #93c5fd; margin-bottom: 0.4rem; }
+        button.cs-top-chip {
+            display: flex; align-items: baseline; gap: 0.4rem; width: 100%;
+            background: transparent !important; border: none !important;
+            color: #e7ecf5 !important; text-align: left; padding: 0.28rem 0 !important;
+            border-bottom: 1px solid #1c2538 !important; border-radius: 0 !important;
+        }
+        button.cs-top-chip .n { color: #64748b; font-size: 0.7rem; width: 1.1rem; }
+        button.cs-top-chip .nm { font-weight: 700; font-size: 0.82rem; }
+        button.cs-top-chip .meta { margin-left: auto; font-size: 0.68rem; color: #94a3b8; }
+        .gp-team-filters { display: flex; gap: 0.4rem; margin: 0.65rem 0 0; flex-wrap: wrap; }
+        button.gp-team-chip {
+            background: #0c1220 !important; border: 1px solid #1c2538 !important;
+            color: #cbd5e1 !important; border-radius: 999px !important;
+            padding: 0.25rem 0.7rem !important; font-size: 0.75rem !important;
+        }
+        button.gp-team-chip.on { background: #1d4ed8 !important; border-color: #3b82f6 !important; color: #fff !important; }
+
+
+        details.cs-top-wrap {
+            background: #0c1220;
+            border: 1px solid #1c2538;
+            border-radius: 12px;
+            margin: 0 0 0.85rem;
+            padding: 0.15rem 0.75rem 0.15rem;
+        }
+        details.cs-top-wrap summary {
+            cursor: pointer;
+            font-weight: 800;
+            font-size: 0.82rem;
+            letter-spacing: 0.02em;
+            padding: 0.55rem 0.15rem;
+            color: #e7ecf5;
+            list-style: none;
+        }
+        details.cs-top-wrap summary::-webkit-details-marker { display: none; }
+        details.cs-top-wrap summary::before { content: '▸ '; color: #93c5fd; }
+        details.cs-top-wrap[open] summary::before { content: '▾ '; }
+        details.cs-top-wrap .cs-top-board { margin: 0 0 0.7rem; }
+
+
+        .sp-grid { display:grid; grid-template-columns: 1fr 1fr; gap: 0.75rem; }
+        @media (max-width: 900px) { .sp-grid { grid-template-columns: 1fr; } }
+        .sp-card { background:#101726; border:1px solid #1c2538; border-radius:14px; padding:0.85rem 0.95rem; }
+        .sp-card h3 { margin:0 0 0.55rem; font-size:0.72rem; letter-spacing:0.08em; text-transform:uppercase; color:#93c5fd; }
+        .sp-row { display:flex; justify-content:space-between; gap:0.5rem; padding:0.32rem 0; border-top:1px solid #1c2538; font-size:0.82rem; }
+        .sp-row:first-of-type { border-top:none; }
+        .sp-tag { font-size:0.65rem; font-weight:800; padding:0.12rem 0.4rem; border-radius:999px; }
+        .sp-tag.pass { background:#1e3a5f; color:#93c5fd; }
+        .sp-tag.run { background:#3f2d0c; color:#fcd34d; }
+        .sp-tag.boom { background:#3f1d24; color:#fda4af; }
+        .sp-tag.shoot { background:#064e3b; color:#6ee7b7; }
+        .sp-note { font-size:0.75rem; color:var(--muted); margin:0 0 0.5rem; }
+
     </style>
 </head>
 <body data-theme="dark">
@@ -2308,6 +2376,7 @@
             <button type="button" class="workspace-tab active" id="tabBtnBuilder" onclick="switchWorkspace('builder')">⚙️ Builder</button>
             <button type="button" class="workspace-tab" id="tabBtnCheat" onclick="switchWorkspace('cheat')">📋 Cheat Sheet</button>
             <button type="button" class="workspace-tab" id="tabBtnPreview" onclick="switchWorkspace('preview')">🏈 Game Preview</button>
+            <button type="button" class="workspace-tab" id="tabBtnSlate" onclick="switchWorkspace('slate')">🛰️ Slate Preview</button>
             <button type="button" class="workspace-tab" id="tabBtnStacks" onclick="switchWorkspace('stacks')">🔗 Stacks Lab</button>
         </div>
 
@@ -2499,6 +2568,7 @@
                     <button type="button" class="ghost" data-tip="High-tier skill players in games with O/U 55 or higher." onclick="applyCfbScript('high_total')">High totals 55+</button>
                     <button type="button" class="ghost" data-tip="High-tier RBs on teams favored by 7 or more. Clock-killing / smash-spot backs." onclick="applyCfbScript('fav_rb')">Favorite RBs (−7)</button>
                     <button type="button" class="ghost" data-tip="High-tier WR/TE on 5.5+ point underdogs in games with O/U 52+. Negative script pass catchers." onclick="applyCfbScript('dog_wr')">Dog WRs in shootouts</button>
+                    <button type="button" class="ghost" data-tip="Every QB in the lineup — including Superflex — needs a same-team WR/TE. Two-QB lineups become two stacks." onclick="applyCfbScript('sflex_stacks')">Superflex double stack</button>
                     <span class="recipe-group-label">Showdown</span>
                     <button type="button" class="ghost" data-tip="Showdown + Min K/DST 2 + wide ownership. Next: stack QBs and tier favorites. Matches HoF-style FG/DST scripts." onclick="applyRecipe('sd_kdst2')">Showdown kicker sprinkle</button>
                     <button type="button" class="ghost" data-tip="Showdown GPP + 4–2 split. Next: Build around CPT or tier two QBs + stacks." onclick="applyRecipe('sd_gpp_simple')">Showdown GPP 4–2</button>
@@ -3082,9 +3152,9 @@
                 </div>
                 <div class="card-body">
                     <p class="sl-note">
-                        Built from the 2025 cash / GPP research: cash wants optional mini-stacks and the highest floor;
-                        GPP winners stacked 81% of the time, usually QB + 1–2 teammates, with the default bring-back being the <strong>opposing RB</strong>.
-                        Scores update when you change slate, projections, or exclusions.
+                        CFB Classic is 8 spots with a <strong>Superflex</strong>. Cash: one mini-stack is enough.
+                        GPP: stack the main QB, and if S-FLEX is a second QB, stack that one too.
+                        Default bring-back is still the <strong>opposing RB</strong>. Scores update when the slate or projections change.
                     </p>
                     <div class="sl-toolbar">
                         <div>
@@ -3169,6 +3239,19 @@
                         </table>
                     </div>
 
+                    <h3 style="font-size:0.95rem;margin:1.25rem 0 0.35rem;">Superflex double stacks (two QBs)</h3>
+                    <p class="sl-note">Lineups with two QBs should carry two mini-stacks — starter QB + WR and S-FLEX QB + WR. Use the recipe “Superflex double stack” so the optimizer enforces it.</p>
+                    <div class="table-wrapper">
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th></th><th>QB A + WR</th><th>QB B + WR</th><th>Combo FP</th><th>Salary</th><th></th>
+                                </tr>
+                            </thead>
+                            <tbody id="slDualBody"></tbody>
+                        </table>
+                    </div>
+
                     <h3 style="font-size:0.95rem;margin:1.25rem 0 0.35rem;">Contrarian / unique pieces</h3>
                     <p class="sl-note">GPP checklist: count players under 10% owned — Milly builds want four-plus. These are the best low-own names still worth a slot (injury WR, cheap RB with a job, stack TE).</p>
                     <div class="table-wrapper">
@@ -3185,6 +3268,20 @@
             </div>
         </div>
 
+
+        <div id="panelSlate" class="workspace-panel" hidden>
+            <div class="card" style="background:transparent;border:none;box-shadow:none;">
+                <div class="card-body" style="padding:0;">
+                    <div class="cs-hero">
+                        <div>
+                            <h2>Slate Preview</h2>
+                            <p class="cs-note" style="margin:0;" id="spSlateLabel">Pick a slate in Builder to load the script board.</p>
+                        </div>
+                    </div>
+                    <div id="slatePreviewRoot"></div>
+                </div>
+            </div>
+        </div>
         <div id="panelCheat" class="workspace-panel" hidden>
             <div class="card">
                 <div class="card-body">
@@ -3880,6 +3977,15 @@
             if (typeof updateTable === 'function') updateTable();
             if (typeof updateCoreBar === 'function') updateCoreBar();
             if (typeof queueSessionSave === 'function') queueSessionSave();
+            if (kind === 'sflex_stacks') {
+                if (typeof applyPreset === 'function') applyPreset('classic_gpp');
+                const a = document.getElementById('autoStack');
+                const c = document.getElementById('classicForcePassStack');
+                if (a) a.checked = true;
+                if (c) c.checked = true;
+                if (typeof setNextStep === 'function') setNextStep('Superflex double stack on: every QB (starter + S-FLEX) needs a same-team WR/TE. Add two named stacks in Stacks Lab if you want specific pairs, then Run.');
+                return;
+            }
             const msg = {
                 high_total: 'High-total games (O/U 55+). High-tiered ' + tagged.length + ' skill players. Review the board, then Run.',
                 fav_rb: 'Favorite RBs (−7 or more). High-tiered ' + tagged.length + ' backs. Review, then Run.',
@@ -4193,6 +4299,41 @@
             return '';
         }
 
+        function csGameCount(rows) {
+            const keys = new Set();
+            (rows || []).forEach(p => {
+                const t1 = p.Team, t2 = p.Opponent;
+                if (t1 && t2) keys.add([t1, t2].sort().join('|'));
+                else if (t1) keys.add(t1);
+            });
+            return Math.max(keys.size, 1);
+        }
+        function csTopNFor(pos, games) {
+            if (pos === 'QB') return Math.min(8, Math.max(3, Math.round(games * 0.55)));
+            if (pos === 'RB') return Math.min(10, Math.max(4, Math.round(games * 0.9)));
+            return Math.min(12, Math.max(5, Math.round(games * 1.1)));
+        }
+        function renderCsTopBoard(rows) {
+            const games = csGameCount(rows);
+            const blocks = ['QB','RB','WR'].map(pos => {
+                const n = csTopNFor(pos, games);
+                const list = rows.filter(p => csPos(p) === pos).sort((a,b) => csFp(b) - csFp(a)).slice(0, n);
+                const items = list.map((p,i) => `
+                    <button type="button" class="cs-top-chip" onclick="jumpToBuilderPlayer(${csArg(csName(p))})">
+                        <span class="n">${i+1}</span>
+                        <span class="nm">${csEsc(csName(p))}</span>
+                        <span class="meta">${csEsc(p.Team || '')}${p.impliedTotal != null ? ' · ' + Number(p.impliedTotal).toFixed(1) : ''} · ${csFp(p).toFixed(1)}</span>
+                    </button>`).join('') || '<span class="cs-sub">No players</span>';
+                return `<div class="cs-top-col"><div class="k">Top ${n} ${pos}s · ${games}-game slate</div><div class="chips">${items}</div></div>`;
+            }).join('');
+            const qbN = csTopNFor('QB', games);
+            const rbN = csTopNFor('RB', games);
+            const wrN = csTopNFor('WR', games);
+            return `<details class="cs-top-wrap">
+                <summary>Top plays by position <span class="cs-sub">· ${games}-game slate · QB ${qbN} · RB ${rbN} · WR ${wrN}</span></summary>
+                <div class="cs-top-board">${blocks}</div>
+            </details>`;
+        }
         function renderCsBoard() {
             const tiers = Object.keys(playerPriority || {}).filter(k => playerPriority[k]);
             const stacks = (stackList || []);
@@ -4230,7 +4371,7 @@
                 : 'Select a slate in Builder first.';
             const rows = cheatPool();
             renderCsKpis(rows);
-            const board = renderCsBoard();
+            const board = renderCsBoard() + renderCsTopBoard(rows);
             if (!rows.length) {
                 root.innerHTML = board + '<p class="cs-note">No players match these filters. Lower min proj or uncheck Hide 0-proj.</p>';
                 return;
@@ -4338,6 +4479,7 @@
             return teams[0] || 'Game';
         }
         let gpSelectedKey = null;
+        let gpTeamFilter = null;
         function gpBuildGames() {
             const q = (document.getElementById('gpSearch')?.value || '').toLowerCase().trim();
             const isSd = selectedSlate && String(selectedSlate).includes('Showdown');
@@ -4410,6 +4552,11 @@
         }
         function selectGamePreview(key) {
             gpSelectedKey = key;
+            gpTeamFilter = null;
+            renderGamePreview();
+        }
+        function gpSetTeam(team) {
+            gpTeamFilter = team || null;
             renderGamePreview();
         }
         function gpAddStack(qbName, wrName) {
@@ -4452,7 +4599,9 @@
             }
             const g = list.find(x => x.key === gpSelectedKey) || list[0];
             const fmt = (n,d=1) => Number(n) ? Number(n).toFixed(d) : '—';
-            const plays = g.players.slice().sort((a,b) => csFp(b) - csFp(a)).slice(0, 10);
+            const teamFilter = gpTeamFilter && g.teams.includes(gpTeamFilter) ? gpTeamFilter : null;
+            const playPool = teamFilter ? g.players.filter(p => p.Team === teamFilter) : g.players;
+            const plays = playPool.slice().sort((a,b) => csFp(b) - csFp(a)).slice(0, 12);
             const playRows = plays.map(p => {
                 const val = csPtsPerK(p);
                 const pillCls = val >= 3 ? 'good' : val >= 2.4 ? 'mid' : 'soft';
@@ -4528,7 +4677,11 @@
             desk.innerHTML = `
                 <section class="gp-hero-card">
                     <div class="gp-kicker">CFB DFS · GAME PREVIEW</div>
-                    <h3>${csEsc(g.title)}</h3>
+                    <h3>${g.teams.map(tm => `<button type="button" class="gp-team-chip ${teamFilter===tm?'on':''}" onclick="gpSetTeam(${csArg(tm)})">${csEsc(tm)}</button>`).join('<span style="opacity:.4;padding:0 0.35rem;">vs</span>')}</h3>
+                    <div class="gp-team-filters">
+                        <button type="button" class="gp-team-chip ${!teamFilter?'on':''}" onclick="gpSetTeam('')">Both teams</button>
+                        ${g.teams.map(tm => `<button type="button" class="gp-team-chip ${teamFilter===tm?'on':''}" onclick="gpSetTeam(${csArg(tm)})">${csEsc(tm)} only</button>`).join('')}
+                    </div>
                     <div class="gp-hero-meta">${[g.start, g.venue, g.broadcasts].filter(Boolean).map(csEsc).join(' · ') || 'Kickoff on slate'}</div>
                     <div class="gp-stats">
                         <div class="gp-stat"><div class="k">Script</div><div class="v">${script}</div></div>
@@ -4542,7 +4695,7 @@
                 </section>
                 <div class="gp-split">
                     <section class="gp-panel">
-                        <h4>Best DFS plays</h4>
+                        <h4>Best DFS plays${teamFilter ? " · " + csEsc(teamFilter) : " · both teams"}</h4>
                         ${playRows}
                     </section>
                     <section class="gp-panel">
@@ -4745,6 +4898,8 @@
                     p.spreadLabel = team + ' ' + sign + (Number.isInteger(line) ? line : Number(line).toFixed(1));
                 }
                 if (g.total != null) p.ou = g.total;
+                const ouN = Number(p.ou), sprN = Number(p.spread);
+                p.impliedTotal = (Number.isFinite(ouN) && Number.isFinite(sprN)) ? (ouN / 2 - sprN / 2) : null;
                 p._odds = g;
             });
             if (Array.isArray(rawData)) {
@@ -4766,12 +4921,14 @@
                 builder: 'panelBuilder',
                 cheat: 'panelCheat',
                 preview: 'panelPreview',
+                slate: 'panelSlate',
                 stacks: 'panelStacks'
             };
             const buttons = {
                 builder: 'tabBtnBuilder',
                 cheat: 'tabBtnCheat',
                 preview: 'tabBtnPreview',
+                slate: 'tabBtnSlate',
                 stacks: 'tabBtnStacks'
             };
             if (!panels[which]) which = 'builder';
@@ -4786,6 +4943,100 @@
             if (which === 'stacks') refreshStacksLab();
             if (which === 'cheat') renderCheatSheet();
             if (which === 'preview') renderGamePreview();
+            if (which === 'slate') renderSlatePreview();
+        }
+
+
+        function renderSlatePreview() {
+            const root = document.getElementById('slatePreviewRoot');
+            const lab = document.getElementById('spSlateLabel');
+            if (!root) return;
+            try { enrichPlayerMatchups(allSlatePlayers); } catch (e) {}
+            const isSd = selectedSlate && String(selectedSlate).includes('Showdown');
+            const pool = (filteredData && filteredData.length ? filteredData : allSlatePlayers || []).filter(p => {
+                if (deselectedPlayers.has(p.displayName)) return false;
+                if (p.slotType === 'Captain') return false;
+                return true;
+            });
+            if (lab) lab.textContent = (selectedSlate || 'No slate') + (isSd ? ' · Showdown is CPT + 5 FLEX (1.5x CPT)' : ' · Classic 8: QB/RB/RB/WR/WR/WR/FLEX/S-FLEX');
+            if (!pool.length) {
+                root.innerHTML = '<p class="cs-note">Pick a slate in Builder first.</p>';
+                return;
+            }
+            const games = csGameCount ? csGameCount(pool) : 4;
+            const byTeam = new Map();
+            pool.forEach(p => {
+                if (!p.Team) return;
+                if (!byTeam.has(p.Team)) byTeam.set(p.Team, { team: p.Team, opp: p.Opponent, implied: p.impliedTotal, spread: p.spread, ou: p.ou, fp: 0, rush: 0, pass: 0, players: [] });
+                const g = byTeam.get(p.Team);
+                if (g.implied == null && p.impliedTotal != null) g.implied = p.impliedTotal;
+                if (g.spread == null) g.spread = p.spread;
+                if (g.ou == null) g.ou = p.ou;
+                if (!g.opp && p.Opponent) g.opp = p.Opponent;
+                g.fp += Number(p.projectedFP) || 0;
+                g.rush += Number(p.rushYds) || 0;
+                g.pass += Number(p.passYds) || 0;
+                g.players.push(p);
+            });
+            const teams = [...byTeam.values()].sort((a,b) => (b.implied||0) - (a.implied||0) || b.fp - a.fp);
+            const teamRows = teams.map(tm => {
+                const line = Number(tm.spread);
+                const ou = Number(tm.ou);
+                let tag = '', tagCls = '';
+                if (Number.isFinite(line) && Math.abs(line) >= 17.5) { tag = 'Blowout risk'; tagCls = 'boom'; }
+                else if (Number.isFinite(line) && line <= -10) { tag = 'Run script'; tagCls = 'run'; }
+                else if (Number.isFinite(line) && line >= 6 && ou >= 50) { tag = 'Pass script'; tagCls = 'pass'; }
+                else if (ou >= 55) { tag = 'Shootout'; tagCls = 'shoot'; }
+                const impl = tm.implied != null ? Number(tm.implied).toFixed(1) : '—';
+                const spr = Number.isFinite(line) ? ((line>0?'+':'') + line.toFixed(1)) : '—';
+                return `<div class="sp-row"><span><strong>${tm.team}</strong> vs ${tm.opp || '—'} ${tag ? `<span class="sp-tag ${tagCls}">${tag}</span>` : ''}</span><span>${impl} impl · ${spr} · O/U ${Number.isFinite(ou)?ou.toFixed(1):'—'}</span></div>`;
+            }).join('');
+
+            const topN = (pos) => (typeof csTopNFor === 'function' ? csTopNFor(pos, games) : 4);
+            const topBlock = (pos) => pool.filter(p => (p.Position||'') === pos)
+                .sort((a,b) => (b.projectedFP||0)-(a.projectedFP||0))
+                .slice(0, topN(pos))
+                .map((p,i) => `<div class="sp-row"><span>${i+1}. ${p.displayName.split(' (')[0]} <span class="cs-sub">${p.Team||''}</span></span><span>${(p.projectedFP||0).toFixed(1)} FP</span></div>`)
+                .join('') || '<div class="sp-row">No players</div>';
+
+            const blow = teams.filter(tm => Number.isFinite(Number(tm.spread)) && Math.abs(Number(tm.spread)) >= 17.5);
+            const blowHtml = blow.length ? blow.map(tm => {
+                const cheap = tm.players.filter(p => ['RB','WR'].includes(p.Position) && (p.salary||0) <= 5000)
+                    .sort((a,b)=>(b.projectedFP||0)-(a.projectedFP||0)).slice(0,3)
+                    .map(p => p.displayName.split(' (')[0]).join(', ');
+                return `<div class="sp-row"><span><strong>${tm.team}</strong> ${Number(tm.spread)>0?'+':''}${Number(tm.spread).toFixed(1)} — garbage-time / bench volatility</span><span>${cheap || 'no cheap pieces'}</span></div>`;
+            }).join('') : '<div class="sp-row">No 17.5+ spreads on this slate.</div>';
+
+            const passTeams = teams.filter(tm => Number(tm.spread) >= 6 && Number(tm.ou) >= 50);
+            const runTeams = teams.filter(tm => Number(tm.spread) <= -10);
+            const passHtml = (passTeams.length ? passTeams : teams.filter(tm => Number(tm.implied) >= 30).slice(0,3))
+                .map(tm => `<div class="sp-row"><span>${tm.team} <span class="sp-tag pass">pass</span></span><span>dog/shootout · target WR1</span></div>`).join('') || '<div class="sp-row">No clear pass scripts.</div>';
+            const runHtml = runTeams.map(tm => `<div class="sp-row"><span>${tm.team} <span class="sp-tag run">run</span></span><span>favored ${Math.abs(Number(tm.spread)).toFixed(1)} · RB volume</span></div>`).join('') || '<div class="sp-row">No −10 or bigger favorites.</div>';
+
+            const qbs = pool.filter(p => p.Position==='QB').sort((a,b)=>(b.projectedFP||0)-(a.projectedFP||0));
+            const stacks = [];
+            qbs.slice(0, 8).forEach(qb => {
+                const wr = pool.filter(p => p.Team===qb.Team && p.Position==='WR').sort((a,b)=>(b.projectedFP||0)-(a.projectedFP||0))[0];
+                if (!wr) return;
+                stacks.push({ qb, wr, fp: (qb.projectedFP||0)+(wr.projectedFP||0) });
+            });
+            stacks.sort((a,b)=>b.fp-a.fp);
+            const stackHtml = stacks.slice(0, 8).map((s,i) => `<div class="sp-row"><span>${i+1}. ${s.qb.displayName.split(' (')[0]} + ${s.wr.displayName.split(' (')[0]} <span class="cs-sub">${s.qb.Team}</span></span><span>${s.fp.toFixed(1)} FP</span></div>`).join('');
+
+            const sdNote = isSd ? `<div class="sp-card" style="grid-column:1/-1;"><h3>Showdown rules check</h3>
+                <p class="sp-note">CFB Showdown is the same shape as NFL Showdown: <strong>1 CPT + 5 FLEX</strong>, $50k, CPT scores at 1.5x. There is no Superflex. Stack the CPT with a same-game teammate; bring back the other side’s RB if the game is not a blowout.</p></div>` : `<div class="sp-card" style="grid-column:1/-1;"><h3>Classic CFB rules check</h3>
+                <p class="sp-note">Roster is QB, RB, RB, WR, WR, WR, FLEX, <strong>S-FLEX</strong>. S-FLEX is usually a second QB. If you play two QBs, stack both (Superflex double stack recipe). Cap same-team WRs at 2 on large slates.</p></div>`;
+
+            root.innerHTML = sdNote + `<div class="sp-grid">
+                <section class="sp-card"><h3>Highest implied team totals</h3><p class="sp-note">From consensus O/U and spread. Highest = more scoring chances.</p>${teamRows}</section>
+                <section class="sp-card"><h3>Blowouts / volatility</h3><p class="sp-note">|Spread| 17.5+ — starters sit, backups and cheap WRs swing.</p>${blowHtml}</section>
+                <section class="sp-card"><h3>Pass-heavy scripts</h3>${passHtml}</section>
+                <section class="sp-card"><h3>Run-heavy scripts</h3>${runHtml}</section>
+                <section class="sp-card"><h3>Top QBs</h3>${topBlock('QB')}</section>
+                <section class="sp-card"><h3>Top RBs</h3>${topBlock('RB')}</section>
+                <section class="sp-card"><h3>Top WRs</h3>${topBlock('WR')}</section>
+                <section class="sp-card"><h3>Best potential stacks</h3><p class="sp-note">QB + WR1 by combined projection.</p>${stackHtml}</section>
+            </div>`;
         }
 
         function slOwnBand(own) {
@@ -5010,6 +5261,47 @@
                     <td>${role}</td>
                 </tr>`;
             }).join('') || '<tr><td colspan="8" style="color:var(--muted);">No low-own pieces above the FP cutoff.</td></tr>';
+
+            const dualEl = document.getElementById('slDualBody');
+            if (dualEl) {
+                const mini = (pairs || []).slice(0, 12);
+                const duals = [];
+                for (let i = 0; i < mini.length; i++) {
+                    for (let j = i + 1; j < mini.length; j++) {
+                        const a = mini[i], b = mini[j];
+                        if (!a || !b || a.qb.Team === b.qb.Team) continue;
+                        duals.push({
+                            a, b,
+                            fp: (a.qb.projectedFP||0)+(a.rec.projectedFP||0)+(b.qb.projectedFP||0)+(b.rec.projectedFP||0),
+                            sal: (a.qb.salary||0)+(a.rec.salary||0)+(b.qb.salary||0)+(b.rec.salary||0)
+                        });
+                    }
+                }
+                duals.sort((x,y) => y.fp - x.fp);
+                dualEl.innerHTML = duals.slice(0, topN).map((d, idx) => {
+                    const nm = (x) => slName ? slName(x) : (x.displayName||'').split(' (')[0];
+                    const labelA = nm(d.a.qb) + ' + ' + nm(d.a.rec) + ' (' + d.a.qb.Team + ')';
+                    const labelB = nm(d.b.qb) + ' + ' + nm(d.b.rec) + ' (' + d.b.qb.Team + ')';
+                    return `<tr>
+                        <td>${idx+1}</td>
+                        <td>${esc(labelA)}</td>
+                        <td>${esc(labelB)}</td>
+                        <td class="num">${d.fp.toFixed(1)}</td>
+                        <td class="num">$${d.sal.toLocaleString()}</td>
+                        <td><button type="button" class="ghost" onclick="slAddDual(${idx})">Add both 30%</button></td>
+                    </tr>`;
+                }).join('') || '<tr><td colspan="6" style="color:var(--muted);">Need two different-team QB + WR pairs.</td></tr>';
+                window._slDuals = duals.slice(0, topN);
+            }
+        }
+
+        function slAddDual(idx) {
+            const d = (window._slDuals || [])[idx];
+            if (!d) return;
+            slPushStack({ captain: d.a.qb.displayName, receiver: d.a.rec.displayName, recipe: 'qb_wr', bringBack: 'none', percentage: 30 });
+            slPushStack({ captain: d.b.qb.displayName, receiver: d.b.rec.displayName, recipe: 'qb_wr', bringBack: 'none', percentage: 30 });
+            if (typeof updateStackListDisplay === 'function') updateStackListDisplay();
+            alert('Added two Superflex stacks at 30% each.');
         }
 
         function slPushStack(obj) {
@@ -7979,8 +8271,23 @@
             updateTable();
         }
 
+        function heatStyle(val, rng) {
+            if (val == null || !Number.isFinite(Number(val)) || !rng || rng.max <= rng.min) return '';
+            const t = Math.max(0, Math.min(1, (Number(val) - rng.min) / (rng.max - rng.min)));
+            const h = 210 - t * 195;
+            const a = 0.18 + t * 0.32;
+            return 'background:hsla(' + h.toFixed(0) + ',70%,45%,' + a.toFixed(2) + ');font-weight:700;';
+        }
+        function heatRange(rows, fn) {
+            const xs = (rows || []).map(fn).filter(v => Number.isFinite(v));
+            if (!xs.length) return { min: 0, max: 0 };
+            return { min: Math.min(...xs), max: Math.max(...xs) };
+        }
         function updateTable() {
             try { enrichPlayerMatchups(allSlatePlayers); } catch (e) {}
+            var _heatImpl = { min: 0, max: 0 };
+            var _heatVal = { min: 0, max: 0 };
+
             if (typeof renderCheatSheet === 'function') {
                 const cheatOpen = document.getElementById('panelCheat') && !document.getElementById('panelCheat').hidden;
                 const prevOpen = document.getElementById('panelPreview') && !document.getElementById('panelPreview').hidden;
@@ -8058,8 +8365,7 @@
                         case 'Player': valA = a.displayName.toLowerCase(); valB = b.displayName.toLowerCase(); break;
                         case 'Team': valA = a.Team.toLowerCase(); valB = b.Team.toLowerCase(); break;
                         case 'Opp': valA = (a.Opponent||'').toLowerCase(); valB = (b.Opponent||'').toLowerCase(); break;
-                        case 'Spread': valA = parseFloat(a.spread)||0; valB = parseFloat(b.spread)||0; break;
-                        case 'O/U': valA = parseFloat(a.ou)||0; valB = parseFloat(b.ou)||0; break;
+                        case 'Impl Tot': valA = Number(a.impliedTotal)||0; valB = Number(b.impliedTotal)||0; break;
                         case 'Position': valA = a.Position.toLowerCase(); valB = b.Position.toLowerCase(); break;
                         case 'Salary': valA = a.salary; valB = b.salary; break;
                         case 'Projected FP': valA = a.projectedFP; valB = b.projectedFP; break;
@@ -8074,7 +8380,9 @@
                 });
             }
 
-            const headers = [' ', 'Player', 'Team', 'Opp', 'Spread', 'O/U', 'Position', 'Salary', 'Projected FP', 'Value', 'Projected Ownership', 'Min Exposure', 'Max Exposure'];
+            _heatImpl = heatRange(filteredData, r => Number(r.impliedTotal));
+            _heatVal = heatRange(filteredData, r => r.salary > 0 ? r.projectedFP / r.salary * 1000 : null);
+            const headers = [' ', 'Player', 'Team', 'Opp', 'Impl Tot', 'Position', 'Salary', 'Projected FP', 'Value', 'Projected Ownership', 'Min Exposure', 'Max Exposure'];
             document.getElementById('tableHeader').innerHTML = headers.map(h => {
                 const active = h === sortColumn ? ` class="${sortDirection}"` : '';
                 const tip = h === ' ' ? '' : ' title="Click to sort"';
@@ -8126,8 +8434,7 @@
                     </td>
                     <td>${row.Team}</td>
                     <td>${row.Opponent || ''}</td>
-                    <td>${row.spreadLabel || (row.spread != null && row.spread !== '' ? ((Number(row.spread)>0?'+':'') + Number(row.spread).toFixed(1)) : '')}</td>
-                    <td>${row.ou != null && row.ou !== '' ? Number(row.ou).toFixed(1) : ''}</td>
+                    <td class="heat-cell" style="${heatStyle(row.impliedTotal, _heatImpl)}">${row.impliedTotal != null ? Number(row.impliedTotal).toFixed(1) : ''}</td>
                     <td>${row.Position}</td>
                     <td>${row.salary}</td>
                     <td style="${row._userEditedFP ? 'background:rgba(245,158,11,0.15);' : ''}">
@@ -8137,7 +8444,7 @@
                                title="${row._userEditedFP ? 'CUSTOM projection (edited or uploaded) — click Reset Projections to Source to restore live data' : 'Edit projected FP'}">
                         ${row._userEditedFP ? '<span style="font-size:0.65rem;color:var(--warning);margin-left:2px;" title="Custom / edited projection">*</span>' : ''}
                     </td>
-                    <td>${value}</td>
+                    <td class="heat-cell" style="${heatStyle(row.salary>0 ? row.projectedFP/row.salary*1000 : null, _heatVal)}">${value}</td>
                     <td><input type="number" step="0.1" min="0" max="100" value="${row.ownership.toFixed(1)}" style="width:64px;" onchange="updateOwnership('${safeName}', this.value)" title="Edit projected ownership %">%</td>
                     <td><input type="number" min="0" max="100" value="${minExp}" onchange="updateExposure('${safeName}', 'min', this.value)"></td>
                     <td><input type="number" min="0" max="100" value="${maxExp}" onchange="updateExposure('${safeName}', 'max', this.value)"></td>
