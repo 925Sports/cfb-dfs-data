@@ -2495,6 +2495,10 @@
                     <button type="button" class="ghost" data-tip="Cap chalk ~40% and boost &lt;10% owned names so the pool can produce 4+ uniques." onclick="applyRecipe('gpp_four_uniques')">Four uniques mix</button>
                     <button type="button" class="ghost" data-tip="Classic GPP + QB must have WR+TE. Next: suggest stacks or pick QBs." onclick="applyRecipe('classic_3man')">Classic QB+WR stack</button>
                     <button type="button" class="ghost" data-tip="Classic GPP + 2 pass catchers + opponent bring-back + fade both game DSTs." onclick="applyRecipe('classic_game_stack')">Classic game stack</button>
+                    <span class="recipe-group-label">CFB scripts (uses live lines)</span>
+                    <button type="button" class="ghost" data-tip="High-tier skill players in games with O/U 55 or higher." onclick="applyCfbScript('high_total')">High totals 55+</button>
+                    <button type="button" class="ghost" data-tip="High-tier RBs on teams favored by 7 or more. Clock-killing / smash-spot backs." onclick="applyCfbScript('fav_rb')">Favorite RBs (−7)</button>
+                    <button type="button" class="ghost" data-tip="High-tier WR/TE on 5.5+ point underdogs in games with O/U 52+. Negative script pass catchers." onclick="applyCfbScript('dog_wr')">Dog WRs in shootouts</button>
                     <span class="recipe-group-label">Showdown</span>
                     <button type="button" class="ghost" data-tip="Showdown + Min K/DST 2 + wide ownership. Next: stack QBs and tier favorites. Matches HoF-style FG/DST scripts." onclick="applyRecipe('sd_kdst2')">Showdown kicker sprinkle</button>
                     <button type="button" class="ghost" data-tip="Showdown GPP + 4–2 split. Next: Build around CPT or tier two QBs + stacks." onclick="applyRecipe('sd_gpp_simple')">Showdown GPP 4–2</button>
@@ -3848,6 +3852,42 @@
             }
         }
 
+        function applyCfbScript(kind) {
+            try { enrichPlayerMatchups(allSlatePlayers); } catch (e) {}
+            const pool = (filteredData && filteredData.length ? filteredData : allSlatePlayers) || [];
+            const tagged = [];
+            pool.forEach(p => {
+                const pos = (p.Position || p.positions && p.positions[0] || '').toUpperCase();
+                const line = Number(p.spread);
+                const ou = Number(p.ou);
+                let hit = false;
+                if (kind === 'high_total') {
+                    hit = ou >= 55 && ['QB','RB','WR','TE'].includes(pos);
+                } else if (kind === 'fav_rb') {
+                    hit = pos === 'RB' && Number.isFinite(line) && line <= -7;
+                } else if (kind === 'dog_wr') {
+                    hit = ['WR','TE'].includes(pos) && Number.isFinite(line) && line >= 5.5 && ou >= 52;
+                }
+                if (!hit || !p.displayName) return;
+                playerPriority[p.displayName] = 'high';
+                if (typeof PRIORITY_META !== 'undefined' && PRIORITY_META.high) {
+                    minExposures[p.displayName] = PRIORITY_META.high.minExp;
+                    maxExposures[p.displayName] = PRIORITY_META.high.maxExp;
+                }
+                if (typeof deselectedPlayers !== 'undefined') deselectedPlayers.delete(p.displayName);
+                tagged.push(p.displayName);
+            });
+            if (typeof updateTable === 'function') updateTable();
+            if (typeof updateCoreBar === 'function') updateCoreBar();
+            if (typeof queueSessionSave === 'function') queueSessionSave();
+            const msg = {
+                high_total: 'High-total games (O/U 55+). High-tiered ' + tagged.length + ' skill players. Review the board, then Run.',
+                fav_rb: 'Favorite RBs (−7 or more). High-tiered ' + tagged.length + ' backs. Review, then Run.',
+                dog_wr: 'Underdog WRs/TEs in O/U 52+ games. High-tiered ' + tagged.length + ' pass catchers. Review, then Run.'
+            }[kind] || ('Tagged ' + tagged.length + ' players.');
+            if (typeof setNextStep === 'function') setNextStep(msg);
+            else alert(msg);
+        }
         function applyRecipe(key) {
             if (key === 'classic_gpp_simple') {
                 applyPreset('classic_gpp');
@@ -4306,38 +4346,29 @@
                 if (p.slotType === 'Captain') return false;
                 return ['QB','RB','WR','TE','K'].includes(csPos(p));
             });
+            try { enrichPlayerMatchups(pool); } catch (e) {}
             const games = new Map();
             pool.forEach(p => {
-                const key = gameKeyFromPlayer(p);
+                const team = String(p.Team || '').toUpperCase();
+                const opp = String(p.Opponent || '').toUpperCase();
+                if (!team || !opp || team === opp) return;
+                const key = [team, opp].sort().join('|');
                 if (!games.has(key)) {
                     games.set(key, {
                         key, start: p.startDisplay || '', venue: p.venue || '',
                         venueType: p.venueType || '', broadcasts: p.broadcasts || '',
-                        spread: p.spread || '', ou: p.ou || '', players: []
+                        spread: p.spreadLabel || p.spread || '', ou: p.ou || '', players: []
                     });
                 }
                 const g = games.get(key);
                 if (!g.venue && p.venue) g.venue = p.venue;
                 if (!g.broadcasts && p.broadcasts) g.broadcasts = p.broadcasts;
-                if (!g.spread && p.spread) g.spread = p.spread;
-                if (!g.ou && p.ou) g.ou = p.ou;
                 if (!g.start && p.startDisplay) g.start = p.startDisplay;
                 g.players.push(p);
             });
-            (finalRows || []).forEach(r => {
-                const team = r.Team || r.team;
-                const opp = r.Opp || r.Opponent;
-                games.forEach(g => {
-                    const teams = [...new Set(g.players.map(p => p.Team))];
-                    if (team && (teams.includes(team) || teams.includes(opp))) {
-                        if (!g.spread) g.spread = r.Spread || '';
-                        if (!g.ou) g.ou = r['O/U'] || '';
-                        if (!g.venue) g.venue = r['Venue Name (Underdog)'] || '';
-                        if (!g.broadcasts) g.broadcasts = r['Broadcasts (Underdog)'] || '';
-                    }
-                });
-            });
             let list = [...games.values()].filter(g => {
+                const teams = [...new Set(g.players.map(p => p.Team).filter(Boolean))];
+                if (teams.length < 2) return false;
                 if (!q) return true;
                 const blob = [g.venue, g.broadcasts, ...g.players.map(p => (p.Team||'') + ' ' + csName(p))].join(' ').toLowerCase();
                 return blob.includes(q);
@@ -4360,8 +4391,6 @@
                 g.start = clean(g.start);
                 g.venue = clean(g.venue);
                 g.broadcasts = clean(g.broadcasts);
-                g.spread = clean(g.spread);
-                g.ou = clean(g.ou);
                 const od = findOddsForTeams(g.teams);
                 g.odds = od || null;
                 if (od) {
@@ -4372,10 +4401,11 @@
                     g.nBooks = od.nBooks || 0;
                     g.oddsHome = od.homeAbbr;
                     g.oddsAway = od.awayAbbr;
+                } else {
+                    g.spread = clean(g.spread);
+                    g.ou = clean(String(g.ou || ''));
                 }
             });
-            // Drop orphan one-team leftovers created when Opp is missing
-            list = list.filter(g => g.teams.length >= 2 || g.combined >= 25);
             return list;
         }
         function selectGamePreview(key) {
@@ -4696,6 +4726,63 @@
             if (n == null) return '';
             const v = Math.round(n);
             return v > 0 ? ('+' + v) : String(v);
+        }
+        function slateTeamSet(players) {
+            const src = players || allSlatePlayers || [];
+            return new Set(src.map(p => String(p.Team || '').toUpperCase()).filter(Boolean));
+        }
+        function oddsGamesForSlate(players) {
+            const teams = slateTeamSet(players);
+            const both = (oddsGames || []).filter(g => g.homeAbbr && g.awayAbbr && teams.has(g.homeAbbr) && teams.has(g.awayAbbr));
+            const one = (oddsGames || []).filter(g =>
+                (teams.has(g.homeAbbr) || teams.has(g.awayAbbr)) &&
+                !both.includes(g)
+            );
+            // one team per game — prefer both-on-slate, then first remaining
+            const byTeam = new Map();
+            both.concat(one).forEach(g => {
+                if (g.homeAbbr && !byTeam.has(g.homeAbbr)) byTeam.set(g.homeAbbr, g);
+                if (g.awayAbbr && !byTeam.has(g.awayAbbr)) byTeam.set(g.awayAbbr, g);
+            });
+            return byTeam;
+        }
+        function teamLine(g, abbr) {
+            if (!g || !abbr) return null;
+            if (abbr === g.homeAbbr) return g.spreadHome;
+            if (abbr === g.awayAbbr) return g.spreadAway;
+            return null;
+        }
+        function enrichPlayerMatchups(list) {
+            const players = list || allSlatePlayers || [];
+            if (!players.length) return;
+            const byTeam = oddsGamesForSlate(players);
+            players.forEach(p => {
+                const team = String(p.Team || '').toUpperCase();
+                if (!team) return;
+                const g = byTeam.get(team);
+                if (!g) return;
+                const opp = team === g.homeAbbr ? g.awayAbbr : g.homeAbbr;
+                if (opp) p.Opponent = opp;
+                const line = teamLine(g, team);
+                if (line != null) {
+                    p.spread = line;
+                    const sign = line > 0 ? '+' : '';
+                    p.spreadLabel = team + ' ' + sign + (Number.isInteger(line) ? line : Number(line).toFixed(1));
+                }
+                if (g.total != null) p.ou = g.total;
+                p._odds = g;
+            });
+            if (Array.isArray(rawData)) {
+                rawData.forEach(r => {
+                    const team = String(normalizeTeam ? normalizeTeam(r.Team) : r.Team || '').toUpperCase();
+                    const g = byTeam.get(team);
+                    if (!g) return;
+                    r.Opponent = team === g.homeAbbr ? g.awayAbbr : g.homeAbbr;
+                    const line = teamLine(g, team);
+                    if (line != null) r.spread = line;
+                    if (g.total != null) r.ou = g.total;
+                });
+            }
         }
 
 
@@ -6903,6 +6990,7 @@
                     startDisplay: row.startDisplay
                 };
             });
+            try { enrichPlayerMatchups(allSlatePlayers); } catch (e) { console.warn(e); }
 
             // Showdown DST CPT/FLEX injection
             if (isShowdown) {
@@ -7917,6 +8005,7 @@
         }
 
         function updateTable() {
+            try { enrichPlayerMatchups(allSlatePlayers); } catch (e) {}
             if (typeof renderCheatSheet === 'function') {
                 const cheatOpen = document.getElementById('panelCheat') && !document.getElementById('panelCheat').hidden;
                 const prevOpen = document.getElementById('panelPreview') && !document.getElementById('panelPreview').hidden;
@@ -8062,8 +8151,8 @@
                     </td>
                     <td>${row.Team}</td>
                     <td>${row.Opponent || ''}</td>
-                    <td>${row.spread || ''}</td>
-                    <td>${row.ou || ''}</td>
+                    <td>${row.spreadLabel || (row.spread != null && row.spread !== '' ? ((Number(row.spread)>0?'+':'') + Number(row.spread).toFixed(1)) : '')}</td>
+                    <td>${row.ou != null && row.ou !== '' ? Number(row.ou).toFixed(1) : ''}</td>
                     <td>${row.Position}</td>
                     <td>${row.salary}</td>
                     <td style="${row._userEditedFP ? 'background:rgba(245,158,11,0.15);' : ''}">
