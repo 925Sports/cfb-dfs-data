@@ -3542,6 +3542,7 @@
             ownership: 'https://raw.githubusercontent.com/925Sports/cfb-dfs-data/main/ownership.csv',
             final: 'https://raw.githubusercontent.com/925Sports/cfb-dfs-data/main/final.csv',
             odds: 'https://raw.githubusercontent.com/925Sports/cfb-dfs-data/main/CFBGameOdds.csv',
+            sheetOdds: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS8KYFAnWpyXL6XY9_fYAhF1C0YRTewdTvj9Wy0s5vxhTSkFOPCf16BMbJYdyRW9mHTCoEX6RUF60zg/pub?gid=0&single=true&output=csv',
             sheetMain: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSV0x8a_qRCwt9t2MRmRph7MwHioKNrZTN00niOF2spzpMzxrlaz3cKr5oE_soDhjkeH8NbU4UxsIqe/pub?gid=585863704&single=true&output=csv',
             sheetFinal: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSV0x8a_qRCwt9t2MRmRph7MwHioKNrZTN00niOF2spzpMzxrlaz3cKr5oE_soDhjkeH8NbU4UxsIqe/pub?gid=807849522&single=true&output=csv'
         };
@@ -4530,7 +4531,7 @@
             CINCY:['cincinnati'], COL:['colorado buffaloes','colorado'], DUKE:['duke'],
             ECU:['east carolina'], EMU:['eastern michigan'], FRES:['fresno state','fresno'],
             GT:['georgia tech'], IL:['illinois'], IU:['indiana hoosiers','indiana'],
-            MIA:['miami hurricanes','miami fl','miami (fl)'], M-OH:['miami oh','miami (oh)','miami redhawks'],
+            MIA:['miami hurricanes','miami fl','miami (fl)'], 'M-OH':['miami oh','miami (oh)','miami redhawks'],
             MRSHL:['marshall'], MSU:['michigan state'], NEB:['nebraska'], OHIO:['ohio bobcats','ohio university'],
             ORE:['oregon ducks','oregon'], ORST:['oregon state'], OSU:['ohio state'],
             OU:['oklahoma sooners','oklahoma'], PSU:['penn state','pennsylvania state'],
@@ -4566,7 +4567,7 @@
             LIB:['liberty'], JVST:['jacksonville state'], KENN:['kennesaw'],
             SHSU:['sam houston'], NIU:['northern illinois'], CMU:['central michigan'],
             WMU:['western michigan'], BGSU:['bowling green'], KENT:['kent state'],
-            BUFF:['buffalo'], M-OH:['miami oh','miami (oh)'], TOL:['toledo'],
+            BUFF:['buffalo'], 'M-OH':['miami oh','miami (oh)'], TOL:['toledo'],
             CONN:['uconn','connecticut'], RICE:['rice'], LT:['louisiana tech'],
             CHAR:['charlotte'], TEM:['temple'], NAVY:['navy'], ARMY:['army']
         };
@@ -6192,7 +6193,7 @@
                     firstOk([DATA_SOURCES.main, DATA_FALLBACKS.main, DATA_FALLBACKS.sheetMain]),
                     firstOk([DATA_SOURCES.ownership, DATA_FALLBACKS.ownership]).catch(() => null),
                     firstOk([DATA_SOURCES.final, DATA_FALLBACKS.final, DATA_FALLBACKS.sheetFinal]).catch(() => null),
-                    firstOk([DATA_SOURCES.odds, DATA_FALLBACKS.odds]).catch(() => null)
+                    firstOk([DATA_SOURCES.odds, DATA_FALLBACKS.odds, DATA_FALLBACKS.sheetOdds]).catch(() => null)
                 ]);
                 if (!mainRes.ok) throw new Error('Main data failed: ' + mainRes.status);
                 if (!silent) {
