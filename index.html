@@ -3534,12 +3534,14 @@
         const DATA_SOURCES = {
             main: 'players.csv',
             ownership: 'ownership.csv',
-            final: 'final.csv'
+            final: 'final.csv',
+            odds: 'CFBGameOdds.csv'
         };
         const DATA_FALLBACKS = {
             main: 'https://raw.githubusercontent.com/925Sports/cfb-dfs-data/main/players.csv',
             ownership: 'https://raw.githubusercontent.com/925Sports/cfb-dfs-data/main/ownership.csv',
             final: 'https://raw.githubusercontent.com/925Sports/cfb-dfs-data/main/final.csv',
+            odds: 'https://raw.githubusercontent.com/925Sports/cfb-dfs-data/main/CFBGameOdds.csv',
             sheetMain: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSV0x8a_qRCwt9t2MRmRph7MwHioKNrZTN00niOF2spzpMzxrlaz3cKr5oE_soDhjkeH8NbU4UxsIqe/pub?gid=585863704&single=true&output=csv',
             sheetFinal: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSV0x8a_qRCwt9t2MRmRph7MwHioKNrZTN00niOF2spzpMzxrlaz3cKr5oE_soDhjkeH8NbU4UxsIqe/pub?gid=807849522&single=true&output=csv'
         };
@@ -3565,6 +3567,8 @@
         let rawData = [];
         let filteredData = [];
         let finalRows = [];
+        let oddsGames = [];
+        let oddsByAbbrev = new Map();
         let csSortKey = 'fp';
         let csSortDir = -1;
         let allSlatePlayers = [];
@@ -4102,7 +4106,7 @@
             return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/"/g,'&quot;');
         }
         function csArg(s) {
-            return JSON.stringify(String(s || ''));
+            return "'" + String(s || '').replace(/\\/g, "\\\\").replace(/'/g, "\\'").replace(/\n/g, " ") + "'";
         }
         function csHeadshot(p) {
             const nm = csName(p);
@@ -4156,7 +4160,7 @@
                 const k = playerPriority[n];
                 const mn = minExposures[n] != null ? minExposures[n] : '';
                 const mx = maxExposures[n] != null ? maxExposures[n] : '';
-                return `<span class="cs-board-chip">${csEsc((n||'').split(' (')[0])} · ${csEsc(k)} ${mn}-${mx}% <button type="button" onclick="csApplyTier(${JSON.stringify(n)}, '')">×</button></span>`;
+                return `<span class="cs-board-chip">${csEsc((n||'').split(' (')[0])} · ${csEsc(k)} ${mn}-${mx}% <button type="button" onclick="csApplyTier(${csArg(n)}, '')">×</button></span>`;
             }).join('') : '<span class="cs-sub">No tiers yet — use Core / High / Mid / Low on a row.</span>';
             const stackHtml = stacks.length ? stacks.map((s,i) => {
                 const label = [s.captain, s.receiver, s.bringPlayer].filter(Boolean).map(x => String(x).split(' (')[0]).join(' + ');
@@ -4357,6 +4361,17 @@
                 g.broadcasts = clean(g.broadcasts);
                 g.spread = clean(g.spread);
                 g.ou = clean(g.ou);
+                const od = findOddsForTeams(g.teams);
+                g.odds = od || null;
+                if (od) {
+                    g.spread = formatSpread(od, g.teams) || g.spread;
+                    g.ou = formatTotal(od) || g.ou;
+                    g.mlHome = formatMl(od.mlHome);
+                    g.mlAway = formatMl(od.mlAway);
+                    g.nBooks = od.nBooks || 0;
+                    g.oddsHome = od.homeAbbr;
+                    g.oddsAway = od.awayAbbr;
+                }
             });
             // Drop orphan one-team leftovers created when Opp is missing
             list = list.filter(g => g.teams.length >= 2 || g.combined >= 25);
@@ -4399,7 +4414,7 @@
             if (!gpSelectedKey || !list.some(g => g.key === gpSelectedKey)) gpSelectedKey = list[0].key;
             if (rail) {
                 rail.innerHTML = list.map(g => `
-                    <button type="button" class="gp-rail-item ${g.key === gpSelectedKey ? 'active' : ''}" onclick="selectGamePreview(${JSON.stringify(g.key)})">
+                    <button type="button" class="gp-rail-item ${g.key === gpSelectedKey ? 'active' : ''}" onclick="selectGamePreview(${csArg(g.key)})">
                         <span class="t">${csEsc(g.title)}</span>
                         <span class="s">${csEsc(g.start || 'TBD')} · ${g.combined.toFixed(0)} slate proj</span>
                     </button>`).join('');
@@ -4418,7 +4433,7 @@
                 return `<div class="gp-play">
                     <span class="pos-pill pos-${csEsc(csPos(p))}">${csEsc(csPos(p))}</span>
                     <div>
-                        <div class="who"><button type="button" class="cs-name-btn" onclick="jumpToBuilderPlayer(${JSON.stringify(csName(p))})">${csEsc(csName(p))}</button></div>
+                        <div class="who"><button type="button" class="cs-name-btn" onclick="jumpToBuilderPlayer(${csArg(csName(p))})">${csEsc(csName(p))}</button></div>
                         <div class="why">${csEsc(why)} · $${Number(p.salary||0).toLocaleString()} · ${fmt(csFp(p))} FP</div>
                     </div>
                     <span class="gp-pill ${pillCls}">${fmt(val,2)}x</span>
@@ -4473,12 +4488,12 @@
                     <h5>${csEsc(idea.title)}</h5>
                     <p>${csEsc(idea.body)}</p>
                     <div class="gp-idea-actions">
-                        ${idea.wr ? `<button type="button" class="ghost" onclick="gpAddStack(${JSON.stringify(idea.qb)}, ${JSON.stringify(idea.wr)})">Add 35% stack</button>` : ''}
-                        <button type="button" class="ghost" onclick="jumpToBuilderPlayer(${JSON.stringify(idea.qb)})">Open in builder</button>
+                        ${idea.wr ? `<button type="button" class="ghost" onclick="gpAddStack(${csArg(idea.qb)}, ${csArg(idea.wr)})">Add 35% stack</button>` : ''}
+                        <button type="button" class="ghost" onclick="jumpToBuilderPlayer(${csArg(idea.qb)})">Open in builder</button>
                     </div>
                 </div>`).join('') || '<p class="gp-empty">No stack ideas until projections load.</p>';
 
-            const script = g.combined >= 90 ? 'Shootout' : g.combined >= 60 ? 'Solid total' : 'Grind / low';
+            const ou = parseFloat(g.ou); const script = Number.isFinite(ou) ? (ou >= 60 ? 'Shootout' : ou >= 50 ? 'Solid total' : 'Grind / low') : (g.combined >= 90 ? 'Shootout' : g.combined >= 60 ? 'Solid total' : 'Grind / low');
             desk.innerHTML = `
                 <section class="gp-hero-card">
                     <div class="gp-kicker">CFB DFS · GAME PREVIEW</div>
@@ -4487,8 +4502,11 @@
                     <div class="gp-stats">
                         <div class="gp-stat"><div class="k">Script</div><div class="v">${script}</div></div>
                         <div class="gp-stat"><div class="k">Slate proj</div><div class="v">${g.combined.toFixed(1)}</div></div>
-                        <div class="gp-stat"><div class="k">Spread</div><div class="v">${csEsc(g.spread || '—')}</div></div>
-                        <div class="gp-stat"><div class="k">Total / O/U</div><div class="v">${csEsc(g.ou || '—')}</div></div>
+                        <div class="gp-stat"><div class="k">Spread (avg)</div><div class="v">${csEsc(g.spread || '—')}</div></div>
+                        <div class="gp-stat"><div class="k">Total (avg)</div><div class="v">${csEsc(g.ou || '—')}</div></div>
+                    </div>
+                    <div class="gp-hero-meta" style="margin-top:0.55rem;">
+                        ${g.odds ? `Moneyline ${csEsc(g.oddsHome || '')} ${csEsc(g.mlHome || '—')} / ${csEsc(g.oddsAway || '')} ${csEsc(g.mlAway || '—')} · ${g.nBooks || 0} books averaged` : 'No consensus odds matched for this game yet.'}
                     </div>
                 </section>
                 <div class="gp-split">
@@ -4503,6 +4521,181 @@
                 </div>`;
         }
 
+
+
+
+        const CFB_TEAM_ALIASES = {
+            AKR:['akron'], AUB:['auburn'], BALL:['ball state'], BAMA:['alabama'], BAY:['baylor'],
+            BC:['boston college'], BSU:['boise state'], 'C-C':['coastal carolina','coastal'],
+            CINCY:['cincinnati'], COL:['colorado buffaloes','colorado'], DUKE:['duke'],
+            ECU:['east carolina'], EMU:['eastern michigan'], FRES:['fresno state','fresno'],
+            GT:['georgia tech'], IL:['illinois'], IU:['indiana hoosiers','indiana'],
+            MIA:['miami hurricanes','miami fl','miami (fl)'], M-OH:['miami oh','miami (oh)','miami redhawks'],
+            MRSHL:['marshall'], MSU:['michigan state'], NEB:['nebraska'], OHIO:['ohio bobcats','ohio university'],
+            ORE:['oregon ducks','oregon'], ORST:['oregon state'], OSU:['ohio state'],
+            OU:['oklahoma sooners','oklahoma'], PSU:['penn state','pennsylvania state'],
+            RU:['rutgers'], SJSU:['san jose state','san josé state','sanjose state'],
+            STAN:['stanford'], TEX:['texas longhorns','texas'], TOL:['toledo'],
+            TUL:['tulane'], TXST:['texas state'], UAB:['uab','alabama birmingham'],
+            UH:['houston cougars','houston'], UMASS:['umass','massachusetts'],
+            UNT:['north texas'], USC:['usc','southern california'], UTEP:['utep'],
+            WAKE:['wake forest'], WVU:['west virginia'],
+            FSU:['florida state'], UF:['florida gators','florida'], UGA:['georgia bulldogs','georgia'],
+            LSU:['lsu'], TENN:['tennessee'], TAMU:['texas a&m','texas am'], ND:['notre dame'],
+            MICH:['michigan wolverines','michigan'], WISC:['wisconsin'], IOWA:['iowa hawkeyes','iowa'],
+            KSU:['kansas state'], KU:['kansas jayhawks','kansas'], TTU:['texas tech'],
+            OKST:['oklahoma state'], TCU:['tcu'], ISU:['iowa state'], CLEM:['clemson'],
+            UNC:['north carolina tar','north carolina'], NCST:['nc state','north carolina state'],
+            UVA:['virginia cavaliers','virginia'], VT:['virginia tech'], PITT:['pittsburgh','pitt'],
+            LOU:['louisville'], SYR:['syracuse'], ARIZ:['arizona wildcats','arizona'],
+            ASU:['arizona state'], UTAH:['utah utes','utah'], UCLA:['ucla'], CAL:['california golden','cal bears','california'],
+            WASH:['washington huskies','washington'], WSU:['washington state'],
+            MIZZ:['missouri'], UK:['kentucky'], SC:['south carolina'], MISS:['ole miss','mississippi rebels'],
+            MSST:['mississippi state'], ARK:['arkansas razorbacks','arkansas'], VAN:['vanderbilt'],
+            NAVY:['navy'], ARMY:['army'], MEM:['memphis'], USF:['south florida'],
+            FAU:['florida atlantic'], FIU:['florida international'], APP:['appalachian state','app state'],
+            GSU:['georgia state'], GASO:['georgia southern'], TROY:['troy'],
+            JMU:['james madison'], ODU:['old dominion'], USA:['south alabama'],
+            ULM:['ul monroe','monroe'], ULL:['louisiana ragin','louisiana lafayette'],
+            NMSU:['new mexico state'], UNM:['new mexico lobos','new mexico'],
+            CSU:['colorado state'], WYO:['wyoming'], USU:['utah state'], AFA:['air force'],
+            SDSU:['san diego state'], UNLV:['unlv'], NEV:['nevada wolf','nevada'],
+            HAW:['hawaii','hawai'], BYU:['byu'], SMU:['smu'], UCF:['ucf'],
+            PUR:['purdue'], NW:['northwestern'], MINN:['minnesota'], MD:['maryland'],
+            RUT:['rutgers'], ILL:['illinois'], WVU:['west virginia'],
+            LIB:['liberty'], JVST:['jacksonville state'], KENN:['kennesaw'],
+            SHSU:['sam houston'], NIU:['northern illinois'], CMU:['central michigan'],
+            WMU:['western michigan'], BGSU:['bowling green'], KENT:['kent state'],
+            BUFF:['buffalo'], M-OH:['miami oh','miami (oh)'], TOL:['toledo'],
+            CONN:['uconn','connecticut'], RICE:['rice'], LT:['louisiana tech'],
+            CHAR:['charlotte'], TEM:['temple'], NAVY:['navy'], ARMY:['army']
+        };
+        function normTeamText(s) {
+            return String(s || '').toLowerCase()
+                .replace(/[éè]/g, 'e')
+                .replace(/[^a-z0-9 ]+/g, ' ')
+                .replace(/\b(university|univ|the)\b/g, ' ')
+                .replace(/\s+/g, ' ').trim();
+        }
+        function abbrevFromOddsName(full) {
+            const n = normTeamText(full);
+            if (!n) return '';
+            let best = '', bestLen = 0;
+            Object.entries(CFB_TEAM_ALIASES).forEach(([abbr, aliases]) => {
+                aliases.forEach(a => {
+                    const an = normTeamText(a);
+                    if (!an) return;
+                    if (n === an || n.startsWith(an + ' ') || n.includes(' ' + an + ' ') || n.endsWith(' ' + an)) {
+                        if (an.length >= bestLen) { best = abbr; bestLen = an.length; }
+                    }
+                });
+            });
+            return best;
+        }
+        function parseOddsCsv(text) {
+            oddsGames = [];
+            oddsByAbbrev = new Map();
+            if (!text) return;
+            const parsed = Papa.parse(text, { header: true, skipEmptyLines: true, dynamicTyping: false });
+            const rows = (parsed.data || []).filter(r => (r.home_team || r.home || r.id) && (r.away_team || r.away || r.commence_time));
+            const isRaw = rows.some(r => r.market && r.bookmaker);
+            const byEvent = new Map();
+            const toNum = (v) => {
+                const n = parseFloat(String(v ?? '').replace('+', ''));
+                return Number.isFinite(n) ? n : null;
+            };
+            if (isRaw) {
+                rows.forEach(r => {
+                    const gid = r.id || [r.home_team, r.away_team, r.commence_time].join('|');
+                    if (!byEvent.has(gid)) {
+                        byEvent.set(gid, {
+                            id: gid, commence: r.commence_time || '',
+                            home: r.home_team || '', away: r.away_team || '',
+                            sh: [], sa: [], tot: [], mh: [], ma: [], books: new Set()
+                        });
+                    }
+                    const g = byEvent.get(gid);
+                    if (r.bookmaker) g.books.add(r.bookmaker);
+                    const price = toNum(r.price), point = toNum(r.point);
+                    const market = String(r.market || '').toLowerCase();
+                    const label = r.label || '';
+                    if (market === 'spreads' && point != null) {
+                        if (label === g.home) g.sh.push(point);
+                        if (label === g.away) g.sa.push(point);
+                    } else if (market === 'totals' && point != null && String(label).toLowerCase() === 'over') {
+                        g.tot.push(point);
+                    } else if ((market === 'h2h' || market === 'ml') && price != null) {
+                        if (label === g.home) g.mh.push(price);
+                        if (label === g.away) g.ma.push(price);
+                    }
+                });
+                byEvent.forEach(g => {
+                    const mean = (a) => a.length ? a.reduce((s,x)=>s+x,0)/a.length : null;
+                    oddsGames.push({
+                        home: g.home, away: g.away, commence: g.commence,
+                        homeAbbr: abbrevFromOddsName(g.home),
+                        awayAbbr: abbrevFromOddsName(g.away),
+                        spreadHome: mean(g.sh), spreadAway: mean(g.sa),
+                        total: mean(g.tot), mlHome: mean(g.mh), mlAway: mean(g.ma),
+                        nBooks: g.books.size
+                    });
+                });
+            } else {
+                rows.forEach(r => {
+                    const home = r.home_team || r.home || '';
+                    const away = r.away_team || r.away || '';
+                    if (!home || !away) return;
+                    oddsGames.push({
+                        home, away, commence: r.commence_time || r.commence || '',
+                        homeAbbr: abbrevFromOddsName(home),
+                        awayAbbr: abbrevFromOddsName(away),
+                        spreadHome: toNum(r.spread_home),
+                        spreadAway: toNum(r.spread_away),
+                        total: toNum(r.total),
+                        mlHome: toNum(r.ml_home),
+                        mlAway: toNum(r.ml_away),
+                        nBooks: parseInt(r.n_books, 10) || 0
+                    });
+                });
+            }
+            oddsGames.forEach(g => {
+                [g.homeAbbr, g.awayAbbr].filter(Boolean).forEach(ab => {
+                    if (!oddsByAbbrev.has(ab)) oddsByAbbrev.set(ab, []);
+                    oddsByAbbrev.get(ab).push(g);
+                });
+            });
+        }
+        function findOddsForTeams(teams) {
+            const abbrs = (teams || []).map(t => String(t || '').toUpperCase()).filter(Boolean);
+            if (abbrs.length < 1) return null;
+            let hits = [];
+            abbrs.forEach(a => { (oddsByAbbrev.get(a) || []).forEach(g => hits.push(g)); });
+            // prefer games that contain 2 of the slate teams
+            const scored = [...new Set(hits)].map(g => {
+                const pair = [g.homeAbbr, g.awayAbbr];
+                const n = abbrs.filter(a => pair.includes(a)).length;
+                return { g, n };
+            }).sort((a,b) => b.n - a.n);
+            return (scored[0] && scored[0].n >= 1) ? scored[0].g : null;
+        }
+        function formatSpread(g, preferTeams) {
+            if (!g) return '';
+            const teams = (preferTeams || []).map(t => String(t).toUpperCase());
+            let abbr = g.homeAbbr, val = g.spreadHome;
+            if (teams[0] && teams[0] === g.awayAbbr) { abbr = g.awayAbbr; val = g.spreadAway; }
+            if (val == null) return '';
+            const sign = val > 0 ? '+' : '';
+            return (abbr || '') + ' ' + sign + (Number.isInteger(val) ? val : Number(val).toFixed(1));
+        }
+        function formatTotal(g) {
+            if (!g || g.total == null) return '';
+            return Number(g.total).toFixed(1);
+        }
+        function formatMl(n) {
+            if (n == null) return '';
+            const v = Math.round(n);
+            return v > 0 ? ('+' + v) : String(v);
+        }
 
 
         function switchWorkspace(which) {
@@ -5995,10 +6188,11 @@
                     }
                     throw lastErr || new Error('All sources failed');
                 }
-                const [mainRes, ownRes, finalRes] = await Promise.all([
+                const [mainRes, ownRes, finalRes, oddsRes] = await Promise.all([
                     firstOk([DATA_SOURCES.main, DATA_FALLBACKS.main, DATA_FALLBACKS.sheetMain]),
                     firstOk([DATA_SOURCES.ownership, DATA_FALLBACKS.ownership]).catch(() => null),
-                    firstOk([DATA_SOURCES.final, DATA_FALLBACKS.final, DATA_FALLBACKS.sheetFinal]).catch(() => null)
+                    firstOk([DATA_SOURCES.final, DATA_FALLBACKS.final, DATA_FALLBACKS.sheetFinal]).catch(() => null),
+                    firstOk([DATA_SOURCES.odds, DATA_FALLBACKS.odds]).catch(() => null)
                 ]);
                 if (!mainRes.ok) throw new Error('Main data failed: ' + mainRes.status);
                 if (!silent) {
@@ -6011,6 +6205,8 @@
                 const csvText = await mainRes.text();
                 const ownershipCsv = ownRes ? await ownRes.text() : '';
                 const finalCsv = finalRes ? await finalRes.text() : '';
+                const oddsCsv = oddsRes ? await oddsRes.text() : '';
+                try { parseOddsCsv(oddsCsv); } catch (e) { console.warn('odds parse', e); oddsGames = []; }
                 if (!silent) {
                     const pf = document.getElementById('progressFill');
                     if (pf) pf.style.width = '70%';
