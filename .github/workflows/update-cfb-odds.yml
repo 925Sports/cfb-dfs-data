@@ -1,0 +1,31 @@
+name: Update CFB Game Odds
+on:
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-odds:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: pip install requests
+      - name: Fetch + average odds → CFBGameOdds.csv
+        run: |
+          python fetch_odds.py "PASTE_ODDS_URL_HERE"
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add CFBGameOdds.csv || true
+          git diff --quiet && git diff --staged --quiet || (
+            git commit -m "Auto-update CFBGameOdds.csv $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+          )
