@@ -2218,6 +2218,62 @@
             .cs-kpis { grid-template-columns: 1fr 1fr !important; }
         }
 
+
+        .cs-board {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0.65rem;
+            margin: 0 0 0.75rem;
+        }
+        @media (max-width: 800px) { .cs-board { grid-template-columns: 1fr; } }
+        .cs-board-col {
+            background: #0c1220;
+            border: 1px solid #1c2538;
+            border-radius: 12px;
+            padding: 0.65rem 0.75rem;
+        }
+        .cs-board-col .k { font-size: 0.68rem; font-weight: 800; letter-spacing: 0.06em; text-transform: uppercase; color: #93c5fd; margin-bottom: 0.4rem; }
+        .cs-board-chip {
+            display: inline-flex; align-items: center; gap: 0.3rem;
+            background: #151d32; border: 1px solid #1c2538;
+            border-radius: 999px; padding: 0.18rem 0.45rem;
+            font-size: 0.72rem; margin: 0 0.25rem 0.25rem 0;
+        }
+        .cs-board-chip.stack { border-color: #3b82f6; }
+        .cs-board-chip button {
+            background: none !important; border: none !important; color: #94a3b8 !important;
+            padding: 0 !important; font-size: 0.75rem !important;
+        }
+        .cs-stack-banner {
+            grid-column: 1 / -1;
+            background: rgba(59,130,246,0.12);
+            border: 1px solid #1d4ed8;
+            color: #e7ecf5;
+            border-radius: 10px;
+            padding: 0.55rem 0.75rem;
+            font-size: 0.82rem;
+            margin-bottom: 0.65rem;
+        }
+        button.cs-tier {
+            background: #0c1220 !important;
+            border: 1px solid #1c2538 !important;
+            color: #cbd5e1 !important;
+            padding: 0.16rem 0.38rem !important;
+            font-size: 0.65rem !important;
+            border-radius: 6px !important;
+            text-transform: capitalize;
+        }
+        button.cs-tier.on { background: #1d4ed8 !important; border-color: #3b82f6 !important; color: #fff !important; }
+        input.cs-exp {
+            width: 52px;
+            background: #0c1220;
+            color: #e7ecf5;
+            border: 1px solid #1c2538;
+            border-radius: 6px;
+            padding: 0.2rem 0.3rem;
+            font-size: 0.75rem;
+        }
+
     </style>
 </head>
 <body data-theme="dark">
@@ -3987,9 +4043,59 @@
         }
         function csApplyTier(displayName, level) {
             if (!displayName) return;
-            if (level) playerPriority[displayName] = level;
-            else delete playerPriority[displayName];
+            const key = level || '';
+            if (!key) {
+                delete playerPriority[displayName];
+                delete minExposures[displayName];
+                delete maxExposures[displayName];
+            } else {
+                const meta = (typeof PRIORITY_META !== 'undefined' && PRIORITY_META[key]) ? PRIORITY_META[key] : null;
+                playerPriority[displayName] = key;
+                if (typeof deselectedPlayers !== 'undefined') deselectedPlayers.delete(displayName);
+                if (meta) {
+                    if (meta.minExp != null) minExposures[displayName] = meta.minExp;
+                    if (meta.maxExp != null) maxExposures[displayName] = meta.maxExp;
+                }
+            }
             if (typeof updateTable === 'function') updateTable();
+            if (typeof updateCoreBar === 'function') updateCoreBar();
+            if (typeof queueSessionSave === 'function') queueSessionSave();
+            if (typeof refreshChecklist === 'function') refreshChecklist();
+            renderCheatSheet();
+        }
+        function csSetExp(displayName, which, val) {
+            if (!displayName) return;
+            const n = Math.max(0, Math.min(100, parseInt(val, 10) || 0));
+            if (which === 'min') minExposures[displayName] = n;
+            else maxExposures[displayName] = Math.max(n, minExposures[displayName] || 0);
+            if (typeof updateTable === 'function') updateTable();
+            if (typeof queueSessionSave === 'function') queueSessionSave();
+            renderCheatSheet();
+        }
+        let csStackPick = null; // { qbName, qbDisplay, team }
+        function csStartStack(displayName, team, name) {
+            csStackPick = { qbDisplay: displayName, qbName: name, team };
+            renderCheatSheet();
+        }
+        function csCancelStack() {
+            csStackPick = null;
+            renderCheatSheet();
+        }
+        function csFinishStack(wrDisplay, wrName, asBring) {
+            if (!csStackPick) return;
+            stackList.push({
+                captain: csStackPick.qbDisplay,
+                receiver: wrDisplay,
+                receiver2: null,
+                recipe: asBring ? 'qb_wr' : 'qb_wr',
+                bringBack: asBring ? 'rb' : 'none',
+                bringPlayer: asBring ? wrDisplay : null,
+                fadeGameDst: false,
+                percentage: 35
+            });
+            csStackPick = null;
+            if (typeof updateStackListDisplay === 'function') updateStackListDisplay();
+            if (typeof queueSessionSave === 'function') queueSessionSave();
             renderCheatSheet();
         }
         function csEsc(s) {
@@ -4023,6 +4129,53 @@
             if (v >= 2.4) return 'val-warm';
             return 'val-ok';
         }
+
+
+        function csStackButtons(p) {
+            const pos = csPos(p);
+            const name = csName(p);
+            if (!csStackPick) {
+                if (pos === 'QB') return `<button type="button" class="cs-tier" onclick="csStartStack(${csArg(p.displayName)}, ${csArg(p.Team||'')}, ${csArg(name)})">Stack</button>`;
+                return '';
+            }
+            if (p.displayName === csStackPick.qbDisplay) return '<span class="cs-sub">QB picked</span>';
+            if (pos === 'WR' && p.Team === csStackPick.team)
+                return `<button type="button" class="cs-tier on" onclick="csFinishStack(${csArg(p.displayName)}, ${csArg(name)}, false)">With</button>`;
+            if (pos === 'RB' && p.Team !== csStackPick.team)
+                return `<button type="button" class="cs-tier" onclick="csFinishStack(${csArg(p.displayName)}, ${csArg(name)}, true)">Bring back</button>`;
+            if (pos === 'RB' && p.Team === csStackPick.team)
+                return `<button type="button" class="cs-tier" onclick="csFinishStack(${csArg(p.displayName)}, ${csArg(name)}, false)">RB</button>`;
+            return '';
+        }
+
+        function renderCsBoard() {
+            const tiers = Object.keys(playerPriority || {}).filter(k => playerPriority[k]);
+            const stacks = (stackList || []);
+            const pick = csStackPick;
+            const tierHtml = tiers.length ? tiers.map(n => {
+                const k = playerPriority[n];
+                const mn = minExposures[n] != null ? minExposures[n] : '';
+                const mx = maxExposures[n] != null ? maxExposures[n] : '';
+                return `<span class="cs-board-chip">${csEsc((n||'').split(' (')[0])} · ${csEsc(k)} ${mn}-${mx}% <button type="button" onclick="csApplyTier(${JSON.stringify(n)}, '')">×</button></span>`;
+            }).join('') : '<span class="cs-sub">No tiers yet — use Core / High / Mid / Low on a row.</span>';
+            const stackHtml = stacks.length ? stacks.map((s,i) => {
+                const label = [s.captain, s.receiver, s.bringPlayer].filter(Boolean).map(x => String(x).split(' (')[0]).join(' + ');
+                return `<span class="cs-board-chip stack">${csEsc(label)} @ ${s.percentage}% <button type="button" onclick="csRemoveStack(${i})">×</button></span>`;
+            }).join('') : '<span class="cs-sub">No stacks yet — click Stack on a QB, then a teammate WR/RB.</span>';
+            const banner = pick ? `<div class="cs-stack-banner">Stacking <strong>${csEsc(pick.qbName)}</strong> (${csEsc(pick.team)}). Click <em>With</em> on a teammate WR or <em>Bring back</em> on the opposing RB. <button type="button" class="ghost" onclick="csCancelStack()">Cancel</button></div>` : '';
+            return `<div class="cs-board">
+                <div class="cs-board-col"><div class="k">Exposure board</div><div class="chips">${tierHtml}</div></div>
+                <div class="cs-board-col"><div class="k">Stacks from sheet</div><div class="chips">${stackHtml}</div></div>
+            </div>${banner}`;
+        }
+        function csRemoveStack(i) {
+            if (i < 0 || i >= stackList.length) return;
+            stackList.splice(i, 1);
+            if (typeof updateStackListDisplay === 'function') updateStackListDisplay();
+            if (typeof queueSessionSave === 'function') queueSessionSave();
+            renderCheatSheet();
+        }
+
         function renderCheatSheet() {
             const root = document.getElementById('csMain');
             if (!root) return;
@@ -4032,8 +4185,9 @@
                 : 'Select a slate in Builder first.';
             const rows = cheatPool();
             renderCsKpis(rows);
+            const board = renderCsBoard();
             if (!rows.length) {
-                root.innerHTML = '<p class="cs-note">No players match these filters. Lower min proj or uncheck Hide 0-proj.</p>';
+                root.innerHTML = board + '<p class="cs-note">No players match these filters. Lower min proj or uncheck Hide 0-proj.</p>';
                 return;
             }
             const maxFp = Math.max(...rows.map(csFp), 1);
@@ -4047,7 +4201,7 @@
                         ['Running backs', rows.filter(p => csPos(p)==='RB').sort((a,b)=>csFp(b)-csFp(a)).slice(0, 16)],
                         ['Pass catchers', rows.filter(p => csPos(p)==='WR' || csPos(p)==='TE').sort((a,b)=>csFp(b)-csFp(a)).slice(0, 16)]
                     ];
-                root.innerHTML = `<div class="${csView==='value' ? '' : 'cs-pos-grid'}">${groups.map(([title, list]) => `
+                root.innerHTML = board + `<div class="${csView==='value' ? '' : 'cs-pos-grid'}">${groups.map(([title, list]) => `
                     <div class="cs-pos-col">
                         <h3>${title}</h3>
                         ${list.map((p,i) => `
@@ -4063,7 +4217,7 @@
                     </div>`).join('')}</div>`;
                 return;
             }
-            root.innerHTML = `<div class="cs-table-wrap"><table id="cheatSheetTable">
+            root.innerHTML = board + `<div class="cs-table-wrap"><table id="cheatSheetTable">
                 <thead><tr>
                     <th>#</th>
                     <th onclick="csSort('name')">Player</th>
@@ -4076,7 +4230,10 @@
                     <th onclick="csSort('recYds')">Rec</th>
                     <th onclick="csSort('atd')">ATD</th>
                     <th>Tags</th>
-                    <th></th>
+                    <th>Tier</th>
+                    <th>Min</th>
+                    <th>Max</th>
+                    <th>Stack</th>
                 </tr></thead>
                 <tbody>${rows.map((p, i) => {
                     const tags = csTags(p).map(([l,c]) => `<span class="tag ${c}">${l}</span>`).join(' ');
@@ -4102,9 +4259,12 @@
                         <td class="num">${fmt(p.atd, 2)}</td>
                         <td>${tags || '—'}</td>
                         <td class="cs-act">
-                            <button type="button" class="ghost" onclick="csApplyTier(${csArg(p.displayName)}, 'core')">Core</button>
-                            <button type="button" class="ghost" onclick="csApplyTier(${csArg(p.displayName)}, 'high')">High</button>
+                            ${['core','high','mid','low'].map(lv => `<button type="button" class="${(playerPriority[p.displayName]===lv)?'cs-tier on':'cs-tier'}" onclick="csApplyTier(${csArg(p.displayName)}, '${lv}')">${lv}</button>`).join('')}
+                            ${playerPriority[p.displayName] ? `<button type="button" class="cs-tier" onclick="csApplyTier(${csArg(p.displayName)}, '')">×</button>` : ''}
                         </td>
+                        <td><input class="cs-exp" type="number" min="0" max="100" value="${minExposures[p.displayName] != null ? minExposures[p.displayName] : ''}" onchange="csSetExp(${csArg(p.displayName)}, 'min', this.value)" placeholder="min"></td>
+                        <td><input class="cs-exp" type="number" min="0" max="100" value="${maxExposures[p.displayName] != null ? maxExposures[p.displayName] : ''}" onchange="csSetExp(${csArg(p.displayName)}, 'max', this.value)" placeholder="max"></td>
+                        <td class="cs-act">${csStackButtons(p)}</td>
                     </tr>`;
                 }).join('')}</tbody></table></div>`;
         }
