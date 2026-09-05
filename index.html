@@ -2360,7 +2360,8 @@
             </div>
             <button class="ghost" data-tip="Data loads automatically on open and every 5 minutes. Click only if you need a manual refresh." onclick="refreshData()">↻ Refresh</button>
             <button class="ghost" data-tip="Save current work now (also auto-saves every 30s and when you leave the page)." onclick="saveSession(false)">💾 Save Work</button>
-            <button class="ghost" data-tip="Clear auto-saved session in this browser." onclick="clearSavedSession()">Clear Saved Work</button>
+            <button class="ghost" data-tip="Clear auto-saved session in this browser." onclick="resetAllUserInputs(false)">Reset user inputs</button>
+            <button class="ghost" data-tip="Clear saved session and reload live data." onclick="clearSavedSession()">Clear Saved Work</button>
             <span id="sessionStatus" style="font-size:0.75rem;color:var(--muted);"></span>
             <label class="upload-label" data-tip="Upload a CSV with Player + Projected FP (and optional Ownership) to override projections." title="Upload custom projections CSV">
                 📤 Projections
@@ -7089,18 +7090,62 @@
             }
         }
 
+        function resetAllUserInputs(reloadData) {
+            if (!confirm('Clear all user inputs on this slate?\n\nRemoves Core / High / Mid / Low tags, locks, excludes, groups, stacks, exposure min/max, and projection edits.')) return;
+            try { corePlayers = []; } catch (e) {}
+            try { playerPriority = {}; } catch (e) {}
+            try { forcedPlayers = new Set(); } catch (e) {}
+            try { deselectedPlayers = new Set(); } catch (e) {}
+            try { injuredPlayers = new Set(); } catch (e) {}
+            try { minExposures = {}; } catch (e) {}
+            try { maxExposures = {}; } catch (e) {}
+            try { stackList = []; } catch (e) {}
+            try { groupList = []; } catch (e) {}
+            try { customProjections = {}; } catch (e) {}
+            try { adjustedProjections = {}; } catch (e) {}
+            try { generatedLineups = []; } catch (e) {}
+            try { lineupChecked = new Set(); } catch (e) {}
+            try { buildAroundCpt = null; } catch (e) {}
+            try { lastMcResults = []; } catch (e) {}
+            try { mcChecked = new Set(); } catch (e) {}
+            try { localStorage.removeItem('cfbOptimizerSession'); } catch (e) {}
+            const srcFp = new Map();
+            (rawData || []).forEach(r => {
+                const n = r['Player Name'] || r.Player || r.baseName;
+                if (n != null && r['Projected FP'] != null) srcFp.set(String(n), Number(r['Projected FP']) || 0);
+                if (r) r._userEditedFP = false;
+            });
+            const restore = (p) => {
+                if (!p) return;
+                const key = p.baseName || p.displayName;
+                if (srcFp.has(p.baseName)) p.projectedFP = srcFp.get(p.baseName);
+                else if (srcFp.has(key)) p.projectedFP = srcFp.get(key);
+                p._userEditedFP = false;
+                p.minExposure = 0;
+                p.maxExposure = 100;
+            };
+            (allSlatePlayers || []).forEach(restore);
+            (filteredData || []).forEach(restore);
+            try { if (typeof updateStackListDisplay === 'function') updateStackListDisplay(); } catch (e) {}
+            try { if (typeof updateGroupList === 'function') updateGroupList(); } catch (e) {}
+            try { if (typeof updateCoreBar === 'function') updateCoreBar(); } catch (e) {}
+            try { if (typeof updateTable === 'function') updateTable(); } catch (e) {}
+            try { if (typeof renderCheatSheet === 'function') renderCheatSheet(); } catch (e) {}
+            try { if (typeof renderGamePreview === 'function') renderGamePreview(); } catch (e) {}
+            try { if (typeof renderSlatePreview === 'function') renderSlatePreview(); } catch (e) {}
+            try { if (typeof refreshStacksLab === 'function') refreshStacksLab(); } catch (e) {}
+            try { if (typeof refreshChecklist === 'function') refreshChecklist(); } catch (e) {}
+            const lu = document.getElementById('lineupTableContainer');
+            if (lu) lu.style.display = 'none';
+            if (reloadData && typeof fetchData === 'function') {
+                fetchData(false);
+                alert('User inputs cleared. Reloading live data.');
+            } else {
+                alert('User inputs cleared: tags, groups, stacks, locks, excludes, and projection edits.');
+            }
+        }
         function clearSavedSession() {
-            if (!confirm('Clear ALL saved work for this browser?\n\nThis removes tiers, locks, settings, AND all custom projection overrides.')) return;
-
-            localStorage.removeItem('cfbOptimizerSession');
-            // Also clear in-memory override stores so they cannot survive
-            customProjections = {};
-            adjustedProjections = {};
-
-            // Force a clean reload from the live data source
-            fetchData(false);
-
-            alert('Saved work and projection overrides cleared. Data is being reloaded from source.');
+            resetAllUserInputs(true);
         }
 
         /** Wipe all manual / uploaded projected FP overrides and restore live GitHub values. */
