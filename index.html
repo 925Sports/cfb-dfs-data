@@ -11512,6 +11512,25 @@
   setTimeout(sendHeight, 400);
   setTimeout(sendHeight, 1200);
 })();
+<script>
+(function () {
+  try {
+    if (window.parent !== window) {
+      document.documentElement.setAttribute("data-embed", "1");
+    }
+  } catch (e) {}
+
+  window.addEventListener("load", function () {
+    window.parent.postMessage({ type: "tool-ready" }, "*");
+  });
+
+  window.addEventListener("message", function (event) {
+    if (!event.data || typeof event.data !== "object") return;
+    if (event.data.type === "member") {
+      window.__wixMember = event.data.member || null;
+    }
+  });
+})();
 </script>
 </body>
 </html>
