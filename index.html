@@ -2438,7 +2438,7 @@
                 <span class="chevron">▼</span>
             </div>
             <div class="card-body howto-card">
-                <p style="margin-top:0;color:var(--muted);">Data loads on open from your CFB cheat sheet / GitHub CSVs and refreshes in the background. Filters, tiers, and locks are kept. Work auto-saves in this browser.</p>
+                <p style="margin-top:0;color:var(--muted);">Data loads on open and refreshes in the background. Filters, tiers, and locks are kept. Work auto-saves in this browser.</p>
                 <div class="sd-panel" style="margin:0.75rem 0 1rem;">
                     <div class="sd-panel-title">CFB construction recipe (research-backed)</div>
                     <p class="sd-panel-hint">DraftKings Classic: QB, 2 RB, 3 WR, FLEX (RB/WR), SUPERFLEX (QB/RB/WR). $50k. No DST. TEs are WRs.</p>
@@ -3007,7 +3007,7 @@
                     <button class="ghost" data-tip="Reset every player's min exposure to 0% and max to 100%." onclick="bulkResetExposures()">Reset Exposures</button>
                     <button class="ghost" data-tip="Clear all Force and Core Lock flags from the player pool." onclick="clearAllForces()">Clear Forces</button>
                     <button class="ghost" data-tip="Clear all Priority boosts (projection multipliers + auto min exposure)." onclick="clearAllPriorities()">Clear Priorities</button>
-                    <button class="ghost" data-tip="Wipe all manual / uploaded projection edits and restore the live GitHub values." onclick="resetProjectionsToSource()">↺ Reset Projections to Source</button>
+                    <button class="ghost" data-tip="Wipe manual projection edits and restore live values." onclick="resetProjectionsToSource()">↺ Reset Projections to Source</button>
                     <button class="ghost" data-tip="Save current settings, stacks, exposures, and locks to browser + download JSON." onclick="saveConfig()">💾 Save Config</button>
                     <button class="ghost" data-tip="Load a previously saved configuration from browser storage or a JSON file." onclick="loadConfig()">📂 Load Config</button>
                 </div>
@@ -3411,7 +3411,7 @@
             <h2 style="margin-top:0;">How to Use Properly</h2>
             <div class="howto-card">
                 <ol style="font-size:0.9rem;line-height:1.55;">
-                    <li><strong>Slate</strong> — Pick Classic or Showdown. Data loads from GitHub or the CFB Google Sheet fallback.</li>
+                    <li><strong>Slate</strong> — Pick Classic or Showdown. Data loads automatically.</li>
                     <li><strong>Pool</strong> — Filter players. Left-click name = stack partners. Right-click = Force / Core / Exclude / Injury / Game Stack.</li>
                     <li><strong>Presets</strong> — Hover any preset for what it optimizes (Cash, GPP, Leverage, etc.).</li>
                     <li><strong>Constraints</strong> — Max exposure, ownership range, min unique players, multi-entry target.</li>
@@ -5665,7 +5665,7 @@
                 },
                 {
                     title: '1. Choose your slate',
-                    body: 'Data loads automatically from GitHub. Open Slate and pick Classic (main) or Showdown (single-game). Showdown presets will auto-switch to a Showdown slate when available.',
+                    body: 'Data loads automatically. Open Slate and pick Classic (main) or Showdown (single-game). Showdown presets will auto-switch to a Showdown slate when available.',
                     expand: 'settingsCard',
                     target: '#slateDropdown'
                 },
@@ -6779,16 +6779,17 @@
                     header: true, skipEmptyLines: true, dynamicTyping: true,
                     complete: (results) => {
                         try {
-                        if (results.errors.length > 0 || results.data.length === 0) {
+                        const rowsIn = (results.data || []).filter(r => r && (r['Player Name'] || r.Name || r.player));
+                        if (!rowsIn.length) {
                             rawData = [];
                             filteredData = [];
                             allSlatePlayers = [];
                             availableSlates = [];
-                            setDataStatus('error', 'No valid data from source');
-                            if (!silent) alert('No valid player data returned from the live source. Check the GitHub CSV or try Refresh.');
-                            document.getElementById('tableBody').innerHTML = '<tr><td colspan="13">No data loaded</td></tr>';
+                            setDataStatus('error', 'Unable to load players');
+                            document.getElementById('tableBody').innerHTML = '<tr><td colspan="13">Unable to load players. Tap Refresh.</td></tr>';
+                            hideLoadingUI();
                         } else {
-                            rawData = results.data.map(row => {
+                            rawData = rowsIn.map(row => {
                                 let gameStartTimeStr = row['Game Start Time (PLAYER_DATA2)'] || 'n/a';
                                 let gameStartTime;
                                 if (gameStartTimeStr !== 'n/a') {
@@ -6968,8 +6969,7 @@
                             rawData = [];
                             filteredData = [];
                             allSlatePlayers = [];
-                            setDataStatus('error', 'CSV parse error');
-                            alert('Failed to parse player data. Check the live CSV format.');
+                            setDataStatus('error', 'Unable to load players');
                             hideLoadingUI();
                         }
                     }
@@ -6982,8 +6982,7 @@
                     rawData = [];
                     filteredData = [];
                     allSlatePlayers = [];
-                    setDataStatus('error', 'Load failed');
-                    alert('Error loading live data: ' + (err.message || err) + '\n\nNo mock data will be shown. Try Refresh.');
+                    setDataStatus('error', 'Unable to load players');
                     hideLoadingUI();
                 } else {
                     setDataStatus('error', 'Refresh failed – keeping current data');
