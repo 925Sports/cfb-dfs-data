@@ -9076,13 +9076,44 @@
 
             const uniqueNames = new Set();
             let latestTime = -Infinity;
+            const startMs = (p) => {
+                const g = p && p.gameStartTime;
+                if (!g) return NaN;
+                if (typeof g.getTime === 'function') return g.getTime();
+                const n = Date.parse(g);
+                return Number.isFinite(n) ? n : NaN;
+            };
             if (!isShowdown) {
                 filteredData.forEach(p => {
-                    if (p.gameStartTime.getTime() > latestTime) latestTime = p.gameStartTime.getTime();
+                    const ms = startMs(p);
+                    if (Number.isFinite(ms) && ms > latestTime) latestTime = ms;
                 });
             }
 
-            filteredData.forEach(player => {
+            const mustKeep = new Set([
+                ...forcedInclude,
+                ...corePlayers,
+                ...Object.keys(playerPriority || {}).filter(k => playerPriority[k]),
+                ...(stackList || []).flatMap(s => [s.captain, s.receiver, s.receiver2, s.bringPlayer]),
+                ...(groupList || []).flatMap(g => g.players || [])
+            ].filter(Boolean));
+            const byPos = { QB: [], RB: [], WR: [], TE: [], OTHER: [] };
+            filteredData.forEach(p => {
+                if (deselectedPlayers.has(p.displayName)) return;
+                if (!isShowdown && (p.Position === 'DST' || p.Position === 'K')) return;
+                const bucket = byPos[p.Position] ? p.Position : 'OTHER';
+                byPos[bucket].push(p);
+            });
+            Object.keys(byPos).forEach(k => byPos[k].sort((a,b) => (b.projectedFP||0) - (a.projectedFP||0)));
+            const cap = isShowdown ? { QB: 12, RB: 16, WR: 20, TE: 8, OTHER: 20 } : { QB: 14, RB: 22, WR: 32, TE: 10, OTHER: 8 };
+            const poolSet = new Set();
+            Object.entries(byPos).forEach(([pos, arr]) => {
+                arr.slice(0, cap[pos] || 8).forEach(p => poolSet.add(p.displayName));
+            });
+            mustKeep.forEach(nm => poolSet.add(nm));
+            const solverPlayers = filteredData.filter(p => poolSet.has(p.displayName) || poolSet.has(p.baseName));
+
+            solverPlayers.forEach(player => {
                 const displayName = player.displayName;
                 if (deselectedPlayers.has(displayName)) return;
 
@@ -9122,7 +9153,7 @@
 
                 const eligibleSlots = isShowdown ? [player.slotType] : getEligibleSlots(player.positions);
                 eligibleSlots.forEach(slot => {
-                    if (slot === 'FLEX' && !isShowdown && player.gameStartTime.getTime() < latestTime) {
+                    if (slot === 'FLEX' && !isShowdown && Number.isFinite(startMs(player)) && startMs(player) < latestTime && latestTime !== -Infinity) {
                         adjustedPoints *= 0.001; // heavily penalize early games in FLEX
                     }
                     if (slot === 'SFLEX' && !isShowdown && player.positions.includes('QB')) {
@@ -9675,8 +9706,9 @@
             return model;
         }
 
-        function cfbQbsAreStacked(lineup) {
-            if (!lineup) return true;
+        function cfbQbsAreStacked(lineupWrap) {
+            if (!lineupWrap) return true;
+            const lineup = lineupWrap.lineup || lineupWrap;
             const slots = (typeof CLASSIC_SLOTS !== 'undefined') ? CLASSIC_SLOTS : ['QB','RB1','RB2','WR1','WR2','WR3','FLEX','SFLEX'];
             const recs = slots.map(s => lineup[s]).filter(Boolean).map(sp =>
                 (filteredData || []).find(p => p.displayName === sp.name || p.baseName === sp.baseName)
@@ -10226,8 +10258,13 @@
             // ---- Performance guards (prevent main-thread freeze) ----
             // Failed solves used to loop 180–220 times with ZERO yields → page lockup.
             const MAX_CONSEC_FAIL = isShowdown ? 28 : 40;
-            const MAX_TOTAL_ATTEMPTS = Math.max(80, numLineups * (isShowdown ? 6 : 8));
-            const RUN_TIME_BUDGET_MS = isShowdown ? 45000 : 60000;
+            const nGamesEst = (typeof csGameCount === 'function') ? csGameCount(filteredData) : 8;
+            const MAX_TOTAL_ATTEMPTS = Math.max(120, numLineups * (isShowdown ? 8 : 12));
+            const RUN_TIME_BUDGET_MS = isShowdown ? 45000 : 90000;
+            if (!isShowdown && nGamesEst <= 5 && minUniquePlayers > 2) {
+                logMessages.push(`Small slate (${nGamesEst} games): uniqueness ${minUniquePlayers} → 2 so 20 lineups can fill.`);
+                minUniquePlayers = 2;
+            }
             const runStartedAt = Date.now();
             let totalAttempts = 0;
             let globalTempMin = minSalary;
@@ -10288,7 +10325,7 @@
                         return null;
                     }
                     const lineup = buildLineup(result, lineupSet, isShowdown);
-                    if (lineup && !isShowdown && (document.getElementById('classicSflexDoubleStack')?.checked || document.getElementById('autoStack')?.checked || document.getElementById('classicForcePassStack')?.checked)) {
+                    if (lineup && !isShowdown && document.getElementById('classicSflexDoubleStack')?.checked) {
                         if (!cfbQbsAreStacked(lineup)) return null;
                     }
                     if (!validLineup(lineup)) return null;
@@ -10371,13 +10408,17 @@
                 globalTempMin = 0;
                 globalRelaxed = 1;
                 fails = 0;
+                const sflexBox = document.getElementById('sflexQbOnly');
+                const savedSflex = sflexBox ? sflexBox.checked : null;
+                if (sflexBox && generatedLineups.length < Math.ceil(numLineups * 0.5)) sflexBox.checked = false;
                 updateProgress((generatedLineups.length / numLineups) * 100, 'Soft fill (relaxed)…');
-                while (generatedLineups.length < numLineups && fails < 20 && !abortLineupGeneration) {
+                while (generatedLineups.length < numLineups && fails < 40 && !abortLineupGeneration) {
                     const got = await trySolve({ label: 'Soft fill' });
                     if (got) fails = 0;
                     else fails++;
                 }
                 minUniquePlayers = savedUnique;
+                if (sflexBox && savedSflex != null) sflexBox.checked = savedSflex;
             }
 
             if (!stillHaveBudget() && !abortLineupGeneration) {
