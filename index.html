@@ -2605,7 +2605,7 @@
                     <button type="button" class="ghost" data-tip="One lineup · highest floor · leftover ≤$500 · stacks off · eat chalk. Fire into 30 H2Hs." onclick="applyRecipe('cash_floor_lock')">Cash floor lock</button>
                     <button type="button" class="ghost" data-tip="Cash + FLEX = RB. Use when 3 live RBs have 15+ opportunities." onclick="applyRecipe('cash_3rb_floor')">Cash 3RB floor</button>
                     <button type="button" class="ghost" data-tip="Cash + raise min% on the chalkiest skill players. Do not fade a lock because he is chalk." onclick="applyRecipe('cash_eat_chalk')">Eat the chalk</button>
-                    <button type="button" class="ghost" data-tip="Cash-style: force 1 same-team PC, no bring-back, keep opp-DST fade." onclick="applyRecipe('classic_cash_stack')">Classic cash stack</button>
+                    <button type="button" class="ghost" data-tip="Cash-style: force 1 same-team PC, no bring-back. CFB Classic has no DST." onclick="applyRecipe('classic_cash_stack')">Classic cash stack</button>
                     <span class="recipe-group-label">GPP (Milly · large field)</span>
                     <button type="button" class="ghost" data-tip="Classic GPP style + max exp ~40%. Next: tag 6–12 players with High/Mid tiers." onclick="applyRecipe('classic_gpp_simple')">Classic GPP starter</button>
                     <button type="button" class="ghost" data-tip="150-max Milly shape: unique 5, QB+2 PCs, opposing RB bring-back, fade both game DSTs." onclick="applyRecipe('gpp_milly_winner')">Large-field GPP shape</button>
@@ -2613,7 +2613,7 @@
                     <button type="button" class="ghost" data-tip="GPP + QB + 1 PC only (mini-stack). More room for 4 uniques." onclick="applyRecipe('gpp_mini_stack')">GPP mini-stack</button>
                     <button type="button" class="ghost" data-tip="Cap chalk ~40% and boost &lt;10% owned names so the pool can produce 4+ uniques." onclick="applyRecipe('gpp_four_uniques')">Four uniques mix</button>
                     <button type="button" class="ghost" data-tip="Classic GPP + QB must have WR+TE. Next: suggest stacks or pick QBs." onclick="applyRecipe('classic_3man')">Classic QB+WR stack</button>
-                    <button type="button" class="ghost" data-tip="Classic GPP + 2 pass catchers + opponent bring-back + fade both game DSTs." onclick="applyRecipe('classic_game_stack')">Classic game stack</button>
+                    <button type="button" class="ghost" data-tip="Classic GPP + 2 pass catchers + opponent RB bring-back. No DST on CFB Classic." onclick="applyRecipe('classic_game_stack')">Classic game stack</button>
                     <span class="recipe-group-label">CFB scripts (uses live lines)</span>
                     <button type="button" class="ghost" data-tip="High-tier skill players in games with O/U 55 or higher." onclick="applyCfbScript('high_total')">High totals 55+</button>
                     <button type="button" class="ghost" data-tip="High-tier RBs on teams favored by 7 or more. Clock-killing / smash-spot backs." onclick="applyCfbScript('fav_rb')">Favorite RBs (−7)</button>
@@ -2746,27 +2746,13 @@
                 <!-- Classic correlation rules (mirrors Showdown CPT rules) -->
                 <div id="classicCorrRules" class="sd-panel" style="margin-top:0.75rem;display:none;">
                     <div class="sd-panel-title">Classic correlation rules</div>
-                    <p class="sd-panel-hint">Optional hard rules for Main / Classic slates. Similar spirit to Showdown CPT rules. Turn off anything that fights your stacks or ownership band.</p>
+                    <p class="sd-panel-hint">CFB Classic has no DST or kicker — only QB, 2 RB, 3 WR, FLEX, S-FLEX. These rules only apply to skill players.</p>
                     <div class="sd-rule-grid">
-                        <label class="sd-rule">
-                            <input type="checkbox" id="classicNoOppDstWithQb" checked>
-                            <span class="sd-rule-text">
-                                <strong>QB → no opposing DST</strong>
-                                <small>Avoid stacking your QB against the defense he faces</small>
-                            </span>
-                        </label>
                         <label class="sd-rule">
                             <input type="checkbox" id="classicForcePassStack" >
                             <span class="sd-rule-text">
                                 <strong>QB → ≥1 same-team WR/TE</strong>
-                                <small>Same as the Force QB + Pass Catcher checkbox (kept in sync)</small>
-                            </span>
-                        </label>
-                        <label class="sd-rule">
-                            <input type="checkbox" id="classicRbDstStack" >
-                            <span class="sd-rule-text">
-                                <strong>Prefer RB + same-team DST</strong>
-                                <small>Soft boost when both appear (positive script lean)</small>
+                                <small>Starter QB must be stacked with a teammate pass catcher</small>
                             </span>
                         </label>
                         <label class="sd-rule">
@@ -2784,6 +2770,8 @@
                             </span>
                         </label>
                         <label class="sd-rule">
+                            <input type="checkbox" id="classicNoOppDstWithQb" style="display:none">
+                            <input type="checkbox" id="classicRbDstStack" style="display:none">
                             <input type="checkbox" id="classicSflexDoubleStack">
                             <span class="sd-rule-text">
                                 <strong>Superflex double stack</strong>
@@ -9328,8 +9316,10 @@
                 }
             });
 
-            // Force QB stack
-            if (forceQBStack && !isShowdown) {
+            // Force QB stack — skip the heavy LP when Superflex double-stack is on
+            // (that path is validated after each lineup instead; the LP version froze the tab).
+            const sflexDouble = !isShowdown && document.getElementById('classicSflexDoubleStack')?.checked;
+            if (forceQBStack && !isShowdown && !sflexDouble) {
                 const teams = [...new Set(filteredData.map(p => p.Team))];
                 teams.forEach(team => {
                     const qbs = filteredData.filter(p => p.Team === team && p.Position === 'QB');
@@ -9685,6 +9675,17 @@
             return model;
         }
 
+        function cfbQbsAreStacked(lineup) {
+            if (!lineup) return true;
+            const slots = (typeof CLASSIC_SLOTS !== 'undefined') ? CLASSIC_SLOTS : ['QB','RB1','RB2','WR1','WR2','WR3','FLEX','SFLEX'];
+            const recs = slots.map(s => lineup[s]).filter(Boolean).map(sp =>
+                (filteredData || []).find(p => p.displayName === sp.name || p.baseName === sp.baseName)
+            ).filter(Boolean);
+            const qbs = recs.filter(p => String(p.Position || '') === 'QB');
+            if (!qbs.length) return true;
+            const pcs = recs.filter(p => p.Position === 'WR' || p.Position === 'TE');
+            return qbs.every(qb => pcs.some(pc => pc.Team === qb.Team && pc.displayName !== qb.displayName));
+        }
         function buildLineup(result, lineupSet, isShowdown) {
             const lineup = isShowdown ? { captain: null, flex: [] } : {};
             let totalSalary = 0, totalPoints = 0, totalOwnership = 0;
@@ -10137,7 +10138,11 @@
             const forceShowdownStack = isShowdown && document.getElementById('showdownAutoStack').checked;
             updateLineupTableHeaders(isShowdown);
 
-            const availablePlayers = filteredData.filter(r => !deselectedPlayers.has(r.displayName)).map(r => ({
+            const availablePlayers = filteredData.filter(r => {
+                if (deselectedPlayers.has(r.displayName)) return false;
+                if (!isShowdown && (r.Position === 'DST' || r.Position === 'K')) return false;
+                return true;
+            }).map(r => ({
                 name: r.baseName, baseName: r.baseName, displayName: r.displayName, id: r.id,
                 salary: r.salary, points: r.projectedFP, maxExposure: r.maxExposure, minExposure: r.minExposure,
                 slotType: isShowdown ? (r.displayName.endsWith(' (CPT)') ? 'Captain' : 'FLEX') : null,
@@ -10283,6 +10288,9 @@
                         return null;
                     }
                     const lineup = buildLineup(result, lineupSet, isShowdown);
+                    if (lineup && !isShowdown && (document.getElementById('classicSflexDoubleStack')?.checked || document.getElementById('autoStack')?.checked || document.getElementById('classicForcePassStack')?.checked)) {
+                        if (!cfbQbsAreStacked(lineup)) return null;
+                    }
                     if (!validLineup(lineup)) return null;
                     if (enforceStack && stackCap && stackRec) {
                         const names = isShowdown
@@ -11314,5 +11322,3 @@
     </script>
 </body>
 </html>
-
-
