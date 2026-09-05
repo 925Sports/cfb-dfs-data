@@ -4835,46 +4835,15 @@
             return toDkAbbr(best);
         }
 
-        function parseStartToCT(str) {
-            if (!str || str === 'n/a') return null;
-            const s = String(str).replace(/\s*CT\s*$/i,'').trim();
-            const m = s.match(/(\d{1,2})\/(\d{1,2})\/(\d{2,4})(?:\s+(\d{1,2}):(\d{2})\s*(AM|PM))?/i);
-            if (!m) {
-                const d = new Date(s);
-                return Number.isFinite(d.getTime()) ? d : null;
-            }
-            let yr = parseInt(m[3], 10);
-            if (yr < 100) yr += 2000;
-            let hour = m[4] ? parseInt(m[4], 10) : 12;
-            const min = m[5] ? parseInt(m[5], 10) : 0;
-            const ap = (m[6] || 'PM').toUpperCase();
-            if (ap === 'PM' && hour < 12) hour += 12;
-            if (ap === 'AM' && hour === 12) hour = 0;
-            // Stored strings were ET before the CT switch. If the text has no CT marker
-            // and hour is 13–16 for a "Night" slate, still classify from the wall clock
-            // after shifting ET → CT (-1h).
-            const hasCT = /CT/i.test(String(str));
-            if (!hasCT) hour = (hour + 24 - 1) % 24;
-            return new Date(yr, parseInt(m[1],10)-1, parseInt(m[2],10), hour, min);
-        }
-        function cfbWindowFromHour(h) {
-            if (h >= 17) return 'Night';
-            if (h >= 12) return 'Afternoon';
-            return 'Morning';
-        }
-        function slateDisplayName(role) {
+                function slateDisplayName(role) {
+            const raw = String(role || '');
+            if (!raw) return 'Slate';
             const rows = (rawData || []).filter(r => r.Role === role);
-            if (String(role).includes('Showdown')) return String(role);
-            const times = rows.map(r => parseStartToCT(r.startDisplay || r.gameStartTime)).filter(Boolean);
-            if (!times.length) return String(role).replace(/Night/i, 'Afternoon');
-            const min = times.reduce((a,b) => a < b ? a : b);
-            const games = new Set(rows.map(r => [r.Team, r.Opponent].filter(Boolean).sort().join('|'))).size;
-            const win = cfbWindowFromHour(min.getHours());
-            const md = (min.getMonth()+1) + '/' + min.getDate();
-            const hm = min.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' });
-            return md + ' ' + win + ' ' + hm + ' CT' + (games ? ' · ' + games + ' games' : '');
+            const header = (rows[0] && (rows[0].slateHeader || rows[0]['Slate Header'])) || '';
+            const label = header || raw;
+            return label.replace(/\s+/g, ' ').trim();
         }
-        function parseOddsCsv(text) {
+function parseOddsCsv(text) {
             oddsGames = [];
             oddsByAbbrev = new Map();
             if (!text) return;
@@ -6826,7 +6795,11 @@
 
                                 let pos = row['Position'] || '';
                                 if (pos === 'TE') pos = 'WR';
-                                const role = row['Role'] || row['Slate Type'] || row['Slate Header'] || '';
+                                const header = row['Slate Header'] || '';
+                                const roleRaw = row['Role'] || row['Slate Type'] || header || '';
+                                const role = (header && /Games|Showdown|AM|PM|CT/i.test(String(header)))
+                                    ? header
+                                    : roleRaw;
                                 const extraOwn = parseFloat(row['Ownership'] || row['RST%'] || row['pOWN'] || 0) || 0;
                                 if (!own && extraOwn) own = extraOwn;
                                 let startStr = row['Game Start Time (PLAYER_DATA2)'] || row['Game Start Time (DRAFTTABLE)'] || row['Game Start Time'] || 'n/a';
@@ -6868,7 +6841,8 @@
                                     venue: row['Venue Name (Underdog)'] || '',
                                     venueType: row['Venue Type (Underdog)'] || '',
                                     broadcasts: row['Broadcasts (Underdog)'] || '',
-                                    startDisplay: row['Game Start Time (DRAFTTABLE)'] || row['Game Start Time'] || ''
+                                    startDisplay: row['Game Start Time (DRAFTTABLE)'] || row['Game Start Time'] || '',
+                                    slateHeader: row['Slate Header'] || row['Slate Type'] || ''
                                 };
                             }).filter(row => row['Player Name']);
 
