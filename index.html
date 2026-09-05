@@ -2391,38 +2391,7 @@
         }
         .heat-pill.empty { color: var(--muted); background: transparent; border-color: transparent; box-shadow: none; }
 
-    
-        /* Embed / iframe stability — stops width-scrollbar bounce */
-        html {
-            scrollbar-gutter: stable;
-        }
-        html[data-embed="1"],
-        html[data-embed="1"] body {
-            overflow-x: hidden;
-            max-width: 100%;
-            width: 100%;
-        }
-        html[data-embed="1"] body {
-            align-items: stretch;
-        }
-        html[data-embed="1"] .app-header,
-        html[data-embed="1"] .main {
-            max-width: 100%;
-            width: 100%;
-            box-sizing: border-box;
-        }
-        html[data-embed="1"] .sticky-run-bar {
-            left: 0;
-            right: 0;
-            width: 100%;
-            max-width: 100%;
-        }
-        html[data-embed="1"] .table-wrapper,
-        html[data-embed="1"] .cs-table-wrap {
-            overflow-x: auto;
-            max-width: 100%;
-        }
-</style>
+    </style>
 </head>
 <body data-theme="dark">
     <!-- Header -->
@@ -11453,65 +11422,7 @@
             downloadDkCsv(lineups, 'DK_NFL_sim_checked');
         }
     </script>
-<script>
-/* 925 Sports — Wix embed height reporter (stable, no bounce) */
-(function () {
-  var embedded = false;
-  try { embedded = window.parent !== window; } catch (e) { embedded = true; }
-  if (embedded) {
-    document.documentElement.setAttribute("data-embed", "1");
-  }
 
-  var lastSent = 0;
-  var timer = null;
-
-  function currentHeight() {
-    var el = document.documentElement;
-    var body = document.body;
-    return Math.ceil(Math.max(
-      body ? body.scrollHeight : 0,
-      el ? el.scrollHeight : 0,
-      body ? body.offsetHeight : 0,
-      el ? el.offsetHeight : 0
-    ));
-  }
-
-  function sendHeight() {
-    if (!embedded) return;
-    var height = currentHeight() + 16;
-    // Ignore tiny changes — this is the bounce killer
-    if (Math.abs(height - lastSent) < 24) return;
-    // Prefer growing; only shrink if it dropped a lot (tab change)
-    if (lastSent && height < lastSent && (lastSent - height) < 80) return;
-    lastSent = height;
-    window.parent.postMessage({ type: "tool-height", height: height }, "*");
-  }
-
-  function queueHeight() {
-    if (timer) clearTimeout(timer);
-    timer = setTimeout(sendHeight, 150);
-  }
-
-  window.addEventListener("load", function () {
-    sendHeight();
-    window.parent.postMessage({ type: "tool-ready" }, "*");
-  });
-  window.addEventListener("resize", queueHeight);
-
-  if (window.ResizeObserver && document.body) {
-    new ResizeObserver(queueHeight).observe(document.body);
-  }
-
-  window.addEventListener("message", function (event) {
-    if (!event.data || typeof event.data !== "object") return;
-    if (event.data.type === "member") {
-      window.__wixMember = event.data.member || null;
-    }
-  });
-
-  setTimeout(sendHeight, 400);
-  setTimeout(sendHeight, 1200);
-})();
 <script>
 (function () {
   try {
@@ -11532,5 +11443,103 @@
   });
 })();
 </script>
+<script>
+(function () {
+  var slice = { top: 0, height: window.innerHeight };
+  var POPUP_SEL = ".modal, #constraintWarnModal, .loading-overlay, .tour-overlay";
+
+  function isOpen(el) {
+    if (!el) return false;
+    if (el.id === "constraintWarnModal") return document.body.contains(el);
+    if (el.classList.contains("loading-overlay")) return el.classList.contains("active");
+    if (el.classList.contains("tour-overlay")) return el.classList.contains("active");
+    if (el.classList.contains("modal")) {
+      return el.style.display === "block" || window.getComputedStyle(el).display === "block";
+    }
+    return false;
+  }
+
+  function clearPopupStyles(el) {
+    if (!el || !el.dataset || el.dataset.embedPos !== "1") return;
+    el.style.position = "";
+    el.style.left = "";
+    el.style.right = "";
+    el.style.top = "";
+    el.style.height = "";
+    el.style.zIndex = "";
+    el.style.display = "";
+    el.style.alignItems = "";
+    el.style.justifyContent = "";
+    delete el.dataset.embedPos;
+    var box = el.querySelector(".loading");
+    if (box && box.dataset.embedPos === "1") {
+      box.style.position = "";
+      box.style.top = "";
+      box.style.left = "";
+      box.style.right = "";
+      box.style.transform = "";
+      box.style.marginTop = "";
+      delete box.dataset.embedPos;
+    }
+  }
+
+  function placePopups() {
+    document.querySelectorAll(POPUP_SEL).forEach(function (el) {
+      if (!isOpen(el)) {
+        clearPopupStyles(el);
+        return;
+      }
+      el.dataset.embedPos = "1";
+      el.style.position = "absolute";
+      el.style.left = "0";
+      el.style.right = "0";
+      el.style.top = Math.max(0, slice.top) + "px";
+      el.style.height = Math.max(400, slice.height) + "px";
+      el.style.zIndex = "10000";
+      if (el.classList.contains("loading-overlay") || el.id === "constraintWarnModal") {
+        el.style.display = "flex";
+        el.style.alignItems = "center";
+        el.style.justifyContent = "center";
+      }
+      var box = el.querySelector(".loading");
+      if (box) {
+        box.dataset.embedPos = "1";
+        box.style.position = "relative";
+        box.style.top = "auto";
+        box.style.left = "auto";
+        box.style.right = "auto";
+        box.style.transform = "none";
+        box.style.marginTop = "0";
+      }
+      var inner = el.querySelector(".modal-content, .tour-panel");
+      if (inner) {
+        inner.style.marginTop = "16px";
+        inner.style.maxHeight = Math.max(320, slice.height - 32) + "px";
+        inner.style.overflow = "auto";
+      }
+    });
+  }
+
+  window.addEventListener("message", function (event) {
+    if (!event.data || event.data.type !== "visible-slice") return;
+    slice.top = Math.max(0, Number(event.data.top) || 0);
+    slice.height = Math.max(400, Number(event.data.height) || window.innerHeight);
+    placePopups();
+  });
+
+  new MutationObserver(function () {
+    if (document.querySelector(".loading-overlay.active, .modal[style*='block'], #constraintWarnModal, .tour-overlay.active")) {
+      window.parent.postMessage({ type: "need-visible-slice" }, "*");
+    }
+    placePopups();
+  }).observe(document.body, {
+    childList: true,
+    subtree: true,
+    attributes: true,
+    attributeFilter: ["style", "class"]
+  });
+})();
+</script>
+
 </body>
 </html>
