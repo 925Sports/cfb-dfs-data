@@ -4836,12 +4836,9 @@
         }
 
                 function slateDisplayName(role) {
-            const raw = String(role || '');
-            if (!raw) return 'Slate';
-            const rows = (rawData || []).filter(r => r.Role === role);
-            const header = (rows[0] && (rows[0].slateHeader || rows[0]['Slate Header'])) || '';
-            const label = header || raw;
-            return label.replace(/\s+/g, ' ').trim();
+            const s = String(role || '');
+            if (!s) return 'Select Slate';
+            return s.replace(',', ' (').replace(/$/, ')');
         }
 function parseOddsCsv(text) {
             oddsGames = [];
@@ -6795,11 +6792,7 @@ function parseOddsCsv(text) {
 
                                 let pos = row['Position'] || '';
                                 if (pos === 'TE') pos = 'WR';
-                                const header = row['Slate Header'] || '';
-                                const roleRaw = row['Role'] || row['Slate Type'] || header || '';
-                                const role = (header && /Games|Showdown|AM|PM|CT/i.test(String(header)))
-                                    ? header
-                                    : roleRaw;
+                                const role = row['Role'] || row['Slate Type'] || row['Slate Header'] || '';
                                 const extraOwn = parseFloat(row['Ownership'] || row['RST%'] || row['pOWN'] || 0) || 0;
                                 if (!own && extraOwn) own = extraOwn;
                                 let startStr = row['Game Start Time (PLAYER_DATA2)'] || row['Game Start Time (DRAFTTABLE)'] || row['Game Start Time'] || 'n/a';
