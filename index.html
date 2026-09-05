@@ -2342,6 +2342,11 @@
         .sp-tag.shoot { background:#064e3b; color:#6ee7b7; }
         .sp-note { font-size:0.75rem; color:var(--muted); margin:0 0 0.5rem; }
 
+
+        #slatePreviewRoot .settings-section { margin: 0.45rem 0; }
+        #slatePreviewRoot .settings-section-body { padding-top: 0.15rem; }
+        #slatePreviewRoot .sp-row { border-color: #1c2538; }
+
     </style>
 </head>
 <body data-theme="dark">
@@ -2731,6 +2736,13 @@
                             <span class="sd-rule-text">
                                 <strong>QB → 2 pass catchers</strong>
                                 <small>If a QB is used, require ≥2 same-team WR/TE</small>
+                            </span>
+                        </label>
+                        <label class="sd-rule">
+                            <input type="checkbox" id="classicSflexDoubleStack">
+                            <span class="sd-rule-text">
+                                <strong>Superflex double stack</strong>
+                                <small>Every QB in the lineup — starter and S-FLEX — needs a same-team WR/TE. Click this to run two stacks.</small>
                             </span>
                         </label>
                         <label class="sd-rule">
@@ -3981,8 +3993,10 @@
                 if (typeof applyPreset === 'function') applyPreset('classic_gpp');
                 const a = document.getElementById('autoStack');
                 const c = document.getElementById('classicForcePassStack');
+                const s = document.getElementById('classicSflexDoubleStack');
                 if (a) a.checked = true;
                 if (c) c.checked = true;
+                if (s) s.checked = true;
                 if (typeof setNextStep === 'function') setNextStep('Superflex double stack on: every QB (starter + S-FLEX) needs a same-team WR/TE. Add two named stacks in Stacks Lab if you want specific pairs, then Run.');
                 return;
             }
@@ -5015,28 +5029,45 @@
 
             const qbs = pool.filter(p => p.Position==='QB').sort((a,b)=>(b.projectedFP||0)-(a.projectedFP||0));
             const stacks = [];
-            qbs.slice(0, 8).forEach(qb => {
-                const wr = pool.filter(p => p.Team===qb.Team && p.Position==='WR').sort((a,b)=>(b.projectedFP||0)-(a.projectedFP||0))[0];
-                if (!wr) return;
-                stacks.push({ qb, wr, fp: (qb.projectedFP||0)+(wr.projectedFP||0) });
+            qbs.slice(0, 10).forEach(qb => {
+                pool.filter(p => p.Team===qb.Team && (p.Position==='WR' || p.Position==='TE') && p.displayName !== qb.displayName)
+                    .sort((a,b)=>(b.projectedFP||0)-(a.projectedFP||0))
+                    .slice(0, 3)
+                    .forEach(wr => {
+                        const fp = (qb.projectedFP||0)+(wr.projectedFP||0);
+                        const sal = (qb.salary||0)+(wr.salary||0);
+                        const val = sal > 0 ? fp / (sal / 1000) : 0;
+                        stacks.push({ qb, wr, fp, sal, val });
+                    });
             });
-            stacks.sort((a,b)=>b.fp-a.fp);
-            const stackHtml = stacks.slice(0, 8).map((s,i) => `<div class="sp-row"><span>${i+1}. ${s.qb.displayName.split(' (')[0]} + ${s.wr.displayName.split(' (')[0]} <span class="cs-sub">${s.qb.Team}</span></span><span>${s.fp.toFixed(1)} FP</span></div>`).join('');
+            const nm = (p) => String(p.displayName||'').split(' (')[0];
+            const stackHtml = stacks.slice().sort((a,b)=>b.fp-a.fp).slice(0, 8).map((s,i) =>
+                `<div class="sp-row"><span>${i+1}. ${nm(s.qb)} + ${nm(s.wr)} <span class="cs-sub">${s.qb.Team}</span></span><span>${s.fp.toFixed(1)} FP</span></div>`
+            ).join('');
+            const valueStackHtml = stacks.slice().sort((a,b)=>b.val-a.val).slice(0, 8).map((s,i) =>
+                `<div class="sp-row"><span>${i+1}. ${nm(s.qb)} + ${nm(s.wr)} <span class="cs-sub">${s.qb.Team}</span></span><span>${s.val.toFixed(2)}x · ${s.fp.toFixed(1)} FP</span></div>`
+            ).join('');
 
-            const sdNote = isSd ? `<div class="sp-card" style="grid-column:1/-1;"><h3>Showdown rules check</h3>
-                <p class="sp-note">CFB Showdown is the same shape as NFL Showdown: <strong>1 CPT + 5 FLEX</strong>, $50k, CPT scores at 1.5x. There is no Superflex. Stack the CPT with a same-game teammate; bring back the other side’s RB if the game is not a blowout.</p></div>` : `<div class="sp-card" style="grid-column:1/-1;"><h3>Classic CFB rules check</h3>
-                <p class="sp-note">Roster is QB, RB, RB, WR, WR, WR, FLEX, <strong>S-FLEX</strong>. S-FLEX is usually a second QB. If you play two QBs, stack both (Superflex double stack recipe). Cap same-team WRs at 2 on large slates.</p></div>`;
-
-            root.innerHTML = sdNote + `<div class="sp-grid">
-                <section class="sp-card"><h3>Highest implied team totals</h3><p class="sp-note">From consensus O/U and spread. Highest = more scoring chances.</p>${teamRows}</section>
-                <section class="sp-card"><h3>Blowouts / volatility</h3><p class="sp-note">|Spread| 17.5+ — starters sit, backups and cheap WRs swing.</p>${blowHtml}</section>
-                <section class="sp-card"><h3>Pass-heavy scripts</h3>${passHtml}</section>
-                <section class="sp-card"><h3>Run-heavy scripts</h3>${runHtml}</section>
-                <section class="sp-card"><h3>Top QBs</h3>${topBlock('QB')}</section>
-                <section class="sp-card"><h3>Top RBs</h3>${topBlock('RB')}</section>
-                <section class="sp-card"><h3>Top WRs</h3>${topBlock('WR')}</section>
-                <section class="sp-card"><h3>Best potential stacks</h3><p class="sp-note">QB + WR1 by combined projection.</p>${stackHtml}</section>
-            </div>`;
+            const rulesBody = isSd
+                ? `<p class="sp-note">CFB Showdown is CPT + 5 FLEX, $50k, CPT at 1.5x. No Superflex. Stack the CPT with a teammate; bring back the other RB if it is not a blowout.</p>`
+                : `<p class="sp-note">Classic is QB, RB, RB, WR, WR, WR, FLEX, S-FLEX. S-FLEX is usually a second QB — stack both if you play two. Cap same-team WRs at 2 on large slates.</p>`;
+            const sec = (title, body, open) =>
+                `<details class="settings-section sp-sec"${open ? ' open' : ''}>
+                    <summary class="settings-section-title">${title}</summary>
+                    <div class="settings-section-body">${body}</div>
+                </details>`;
+            root.innerHTML = [
+                sec(isSd ? 'Showdown rules' : 'Classic CFB rules', rulesBody, false),
+                sec('Highest implied team totals', `<p class="sp-note">From consensus O/U and spread. Highest = more scoring chances.</p>${teamRows}`, true),
+                sec('Blowouts / volatility', `<p class="sp-note">|Spread| 17.5+ — starters sit, backups and cheap WRs swing.</p>${blowHtml}`, false),
+                sec('Pass-heavy scripts', passHtml, false),
+                sec('Run-heavy scripts', runHtml, false),
+                sec('Top QBs', topBlock('QB'), false),
+                sec('Top RBs', topBlock('RB'), false),
+                sec('Top WRs', topBlock('WR'), false),
+                sec('Best potential stacks', `<p class="sp-note">QB + WR/TE by combined projection.</p>${stackHtml}`, false),
+                sec('Best value stacks', `<p class="sp-note">QB + WR/TE by combined points per $1K.</p>${valueStackHtml}`, false)
+            ].join('');
         }
 
         function slOwnBand(own) {
@@ -9124,8 +9155,9 @@
                         const cName = `qb_stack_${team}`;
                         model.constraints[cName] = { min: 0 };
                         qbs.forEach(qb => {
-                            const vn = `${qb.baseName}_QB`;
-                            if (model.variables[vn]) model.variables[vn][cName] = -1;
+                            [`${qb.baseName}_QB`, `${qb.baseName}_SFLEX`].forEach(vn => {
+                                if (model.variables[vn]) model.variables[vn][cName] = -1;
+                            });
                         });
                         pcs.forEach(pc => {
                             getEligibleSlots(pc.positions).forEach(slot => {
@@ -9172,7 +9204,7 @@
                     const teams = [...new Set(filteredData.map(p => p.Team))];
                     teams.forEach(team => {
                         const qbVars = Object.keys(model.variables).filter(v => {
-                            const p = filteredData.find(x => x.baseName === v.replace(/_QB$|_FLEX$|_Captain$/, ''));
+                            const p = filteredData.find(x => x.baseName === v.replace(/_QB$|_FLEX$|_SFLEX$|_Captain$/, ''));
                             return p && p.Team === team && p.Position === 'QB' && model.variables[v];
                         });
                         if (!qbVars.length) return;
@@ -9918,7 +9950,7 @@
             abortLineupGeneration = false;
 
             const isShowdown = selectedSlate.includes('Showdown Captain Mode');
-            const forceQBStack = !isShowdown && document.getElementById('autoStack').checked;
+            const forceQBStack = !isShowdown && !!(document.getElementById('autoStack')?.checked || document.getElementById('classicForcePassStack')?.checked || document.getElementById('classicSflexDoubleStack')?.checked);
             const forceShowdownStack = isShowdown && document.getElementById('showdownAutoStack').checked;
             updateLineupTableHeaders(isShowdown);
 
