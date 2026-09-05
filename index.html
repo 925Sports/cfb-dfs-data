@@ -2347,6 +2347,50 @@
         #slatePreviewRoot .settings-section-body { padding-top: 0.15rem; }
         #slatePreviewRoot .sp-row { border-color: #1c2538; }
 
+
+        .heat-pill {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            min-width: 3.4rem;
+            padding: 0.28rem 0.62rem;
+            border-radius: 10px;
+            font-weight: 800;
+            font-variant-numeric: tabular-nums;
+            letter-spacing: 0.01em;
+            font-size: 0.82rem;
+            border: 1px solid transparent;
+            box-shadow: inset 0 1px 0 rgba(255,255,255,0.08);
+        }
+        .heat-pill.elite {
+            background: rgba(37, 99, 235, 0.22);
+            color: #93c5fd;
+            border-color: rgba(59, 130, 246, 0.45);
+            box-shadow: 0 0 0 1px rgba(59,130,246,0.12), inset 0 1px 0 rgba(147,197,253,0.15);
+        }
+        .heat-pill.great {
+            background: rgba(16, 185, 129, 0.18);
+            color: #6ee7b7;
+            border-color: rgba(52, 211, 153, 0.4);
+            box-shadow: 0 0 0 1px rgba(16,185,129,0.12), inset 0 1px 0 rgba(167,243,208,0.16);
+        }
+        .heat-pill.average {
+            background: rgba(234, 179, 8, 0.14);
+            color: #fde68a;
+            border-color: rgba(250, 204, 21, 0.35);
+        }
+        .heat-pill.below {
+            background: rgba(249, 115, 22, 0.16);
+            color: #fdba74;
+            border-color: rgba(251, 146, 60, 0.38);
+        }
+        .heat-pill.poor {
+            background: rgba(239, 68, 68, 0.16);
+            color: #fca5a5;
+            border-color: rgba(248, 113, 113, 0.38);
+        }
+        .heat-pill.empty { color: var(--muted); background: transparent; border-color: transparent; box-shadow: none; }
+
     </style>
 </head>
 <body data-theme="dark">
@@ -8422,6 +8466,15 @@
             const t = Math.max(0, Math.min(1, (Number(val) - rng.min) / (rng.max - rng.min)));
             return heatBand(t).label;
         }
+        function heatPill(val, rng, text) {
+            if (text === '' || text == null || val == null || !Number.isFinite(Number(val)) || !rng || rng.max <= rng.min) {
+                return '<span class="heat-pill empty">' + (text || '—') + '</span>';
+            }
+            const t = Math.max(0, Math.min(1, (Number(val) - rng.min) / (rng.max - rng.min)));
+            const b = heatBand(t);
+            const cls = (b.label === 'Elite' ? 'elite' : b.label === 'Great' ? 'great' : b.label === 'Average' ? 'average' : b.label === 'Below' ? 'below' : 'poor');
+            return '<span class="heat-pill ' + cls + '" title="' + b.label + '">' + text + '</span>';
+        }
         function heatStyle(val, rng) {
             if (val == null || !Number.isFinite(Number(val)) || !rng || rng.max <= rng.min) return '';
             const t = Math.max(0, Math.min(1, (Number(val) - rng.min) / (rng.max - rng.min)));
@@ -8595,7 +8648,7 @@
                     </td>
                     <td>${row.Team}</td>
                     <td>${row.Opponent || ''}</td>
-                    <td class="heat-cell" title="${heatLabel(row.impliedTotal, _heatImpl)}" style="${heatStyle(row.impliedTotal, _heatImpl)}">${row.impliedTotal != null ? Number(row.impliedTotal).toFixed(1) : ''}</td>
+                    <td>${heatPill(row.impliedTotal, _heatImpl, row.impliedTotal != null ? Number(row.impliedTotal).toFixed(1) : '')}</td>
                     <td>${row.Position}</td>
                     <td>${row.salary}</td>
                     <td style="${row._userEditedFP ? 'background:rgba(245,158,11,0.15);' : ''}">
@@ -8605,7 +8658,7 @@
                                title="${row._userEditedFP ? 'CUSTOM projection (edited or uploaded) — click Reset Projections to Source to restore live data' : 'Edit projected FP'}">
                         ${row._userEditedFP ? '<span style="font-size:0.65rem;color:var(--warning);margin-left:2px;" title="Custom / edited projection">*</span>' : ''}
                     </td>
-                    <td class="heat-cell" title="${heatLabel(row.salary>0 ? row.projectedFP/row.salary*1000 : null, _heatVal)}" style="${heatStyle(row.salary>0 ? row.projectedFP/row.salary*1000 : null, _heatVal)}">${value}</td>
+                    <td>${heatPill(row.salary>0 ? row.projectedFP/row.salary*1000 : null, _heatVal, value)}</td>
                     <td><input type="number" step="0.1" min="0" max="100" value="${row.ownership.toFixed(1)}" style="width:64px;" onchange="updateOwnership('${safeName}', this.value)" title="Edit projected ownership %">%</td>
                     <td><input type="number" min="0" max="100" value="${minExp}" onchange="updateExposure('${safeName}', 'min', this.value)"></td>
                     <td><input type="number" min="0" max="100" value="${maxExp}" onchange="updateExposure('${safeName}', 'max', this.value)"></td>
@@ -11261,3 +11314,5 @@
     </script>
 </body>
 </html>
+
+
