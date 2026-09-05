@@ -4938,6 +4938,10 @@
             }).filter(x => x.score > 0).sort((a,b) => b.score - a.score);
             const byTeam = new Map();
             scored.forEach(({ g }) => {
+                const home = (typeof toDkAbbr === 'function') ? toDkAbbr(g.homeAbbr) : g.homeAbbr;
+                const away = (typeof toDkAbbr === 'function') ? toDkAbbr(g.awayAbbr) : g.awayAbbr;
+                if (home && teams.has(home) && !byTeam.has(home)) byTeam.set(home, g);
+                if (away && teams.has(away) && !byTeam.has(away)) byTeam.set(away, g);
                 if (g.homeAbbr && teams.has(g.homeAbbr) && !byTeam.has(g.homeAbbr)) byTeam.set(g.homeAbbr, g);
                 if (g.awayAbbr && teams.has(g.awayAbbr) && !byTeam.has(g.awayAbbr)) byTeam.set(g.awayAbbr, g);
             });
@@ -4945,8 +4949,11 @@
         }
         function teamLine(g, abbr) {
             if (!g || !abbr) return null;
-            if (abbr === g.homeAbbr) return g.spreadHome;
-            if (abbr === g.awayAbbr) return g.spreadAway;
+            const a = (typeof toDkAbbr === 'function') ? toDkAbbr(abbr) : String(abbr).toUpperCase();
+            const home = (typeof toDkAbbr === 'function') ? toDkAbbr(g.homeAbbr) : g.homeAbbr;
+            const away = (typeof toDkAbbr === 'function') ? toDkAbbr(g.awayAbbr) : g.awayAbbr;
+            if (a === home) return g.spreadHome;
+            if (a === away) return g.spreadAway;
             return null;
         }
         function enrichPlayerMatchups(list) {
@@ -4980,6 +4987,8 @@
                     const line = teamLine(g, team);
                     if (line != null) r.spread = line;
                     if (g.total != null) r.ou = g.total;
+                    const ouR = Number(r.ou), sprR = Number(r.spread);
+                    r.impliedTotal = (Number.isFinite(ouR) && Number.isFinite(sprR)) ? (ouR / 2 - sprR / 2) : null;
                 });
             }
         }
@@ -8476,6 +8485,11 @@
                     slotType, positions, gameStartTime: row.gameStartTime,
                     ownership: (custom && custom.ownership != null) ? custom.ownership : row.ownership,
                     spread: row.spread, ou: row.ou,
+                    impliedTotal: row.impliedTotal != null ? row.impliedTotal : (
+                        Number.isFinite(Number(row.ou)) && Number.isFinite(Number(row.spread))
+                            ? Number(row.ou) / 2 - Number(row.spread) / 2
+                            : null
+                    ),
                     _userEditedFP: !!(custom && custom._userEdited && custom.proj != null),
                     _userEditedOwn: !!(custom && custom._userEdited && custom.ownership != null)
                 };
@@ -8496,6 +8510,12 @@
                 const searchOk = !q || row.displayName.toLowerCase().includes(q) || row.baseName.toLowerCase().includes(q)
                     || (row.Team || '').toLowerCase().includes(q);
                 return posOk && teamOk && playerOk && searchOk;
+            });
+            try { enrichPlayerMatchups(filteredData); } catch (e) {}
+            filteredData.forEach(p => {
+                if (p.impliedTotal != null) return;
+                const ouN = Number(p.ou), sprN = Number(p.spread);
+                if (Number.isFinite(ouN) && Number.isFinite(sprN)) p.impliedTotal = ouN / 2 - sprN / 2;
             });
 
             if (sortColumn) {
@@ -11241,5 +11261,3 @@
     </script>
 </body>
 </html>
-
-
