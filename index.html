@@ -11422,5 +11422,47 @@
             downloadDkCsv(lineups, 'DK_NFL_sim_checked');
         }
     </script>
+<script>
+/* 925 Sports — Wix embed height reporter */
+(function () {
+  function currentHeight() {
+    return Math.max(
+      document.body ? document.body.scrollHeight : 0,
+      document.documentElement ? document.documentElement.scrollHeight : 0,
+      document.body ? document.body.offsetHeight : 0,
+      document.documentElement ? document.documentElement.offsetHeight : 0
+    );
+  }
+
+  function sendHeight() {
+    window.parent.postMessage(
+      { type: "tool-height", height: currentHeight() + 24 },
+      "*"
+    );
+  }
+
+  window.addEventListener("load", function () {
+    sendHeight();
+    window.parent.postMessage({ type: "tool-ready" }, "*");
+  });
+
+  window.addEventListener("resize", sendHeight);
+
+  if (window.ResizeObserver && document.body) {
+    new ResizeObserver(sendHeight).observe(document.body);
+  }
+
+  window.addEventListener("message", function (event) {
+    if (!event.data || typeof event.data !== "object") return;
+    if (event.data.type === "member") {
+      window.__wixMember = event.data.member || null;
+    }
+  });
+
+  setTimeout(sendHeight, 300);
+  setTimeout(sendHeight, 1000);
+  setTimeout(sendHeight, 3000);
+})();
+</script>
 </body>
 </html>
