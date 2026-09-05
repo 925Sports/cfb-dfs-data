@@ -177,13 +177,12 @@ def main():
                 window = "Afternoon"
             else:
                 window = "Morning"
-            if window != "Showdown":
-                group["slate_type"] = window
             if num_games == 1:
                 matchup = list(comps.values())[0]["matchup"]
-                slate_header = f"{slate_date} {time_part} CT ({matchup})"
+                slate_header = f"Showdown {slate_date} {time_part} CT ({matchup})"
             else:
                 slate_header = f"{slate_date} {window} {time_part} CT, {num_games} Games"
+            group["role_key"] = slate_header
 
         player_versions = defaultdict(list)
         for p in draftables:
@@ -249,7 +248,7 @@ def main():
                         group["slate_type"],
                         "CFB",
                         ver["date"],
-                        role_label,
+                        group.get("role_key") or slate_header or group["slate_type"],
                         ";".join(group["contest_names"][:10]),
                         ";".join(group["contest_ids"][:20]),
                         slate_header,
@@ -262,12 +261,7 @@ def main():
                         seen[key] = v
                 for v in seen.values():
                     # Role string used by the optimizer as the slate key.
-                    role = group["slate_type"]
-                    if slate_header and slate_header != group["slate_type"]:
-                        role = f"{group['slate_type']} {slate_header}" if group["slate_type"] not in slate_header else slate_header
-                    # Prefer the richer Role style used in the cheat sheet:
-                    # "Night 9/5 12:00PM, 12 Games"
-                    role = slate_header if slate_header else group["slate_type"]
+                    role = group.get("role_key") or slate_header or group["slate_type"]
                     rows.append([
                         f"{v['name']} - {group['slate_type']}",
                         ";".join(group["contest_ids"][:20]),
