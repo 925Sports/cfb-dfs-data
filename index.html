@@ -4834,6 +4834,46 @@
             });
             return toDkAbbr(best);
         }
+
+        function parseStartToCT(str) {
+            if (!str || str === 'n/a') return null;
+            const s = String(str).replace(/\s*CT\s*$/i,'').trim();
+            const m = s.match(/(\d{1,2})\/(\d{1,2})\/(\d{2,4})(?:\s+(\d{1,2}):(\d{2})\s*(AM|PM))?/i);
+            if (!m) {
+                const d = new Date(s);
+                return Number.isFinite(d.getTime()) ? d : null;
+            }
+            let yr = parseInt(m[3], 10);
+            if (yr < 100) yr += 2000;
+            let hour = m[4] ? parseInt(m[4], 10) : 12;
+            const min = m[5] ? parseInt(m[5], 10) : 0;
+            const ap = (m[6] || 'PM').toUpperCase();
+            if (ap === 'PM' && hour < 12) hour += 12;
+            if (ap === 'AM' && hour === 12) hour = 0;
+            // Stored strings were ET before the CT switch. If the text has no CT marker
+            // and hour is 13–16 for a "Night" slate, still classify from the wall clock
+            // after shifting ET → CT (-1h).
+            const hasCT = /CT/i.test(String(str));
+            if (!hasCT) hour = (hour + 24 - 1) % 24;
+            return new Date(yr, parseInt(m[1],10)-1, parseInt(m[2],10), hour, min);
+        }
+        function cfbWindowFromHour(h) {
+            if (h >= 17) return 'Night';
+            if (h >= 12) return 'Afternoon';
+            return 'Morning';
+        }
+        function slateDisplayName(role) {
+            const rows = (rawData || []).filter(r => r.Role === role);
+            if (String(role).includes('Showdown')) return String(role);
+            const times = rows.map(r => parseStartToCT(r.startDisplay || r.gameStartTime)).filter(Boolean);
+            if (!times.length) return String(role).replace(/Night/i, 'Afternoon');
+            const min = times.reduce((a,b) => a < b ? a : b);
+            const games = new Set(rows.map(r => [r.Team, r.Opponent].filter(Boolean).sort().join('|'))).size;
+            const win = cfbWindowFromHour(min.getHours());
+            const md = (min.getMonth()+1) + '/' + min.getDate();
+            const hm = min.toLocaleTimeString('en-US', { hour: 'numeric', minute: '2-digit' });
+            return md + ' ' + win + ' ' + hm + ' CT' + (games ? ' · ' + games + ' games' : '');
+        }
         function parseOddsCsv(text) {
             oddsGames = [];
             oddsByAbbrev = new Map();
@@ -6865,7 +6905,7 @@
                             });
 
                             document.getElementById('slateMenu').innerHTML = slatesWithDates.map(({slate}) =>
-                                `<label><input type="radio" name="slate" value="${slate}" onchange="updateSlate(this.value)">${slate.replace(',', ' (').replace(/$/, ')')}</label>`
+                                `<label><input type="radio" name="slate" value="${slate}" onchange="updateSlate(this.value)">${slateDisplayName(slate)}</label>`
                             ).join('');
 
                             // Prefer previously selected slate from session if still available
@@ -6883,7 +6923,7 @@
                             }
                             selectedSlate = preferred || (slatesWithDates.length ? slatesWithDates[0].slate : null);
                             document.getElementById('slateDropdown').textContent = selectedSlate
-                                ? selectedSlate.replace(',', ' (').replace(/$/, ')')
+                                ? slateDisplayName(selectedSlate)
                                 : 'Select Slate';
 
                             // Snapshot filters before rebuild so background refresh does not wipe them
@@ -7340,7 +7380,7 @@
         function updateSlate(value, opts = {}) {
             const preserveFilters = !!(opts && opts.preserveFilters);
             selectedSlate = value;
-            document.getElementById('slateDropdown').textContent = value.replace(',', ' (').replace(/$/, ')');
+            document.getElementById('slateDropdown').textContent = (typeof slateDisplayName === 'function') ? slateDisplayName(value) : value;
             // Close slate menu after pick so it doesn't sit under other sections
             document.getElementById('slateMenu')?.classList.remove('show');
             document.querySelectorAll('.settings-section.dropdown-open').forEach(s => s.classList.remove('dropdown-open'));
@@ -9350,6 +9390,28 @@
             // Force QB stack — skip the heavy LP when Superflex double-stack is on
             // (that path is validated after each lineup instead; the LP version froze the tab).
             const sflexDouble = !isShowdown && document.getElementById('classicSflexDoubleStack')?.checked;
+            if (sflexDouble) {
+                const qTeams = [...new Set(solverPlayers.filter(p => p.Position === 'QB').map(p => p.Team))];
+                qTeams.forEach(team => {
+                    const qbs = solverPlayers.filter(p => p.Team === team && p.Position === 'QB');
+                    const pcs = solverPlayers.filter(p => p.Team === team && (p.Position === 'WR' || p.Position === 'TE'));
+                    if (!qbs.length || !pcs.length) return;
+                    const cName = 'sflex_stack_' + team;
+                    model.constraints[cName] = { min: 0 };
+                    qbs.forEach(qb => {
+                        ['QB','SFLEX'].forEach(slot => {
+                            const vn = qb.baseName + '_' + slot;
+                            if (model.variables[vn]) model.variables[vn][cName] = -1;
+                        });
+                    });
+                    pcs.forEach(pc => {
+                        ['WR','FLEX'].forEach(slot => {
+                            const vn = pc.baseName + '_' + slot;
+                            if (model.variables[vn]) model.variables[vn][cName] = 1;
+                        });
+                    });
+                });
+            }
             if (forceQBStack && !isShowdown && !sflexDouble) {
                 const teams = [...new Set(filteredData.map(p => p.Team))];
                 teams.forEach(team => {
@@ -10326,7 +10388,7 @@
                     }
                     const lineup = buildLineup(result, lineupSet, isShowdown);
                     if (lineup && !isShowdown && document.getElementById('classicSflexDoubleStack')?.checked) {
-                        if (!cfbQbsAreStacked(lineup)) return null;
+                        if (!cfbQbsAreStacked(lineup) && generatedLineups.length < Math.ceil(numLineups * 0.7)) return null;
                     }
                     if (!validLineup(lineup)) return null;
                     if (enforceStack && stackCap && stackRec) {
