@@ -28,8 +28,8 @@ def format_datetime(iso_str):
     if not iso_str:
         return ""
     try:
-        dt = datetime.fromisoformat(iso_str.replace("Z", "+00:00")).astimezone(ZoneInfo("America/New_York"))
-        return dt.strftime("%m/%d/%Y %I:%M %p")
+        dt = datetime.fromisoformat(iso_str.replace("Z", "+00:00")).astimezone(ZoneInfo("America/Chicago"))
+        return dt.strftime("%m/%d/%Y %I:%M %p CT")
     except Exception:
         return iso_str
 
@@ -38,7 +38,7 @@ def format_date_only(iso_str):
     if not iso_str:
         return ""
     try:
-        dt = datetime.fromisoformat(iso_str.replace("Z", "+00:00")).astimezone(ZoneInfo("America/New_York"))
+        dt = datetime.fromisoformat(iso_str.replace("Z", "+00:00")).astimezone(ZoneInfo("America/Chicago"))
         return dt.strftime("%-m/%-d")
     except Exception:
         return ""
@@ -165,13 +165,25 @@ def main():
         slate_header = group["slate_type"]
         if start_times:
             min_start = min(start_times)
-            slate_date = min_start.astimezone(ZoneInfo("America/New_York")).strftime("%-m/%-d")
-            time_part = min_start.astimezone(ZoneInfo("America/New_York")).strftime("%-I:%M%p")
+            local = min_start.astimezone(ZoneInfo("America/Chicago"))
+            slate_date = local.strftime("%-m/%-d")
+            time_part = local.strftime("%-I:%M%p")
+            hour = local.hour + local.minute / 60
+            if "Showdown" in group["slate_type"] or num_games == 1:
+                window = "Showdown"
+            elif hour >= 17:
+                window = "Night"
+            elif hour >= 12:
+                window = "Afternoon"
+            else:
+                window = "Morning"
+            if window != "Showdown":
+                group["slate_type"] = window
             if num_games == 1:
                 matchup = list(comps.values())[0]["matchup"]
-                slate_header = f"{slate_date} {time_part} ({matchup})"
+                slate_header = f"{slate_date} {time_part} CT ({matchup})"
             else:
-                slate_header = f"{slate_date} {time_part}, {num_games} Games"
+                slate_header = f"{slate_date} {window} {time_part} CT, {num_games} Games"
 
         player_versions = defaultdict(list)
         for p in draftables:
@@ -249,6 +261,12 @@ def main():
                     if key not in seen or int(v["draftable_id"]) < int(seen[key]["draftable_id"]):
                         seen[key] = v
                 for v in seen.values():
+                    # Role string used by the optimizer as the slate key.
+                    role = group["slate_type"]
+                    if slate_header and slate_header != group["slate_type"]:
+                        role = f"{group['slate_type']} {slate_header}" if group["slate_type"] not in slate_header else slate_header
+                    # Prefer the richer Role style used in the cheat sheet:
+                    # "Night 9/5 12:00PM, 12 Games"
                     role = slate_header if slate_header else group["slate_type"]
                     rows.append([
                         f"{v['name']} - {group['slate_type']}",
