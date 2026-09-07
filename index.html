@@ -3093,7 +3093,7 @@
                 <div id="generationLog"></div>
 
                 <div style="display:flex;flex-wrap:wrap;gap:0.6rem;margin-top:1rem;align-items:center;">
-                    <button class="success" data-tip="Download DraftKings Upload Lineups CSV. Classic header is QB,RB,RB,WR,WR,WR,FLEX,S-FLEX. Showdown is CPT,FLEX,FLEX,FLEX,FLEX,FLEX. Cells are Name (Draftable ID). Use Lineups → Upload Lineups and pick the matching NFL slate. For Edit Entries, paste these player columns into the DK template (leave Entry ID / Contest columns alone)." onclick="downloadLineups()">⬇ Download CSV (DK Upload)</button>
+                    <button class="success" data-tip="Download DraftKings Upload Lineups CSV. Classic header is QB,RB,RB,WR,WR,WR,FLEX,S-FLEX. Showdown is CPT,UTIL,UTIL,UTIL,UTIL,UTIL (DK uses UTIL, not FLEX). Cells are Name (Draftable ID). Use Lineups → Upload Lineups and pick the matching CFB slate. For Edit Entries, paste these player columns into the DK template (leave Entry ID / Contest columns alone)." onclick="downloadLineups()">⬇ Download CSV (DK Upload)</button>
                     <button class="success" data-tip="Export only checked lineups as DraftKings CSV." onclick="exportCheckedLineups()">⬇ Export Checked</button>
                     <button class="ghost" data-tip="Download a readable CSV with names, salary, projected points, and ownership." onclick="downloadLineupsDetailed()">⬇ Detailed CSV</button>
                     <button class="ghost" data-tip="Copy all lineups as plain text for Discord, Twitter, or notes." onclick="copyLineupsAsText()">📋 Copy as Text</button>
@@ -3694,6 +3694,7 @@
         };
         const CLASSIC_SLOTS = ['QB','RB1','RB2','WR1','WR2','WR3','FLEX','SFLEX'];
         const DK_CLASSIC_HEADER = 'QB,RB,RB,WR,WR,WR,FLEX,S-FLEX';
+        const DK_SHOWDOWN_HEADER = 'CPT,UTIL,UTIL,UTIL,UTIL,UTIL';
         const CFB_RECIPE = {
             twoQbMainSlateWinRate: 0.93,
             qbStackedOnePc: 0.74,
@@ -8871,7 +8872,7 @@ function parseOddsCsv(text) {
             }
             const indices = [...lineupChecked].sort((a, b) => a - b);
             const lineups = indices.map(idx => generatedLineups[idx]).filter(Boolean);
-            downloadDkCsv(lineups, 'DK_NFL_checked');
+            downloadDkCsv(lineups, 'DK_CFB_checked');
         }
 
         function openSwapModal(lineupIndex, slot) {
@@ -10888,7 +10889,7 @@ function parseOddsCsv(text) {
         function buildDkUploadCsv(lineups, forceShowdown) {
             const isShowdown = forceShowdown == null ? isDkShowdownSlate(selectedSlate) : !!forceShowdown;
             const header = isShowdown
-                ? 'CPT,FLEX,FLEX,FLEX,FLEX,FLEX'
+                ? DK_SHOWDOWN_HEADER
                 : DK_CLASSIC_HEADER;
             const rows = [header];
             let missing = 0;
@@ -10925,14 +10926,14 @@ function parseOddsCsv(text) {
                 if (!proceed) return false;
             }
             const kind = built.isShowdown ? 'Showdown' : 'Classic';
-            const fname = (filenamePrefix || 'DK_NFL') + '_' + kind + '_' + built.count + '.csv';
+            const fname = (filenamePrefix || 'DK_CFB') + '_' + kind + '_' + built.count + '.csv';
             downloadTextFile(built.csv, fname);
             return true;
         }
 
         function downloadLineups() {
             markChecklist('export', true);
-            if (downloadDkCsv(generatedLineups, 'DK_NFL_lineups')) {
+            if (downloadDkCsv(generatedLineups, 'DK_CFB_lineups')) {
                 setNextStep('CSV downloaded. Upload at draftkings.com/lineup/upload — pick CFB / College Football + the matching Classic or Showdown slate/time.');
             }
         }
@@ -11386,7 +11387,7 @@ function parseOddsCsv(text) {
             }
             const indices = [...mcChecked].sort((a, b) => a - b);
             const lineups = indices.map(idx => generatedLineups[idx - 1]).filter(Boolean);
-            downloadDkCsv(lineups, 'DK_NFL_sim_checked');
+            downloadDkCsv(lineups, 'DK_CFB_sim_checked');
         }
     </script>
 
