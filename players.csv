@@ -1,145 +1,836 @@
 Player Name,Position,Team,Slate Type,Date,Role,Salary,Draftable ID,Projected FP,Combined FP,Value,Implied FP,Passing TDs,Rushing Yards,Receiving Yards,Passing Yards,Rush+Rec Yards,Anytime TD,Passing Attempts,Fantasy Score,Headshot URL,Game Start Time,Match Title (Underdog),Game Short Title (Underdog),Venue Name (Underdog),Venue Type (Underdog),Broadcasts (Underdog),Game Start Time (DRAFTTABLE)
-Kevin Jennings,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),17700,44027665,21.64,27.93,1.22,53.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Kevin Jennings,QB,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),11800,44027593,21.64,24.39,1.83,35.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Ashton Daniels,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),16800,44027666,16.59,23.35,0.99,50.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Ousmane Kromah,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),14100,44027669,15.96,21.23,1.13,42.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Ashton Daniels,QB,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),11200,44027594,16.59,19.99,1.48,33.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Kendrick Raphael,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),12900,44027670,14.5,19.34,1.12,38.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Yamir Knight,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),10800,44027673,15,18.48,1.39,32.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Ousmane Kromah,RB,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),9400,44027597,15.96,18.41,1.7,28.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Duce Robinson,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),12000,44027671,13.67,18.14,1.14,36,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Kendrick Raphael,RB,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),8600,44027598,14.5,16.76,1.69,25.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Yamir Knight,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),7200,44027601,15,16.32,2.08,21.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Duce Robinson,WR,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),8000,44027599,13.67,15.74,1.71,24,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Samuel Singleton Jr.,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),11700,44027672,8.04,13.45,0.69,35.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Jalen Cooper,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),8400,44027683,9.92,12.97,1.18,25.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Micahi Danzy,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),6900,44027690,9.11,11.43,1.32,20.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Jalen Cooper,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),5600,44027611,9.92,11.29,1.77,16.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Dramekco Green,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),9900,44027674,6.56,11.19,0.66,29.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Samuel Singleton Jr.,RB,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),7800,44027600,8.04,11.11,1.03,23.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Micahi Danzy,WR,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),4600,44027618,9.11,10.05,1.98,13.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Randy Pittman Jr.,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),5100,44027692,8.55,9.9,1.68,15.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Quintrevion Wisner,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),9300,44027675,5.34,9.85,0.57,27.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Derrick McFall,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),4800,44027693,8.6,9.76,1.79,14.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Ty Hawkins,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),15000,44027667,0.59,9.47,0.04,45,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Dramekco Green,RB,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),6600,44027602,6.56,9.21,0.99,19.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Randy Pittman Jr.,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),3400,44027620,8.55,8.88,2.52,10.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Derrick McFall,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),3200,44027621,8.6,8.8,2.69,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Malachi Marshall,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),14100,44027668,0,8.46,0,42.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Quintrevion Wisner,RB,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),6200,44027603,5.34,7.99,0.86,18.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Jalen Hale,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),6000,44027691,5.39,7.91,0.9,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Jalen Hale,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),4000,44027619,5.39,6.71,1.35,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Theo Melin Ohrstrom,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),3000,44027695,5.86,6.49,1.95,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Ty Hawkins,QB,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),10000,44027595,0.59,6.47,0.06,30,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Jayvan Boggs,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),3600,44027694,5.23,6.34,1.45,10.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Theo Melin Ohrstrom,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),2000,44027623,5.86,5.89,2.93,6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Kevin Sperry,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),9000,44027680,0.46,5.77,0.05,27,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Landen Thomas,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),2400,44027696,5.41,5.77,2.25,7.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Malachi Marshall,QB,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),9400,44027596,0,5.64,0,28.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Jayvan Boggs,WR,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),2400,44027622,5.23,5.62,2.18,7.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Yannick Smith,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),2100,44027697,5.25,5.46,2.5,6.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Jaden O'Neal,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),9000,44027676,0,5.4,0,27,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Dean DeNobile,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),9000,44027677,0,5.4,0,27,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Mabrey Mettauer,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),9000,44027678,0,5.4,0,27,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Cole Leinart,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),9000,44027679,0,5.4,0,27,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Michael Grant,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),9000,44027681,0,5.4,0,27,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Charlie Fiser,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),9000,44027682,0,5.4,0,27,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Landen Thomas,WR,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1600,44027624,5.41,5.29,3.38,4.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Yannick Smith,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1400,44027625,5.25,5.04,3.75,4.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Michael Slaba,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),7800,44027684,0,4.68,0,23.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Nick Reed,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),7800,44027685,0,4.68,0,23.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Brendan Baird,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),7800,44027686,0,4.68,0,23.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Wiley Olson,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),7800,44027687,0,4.68,0,23.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Conor McAneney,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),7500,44027688,0,4.5,0,22.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Gabe Panikowski,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),7500,44027689,0,4.5,0,22.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Kevin Sperry,QB,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),6000,44027608,0.46,3.97,0.08,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Jaden O'Neal,QB,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),6000,44027604,0,3.6,0,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Dean DeNobile,QB,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),6000,44027605,0,3.6,0,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Mabrey Mettauer,QB,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),6000,44027606,0,3.6,0,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Cole Leinart,QB,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),6000,44027607,0,3.6,0,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Michael Grant,QB,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),6000,44027609,0,3.6,0,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Charlie Fiser,QB,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),6000,44027610,0,3.6,0,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Michael Slaba,K,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),5200,44027612,0,3.12,0,15.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Nick Reed,K,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),5200,44027613,0,3.12,0,15.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Brendan Baird,K,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),5200,44027614,0,3.12,0,15.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Wiley Olson,K,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),5200,44027615,0,3.12,0,15.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Conor McAneney,K,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),5000,44027616,0,3,0,15,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Gabe Panikowski,K,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),5000,44027617,0,3,0,15,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Desirrio Riles,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1800,44027698,2.3,2.92,1.28,5.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Desirrio Riles,WR,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1200,44027626,2.3,2.56,1.92,3.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Chase Loftin,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027726,1.48,2.08,0.99,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Jasen Lopez,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027715,1.41,2.03,0.94,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Christian Rhodes,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027701,1.2,1.86,0.8,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Chase Loftin,WR,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027654,1.48,1.78,1.48,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Jasen Lopez,WR,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027643,1.41,1.73,1.41,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Christian Rhodes,RB,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027629,1.2,1.56,1.2,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-William Fierro,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027699,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Zay Parks,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027700,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Gemari Sands,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027702,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Gavin Markey,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027703,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-EJ Kelly,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027704,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Link Rhodes,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027705,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Amari Thomas,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027706,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Will Locke,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027707,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Aljour Miles II,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027708,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Jonah Winston,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027709,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Keenen Jeune,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027710,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-X'Zavier Barnett,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027711,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Siler Cooke,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027712,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Andre Nickerson Jr.,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027713,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Devin Carter,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027714,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Drew Hardwick,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027716,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Trey Jackson,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027717,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Tyrone Crethers,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027718,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Brandon Bennett,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027719,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Teriq Mallory,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027720,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Tony Bland,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027721,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-EJ White,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027722,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Tripp Riordan,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027723,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Tae'Shaun Gelsey,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027724,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Jakai Anderson,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027725,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Daylon Singleton,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027727,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Carterrious Brown,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027728,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Xavier Tiller,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027729,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Miles Uter,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027730,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Jordyn Adams,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027731,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Zack Turner,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027732,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Corbyn Fordham,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027733,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Darryon Williams,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027734,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-David Kniffen Jr.,CPT,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027735,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Greyson Labiad,CPT,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1500,44027736,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-William Fierro,RB,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027627,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Zay Parks,RB,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027628,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Gemari Sands,RB,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027630,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Gavin Markey,RB,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027631,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-EJ Kelly,RB,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027632,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Link Rhodes,RB,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027633,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Amari Thomas,RB,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027634,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Will Locke,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027635,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Aljour Miles II,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027636,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Jonah Winston,WR,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027637,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Keenen Jeune,WR,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027638,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-X'Zavier Barnett,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027639,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Siler Cooke,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027640,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Andre Nickerson Jr.,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027641,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Devin Carter,WR,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027642,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Drew Hardwick,WR,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027644,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Trey Jackson,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027645,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Tyrone Crethers,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027646,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Brandon Bennett,WR,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027647,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Teriq Mallory,WR,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027648,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Tony Bland,WR,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027649,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-EJ White,WR,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027650,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Tripp Riordan,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027651,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Tae'Shaun Gelsey,WR,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027652,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Jakai Anderson,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027653,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Daylon Singleton,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027655,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Carterrious Brown,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027656,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Xavier Tiller,WR,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027657,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Miles Uter,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027658,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Jordyn Adams,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027659,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Zack Turner,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027660,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Corbyn Fordham,WR,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027661,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-Darryon Williams,WR,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027662,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
-David Kniffen Jr.,WR,SMU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027663,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/7/2026
-Greyson Labiad,WR,FSU,Showdown Captain Mode,9/7/2026,Showdown Captain Mode 9/7 7:30PM (SMU @ FSU),1000,44027664,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/7/2026
+Avery Johnson,QB,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",8500,44077779,26.06,25.95,3.07,25.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Marcel Reed,QB,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",8700,44077777,25.23,25.4,2.9,26.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Kamario Taylor,QB,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",8300,44077781,25.08,25.05,3.02,24.9,1.5,29.5,,189.5,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Dante Moore,QB,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",8900,44077775,21.86,22.53,2.46,26.7,1.5,8.5,,229.5,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+LJ Martin,RB,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6500,44078064,22.9,22.22,3.52,19.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Keelon Russell,QB,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7800,44077789,21.57,21.93,2.77,23.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Bear Bachmeier,QB,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6800,44077811,22.2,21.84,3.26,20.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Alonza Barnett III,QB,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6600,44077815,21.67,21.41,3.28,19.8,2.5,19.5,,169.5,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Darius Taylor,RB,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7800,44078034,20.74,21.17,2.66,23.4,,69.5,14.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Nate Sheppard,RB,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",8200,44078025,20.41,21.16,2.49,24.6,,69.5,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Drew Mestemaker,QB,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6300,44077823,21.43,20.92,3.4,18.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Mason Heintschel,QB,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7600,44077793,20.47,20.8,2.69,22.8,1.5,10.5,,239.5,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Rocco Becht,QB,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",8000,44077785,19.56,20.45,2.45,24,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Cutter Boley,QB,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6200,44077829,20.75,20.32,3.35,18.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Gio Lopez,QB,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7200,44077801,19.37,19.77,2.69,21.6,1.5,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+John Mateer,QB,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7300,44077799,19.39,19.75,2.66,21.9,1.5,14.5,,179.5,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Caleb Hawkins,RB,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7000,44078055,19.29,19.63,2.76,21,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Adam Mohammed,RB,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7600,44078040,18.93,19.55,2.49,22.8,,49.5,14.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Jaron-Keawe Sagapolutele,QB,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7100,44077803,18.75,19.1,2.64,21.3,2.5,,,229.5,,,38.5,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Katin Houser,QB,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7400,44077797,18.59,19.02,2.51,22.2,1.5,9.5,,179.5,,,29.5,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Kenny Minchey,QB,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5800,44077843,19.36,18.97,3.34,17.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Jordon Davison,RB,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7700,44078037,17.55,18.44,2.28,23.1,,59.5,4.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Carlos Hernandez,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6000,44078601,18.52,18.42,3.09,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Wyatt Young,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7600,44078571,17.27,18.38,2.27,22.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Kyson Brown,RB,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6200,44078073,17.89,18.03,2.88,18.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Carson Hansen,RB,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7300,44078046,17.02,18,2.33,21.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Ja'Kyrian Turner,RB,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7900,44078031,16.7,17.96,2.11,23.7,,49.5,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Joe Jackson,RB,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6300,44078070,17.35,17.66,2.75,18.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Ryan Browne,QB,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5900,44077839,17.59,17.62,2.98,17.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Jaxon Smolik,QB,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5000,44077861,18.24,17.59,3.65,15,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Noah Fifita,QB,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6400,44077821,17.14,17.51,2.68,19.2,0.5,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Anthony Evans III,WR,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6100,44078598,16.78,17.06,2.75,18.3,,,49.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Mario Craver,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6900,44078574,15.75,16.74,2.28,20.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Ian Strong,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5700,44078610,16.66,16.74,2.92,17.1,,,49.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Steve Angeli,QB,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6000,44077835,16.34,16.6,2.72,18,1.5,,,259.5,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Jordan Marshall,RB,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",8000,44078028,14.65,16.14,1.83,24,,39.5,10.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Omarion Miller,WR,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6600,44078577,15.14,16.08,2.29,19.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Isaiah Sategna III,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6500,44078580,15.3,16.06,2.35,19.5,,,39.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Rueben Owens II,RB,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7200,44078049,14.54,15.95,2.02,21.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Chase Hendricks,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5400,44078619,15.79,15.87,2.92,16.2,,,39.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Caden Pinnick,QB,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6500,44077819,14.95,15.86,2.3,19.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Collin Dixon,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5500,44078616,15.46,15.65,2.81,16.5,,,49.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Kirby Vorhees,RB,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6400,44078067,14.5,15.44,2.26,19.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Ryan Coleman-Williams,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7900,44078568,13.31,15.39,1.69,23.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Fluff Bothwell,RB,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7500,44078043,13.85,15.24,1.85,22.5,,39.5,11.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Ty Clark III,RB,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6600,44078061,13.99,15.15,2.12,19.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Jeremiah McClellan,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5900,44078604,14.57,15.13,2.47,17.7,,,49.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Dierre Hill Jr.,RB,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7100,44078052,13.73,14.94,1.93,21.3,,49.5,11.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Drake Lindsey,QB,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5300,44077855,14.41,14.65,2.72,15.9,1.5,,,189.5,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Fame Ijeboi,RB,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5900,44078088,13.88,14.64,2.35,17.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+CJ Campbell Jr.,RB,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5500,44078100,14.12,14.6,2.57,16.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Isaiah Horton,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6400,44078583,13.02,14.25,2.03,19.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Walker Eget,QB,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5100,44077859,13.86,14.09,2.72,15.3,0.5,,,159.5,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Bryce Underwood,QB,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6700,44077813,13.24,14.06,1.98,20.1,0.5,9.5,,124.5,,,28.5,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Ju'Juan Johnson,RB,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4900,44078127,13.88,14.04,2.83,14.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Quincy Craig,RB,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4200,44078172,14.39,14.03,3.43,12.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Hudson Clement,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4700,44078670,13.91,13.95,2.96,14.1,,,39.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Lotzeir Brooks,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5600,44078613,13.2,13.92,2.36,16.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Tre Spivey,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4800,44078661,13.62,13.78,2.84,14.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Evan Stewart,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6200,44078595,12.69,13.75,2.05,18.6,,,39.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Umari Hatcher,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6200,44078592,12.47,13.58,2.01,18.6,,,39.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Reed Harris,WR,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5800,44078607,12.53,13.51,2.16,17.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Cataurus Hicks,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6300,44078586,12.1,13.32,1.92,18.9,,,39.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Kyler Kasper,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4100,44078736,13.55,13.3,3.3,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Dakorien Moore,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6300,44078589,12.03,13.27,1.91,18.9,,,39.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Daniel Hill,RB,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6700,44078058,11.53,13.25,1.72,20.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Kedrick Reescano,RB,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5500,44078103,12.28,13.12,2.23,16.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Tony Freeman,WR,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4700,44078673,12.67,12.96,2.7,14.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+CJ Baxter,RB,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4900,44078130,12.32,12.8,2.51,14.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Javon Tracy,WR,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4900,44078643,12.3,12.73,2.51,14.7,,,24.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Cole Weaver,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4800,44078652,12.18,12.58,2.54,14.4,,,39.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+DJ Jordan,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44079012,13.31,12.51,4.29,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Trell Harris,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5300,44078622,11.76,12.5,2.22,15.9,,,24.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Ca'Lil Valentine,RB,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6100,44078076,11.34,12.46,1.86,18.3,,39.5,6.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Xavier Townsend,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4800,44078658,11.77,12.29,2.45,14.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Jamari Johnson,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44078691,11.84,12.14,2.63,13.5,,,24.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Andrew Marsh,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44078688,11.83,12.13,2.63,13.5,,,19.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Jaron Tibbs,WR,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5100,44078628,11.33,12.12,2.22,15.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Chris Barnes,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4700,44078667,11.59,12.09,2.47,14.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+JJ Buchanan,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5100,44078631,11.24,11.97,2.2,15.3,,,24.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Censere Lee,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4700,44078664,11.41,11.89,2.43,14.1,,,39.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Jojo Phillips,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3900,44078766,11.88,11.84,3.04,11.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Duane Thomas Jr.,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44078694,11.31,11.75,2.51,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Colin Chase,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4300,44078709,11.43,11.72,2.66,12.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Javen Nicholas,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4400,44078697,11.25,11.64,2.56,13.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Garrett Oakley,WR,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3900,44078754,11.57,11.59,2.97,11.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Duke Watson,RB,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4800,44078136,10.75,11.41,2.24,14.4,,24.5,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+James Peoples,RB,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6100,44078079,9.53,11.28,1.56,18.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Brett Eskildsen,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5200,44078625,10.04,11.15,1.93,15.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Dylan Wade,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3900,44078769,10.78,10.95,2.76,11.7,,,14.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Izaiah Williams,WR,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078742,10.65,10.92,2.66,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Aidan Laughery,RB,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5700,44078094,9.54,10.75,1.67,17.1,,29.5,5.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Nic Anderson,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4200,44078721,10.13,10.62,2.41,12.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Ashton Bethel-Roman,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4600,44078682,9.69,10.51,2.11,13.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Asaad Waseem,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4900,44078646,9.42,10.47,1.92,14.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Jared Richardson,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5000,44078634,9.3,10.33,1.86,15,,,24.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Malik Knight,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4800,44078649,9.36,10.27,1.95,14.4,,,24.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Ahmad Miller,RB,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078259,9.7,10.16,2.42,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Benjamin Brahmer,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078748,9.69,10.15,2.42,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Jeremiah Hasley,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4900,44078640,9.14,10.14,1.87,14.7,,,14.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Jalen Smith,WR,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4200,44078718,9.31,9.97,2.22,12.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Justin Bowick,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4400,44078700,9.13,9.94,2.07,13.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Xavier Robinson,RB,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5400,44078109,8.4,9.8,1.55,16.2,,19.5,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+JoJo Bermudez,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3300,44078883,9.74,9.78,2.95,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+La'Vell Wright,RB,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5000,44078121,8.36,9.69,1.67,15,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Marquis Johnson,WR,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4100,44078733,8.99,9.65,2.19,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Peter Clarke,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3500,44078799,9.41,9.63,2.69,10.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Zion Ragins,WR,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4600,44078679,8.57,9.51,1.86,13.8,,,14.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Chase Sowell,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3400,44078853,9.18,9.38,2.7,10.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Mason Mini,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4100,44078727,8.63,9.29,2.1,12.3,,,14.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Fredrick Moore,RB,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078505,8.6,9.28,2.15,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Jay Harris,RB,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44078145,8.22,9.27,1.83,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Bisi Owens,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079645,9.31,9.25,3.1,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Antonio Harris,RB,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4300,44078160,8.22,9.16,1.91,12.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Jamarion Morrow,RB,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5300,44078112,7.4,9.1,1.4,15.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Noah Rogers,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4100,44078730,8.28,9.08,2.02,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Walker Lyons,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3900,44078763,8.37,9.04,2.15,11.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Josh Derry,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3600,44078796,8.58,8.98,2.38,10.8,,,24.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Willie Rodriguez,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078751,8.21,8.97,2.05,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Lloyd Avant,RB,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5800,44078091,7.07,8.93,1.22,17.4,,24.5,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Andrew Rappleyea,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4300,44078712,7.94,8.93,1.85,12.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+DJ Miller,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3200,44078949,8.69,8.87,2.72,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Dorian Thomas,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3800,44078772,8.1,8.76,2.13,11.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Rodney Fields Jr.,RB,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6000,44078082,6.38,8.71,1.06,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Savion Hiter,RB,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5900,44078085,6.61,8.61,1.12,17.7,,9.5,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Iverson Hooks,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3800,44078775,7.83,8.54,2.06,11.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Jack Foley,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3300,44078877,8.14,8.49,2.47,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Marquis Gillis,RB,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4200,44078175,7.44,8.47,1.77,12.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Chris Hunter,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4100,44078724,7.42,8.4,1.81,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Keveun Mason,RB,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5400,44078106,6.44,8.39,1.19,16.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+EJ Crowell,RB,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4300,44078163,7.23,8.37,1.68,12.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Cooper Perry,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3500,44078817,7.75,8.3,2.21,10.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Jayce Freeman,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3500,44078802,7.69,8.25,2.2,10.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Maxwell Woods,RB,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4800,44078133,6.54,8.11,1.36,14.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Parker Livingstone,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3200,44078934,7.61,8.01,2.38,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Cole Rusk,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3400,44078859,7.4,7.96,2.18,10.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Bryce Yates,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3600,44078790,7.22,7.94,2.01,10.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Legend Glasker,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4400,44078706,6.58,7.9,1.5,13.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Kaleb Edwards,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3900,44078760,6.94,7.89,1.78,11.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Jason Patterson,RB,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4200,44078184,6.62,7.82,1.58,12.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Hunter Smith,RB,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4100,44078190,6.61,7.75,1.61,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Davion Kerr,RB,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078262,6.65,7.72,1.66,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Houston Thomas,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3500,44078829,6.92,7.63,1.98,10.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Noah Meyers,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44078970,7.21,7.63,2.33,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Miles Coleman,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078745,6.53,7.62,1.63,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Tre Page III,RB,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4400,44078148,6.21,7.61,1.41,13.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Donovan Green,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3400,44078841,6.96,7.6,2.05,10.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Shane Carr,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44079036,7.06,7.5,2.28,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Noah Jennings,WR,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3400,44078850,6.85,7.46,2.02,10.2,,,24.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Kaden Feagin,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44078994,6.99,7.45,2.26,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Jordan Anderson,RB,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4100,44078193,6.17,7.39,1.5,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Sanfrisco Magee,WR,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3800,44078778,6.34,7.35,1.67,11.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Corey Smith,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079639,6.88,7.31,2.29,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Xavier Gayten,RB,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4400,44078154,5.79,7.27,1.32,13.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Jovantae Barnes,RB,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4100,44078202,5.73,7.05,1.4,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Hogan Hansen,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3300,44078892,6.33,7.04,1.92,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Ashten Emory,RB,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078427,5.79,7.03,1.45,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Terry Bussey,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4300,44078715,5.53,7,1.28,12.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Kaden Helms,WR,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079525,6.43,6.95,2.14,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Salesi Moa,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3500,44078811,6.03,6.92,1.72,10.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Max Hunt,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079153,6.37,6.9,2.12,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Daniel Blood,WR,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3600,44078793,5.9,6.88,1.64,10.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Simeon Price,RB,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078448,5.52,6.82,1.38,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Rodney Gallagher III,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3500,44078814,5.83,6.76,1.67,10.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Jerrick Gibson,RB,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4100,44078196,5.37,6.75,1.31,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Linkon Cure,WR,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3200,44078928,5.99,6.71,1.87,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Tory Blaylock,RB,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4200,44078166,5.17,6.66,1.23,12.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Channing Goodwin,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3400,44078847,5.78,6.66,1.7,10.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Khamari Anderson,WR,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44079015,5.96,6.63,1.92,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Wondame Davis Jr.,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44078964,5.91,6.59,1.91,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Bryson Kuzdzal,RB,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078340,5.23,6.58,1.31,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Hayden Hansen,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3200,44078931,5.81,6.57,1.82,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Sawyer Seidl,RB,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078232,5.12,6.5,1.28,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Raiden Vines-Bright,WR,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3300,44078901,5.62,6.48,1.7,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Waden Charles,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44079051,5.81,6.44,1.87,9.3,,,14.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Jason Brown Jr.,RB,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4100,44078199,4.96,6.43,1.21,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Tony Kinsler,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3200,44078925,5.63,6.42,1.76,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Kevin Riley,RB,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4400,44078151,4.71,6.41,1.07,13.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Jaivon Solomon,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079069,5.75,6.4,1.92,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+George Burhenn,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3300,44078895,5.51,6.39,1.67,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Synkwan Smith,RB,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078247,4.85,6.28,1.21,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Tyshawn Russell,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3300,44078880,5.35,6.26,1.62,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Brandon Phelps,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079687,5.57,6.26,1.86,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Brayden Trimble,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3300,44078889,5.43,6.23,1.64,9.9,,,14.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Koby Howard,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4800,44078655,4.17,6.22,0.87,14.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Tank Hawkins,WR,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3500,44078823,5.09,6.17,1.45,10.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Carter Vargas,RB,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4200,44078178,4.53,6.14,1.08,12.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Da'Jaun Riggs,RB,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078442,4.62,6.09,1.15,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+David Clement,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3400,44078835,5.16,6.06,1.52,10.2,,,14.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Jonah Burton,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3400,44078832,4.98,5.92,1.47,10.2,,,14.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Christian Abney,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3200,44078937,4.95,5.88,1.55,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Kamrean Johnson,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3300,44078874,4.84,5.85,1.47,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Gabe Burkle,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44079003,4.98,5.84,1.61,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Rocky Beers,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44078982,4.95,5.82,1.6,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Jonathan Bibbs,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3400,44078871,4.68,5.79,1.38,10.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Kolin Wilson,RB,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4100,44078205,4.07,5.72,0.99,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Leo Pulalasi,RB,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4200,44078181,3.99,5.71,0.95,12.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Jordan King,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3300,44078904,4.5,5.58,1.37,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Andrew Olesh,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44079024,4.63,5.57,1.5,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Jaime Ffrench,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44078997,4.63,5.56,1.49,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Derek Eusebio,WR,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44079018,4.51,5.47,1.45,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Branden Ganashamoorthy,WR,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44079030,4.48,5.45,1.45,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+A.J. Turner,RB,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078358,3.78,5.42,0.95,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Ayden Williams,WR,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44079042,4.46,5.42,1.44,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Jayden Moore,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3200,44078922,4.48,5.4,1.4,9.6,,,14.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Dylan Raiola,QB,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",8100,44077783,0.57,5.32,0.07,24.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+KD Daniels,RB,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078229,3.62,5.3,0.91,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Derek Meadows,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3700,44078787,3.81,5.27,1.03,11.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Rico Scott,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3400,44078865,4.04,5.27,1.19,10.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Tylik Hill,RB,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5200,44078115,2.64,5.23,0.51,15.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Richie Anderson III,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080011,4.28,5.22,1.43,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+AJ Swann,QB,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7900,44077787,0.56,5.19,0.07,23.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Blake Barnett,QB,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7700,44077791,0.68,5.16,0.09,23.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Rodney Harris II,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3500,44078808,3.78,5.13,1.08,10.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Sam West,WR,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3500,44078826,3.79,5.13,1.08,10.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Austin Mack,QB,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6900,44077809,1.22,5.11,0.18,20.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Brandon Kinsey,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079648,4.09,5.07,1.36,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Brady Hart,QB,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7500,44077795,0.68,5.04,0.09,22.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Kenny Darby,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3700,44078784,3.5,5.02,0.95,11.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Quinton Martin Jr.,RB,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4200,44078169,3.08,4.98,0.73,12.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Jack Pedersen,WR,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44079027,3.87,4.96,1.25,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Ayo Adeyi,RB,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078307,3.19,4.95,0.8,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Nate Kurisky,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44078955,3.86,4.95,1.25,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Roger Saleapaga II,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3300,44078916,3.71,4.94,1.12,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Wesley Yarbrough,RB,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078403,3.15,4.92,0.79,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Damon Ferguson Jr.,RB,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078256,3.06,4.85,0.77,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Javari Barnett,RB,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078322,3.06,4.85,0.77,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Brandon Smith,RB,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078445,3.06,4.85,0.77,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Tradarian Ball,RB,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078451,3.06,4.85,0.77,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Landen Chambers,RB,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4100,44078208,2.96,4.83,0.72,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Mikkel Skinner,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3300,44078910,3.52,4.8,1.07,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Alex Manske,QB,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",7000,44077805,0.72,4.77,0.1,21,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Zay Robinson,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3900,44078757,3,4.74,0.77,11.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Deuce Lawrence,RB,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5100,44078118,2.06,4.71,0.4,15.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+QuaRon Adams,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079765,3.64,4.71,1.21,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Whitt Newbauer,QB,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6900,44077807,0.69,4.69,0.1,20.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Israel Polk,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44078991,3.54,4.69,1.14,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Tyler Powell,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44079009,3.48,4.65,1.12,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Keith Jones Jr.,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3700,44078781,3,4.62,0.81,11.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Julian Dugger,QB,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5900,44077841,1.29,4.58,0.22,17.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Zack Marshall,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3200,44078940,3.32,4.58,1.04,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Perry Thompson,WR,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44079000,3.33,4.53,1.07,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Josh Ford,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44079039,3.34,4.53,1.08,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Cederian Morgan,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3200,44078952,3.22,4.5,1.01,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Demarius Robinson,RB,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078415,2.58,4.46,0.65,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Elijah Moore,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079222,3.32,4.46,1.11,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Zamondre Merriweather,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079216,3.31,4.45,1.1,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Carson Kolb,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3300,44078886,3,4.38,0.91,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Holden Geriner,QB,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6500,44077817,0.57,4.35,0.09,19.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Shavane Anderson Jr.,RB,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4600,44078142,1.98,4.34,0.43,13.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Carson Kent,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44078967,3.08,4.32,0.99,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Jalen Moss,WR,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3200,44078946,2.99,4.31,0.93,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Grant Washington,RB,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078370,2.36,4.29,0.59,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Jordan Dees,WR,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3300,44078907,2.89,4.29,0.88,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Riley Williams,WR,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3300,44078913,2.88,4.28,0.87,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Carson Boyd,QB,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6300,44077825,0.61,4.27,0.1,18.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Kavon Simmons,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44078958,3,4.26,0.97,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Will Loerzel,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44078961,3,4.26,0.97,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Reggie Frischknecht,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44079045,2.98,4.25,0.96,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+TJ Thomas,RB,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4300,44078157,2.03,4.21,0.47,12.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Ric'Darious Farmer,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3300,44078919,2.77,4.2,0.84,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Walker Bryson,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079123,3,4.2,1,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Davin Stoffel,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079417,3,4.2,1,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Kenyon Alston,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079450,3,4.2,1,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Nas Rankin,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079456,3,4.2,1,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Travis Johnson,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079489,3,4.2,1,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Peter Gonzalez,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079579,3,4.2,1,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Kendre Harrison,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079786,3,4.2,1,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Markus Dixon,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079789,3,4.2,1,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+A.J. Pugliano,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079792,3,4.2,1,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Gatlin Bair,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079804,3,4.2,1,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Marshall Pritchett,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079915,3,4.2,1,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Brandon White,WR,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3500,44078805,2.61,4.19,0.75,10.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Elijah Lagg,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079150,2.99,4.19,1,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Ryder Kusch,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44078976,2.89,4.17,0.93,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Mark Hamper,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44079021,2.89,4.17,0.93,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Tyreek Robinson,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079174,2.96,4.17,0.99,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Pierce Walsh,WR,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3200,44078943,2.79,4.15,0.87,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Derrick Salley Jr.,WR,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079303,2.93,4.15,0.98,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Mikey Keene,QB,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5600,44077849,0.98,4.14,0.17,16.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Jackson Brousseau,QB,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6100,44077831,0.57,4.12,0.09,18.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Keyone Jenkins,QB,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6100,44077833,0.53,4.08,0.09,18.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Carsyn Baker,RB,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078517,2.1,4.08,0.53,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Steele Pizzella,QB,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6200,44077827,0.41,4.05,0.07,18.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Treyson Bourguet,QB,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5800,44077845,0.6,3.96,0.1,17.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Sawyer Anderson,QB,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5700,44077847,0.6,3.9,0.1,17.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+CJ Givers,RB,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078217,1.76,3.8,0.44,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Jer'Michael Carter,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44078985,2.41,3.79,0.78,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Broderick Vehrs,QB,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5500,44077851,0.55,3.74,0.1,16.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Antwan Roberts,RB,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078400,1.55,3.64,0.39,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Malachi Nelson,QB,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5400,44077853,0.46,3.61,0.08,16.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Tommy Carr,QB,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",6000,44077837,0,3.6,0,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Micah Riley,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3400,44078868,1.92,3.58,0.56,10.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Dan Mahan,QB,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4800,44077867,0.86,3.57,0.18,14.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Darrius Clemons,WR,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4400,44078703,1.14,3.55,0.26,13.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Jordan Ross,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079696,2.19,3.55,0.73,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Owen Eshelman,QB,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077977,0.87,3.4,0.19,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Ajani Sheppard,QB,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4900,44077865,0.56,3.39,0.11,14.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Sam Brown V,RB,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5600,44078097,0,3.36,0,16.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Henry Boyer,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44079033,1.83,3.33,0.59,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Preston Rex,RB,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078535,1.1,3.28,0.27,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Amari Odom,QB,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077893,0.59,3.17,0.13,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+JacQai Long,QB,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077983,0.59,3.17,0.13,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Callum Wither,QB,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5200,44077857,0,3.12,0,15.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Brayden Fowler-Nicolosi,QB,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077925,0.47,3.08,0.11,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Ari Patu,QB,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077871,0.46,3.07,0.1,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Max Shikenjanski,QB,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077931,0.46,3.07,0.1,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Bennett Meredith,QB,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077945,0.47,3.07,0.1,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Evans Chuba,QB,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5000,44077863,0,3,0,15,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Ismail Mahdi,RB,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5000,44078124,0,3,0,15,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Kam Shanks,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",5000,44078637,0,3,0,15,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Malachi Coleman,RB,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078265,0.6,2.88,0.15,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Brady Palmer,QB,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4700,44077869,0,2.82,0,14.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+J.J. Hill,RB,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4700,44078139,0,2.82,0,14.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Josh Manning,WR,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4600,44078676,0,2.76,0,13.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Brady Palmer,QB,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077907,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Lawrence Gardner,QB,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077873,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Terry Walker III,QB,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077875,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Blaine Hipa,QB,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077877,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Billy Johnson,QB,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077879,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Grant Lawless,QB,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077881,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Gannon Jones,QB,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077883,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Beau Jackson,QB,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077885,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Angelo Renda,QB,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077887,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Corey Dailey,QB,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077889,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Davin Friedman,QB,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077891,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Joseph Filardi,QB,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077895,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Rich Belin,QB,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077897,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Danny Lauter,QB,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077899,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Zaid Lott,QB,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077901,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Camren Boykin,QB,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077903,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Lamar Best,QB,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077905,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Jacob Knuth,QB,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077909,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Dillon Duff,QB,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077911,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Bowe Bentley,QB,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077913,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Jett Niu,QB,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077915,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Grant Jordan,QB,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077917,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Luke Tepas,QB,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077919,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Michael Clayton II,QB,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077921,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Dane Eisenmenger,QB,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077923,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Chase Herbstreit,QB,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077927,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Brady Smigiel,QB,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077929,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Michael Merdinger,QB,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077933,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Dylan Wittke,QB,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077935,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Owen Lansu,QB,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077937,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Connor Barry,QB,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077939,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Jack Lambert,QB,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077941,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Kase Evans,QB,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077943,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Garyt Odom,QB,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077947,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Corin Berry,QB,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077949,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Luke Haugo,QB,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077951,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Mason Bray,QB,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077953,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Oscar Rios,QB,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077955,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Cameron Dyer,QB,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077957,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Jake Fette,QB,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077959,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+EJ Caminong,QB,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077961,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Dominic Ingrassia,QB,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077963,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Nainoa Lopes,QB,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077965,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Alonzo Esparza,QB,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077967,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Akili Smith Jr.,QB,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077969,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Brock Thomas,QB,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077971,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Ryder Hayes,QB,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077973,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+TC Manumaleuna,QB,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077975,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Gavin Gray,QB,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077979,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Brennen Ward,QB,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077981,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Carson Cruver,QB,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077985,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Matt Ponatoski,QB,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077987,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+William Drakeford Jr.,QB,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077989,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Jett Thomalla,QB,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077991,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+John Gazzaniga,QB,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077993,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+John Cooper,QB,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077995,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Tayden-Evan Kaawa,QB,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077997,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Parker Puckett,QB,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44077999,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Jaden Rashada,QB,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44078001,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Brodie McWhorter,QB,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44078003,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Jayytee Taylor,QB,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44078005,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Helaman Casuga,QB,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44078007,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Eli Morcos,QB,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44078009,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Paxton Land,QB,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44078011,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Enoch Watson,QB,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44078013,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+John Sanders,QB,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44078015,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Owen Geilman,QB,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44078017,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Rocco Marriott,QB,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44078019,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Kaleb Annett,QB,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44078021,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Dante Carr,QB,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44078023,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Jayshon Platt,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4500,44078685,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Sione Moa,RB,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4200,44078187,0,2.52,0,12.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Taevion Swint,RB,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4100,44078211,0,2.46,0,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Jayvian Tanelus,RB,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078214,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Wilhelm Daal II,RB,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078220,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Cole Denson,RB,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078223,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Jamar Searcy,RB,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078226,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Ryan Henley,RB,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078235,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Kyndall McCaleb,RB,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078238,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Justin Cook,RB,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078241,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Jaylin Brown,RB,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078244,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Ethan Shine,RB,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078250,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Zaky Roberts,RB,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078253,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+De'Carlos Young,RB,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078268,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+R.J. Blount,RB,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078271,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Jordan Miller,RB,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078274,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Ameir Morrow,RB,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078277,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Johnny Martin,RB,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078280,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Monterrio Elston Jr.,RB,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078283,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Tanner West,RB,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078286,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+LJ McGhee,RB,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078289,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Jonathan Hatton Jr.,RB,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078292,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Ben McCreary,RB,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078295,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Andy Bass,RB,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078298,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Gabe Sawchuk,RB,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078301,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+DeZephen Walker,RB,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078304,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+KD Jones,RB,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078310,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+William Mason,RB,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078313,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Dennis Moody III,RB,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078316,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Javen Hall,RB,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078319,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Cedric Wyche II,RB,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078325,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+John Forster,RB,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078328,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Nelsyn Wheeler,RB,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078331,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Murphy Clement,RB,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078334,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Corey Rashad,RB,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078337,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Jonathan Brown,RB,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078343,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Donovan Johnson,RB,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078346,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Tomas O'Meara,RB,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078349,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Gary Stacy,RB,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078352,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Micah Ka'apana,RB,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078355,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Niko Castillo,RB,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078361,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Xavier Ford,RB,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078364,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Jaron Thomas,RB,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078367,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Zeke Bates,RB,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078373,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Ryan Estrada,RB,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078376,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Cam Wallace,RB,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078379,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+D'Antae Sheffey,RB,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078382,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Jeremy Washington,RB,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078385,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Amar'e Glover,RB,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078388,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Travis Terrell Jr.,RB,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078391,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Carter Holsworth,RB,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078394,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Izaiah Wright,RB,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078397,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Anthony Wilhite,RB,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078406,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Lohgan Bottjer,RB,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078409,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Cornelius Warren III,RB,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078412,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Cardae Mack,RB,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078418,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+David Avit,RB,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078421,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Grayson Rigdon,RB,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078424,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Anthony League,RB,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078430,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Dean-Taylor Chapman,RB,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078433,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Victor Santino,RB,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078436,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Carson Perry-Smith,RB,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078439,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Zander Quinn,RB,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078454,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Killian Sombe,RB,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078457,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Trey Hill Jr.,RB,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078460,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Marquez Wimberly,RB,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078463,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+CJ Toney,RB,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078466,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Ryan Salcedo,RB,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078469,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Martels Carter Jr.,RB,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078472,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Ahmir Smith,RB,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078475,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Delvecchio Alston II,RB,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078478,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Tovani Mizell,RB,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078481,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Jordan Colbert,RB,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078484,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Isaiah Jackson,RB,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078487,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Trae'shawn Brown,RB,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078490,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+AK Dear,RB,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078493,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Khalifa Keith,RB,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078496,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Jaron Jackson,RB,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078499,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+J'Alan Terry,RB,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078502,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+TC Washington,RB,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078508,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Cooper Crosby,RB,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078511,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Brinston Williams,RB,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078514,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+KJ Edwards,RB,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078520,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Ramarian Tillman,RB,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078523,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Tiger Riden Jr.,RB,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078526,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+DeDe Murray,RB,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078529,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Jovesa Damuni,RB,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078532,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Lucky Finau,RB,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078538,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Charlie Miska,RB,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078541,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Devaughn Eka,RB,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078544,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Micah Beckstead,RB,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078547,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Logan Payne,RB,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078550,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Journee Tonga,RB,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078553,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Agyeman Addae,RB,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078556,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Kaj Baker,RB,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078559,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Arthur Lewis IV,RB,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078562,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Chance Nixon,RB,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078565,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Antonio Meeks,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",4000,44078739,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Jalen Hoffman,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079474,0.72,2.38,0.24,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Elijah Brown,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079870,0.44,2.15,0.15,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Trey Leckner,WR,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3500,44078820,0,2.1,0,10.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Cole Boscia,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079768,0.36,2.09,0.12,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Elijah Thomas,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3400,44078838,0,2.04,0,10.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Ty Robinson,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3400,44078844,0,2.04,0,10.2,,,10.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Chauncey Magwood,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3400,44078856,0,2.04,0,10.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Jaren Hamilton,WR,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3400,44078862,0,2.04,0,10.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+AJ Ia,WR,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3300,44078898,0,1.98,0,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Darius Johnson,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44078973,0,1.86,0,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Coen Logan,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44078979,0,1.86,0,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Terrence Lewis,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44078988,0,1.86,0,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+De'Nylon Morrissette,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44079006,0,1.86,0,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Caden Piening,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3100,44079048,0,1.86,0,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Jake Taylor,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079054,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Brett Elliott,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079057,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Benjamin Moseley,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079060,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Tony Boggs,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079063,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Jack Gaskins,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079066,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Qeanu Johnson,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079072,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Paxon Kettering,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079075,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Jamien Little,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079078,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Kavon Conciauro,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079081,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Brody Keefe,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079084,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Paul Holyfield Jr.,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079087,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Blake Rohrer,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079090,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Jackson Maggiore,WR,DUKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079093,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/12/2026
+Landon Morris,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079096,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Dominick Barry,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079099,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Matthew Lusardi,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079102,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Charlie Wingfield,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079105,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Max Tillfeldt Retsler,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079108,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Brady Shust,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079111,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Drayden Dickmann,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079114,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Elijah Otieno,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079117,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Bryce Kania,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079120,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Chase Tyler,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079126,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Ny Carr,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079129,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Braxton Winston III,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079132,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Zeek Jackson,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079135,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Eli Potts,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079138,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Kobe Adeleke-Hokes,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079141,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Devin Goldston,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079144,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Hugh O'Brien,WR,WAKE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079147,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7686.png,,,,,,,9/12/2026
+Adam Howanitz,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079156,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Truitt Brown,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079159,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Wyatt Villarreal,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079162,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Jordan Fields,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079165,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Cam Sapp,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079168,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Dylan Wester,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079171,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Benny Haselrig,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079177,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Amah Agwu,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079180,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Rodney Dunbar,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079183,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Demetrice McCray,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079186,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Jake Sassic,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079189,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Bryan Hamilton,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079192,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Jack Lesniewicz,WR,PITT,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079195,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/12/2026
+Daunte Bacheyie,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079198,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Elijah Washington-Baker,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079201,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Carter Bashir,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079204,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Matt Outten,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079207,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Darien Williams,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079210,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Julian McFadden,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079213,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Calvin Russell III,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079219,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Justus Ross-Simmons,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079225,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Nate Edwards,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079228,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Amare' Gough,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079231,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Terrell Wilfong,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079234,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+BJ Garrett,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079237,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Phoenix Henriquez,WR,SYR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079240,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/12/2026
+Daniel Evert,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079243,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Joey Schlaffer,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079246,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+David Wise,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079249,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Patrick Keller,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079252,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Liam Fuller,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079255,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Brody Norman,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079258,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Reis Stocksdale,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079261,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Demonte Greene,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079264,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Rameir Hardy,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079267,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Zander Baptiste,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079270,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Tylik Mitchell,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079273,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Hunter Watson,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079276,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Kenedy Uzoma,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079279,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Kaegan Chambers,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079282,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Ash Roberts,WR,TEMP,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079285,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7736.png,,,,,,,9/12/2026
+Will Anciaux,WR,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079288,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Arley Morrell,WR,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079291,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Owen Harrington,WR,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079294,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Lawson McGraw,WR,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079297,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Elias Wilson,WR,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079300,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Adonis Moise,WR,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079306,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Larry Porter IV,WR,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079309,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Max Lovett,WR,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079312,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Sterling Lockett,WR,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079315,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Isaac Koch,WR,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079318,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Julius Wilson,WR,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079321,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Kaprice Keith,WR,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079324,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Nash Morrison,WR,KSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079327,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7791.png,,,,,,,9/12/2026
+Jack Van Dorselaer,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079330,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Trynae Washington,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079333,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+John Locke Jr.,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079336,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Kade McIntyre,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079339,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+CJ Nickson,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079342,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Ryder Mix,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079345,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Tyler Ruxer,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079348,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Manny Choice,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079351,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Mackenzie Alleyne,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079354,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Jacob Jordan,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079357,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Ivan Carreon,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079360,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Jahsiear Rogers,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079363,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Eli Merck,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079366,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Trey Brown,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079369,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Jayden Petit,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079372,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Xavier Okwufulueze,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079375,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Daniel Odom,WR,OU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079378,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7811.png,,,,,,,9/12/2026
+Morgan McPhaul,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079381,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Oscar Hammond,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079384,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Luke Logan,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079387,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Bodie Boydstun,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079390,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Matrail Lopez,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079393,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Quincy Shelton,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079396,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Jabarie Thornton,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079399,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Kam Powell,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079402,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Ty Watts,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079405,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Dayvon Standard,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079408,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Blake Hogshooter,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079411,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Malachi Jackson,WR,OKST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079414,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7817.png,,,,,,,9/12/2026
+Maurice Smith Jr.,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079420,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Landen Von Seggern,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079423,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Will Vala III,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079426,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Tanner Hollinger,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079429,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Grant Smith,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079432,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+BJ Thurman,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079435,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Logan Farrell,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079438,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Eddie Kasper,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079441,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Nate Cichy,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079444,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Jacob Eberhart,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079447,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Jacob Harvey,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079453,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Alex Perry,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079459,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Karson Kaiser,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079462,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Leslie Mosley Jr.,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079465,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Jershaun Newton,WR,IL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079468,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7823.png,,,,,,,9/12/2026
+Deakon Tonielli,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079471,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Eli Owens,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079477,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Crandall Quinn,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079480,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Mason Bonner,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079483,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Jimmy Pisani,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079486,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Kendrick Bell,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079492,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Jamar Browder,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079495,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Jacob Washington,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079498,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Jaylen Pile,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079501,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Logan Forbes,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079504,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Kaleb Schlecht,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079507,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Bryce Wilcox,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079510,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Braydon Alford,WR,MICH,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079513,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7841.png,,,,,,,9/12/2026
+Julian Johnson,WR,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079516,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+George Rohl,WR,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079519,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Jacob Simpson,WR,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079522,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Roman Voss,WR,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079528,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Sam Peters,WR,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079531,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Gabe Weaver,WR,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079534,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Zion Steptoe,WR,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079537,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Hayden Moore,WR,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079540,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/12/2026
+Quayd Hendryx,WR,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079543,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Bradley Martino,WR,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079546,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Braiden Stevens,WR,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079549,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Donielle Hayes,WR,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079552,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Rico Blassingame,WR,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079555,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Josiah Dozier,WR,MINN,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079558,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/12/2026
+Cooper Alexander,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079561,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Finn Furmanek,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079564,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Brian Kortovich,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079567,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Bobby Mears,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079570,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Peyton Falzone,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079573,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Jake Lukac,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079576,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Ethan Black,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079582,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Karon Brookins,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079585,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Lyrick Samuel,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079588,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Logan Cunningham,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079591,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Amarion Jackson,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079594,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Hank Lustig,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079597,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Max Heffner,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079600,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Ben Whitver,WR,PSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079603,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/12/2026
+Luca Puccinelli,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079606,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Jackson Berryman,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079609,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Ar'Mari Towns,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079612,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Jon Grimmett,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079615,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Kylan Fox,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079618,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Cooper McCutchan,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079621,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Luke Shorter,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079624,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Tra'Mar Harris,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079627,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Jesse Watson,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079630,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Jaylan Hornsby,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079633,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Quinn Rosenkranz,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079636,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Jalil Hall,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079642,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Ricky Sampson,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079651,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Nolan Buckman,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079654,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Andrew Adkison,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079657,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Jojo Johnson,WR,PUR,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079660,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7887.png,,,,,,,9/12/2026
+Arthur Ban,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079663,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Shane King,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079666,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Kellan Ford,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079669,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Henry Gabalis,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079672,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Lachlan Teissier,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079675,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Tyler Mustain,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079678,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Giovanni Richardson,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079681,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Isaiah Mizell,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079684,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+R.J. Mosley,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079690,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Caleb Smith,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079693,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Jordan McCord III,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079699,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Landon Kelsey,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079702,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Scotty Brennan,WR,ARIZ,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079705,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8034.png,,,,,,,9/12/2026
+Anthony Miller,WR,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079708,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Kristian Ingman,WR,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079711,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+James Giggey,WR,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079714,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Landen Miree,WR,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079717,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Hayden Vercher,WR,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079720,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Cory Butler Jr.,WR,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079723,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Uriah Neloms,WR,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079726,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Michael Tollefson,WR,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079729,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Plas Johnson,WR,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079732,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Harry Hassmann,WR,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079735,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Chance Ables,WR,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079738,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Jeremiah Johnson,WR,ASU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079741,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/12/2026
+Rico Walker,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079744,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Jack Olyphant,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079747,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+John Tofi Jr.,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079750,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Taimane Purcell,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079753,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Sosaia Noa,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079756,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Michael Cooley,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079759,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Kyion Grayes,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079762,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Trevor Rogers,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079771,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Tyree Sams,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079774,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Meyer Swinney,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079777,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Kai Meza,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079780,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+EJ Morgan,WR,CAL,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079783,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8049.png,,,,,,,9/12/2026
+Dayton Raiola,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079795,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Cole Newton,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079798,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Jalen Lott,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079801,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Messiah Hampton,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079807,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Dillon Gresham,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079810,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Jack Ressler,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079813,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Nathan McCoy II,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079816,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Jovon McRae II,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079819,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Brady Bidwell,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079822,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Hudson Lewis,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079825,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Aaron Bidwell,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079828,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Hunter Vaughn,WR,ORE,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079831,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8057.png,,,,,,,9/12/2026
+Beau Baker,WR,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079834,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Hudson Cedarland,WR,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079837,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Peyton Read,WR,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079840,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Cash Landau,WR,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079843,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Jay Porter,WR,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079846,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Ryan McKendry,WR,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079849,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Noah Westbrook,WR,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079852,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Oliver Bender,WR,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079855,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Ethan Masteller,WR,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079858,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Isaiah Docken,WR,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079861,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Jevon Walker,WR,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079864,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Caleb Northcroft,WR,WSU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079867,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8108.png,,,,,,,9/12/2026
+Lincoln Watkins,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079873,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Justin Kattus,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079876,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Kendall Tambling,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079879,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Xavier Daisy,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079882,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Ashton Cozart,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079885,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Brock Coffman,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079888,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Ja'Kayden Ferguson,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079891,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Rico Crowder,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079894,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Saxton Howard,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079897,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Spencer Leadbetter,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079900,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Denairius Gray,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079903,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Prince Jean,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079906,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Davis McCray,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079909,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Cash Harney,WR,UK,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079912,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/12/2026
+Danny Lewis Jr.,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079918,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Jay Lindsey,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079921,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Mack Sutter,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079924,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Jaxon Shuttlesworth,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079927,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Jack Sammarco,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079930,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Peyton Fox,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079933,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Jude Cascone,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079936,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Tyler Henderson,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079939,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Maurice Mathis Jr.,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079942,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+MJ Chirgwin,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079945,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Elijah Murray,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079948,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Ben Jackson,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079951,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Cooper Mollison,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079954,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Preston Landry,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079957,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Warner Ross,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079960,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Aubrey Walker,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079963,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Amari Sabb,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079966,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Tailan Hall,WR,BAMA,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079969,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/12/2026
+Joeseph Skipworth,WR,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079972,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Zayion Cotton,WR,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079975,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Adam Land,WR,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079978,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Luke Hutchinson,WR,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079981,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Gracen Harris,WR,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079984,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Matt Mayfield,WR,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079987,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Junior Henderson,WR,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079990,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Zion Crumpton,WR,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079993,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Bull Mitchell,WR,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079996,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Jessie Primer IV,WR,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44079999,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Fisher Southall,WR,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080002,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Camden Capehart,WR,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080005,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Jayden Cration,WR,MSST,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080008,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/12/2026
+Kiotti Armstrong,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080014,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Caleb Tafua,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080017,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Luke Braden,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080020,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Carter Braugh,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080023,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+KK Johnson,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080026,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Evan Jacobson,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080029,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Kelshaun Johnson,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080032,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Jayden Warren,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080035,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Aaron Gregory,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080038,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Madden Williams,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080041,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+TK Norman,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080044,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Chase Burton,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080047,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Will Hargett,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080050,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Kade Stewart,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080053,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Whitaker Williams,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080056,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Mike Brown,WR,TA&M,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080059,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/12/2026
+Keayen Nead,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080062,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Noah Moeaki,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080065,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Ethan Wood,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080068,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Will Zundel,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080071,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Jacob Nye,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080074,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Josh Davis,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080077,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Matthew Fredrick,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080080,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Tiger Bachmeier,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080083,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Tei Nacua,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080086,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Jaron Pula,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080089,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Terrance Saryon,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080092,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Trey Roberts,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080095,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Jared Esplin,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080098,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Fisher Ingersoll,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080101,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Kila Keone,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080104,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Jett Nelson,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080107,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Asher Young,WR,BYU,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080110,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8283.png,,,,,,,9/12/2026
+Grayson Brousseau,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080113,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Dylan Burk,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080116,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Thomas Wadsworth,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080119,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Sam Powell,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080122,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Brooks Hall,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080125,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Tyren Hornes,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080128,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Caleb Rollerson,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080131,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Chase Hinshaw,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080134,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Jordyn Bridgewater,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080137,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Zack Palmer,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080140,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Elijah Hardy,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080143,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Jordan Nunuha,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080146,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Andrea Parisi,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080149,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
+Carson Hinshaw,WR,UCF,Classic,9/12/2026,"Classic 9/12 12:00PM, 12 Games",3000,44080152,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9253.png,,,,,,,9/12/2026
