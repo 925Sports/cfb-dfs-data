@@ -1,75 +1,75 @@
 event_id,commence_time,home_team,away_team,spread_home,spread_away,total,ml_home,ml_away,n_books
-f06e90b4212fb514f3564ded9f190107,2026-09-17T23:30:00Z,Pittsburgh Panthers,Syracuse Orange,-10.5,10.5,50.29,-425.53,319.88,17
-720451b07d54e435c9be484ef73ea211,2026-09-18T23:30:00Z,Wake Forest Demon Deacons,Miami Hurricanes,21.0,-21.0,55.15,930.47,-1914.59,17
-7311bf775464ae97893928e22512bb47,2026-09-19T00:00:00Z,Texas Tech Red Raiders,Houston Cougars,-7.56,7.56,52.69,-308.17,244.89,18
-5658a82b80479ea42281da7d3e3e1337,2026-09-19T02:30:00Z,Oregon Ducks,Portland State Vikings,-56.5,56.5,66.17,,,3
+f06e90b4212fb514f3564ded9f190107,2026-09-17T23:30:00Z,Pittsburgh Panthers,Syracuse Orange,-10.47,10.47,50.59,-423.53,318.12,17
+720451b07d54e435c9be484ef73ea211,2026-09-18T23:30:00Z,Wake Forest Demon Deacons,Miami Hurricanes,21.0,-21.0,55.5,954.88,-1972.94,17
+7311bf775464ae97893928e22512bb47,2026-09-19T00:00:00Z,Texas Tech Red Raiders,Houston Cougars,-7.5,7.5,52.75,-306.78,243.67,18
+5658a82b80479ea42281da7d3e3e1337,2026-09-19T02:30:00Z,Oregon Ducks,Portland State Vikings,-56.5,56.5,66.5,,,4
 529a333381665c34d05b290d2c9eb5b9,2026-09-19T15:30:00Z,Delaware Blue Hens,Coastal Carolina Chanticleers,-5.25,5.25,57.5,-213.64,174.14,15
-5bc9efd5f27827a26c1cf8744bb8c2b1,2026-09-19T16:00:00Z,Minnesota Golden Gophers,Akron Zips,-24.67,24.67,48.19,-3499.42,1341.83,16
-a317e3ffe5919c8bff3b9b303054f1b3,2026-09-19T16:00:00Z,Arizona State Sun Devils,Kansas Jayhawks,-5.81,5.81,50.79,-223.5,179.56,17
-01e9c4d460a55375a75d025e2b1ddbf5,2026-09-19T16:00:00Z,Arkansas Razorbacks,Georgia Bulldogs,25.56,-25.56,55.22,1410.82,-5050.82,18
-9a69dbd474c6181a4c51f397b9b25d38,2026-09-19T16:00:00Z,Iowa State Cyclones,Bowling Green Falcons,-23.59,23.59,44.47,-3197.31,1245.69,17
-36baf28c66c363255bb0cd88b6aaf914,2026-09-19T16:00:00Z,Penn State Nittany Lions,Buffalo Bulls,-39.77,39.77,47.12,,,16
-3fe3d77e009a7f205cce737523609a86,2026-09-19T16:00:00Z,Clemson Tigers,North Carolina Tar Heels,-3.5,3.5,43.88,-170.69,141.94,17
-3514404f321e9cf55f11222c8e36233b,2026-09-19T16:00:00Z,Georgia Tech Yellow Jackets,Mercer Bears,-39.5,39.5,60.5,,,1
-72215c37435df22c87999aa675c675ca,2026-09-19T16:00:00Z,Kansas State Wildcats,Tulane Green Wave,-20.34,20.34,48.65,-1790.06,914.38,17
-6eee31d7778965a3e617f10146619c1d,2026-09-19T16:00:00Z,Ohio State Buckeyes,Kent State Golden Flashes,-52.53,52.53,58.31,,,16
+5bc9efd5f27827a26c1cf8744bb8c2b1,2026-09-19T16:00:00Z,Minnesota Golden Gophers,Akron Zips,-24.7,24.7,48.88,-3621.92,1353.5,16
+a317e3ffe5919c8bff3b9b303054f1b3,2026-09-19T16:00:00Z,Arizona State Sun Devils,Kansas Jayhawks,-5.84,5.84,50.68,-224.5,180.25,17
+01e9c4d460a55375a75d025e2b1ddbf5,2026-09-19T16:00:00Z,Arkansas Razorbacks,Georgia Bulldogs,25.56,-25.56,55.22,1412.59,-5090.24,18
+9a69dbd474c6181a4c51f397b9b25d38,2026-09-19T16:00:00Z,Iowa State Cyclones,Bowling Green Falcons,-23.59,23.59,44.5,-3147.31,1230.06,17
+36baf28c66c363255bb0cd88b6aaf914,2026-09-19T16:00:00Z,Penn State Nittany Lions,Buffalo Bulls,-39.83,39.83,47.12,,,16
+3fe3d77e009a7f205cce737523609a86,2026-09-19T16:00:00Z,Clemson Tigers,North Carolina Tar Heels,-3.5,3.5,43.65,-175.38,145.12,17
+3514404f321e9cf55f11222c8e36233b,2026-09-19T16:00:00Z,Georgia Tech Yellow Jackets,Mercer Bears,-39.5,39.5,60.5,,,2
+72215c37435df22c87999aa675c675ca,2026-09-19T16:00:00Z,Kansas State Wildcats,Tulane Green Wave,-20.34,20.34,48.65,-1758.81,908.12,17
+6eee31d7778965a3e617f10146619c1d,2026-09-19T16:00:00Z,Ohio State Buckeyes,Kent State Golden Flashes,-52.72,52.72,58.47,,,16
 b0cd2e8beaf0dc333daa592a0d3d5c3a,2026-09-19T16:00:00Z,Texas State Bobcats,North Texas Mean Green,-2.87,2.87,62.69,-149.93,125.4,16
-bd7ae9e585a6595f7d308d45e1bf35e3,2026-09-19T16:30:00Z,Wisconsin Badgers,Eastern Michigan Eagles,-24.19,24.19,46.03,-3745.81,1321.06,17
-2e9835b129f8b8055d4a24f736547363,2026-09-19T16:45:00Z,Vanderbilt Commodores,NC State Wolfpack,-3.41,3.41,50.29,-170.5,141.69,17
-26a76b78050ad3953d2d41dbeecd5a07,2026-09-19T17:00:00Z,Central Michigan Chippewas,Wyoming Cowboys,-1.57,1.57,38.44,-121.33,33.33,16
-08a2eb7afbd58ee7a8fb47bb4142eded,2026-09-19T18:00:00Z,Boston College Eagles,Maine Black Bears,-37.5,37.5,52.5,,,1
-578e82a8bc67101e9eba884729ffcc69,2026-09-19T18:00:00Z,Illinois Fighting Illini,Southern Illinois Salukis,-39.5,39.5,53.5,,,1
-ea8b0414ff464255eef426fd61427030,2026-09-19T19:00:00Z,Toledo Rockets,Temple Owls,-5.53,5.53,52.03,-219.93,178.6,16
-a85cea77fbd44d9135461815777f6a9c,2026-09-19T19:30:00Z,Alabama Crimson Tide,Florida State Seminoles,-19.76,19.76,49.25,-1512.65,821.18,18
+bd7ae9e585a6595f7d308d45e1bf35e3,2026-09-19T16:30:00Z,Wisconsin Badgers,Eastern Michigan Eagles,-24.19,24.19,44.38,-3527.06,1277.31,17
+2e9835b129f8b8055d4a24f736547363,2026-09-19T16:45:00Z,Vanderbilt Commodores,NC State Wolfpack,-3.44,3.44,51.47,-171.12,141.69,17
+26a76b78050ad3953d2d41dbeecd5a07,2026-09-19T17:00:00Z,Central Michigan Chippewas,Wyoming Cowboys,-1.6,1.6,38.44,-121.6,60.27,16
+08a2eb7afbd58ee7a8fb47bb4142eded,2026-09-19T18:00:00Z,Boston College Eagles,Maine Black Bears,-37.5,37.5,52.5,,,2
+578e82a8bc67101e9eba884729ffcc69,2026-09-19T18:00:00Z,Illinois Fighting Illini,Southern Illinois Salukis,-39.5,39.5,53.5,,,2
+ea8b0414ff464255eef426fd61427030,2026-09-19T19:00:00Z,Toledo Rockets,Temple Owls,-5.53,5.53,50.59,-219.27,178.6,16
+a85cea77fbd44d9135461815777f6a9c,2026-09-19T19:30:00Z,Alabama Crimson Tide,Florida State Seminoles,-19.85,19.85,48.81,-1536.94,827.35,18
 15ebe2df1d91e584d091d509e70a1a71,2026-09-19T19:30:00Z,Cincinnati Bearcats,Miami (OH) RedHawks,-14.62,14.62,49.35,-743.62,498.75,17
-8bdb9d65119df877f2e2ec632d28fef1,2026-09-19T19:30:00Z,Washington State Cougars,Duquesne Dukes,-35.5,35.5,52.5,,,1
-d2da9e958e6f4800929ff9411b697a4b,2026-09-19T19:30:00Z,Texas A&M Aggies,Kentucky Wildcats,-16.94,16.94,49.0,-899.75,573.81,18
-dbcfc3184e20d1ea45e910b89585071f,2026-09-19T19:30:00Z,Louisville Cardinals,SMU Mustangs,-1.74,1.74,59.19,-123.06,54.24,18
+8bdb9d65119df877f2e2ec632d28fef1,2026-09-19T19:30:00Z,Washington State Cougars,Duquesne Dukes,-35.5,35.5,52.5,,,2
+d2da9e958e6f4800929ff9411b697a4b,2026-09-19T19:30:00Z,Texas A&M Aggies,Kentucky Wildcats,-17.0,17.0,49.33,-899.75,573.81,18
+dbcfc3184e20d1ea45e910b89585071f,2026-09-19T19:30:00Z,Louisville Cardinals,SMU Mustangs,-1.74,1.74,59.58,-123.06,54.24,18
 f9b0ff34657875b54ee16b8254168159,2026-09-19T19:30:00Z,Michigan Wolverines,UTEP Miners,-35.32,35.32,47.5,,,15
-8b31d45a11a98ec8e6a9a9a5368a1bf4,2026-09-19T19:30:00Z,Rutgers Scarlet Knights,USC Trojans,23.97,-23.97,58.61,1190.86,-3039.0,18
-a25ab1dfd8fdb11a06a6a4b5c707d266,2026-09-19T19:30:00Z,UMass Minutemen,Stonehill Skyhawks,-33.5,33.5,48.5,,,1
-9a94b95365b9c78fbfb612ce4c859eda,2026-09-19T19:30:00Z,Utah Utes,Utah State Aggies,-28.13,28.13,57.97,-7280.17,1799.67,16
-089e1a60578160dd6828794656461ba5,2026-09-19T20:00:00Z,Liberty Flames,Ball State Cardinals,-14.47,14.47,49.75,-751.67,498.93,16
-790266884d07b6c2aeed8efc216ba610,2026-09-19T20:00:00Z,Baylor Bears,Louisiana Tech Bulldogs,-19.03,19.03,52.19,-1133.0,686.67,16
+8b31d45a11a98ec8e6a9a9a5368a1bf4,2026-09-19T19:30:00Z,Rutgers Scarlet Knights,USC Trojans,23.88,-23.88,58.61,1194.21,-3022.57,18
+a25ab1dfd8fdb11a06a6a4b5c707d266,2026-09-19T19:30:00Z,UMass Minutemen,Stonehill Skyhawks,-33.5,33.5,48.5,,,2
+9a94b95365b9c78fbfb612ce4c859eda,2026-09-19T19:30:00Z,Utah Utes,Utah State Aggies,-28.13,28.13,57.97,-7280.17,1795.5,16
+089e1a60578160dd6828794656461ba5,2026-09-19T20:00:00Z,Liberty Flames,Ball State Cardinals,-14.47,14.47,49.81,-744.67,493.93,16
+790266884d07b6c2aeed8efc216ba610,2026-09-19T20:00:00Z,Baylor Bears,Louisiana Tech Bulldogs,-18.93,18.93,52.75,-1151.73,692.93,16
 3c742aa7dc1c1da030846964a72de370,2026-09-19T20:00:00Z,Duke Blue Devils,Stanford Cardinal,-9.56,9.56,50.76,-380.25,290.19,17
 f459decff5e212a417df01fead33b180,2026-09-19T20:00:00Z,Indiana Hoosiers,Western Kentucky Hilltoppers,-44.36,44.36,60.07,,,15
-1d773c6e9934d12970ba222e96ec4c80,2026-09-19T20:00:00Z,Iowa Hawkeyes,Northern Iowa Panthers,-40.5,40.5,48.5,,,1
-a4e7771497976db67e6a81bc3700b32f,2026-09-19T20:15:00Z,South Carolina Gamecocks,Mississippi State Bulldogs,-3.88,3.88,58.41,-182.62,151.06,17
-09e86b2dd47d075b2fddb3174d21b1ac,2026-09-19T20:30:00Z,UL Monroe Warhawks,Southeastern Louisiana Lions,-12.17,12.17,47.5,-566.33,390.0,3
+1d773c6e9934d12970ba222e96ec4c80,2026-09-19T20:00:00Z,Iowa Hawkeyes,Northern Iowa Panthers,-40.5,40.5,48.5,,,2
+a4e7771497976db67e6a81bc3700b32f,2026-09-19T20:15:00Z,South Carolina Gamecocks,Mississippi State Bulldogs,-3.75,3.75,58.41,-182.12,150.69,17
+09e86b2dd47d075b2fddb3174d21b1ac,2026-09-19T20:30:00Z,UL Monroe Warhawks,Southeastern Louisiana Lions,-12.0,12.0,47.5,-587.25,398.75,4
 3db3de2fb9101f01f676c1f319837667,2026-09-19T22:00:00Z,Appalachian State Mountaineers,Charlotte 49ers,-17.57,17.57,51.16,-1255.6,728.93,16
 436d9422da324c807b9d2fb50a2ef62a,2026-09-19T22:00:00Z,Old Dominion Monarchs,East Carolina Pirates,-2.77,2.77,48.31,-146.64,122.64,16
-da4cee8b35281f4528d3dd939d42814d,2026-09-19T22:00:00Z,Florida Atlantic Owls,Florida International Panthers,-6.8,6.8,62.16,-262.6,207.2,16
+da4cee8b35281f4528d3dd939d42814d,2026-09-19T22:00:00Z,Florida Atlantic Owls,Florida International Panthers,-6.8,6.8,62.59,-267.27,211.4,16
 fa9113ed354c9a40e487f5b923b4238f,2026-09-19T22:30:00Z,Missouri State Bears,Marshall Thundering Herd,3.6,-3.6,50.72,141.87,-171.0,16
-7ef3b27d15de635a3e05324f2b0c56cb,2026-09-19T23:00:00Z,Auburn Tigers,Florida Gators,2.5,-2.5,52.88,117.38,-140.69,17
-d72de7a6a2387f86edc530bbe90a7664,2026-09-19T23:00:00Z,South Florida Bulls,Delaware State Hornets,-37.5,37.5,62.5,,,1
-60c8d1fde1467bde9f2a20b5d4cb7c90,2026-09-19T23:00:00Z,Jacksonville State Gamecocks,Georgia Southern Eagles,-3.3,3.3,52.84,-168.27,140.2,16
+7ef3b27d15de635a3e05324f2b0c56cb,2026-09-19T23:00:00Z,Auburn Tigers,Florida Gators,2.5,-2.5,52.88,118.0,-141.31,17
+d72de7a6a2387f86edc530bbe90a7664,2026-09-19T23:00:00Z,South Florida Bulls,Delaware State Hornets,-37.5,37.5,62.5,,,2
+60c8d1fde1467bde9f2a20b5d4cb7c90,2026-09-19T23:00:00Z,Jacksonville State Gamecocks,Georgia Southern Eagles,-3.3,3.3,51.59,-171.6,142.13,16
 4a9e833f32775e201ee648c51840df85,2026-09-19T23:00:00Z,UCF Knights,Georgia State Panthers,-18.6,18.6,50.38,-1248.33,735.33,16
-36bb6ea150432c9958bd533c49b06f23,2026-09-19T23:00:00Z,Memphis Tigers,UT Martin Skyhawks,-34.5,34.5,56.5,,,1
-b8810f15896c1fbe1ca25054585612f0,2026-09-19T23:00:00Z,Middle Tennessee Blue Raiders,Nevada Wolf Pack,3.62,-3.62,49.85,149.38,-180.19,17
-69164d1b806f25a76cdb6268e19d4365,2026-09-19T23:00:00Z,Missouri Tigers,Troy Trojans,-27.0,27.0,49.47,-6238.5,1614.25,16
-6c41bd5edc806bb66ae3038c8bfa3df0,2026-09-19T23:00:00Z,Oklahoma State Cowboys,Murray State Racers,-55.5,55.5,69.5,,,1
-0ce2e66203e1c66f3f2687fdccd37408,2026-09-19T23:00:00Z,Sam Houston State Bearkats,Nicholls State Colonels,-18.5,18.5,50.5,-1601.25,812.5,4
-bcc250cd218a520bcd287c120644ba05,2026-09-19T23:00:00Z,South Alabama Jaguars,Ohio Bobcats,-4.5,4.5,51.19,-195.73,160.87,16
+36bb6ea150432c9958bd533c49b06f23,2026-09-19T23:00:00Z,Memphis Tigers,UT Martin Skyhawks,-34.5,34.5,56.5,,,2
+b8810f15896c1fbe1ca25054585612f0,2026-09-19T23:00:00Z,Middle Tennessee Blue Raiders,Nevada Wolf Pack,3.62,-3.62,49.79,150.0,-180.81,17
+69164d1b806f25a76cdb6268e19d4365,2026-09-19T23:00:00Z,Missouri Tigers,Troy Trojans,-27.0,27.0,49.47,-6238.5,1622.58,16
+6c41bd5edc806bb66ae3038c8bfa3df0,2026-09-19T23:00:00Z,Oklahoma State Cowboys,Murray State Racers,-55.5,55.5,69.5,,,2
+0ce2e66203e1c66f3f2687fdccd37408,2026-09-19T23:00:00Z,Sam Houston State Bearkats,Nicholls State Colonels,-18.5,18.5,50.5,-1426.25,762.5,4
+bcc250cd218a520bcd287c120644ba05,2026-09-19T23:00:00Z,South Alabama Jaguars,Ohio Bobcats,-4.93,4.93,50.56,-205.87,167.93,16
 be8b2e012b50c86775a87bb633e330e6,2026-09-19T23:00:00Z,Rice Owls,Western Michigan Broncos,9.53,-9.53,42.84,307.4,-407.67,16
-1088ecb8a4c34880f9fb0b9274a8d3e4,2026-09-19T23:00:00Z,Southern Mississippi Golden Eagles,UConn Huskies,3.23,-3.23,54.5,135.6,-162.87,16
-e68b359be33a1855ff582d9dde87faac,2026-09-19T23:15:00Z,Washington Huskies,Eastern Washington Eagles,-42.5,42.5,56.5,,,2
+1088ecb8a4c34880f9fb0b9274a8d3e4,2026-09-19T23:00:00Z,Southern Mississippi Golden Eagles,UConn Huskies,3.23,-3.23,53.38,135.6,-162.87,16
+e68b359be33a1855ff582d9dde87faac,2026-09-19T23:15:00Z,Washington Huskies,Eastern Washington Eagles,-42.5,42.5,56.5,,,4
 55699549855efd1bed7b9d6ae1c7aded,2026-09-19T23:15:00Z,Nebraska Cornhuskers,North Dakota Fighting Hawks,-24.5,24.5,50.5,-3632.5,1220.0,4
-d3b7a8be0f6c9e50f7afd4005990228b,2026-09-19T23:30:00Z,Colorado State Rams,BYU Cougars,17.82,-17.82,51.83,648.29,-1053.29,18
-03297aa8a399c223aa1cc6aa923d9bc6,2026-09-19T23:30:00Z,Northwestern Wildcats,Colorado Buffaloes,-3.59,3.59,48.85,-182.38,151.19,17
-65571f1cab1a260aae4a220e38dbbc1d,2026-09-19T23:30:00Z,Ole Miss Rebels,LSU Tigers,2.8,-2.8,57.34,124.25,-149.5,17
-b7cdc05f280bede1f19b996cc9b95753,2026-09-19T23:30:00Z,Maryland Terrapins,Virginia Tech Hokies,3.0,-3.0,54.0,125.44,-150.06,17
+d3b7a8be0f6c9e50f7afd4005990228b,2026-09-19T23:30:00Z,Colorado State Rams,BYU Cougars,17.82,-17.82,51.83,649.47,-1056.24,18
+03297aa8a399c223aa1cc6aa923d9bc6,2026-09-19T23:30:00Z,Northwestern Wildcats,Colorado Buffaloes,-3.56,3.56,49.21,-181.12,150.44,17
+65571f1cab1a260aae4a220e38dbbc1d,2026-09-19T23:30:00Z,Ole Miss Rebels,LSU Tigers,2.73,-2.73,57.91,124.25,-149.5,17
+b7cdc05f280bede1f19b996cc9b95753,2026-09-19T23:30:00Z,Maryland Terrapins,Virginia Tech Hokies,3.0,-3.0,53.62,125.44,-150.06,17
 7e3b8cd721f0817d0a6c3111221e8a91,2026-09-19T23:30:00Z,Notre Dame Fighting Irish,Michigan State Spartans,-29.47,29.47,51.38,-7756.75,1868.25,17
 47892b65c28a830d83bbe465b070ce01,2026-09-19T23:30:00Z,Oklahoma Sooners,New Mexico Lobos,-22.43,22.43,46.06,-2781.13,1135.6,16
-eda972dc55ded05916deafa37efab9c3,2026-09-19T23:30:00Z,West Virginia Mountaineers,Virginia Cavaliers,10.03,-10.03,52.71,305.75,-403.38,17
+eda972dc55ded05916deafa37efab9c3,2026-09-19T23:30:00Z,West Virginia Mountaineers,Virginia Cavaliers,10.09,-10.09,52.62,304.81,-401.5,17
 cc6953f45fe5acfc853fdf5e5e28a0e7,2026-09-19T23:45:00Z,Tennessee Volunteers,Kennesaw State Owls,-35.5,35.5,59.59,-72189.67,5748.67,16
-a64b980a572375c0cc1adba3c3fc2811,2026-09-20T00:00:00Z,TCU Horned Frogs,Arkansas State Red Wolves,-20.37,20.37,55.41,-1504.0,821.93,16
-0fff6569a000494c8821a53d886df670,2026-09-20T00:00:00Z,Tulsa Golden Hurricane,East Texas A&M Lions,-41.5,41.5,57.5,,,1
+a64b980a572375c0cc1adba3c3fc2811,2026-09-20T00:00:00Z,TCU Horned Frogs,Arkansas State Red Wolves,-20.37,20.37,54.59,-1470.67,815.27,16
+0fff6569a000494c8821a53d886df670,2026-09-20T00:00:00Z,Tulsa Golden Hurricane,East Texas A&M Lions,-41.5,41.5,57.5,,,2
 828ceb39d7fd7da80c98174ae5f02dcd,2026-09-20T00:00:00Z,Louisiana Ragin Cajuns,UAB Blazers,-7.7,7.7,55.56,-311.4,245.53,16
 6059b05ef23d08d9033bd7b5fe38e5d0,2026-09-20T00:00:00Z,Texas Longhorns,UTSA Roadrunners,-30.27,30.27,57.47,-8843.25,1974.5,16
 6d109b8538a3588ad21a393896d32efc,2026-09-20T02:00:00Z,Boise State Broncos,South Dakota Coyotes,-24.5,24.5,54.5,-3375.0,1182.5,4
-0cdf27f150204b8512bca1e2d7cce051,2026-09-20T02:00:00Z,San Diego State Aztecs,James Madison Dukes,-2.41,2.41,45.66,-135.73,113.07,16
+0cdf27f150204b8512bca1e2d7cce051,2026-09-20T02:00:00Z,San Diego State Aztecs,James Madison Dukes,-2.37,2.37,45.34,-135.07,112.07,16
 93de8127b5d37170dff2b88deca0b95e,2026-09-20T02:30:00Z,Arizona Wildcats,Northern Illinois Huskies,-34.41,34.41,48.66,-35000.0,4500.0,16
-0c7583234f964dbb7d9803a27d6b6dae,2026-09-20T02:30:00Z,Sacramento State Hornets,North Dakota State Bison,27.93,-27.93,51.0,1924.0,-8213.27,16
-f6db4e789ff9341a9c94befc751c5f53,2026-09-20T03:00:00Z,San Jose State Spartans,Fresno State Bulldogs,6.63,-6.63,49.84,213.6,-267.07,16
+0c7583234f964dbb7d9803a27d6b6dae,2026-09-20T02:30:00Z,Sacramento State Hornets,North Dakota State Bison,27.8,-27.8,50.97,1919.45,-8213.27,16
+f6db4e789ff9341a9c94befc751c5f53,2026-09-20T03:00:00Z,San Jose State Spartans,Fresno State Bulldogs,6.63,-6.63,49.84,211.13,-264.4,16
 381e5c97af94a83e03eae0ac6f11ed38,2026-09-20T03:00:00Z,Oregon State Beavers,Montana Grizzlies,-16.5,16.5,53.5,-874.25,543.75,4
 7a6a2035bf5d7abd30d6cc8b76d59e3e,2026-09-20T03:00:00Z,UCLA Bruins,Purdue Boilermakers,-14.84,14.84,51.68,-737.25,502.12,17
