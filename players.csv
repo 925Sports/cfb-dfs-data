@@ -1,39 +1,37 @@
 Player Name,Position,Team,Slate Type,Date,Role,Salary,Draftable ID,Projected FP,Combined FP,Value,Implied FP,Passing TDs,Rushing Yards,Receiving Yards,Passing Yards,Rush+Rec Yards,Anytime TD,Passing Attempts,Fantasy Score,Headshot URL,Game Start Time,Match Title (Underdog),Game Short Title (Underdog),Venue Name (Underdog),Venue Type (Underdog),Broadcasts (Underdog),Game Start Time (DRAFTTABLE)
-Mason Heintschel,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),16500,44149579,20.32,26.15,1.23,49.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
 Devon Dampier,QB,UTAH,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",9400,44147091,24.96,25.61,2.66,28.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8341.png,,,,,,,9/19/2026
 LaNorris Sellers,QB,SCAR,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",8100,44147121,25.91,25.59,3.2,24.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8133.png,,,,,,,9/19/2026
 Kamario Taylor,QB,MSST,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",8800,44147101,25.05,25.32,2.85,26.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/19/2026
 Kevin Jennings,QB,SMU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",8200,44147119,24.5,24.52,2.99,24.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/19/2026
 Jayden Maiava,QB,USC,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",9500,44147089,23.25,24.3,2.45,28.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8080.png,,,,,,,9/19/2026
+Mason Heintschel,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),16500,44149579,19.25,24.09,1.17,49.5,1.5,,,252.5,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,n/a,SYR @ PITT,Syracuse @ Pittsburgh,Acrisure Stadium,outdoor,ESPN,9/17/2026
 Gunner Stockton,QB,UGA,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",9200,44147093,22.97,23.89,2.5,27.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8121.png,,,,,,,9/19/2026
-Ja'Kyrian Turner,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),14700,44149581,18.2,23.38,1.24,44.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
 Jeremiah Smith,WR,OSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",8400,44147887,22.69,23.19,2.7,25.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7874.png,,,,,,,9/19/2026
 KJ Duff,WR,RU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",8100,44147890,22.76,23.07,2.81,24.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7721.png,,,,,,,9/19/2026
-Mason Heintschel,QB,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),11000,44149504,20.32,22.85,1.85,33,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
+Ja'Kyrian Turner,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),14700,44149581,18.2,22.86,1.24,44.1,,,,,,0.5,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,n/a,SYR @ PITT,Syracuse @ Pittsburgh,Acrisure Stadium,outdoor,ESPN,9/17/2026
 Julian Sayin,QB,OSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",9100,44147095,21.66,22.79,2.38,27.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7874.png,,,,,,,9/19/2026
 Rocco Becht,QB,PSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",8900,44147099,21.49,22.53,2.41,26.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/19/2026
 Nate Sheppard,RB,DUKE,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",9200,44147359,21.25,22.52,2.31,27.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/19/2026
 Keelon Russell,QB,BAMA,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",8600,44147109,21.69,22.27,2.52,25.8,1.5,22.5,,229,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/19/2026
 Marcel Reed,QB,TA&M,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",8700,44147103,21.42,22.08,2.46,26.1,1.5,23,,202.5,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/19/2026
-Steve Angeli,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),15600,44149580,15.31,21.61,0.98,46.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
-Umari Hatcher,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),12000,44149585,18,21.6,1.5,36,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
+Mason Heintschel,QB,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),11000,44149504,19.25,21.45,1.75,33,1.5,,,252.5,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,n/a,SYR @ PITT,Syracuse @ Pittsburgh,Acrisure Stadium,outdoor,ESPN,9/17/2026
+Umari Hatcher,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),12000,44149585,17.17,20.56,1.43,36,,,62,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,n/a,SYR @ PITT,Syracuse @ Pittsburgh,Acrisure Stadium,outdoor,ESPN,9/17/2026
 Cutter Boley,QB,ASU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",7600,44147129,19.91,20.49,2.62,22.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/19/2026
-Ja'Kyrian Turner,RB,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),9800,44149506,18.2,20.44,1.86,29.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
 Lincoln Kienholz,QB,UL,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",7400,44147133,19.99,20.43,2.7,22.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8373.png,,,,,,,9/19/2026
-Cataurus Hicks,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),12600,44149584,15.62,20.06,1.24,37.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
+Ja'Kyrian Turner,RB,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),9800,44149506,18.2,20.21,1.86,29.4,,,,,,0.5,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,n/a,SYR @ PITT,Syracuse @ Pittsburgh,Acrisure Stadium,outdoor,ESPN,9/17/2026
+Steve Angeli,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),15600,44149580,14.35,19.54,0.92,46.8,0.5,,,230,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,n/a,SYR @ PITT,Syracuse @ Pittsburgh,Acrisure Stadium,outdoor,ESPN,9/17/2026
 Anthony Evans III,WR,MSST,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",6500,44147905,19.55,19.54,3.01,19.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/19/2026
-Umari Hatcher,WR,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),8000,44149510,18,19.2,2.25,24,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
 Wayshawn Parker,RB,UTAH,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",7000,44147383,18.42,18.94,2.63,21,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8341.png,,,,,,,9/19/2026
 Bo Jackson,RB,OSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",8400,44147362,17.29,18.87,2.06,25.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7874.png,,,,,,,9/19/2026
+Cataurus Hicks,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),12600,44149584,14.66,18.83,1.16,37.8,,,39.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Isaiah Marshall,QB,KU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",6500,44147145,18.4,18.62,2.83,19.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7787.png,,,,,,,9/19/2026
 Nate Frazier,RB,UGA,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",6700,44147386,18.21,18.59,2.72,20.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8121.png,,,,,,,9/19/2026
 Carson Hansen,RB,PSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",7300,44147374,17.66,18.51,2.42,21.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/19/2026
-Steve Angeli,QB,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),10400,44149505,15.31,18.49,1.47,31.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
+Umari Hatcher,WR,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),8000,44149510,17.17,18.4,2.15,24,,,62,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,n/a,SYR @ PITT,Syracuse @ Pittsburgh,Acrisure Stadium,outdoor,ESPN,9/17/2026
 Christopher Vizzina,QB,CLEM,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",7200,44147137,17.26,18.13,2.4,21.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7610.png,,,,,,,9/19/2026
 Ryan Coleman-Williams,WR,BAMA,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",7900,44147893,16.56,17.99,2.1,23.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/19/2026
 Kyson Brown,RB,ASU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5800,44147398,18.13,17.98,3.13,17.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/19/2026
 Micah Ford,RB,STAN,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",6300,44147392,17.28,17.6,2.74,18.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/19/2026
-Cataurus Hicks,WR,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),8400,44149509,15.62,17.54,1.86,25.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
 Javen Jacobs,RB,UTST,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4300,44147497,18.63,17.49,4.33,12.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7971.png,,,,,,,9/19/2026
 Isaac Brown,RB,UL,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",7600,44147368,16.05,17.4,2.11,22.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8373.png,,,,,,,9/19/2026
 Daniel Hill,RB,BAMA,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",7400,44147377,16.34,17.39,2.21,22.2,,62,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/19/2026
@@ -42,10 +40,12 @@ Elijah Holmes,QB,BUFF,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4900,441471
 Omarion Miller,WR,ASU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",6200,44147914,16.9,17.24,2.73,18.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/19/2026
 Antwan Raymond,RB,RU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",6500,44147389,16.53,17.12,2.54,19.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7721.png,,,,,,,9/19/2026
 Dylan Lonergan,QB,RU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5200,44147169,17.44,17.08,3.35,15.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7721.png,,,,,,,9/19/2026
+Steve Angeli,QB,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),10400,44149505,14.35,17.05,1.38,31.2,0.5,,,230,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,n/a,SYR @ PITT,Syracuse @ Pittsburgh,Acrisure Stadium,outdoor,ESPN,9/17/2026
 King Miller,RB,USC,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",7500,44147371,15.66,17.03,2.09,22.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8080.png,,,,,,,9/19/2026
 Kendrick Raphael,RB,SMU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4800,44147458,17.38,16.79,3.62,14.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/19/2026
 Braden Pegan,WR,UTAH,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",6000,44147920,16.29,16.63,2.71,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8341.png,,,,,,,9/19/2026
 Bryant Wesco Jr.,WR,CLEM,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5800,44147926,16.42,16.62,2.83,17.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7610.png,,,,,,,9/19/2026
+Cataurus Hicks,WR,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),8400,44149509,14.66,16.56,1.75,25.2,,,39.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Walker Eget,QB,DUKE,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",7800,44147125,14.81,16.53,1.9,23.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/19/2026
 Tanook Hines,WR,USC,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5400,44147941,16.58,16.5,3.07,16.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8080.png,,,,,,,9/19/2026
 Yamir Knight,WR,SMU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4100,44148034,17.33,16.32,4.23,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/19/2026
@@ -54,15 +54,15 @@ Nik McMillan,WR,KU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",6900,44147902,
 Billy Edwards Jr.,QB,UNC,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5900,44147157,15.7,16.1,2.66,17.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7654.png,,,,,,,9/19/2026
 Caden High,WR,STAN,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4500,44147977,16.51,15.91,3.67,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/19/2026
 Nyck Harbor,WR,SCAR,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3900,44148070,16.8,15.78,4.31,11.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8133.png,,,,,,,9/19/2026
-Censere Lee,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),11100,44149586,11.26,15.67,1.01,33.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
 Tre Richardson,WR,UL,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",6100,44147917,14.86,15.54,2.44,18.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8373.png,,,,,,,9/19/2026
 Reed Harris,WR,ASU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",7300,44147899,13.78,15.4,1.89,21.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/19/2026
 Dru DeShields,QB,KENT,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4800,44147179,15.54,15.31,3.24,14.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8004.png,,,,,,,9/19/2026
 McCae Hillstead,QB,UTST,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5100,44147171,15.09,15.13,2.96,15.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7971.png,,,,,,,9/19/2026
-Tylik Hill,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),9600,44149588,11.57,15.02,1.21,28.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
+Tylik Hill,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),9600,44149588,11.57,15.02,1.21,28.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Kenny Minchey,QB,UK,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",6000,44147155,14.09,14.71,2.35,18,0.5,,,170,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/19/2026
 Fluff Bothwell,RB,MSST,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",7700,44147365,12.55,14.66,1.63,23.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/19/2026
-Ju'Juan Johnson,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),7800,44149600,12.25,14.48,1.57,23.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
+Ju'Juan Johnson,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),7800,44149600,12.25,14.48,1.57,23.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
+Censere Lee,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),11100,44149586,10.25,14.4,0.92,33.3,,,32.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,n/a,SYR @ PITT,Syracuse @ Pittsburgh,Acrisure Stadium,outdoor,ESPN,9/17/2026
 Malik Knight,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),8400,44149599,11.53,14.27,1.37,25.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
 Rueben Owens II,RB,TA&M,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",7200,44147380,12.52,14.16,1.74,21.6,,60.5,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/19/2026
 Brett Eskildsen,WR,PSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5500,44147938,13.57,14.15,2.47,16.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/19/2026
@@ -74,31 +74,31 @@ Chris Marshall,WR,ARK,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5300,441479
 Mario Craver,WR,TA&M,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",6300,44147911,12.66,13.78,2.01,18.9,,,36.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/19/2026
 T.J. Moore,WR,CLEM,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5700,44147929,12.88,13.72,2.26,17.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7610.png,,,,,,,9/19/2026
 Waymond Jordan,RB,USC,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",6100,44147395,12.4,13.58,2.03,18.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8080.png,,,,,,,9/19/2026
-Censere Lee,WR,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),7400,44149511,11.26,13.45,1.52,22.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
 Gideon Davidson,RB,CLEM,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5400,44147407,12.76,13.45,2.36,16.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7610.png,,,,,,,9/19/2026
 Keyjuan Brown,RB,UL,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5200,44147431,12.91,13.45,2.48,15.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8373.png,,,,,,,9/19/2026
 Chance Morrow,WR,BUFF,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5400,44147944,12.6,13.32,2.33,16.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9238.png,,,,,,,9/19/2026
 Isaiah Horton,WR,TA&M,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",6400,44147908,11.88,13.2,1.86,19.2,,,35,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,12/30/1899,UK @ TXAM,Kentucky @ Texas A&M,Kyle Field,outdoor,ESPN,9/19/2026
 Yasin Willis,RB,KU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5600,44147401,12.22,13.13,2.18,16.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7787.png,,,,,,,9/19/2026
-Tylik Hill,RB,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),6400,44149513,11.57,13.1,1.81,19.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
-Cole Weaver,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),7200,44149604,10.92,13.05,1.52,21.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
+Tylik Hill,RB,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),6400,44149513,11.57,13.1,1.81,19.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
+Cole Weaver,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),7200,44149604,10.92,13.05,1.52,21.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Ashton Daniels,QB,FSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",6400,44147147,12.03,13.04,1.88,19.2,0.5,13.5,,138,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,12/30/1899,FSU @ BAMA,Florida St @ Alabama,Bryant-Denny Stadium,outdoor,ABC,9/19/2026
-Ju'Juan Johnson,RB,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),5200,44149525,12.25,12.92,2.36,15.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
+Ju'Juan Johnson,RB,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),5200,44149525,12.25,12.92,2.36,15.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Isiah Canion,WR,UGA,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4300,44147998,12.62,12.68,2.94,12.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8121.png,,,,,,,9/19/2026
 Malik Knight,WR,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),5600,44149524,11.53,12.59,2.06,16.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
 Lotzeir Brooks,WR,BAMA,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5900,44147923,11.47,12.59,1.94,17.7,,,29.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/19/2026
 Braylen Russell,RB,ARK,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4700,44147464,12,12.42,2.55,14.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8175.png,,,,,,,9/19/2026
+Censere Lee,WR,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),7400,44149511,10.25,12.4,1.39,22.2,,,32.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,n/a,SYR @ PITT,Syracuse @ Pittsburgh,Acrisure Stadium,outdoor,ESPN,9/17/2026
 Ousmane Kromah,RB,FSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5200,44147416,11.7,12.4,2.25,15.6,,50.5,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/19/2026
 Sacovie White-Helton,WR,UGA,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4800,44147965,11.8,12.32,2.46,14.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8121.png,,,,,,,9/19/2026
 Randy Pittman Jr.,WR,SMU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3600,44148151,12.46,12.13,3.46,10.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/19/2026
-La'Vell Wright,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),8700,44149598,8.55,12.06,0.98,26.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
+La'Vell Wright,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),8700,44149598,8.55,12.06,0.98,26.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Javen Nicholas,WR,DUKE,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4100,44148019,11.96,12.03,2.92,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/19/2026
 Terrance Shelton Jr.,RB,BUFF,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4900,44147455,11.34,12.01,2.31,14.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9238.png,,,,,,,9/19/2026
 Dylan Edwards,RB,KU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5200,44147422,11.06,11.97,2.13,15.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7787.png,,,,,,,9/19/2026
 Jalen Cooper,WR,SMU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3900,44148073,11.96,11.91,3.07,11.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/19/2026
 Koby Howard,WR,PSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5600,44147935,10.44,11.71,1.86,16.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/19/2026
 Davis Warren,QB,STAN,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",6200,44147149,9.87,11.62,1.59,18.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/19/2026
-Cole Weaver,WR,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),4800,44149529,10.92,11.61,2.27,14.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
+Cole Weaver,WR,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),4800,44149529,10.92,11.61,2.27,14.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Shavane Anderson Jr.,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),6600,44149607,9.36,11.45,1.42,19.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
 Kayden Dixon-Wyatt,WR,USC,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5200,44147953,10.27,11.33,1.97,15.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8080.png,,,,,,,9/19/2026
 Duce Robinson,WR,FSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3800,44148079,11.26,11.29,2.96,11.4,,,31.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/19/2026
@@ -121,14 +121,14 @@ Javon Robinson,WR,UTST,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4000,44148
 Zion Ragins,WR,MSST,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4800,44147968,9.57,10.54,1.99,14.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/19/2026
 Dramekco Green,RB,SMU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4300,44147506,9.77,10.4,2.27,12.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/19/2026
 Ja'Kobi Jackson,RB,OSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5400,44147410,8.88,10.35,1.65,16.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7874.png,,,,,,,9/19/2026
-La'Vell Wright,RB,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),5800,44149523,8.55,10.32,1.47,17.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
+La'Vell Wright,RB,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),5800,44149523,8.55,10.32,1.47,17.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 TreyShun Hurry,WR,UL,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4300,44148004,9.45,10.14,2.2,12.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8373.png,,,,,,,9/19/2026
 Shavane Anderson Jr.,RB,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),4400,44149532,9.36,10.13,2.13,13.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
 Jasaiah Gathings,WR,BUFF,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3900,44148076,9.73,10.12,2.49,11.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/9238.png,,,,,,,9/19/2026
 Cam Pickett,WR,KU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4400,44147986,9.25,10.04,2.1,13.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7787.png,,,,,,,9/19/2026
 Lawayne McCoy,WR,UL,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4600,44147974,9.06,10.01,1.97,13.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8373.png,,,,,,,9/19/2026
 Hunter Andrews,WR,UTAH,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3200,44148268,10,9.92,3.12,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8341.png,,,,,,,9/19/2026
-Bryce Yates,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),5400,44149609,8.23,9.83,1.52,16.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
+Bryce Yates,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),5400,44149609,8.23,9.83,1.52,16.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Donovan Murph,WR,SCAR,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3000,44149099,10.01,9.8,3.34,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8133.png,,,,,,,9/19/2026
 Brandon Inniss,WR,OSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4000,44148037,9.23,9.78,2.31,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7874.png,,,,,,,9/19/2026
 Trech Kekahuna,WR,UNC,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3600,44148121,9.41,9.69,2.61,10.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7654.png,,,,,,,9/19/2026
@@ -148,8 +148,8 @@ Holden Geriner,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/
 CJ Brown,WR,ARK,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3400,44148199,8.41,8.77,2.47,10.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8175.png,,,,,,,9/19/2026
 Terry Bussey,WR,TA&M,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3600,44148154,8.31,8.76,2.31,10.8,,,28.5,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/19/2026
 Noah Rogers,WR,BAMA,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3000,44149156,8.7,8.76,2.9,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/19/2026
-Damon Ferguson Jr.,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),10500,44149587,3.06,8.75,0.29,31.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
-Bryce Yates,WR,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),3600,44149534,8.23,8.75,2.29,10.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
+Damon Ferguson Jr.,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),10500,44149587,3.06,8.75,0.29,31.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
+Bryce Yates,WR,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),3600,44149534,8.23,8.75,2.29,10.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Zacharyus Williams,WR,USC,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3900,44148064,7.98,8.73,2.05,11.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8080.png,,,,,,,9/19/2026
 DJ Black,WR,SCAR,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3700,44148100,8.13,8.72,2.2,11.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8133.png,,,,,,,9/19/2026
 Isaiah West,RB,OSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5200,44147425,6.99,8.71,1.34,15.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7874.png,,,,,,,9/19/2026
@@ -201,10 +201,10 @@ Messiah Burch,RB,BUFF,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4500,441474
 Nahzae Cox,WR,KU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3500,44148169,5.92,6.83,1.69,10.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7787.png,,,,,,,9/19/2026
 Carter Shaw,WR,STAN,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3000,44148946,6.25,6.8,2.08,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/19/2026
 DJ Miller,WR,UK,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3100,44148325,6.16,6.79,1.99,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/19/2026
-Damon Ferguson Jr.,RB,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),7000,44149512,3.06,6.65,0.44,21,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
+Damon Ferguson Jr.,RB,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),7000,44149512,3.06,6.65,0.44,21,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Jawarn Howell,RB,SCAR,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4100,44147557,5.24,6.65,1.28,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8133.png,,,,,,,9/19/2026
 Derrick McFall,WR,SMU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4300,44148001,5.05,6.62,1.17,12.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8233.png,,,,,,,9/19/2026
-David Clement,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),3900,44149611,5.34,6.61,1.37,11.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
+David Clement,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),3900,44149611,5.34,6.61,1.37,11.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Ricky Johnson,WR,UTAH,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3600,44148157,5.51,6.57,1.53,10.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8341.png,,,,,,,9/19/2026
 Ben Black III,WR,RU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3600,44148124,5.49,6.55,1.53,10.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7721.png,,,,,,,9/19/2026
 Davion Kerr,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1500,44149617,7.04,6.53,4.69,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
@@ -215,7 +215,7 @@ Jaivon Solomon,WR,DUKE,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3000,44148
 Byrd Ficklin,QB,UTAH,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",9000,44147097,1.23,6.38,0.14,27,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8341.png,,,,,,,9/19/2026
 Kyri Shoels,WR,UTAH,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4400,44147992,4.63,6.34,1.05,13.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8341.png,,,,,,,9/19/2026
 Xavier Williams,RB,RU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4000,44147632,4.91,6.33,1.23,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7721.png,,,,,,,9/19/2026
-Elijah Lagg,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),4800,44149610,4.24,6.28,0.88,14.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
+Elijah Lagg,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),4800,44149610,4.24,6.28,0.88,14.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Ardell Banks,WR,KENT,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3200,44148247,5.46,6.28,1.7,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8004.png,,,,,,,9/19/2026
 AJ Ia,WR,ASU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3100,44148310,5.53,6.28,1.78,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/19/2026
 Davion Kerr,RB,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1000,44149542,7.04,6.23,7.04,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
@@ -234,7 +234,7 @@ Patrick Clacks III,WR,BUFF,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3600,4
 Houston Thomas,WR,TA&M,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4000,44148049,4.35,5.88,1.09,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/19/2026
 Gabe Burkle,WR,PSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3100,44148301,4.97,5.84,1.6,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/19/2026
 Quinton Martin Jr.,RB,PSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4200,44147518,4.14,5.83,0.99,12.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7880.png,,,,,,,9/19/2026
-David Clement,WR,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),2600,44149536,5.34,5.83,2.05,7.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
+David Clement,WR,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),2600,44149536,5.34,5.83,2.05,7.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Nate Roberts,WR,OSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3300,44148208,4.79,5.82,1.45,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7874.png,,,,,,,9/19/2026
 Jayden Moore,WR,DUKE,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3400,44148181,4.71,5.81,1.39,10.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/19/2026
 Marquise Davis,RB,UL,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5000,44147443,3.49,5.79,0.7,15,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8373.png,,,,,,,9/19/2026
@@ -265,7 +265,7 @@ Rich Belin,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:
 Danny Lauter,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),9000,44149596,0,5.4,0,27,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
 Davin Friedman,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),9000,44149597,0,5.4,0,27,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
 Richie Anderson III,WR,TA&M,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3300,44148226,4.28,5.4,1.3,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/19/2026
-Elijah Lagg,WR,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),3200,44149535,4.24,5.32,1.33,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
+Elijah Lagg,WR,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),3200,44149535,4.24,5.32,1.33,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Nate Kurisky,WR,DUKE,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3100,44148277,4.32,5.32,1.39,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/19/2026
 Mason Williams,WR,OSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3500,44148172,4,5.3,1.14,10.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7874.png,,,,,,,9/19/2026
 Ahmad Miller,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1500,44149620,5.45,5.26,3.63,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
@@ -308,13 +308,13 @@ Demarius Robinson,RB,ASU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4000,441
 Noah White,RB,UTST,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4100,44147536,2.75,4.66,0.67,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7971.png,,,,,,,9/19/2026
 Jamari Hawkins,WR,ARK,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3700,44148103,3.05,4.66,0.82,11.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8175.png,,,,,,,9/19/2026
 Sam West,WR,MSST,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3200,44148259,3.42,4.66,1.07,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/19/2026
-Tony Kinsler,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),2400,44149614,3.98,4.63,1.66,7.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
+Tony Kinsler,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),2400,44149614,3.98,4.63,1.66,7.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Kyle Parker,WR,OSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3600,44148130,3.05,4.6,0.85,10.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7874.png,,,,,,,9/19/2026
 Tyreek Robinson,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1500,44149642,4.62,4.6,3.08,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
 Tristan Smith,WR,CLEM,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3100,44148274,3.41,4.59,1.1,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7610.png,,,,,,,9/19/2026
 Davin Wydner,QB,UL,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",6900,44147143,0.52,4.56,0.08,20.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8373.png,,,,,,,9/19/2026
 Mikey Keene,QB,ASU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",7100,44147141,0.36,4.55,0.05,21.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8042.png,,,,,,,9/19/2026
-Carson Kent,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),3000,44149613,3.44,4.55,1.15,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
+Carson Kent,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),3000,44149613,3.44,4.55,1.15,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Sam Hunsaker,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),7500,44149601,0,4.5,0,22.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
 Carter Genchi,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),7500,44149602,0,4.5,0,22.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
 Antonio Chadha,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),7500,44149603,0,4.5,0,22.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
@@ -343,9 +343,9 @@ Malik Clark,WR,SCAR,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3000,44149102
 Charly Mullaly,WR,SCAR,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3000,44149105,3,4.2,1,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8133.png,,,,,,,9/19/2026
 Marshall Pritchett,WR,BAMA,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3000,44149132,3,4.2,1,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8166.png,,,,,,,9/19/2026
 Shane Carr,WR,UK,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3000,44149060,2.97,4.18,0.99,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/19/2026
-Tony Kinsler,WR,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1600,44149539,3.98,4.15,2.49,4.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
+Tony Kinsler,WR,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1600,44149539,3.98,4.15,2.49,4.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Shay Barker,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),6900,44149605,0,4.14,0,20.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
-Tripp Woody,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),6900,44149606,0,4.14,0,20.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
+Tripp Woody,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),6900,44149606,0,4.14,0,20.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Carsyn Baker,RB,TA&M,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4100,44147566,2.1,4.14,0.51,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8251.png,,,,,,,9/19/2026
 Chris Davis Jr.,RB,STAN,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4000,44147740,2.16,4.13,0.54,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/19/2026
 Bo Walker,RB,UGA,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4000,44147752,2.1,4.08,0.53,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8121.png,,,,,,,9/19/2026
@@ -353,7 +353,7 @@ Khamari Anderson,WR,ASU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3600,4414
 Cole Ballard,QB,KU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",6000,44147153,0.56,4.05,0.09,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7787.png,,,,,,,9/19/2026
 Kavon Simmons,WR,DUKE,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3500,44148163,2.38,4,0.68,10.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7621.png,,,,,,,9/19/2026
 Olsen Patt-Henry,WR,CLEM,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3100,44148271,2.62,3.95,0.84,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7610.png,,,,,,,9/19/2026
-Carson Kent,WR,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),2000,44149538,3.44,3.95,1.72,6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
+Carson Kent,WR,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),2000,44149538,3.44,3.95,1.72,6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Kory Amachree,RB,KU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4000,44147641,1.91,3.93,0.48,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7787.png,,,,,,,9/19/2026
 Malachi Nelson,QB,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),6000,44149518,0.38,3.9,0.06,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
 Carnell Warren,WR,UNC,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3000,44148541,2.62,3.9,0.87,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7654.png,,,,,,,9/19/2026
@@ -411,13 +411,14 @@ Carter Genchi,K,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 
 Antonio Chadha,K,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),5000,44149528,0,3,0,15,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
 J.J. Hill,RB,MSST,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",5000,44147440,0,3,0,15,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8205.png,,,,,,,9/19/2026
 Nolan Good,QB,KENT,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4600,44147181,0.3,3,0.07,13.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8004.png,,,,,,,9/19/2026
+Justus Ross-Simmons,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),3600,44149612,1.02,2.98,0.28,10.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Chase Loftin,WR,FSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3000,44148460,1.48,2.98,0.49,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/19/2026
 Matt Fuller,RB,SCAR,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4900,44147449,0,2.94,0,14.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8133.png,,,,,,,9/19/2026
 Jasen Lopez,WR,FSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3000,44148478,1.41,2.93,0.47,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7627.png,,,,,,,9/19/2026
 Tuna Altahir,RB,STAN,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4000,44147746,0.65,2.92,0.16,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/19/2026
 Chase Jenkins,QB,KU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4500,44147221,0.13,2.8,0.03,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7787.png,,,,,,,9/19/2026
 Shay Barker,K,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),4600,44149530,0,2.76,0,13.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
-Tripp Woody,K,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),4600,44149531,0,2.76,0,13.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
+Tripp Woody,K,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),4600,44149531,0,2.76,0,13.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Landon Roldan,WR,UGA,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3000,44148994,1.14,2.71,0.38,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8121.png,,,,,,,9/19/2026
 Trent Pearman,QB,CLEM,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4500,44147185,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7610.png,,,,,,,9/19/2026
 Brock Bradley,QB,CLEM,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",4500,44147187,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7610.png,,,,,,,9/19/2026
@@ -596,8 +597,8 @@ Justin Cook,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 
 Donald Collier,WR,KU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3000,44148625,0.6,2.28,0.2,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7787.png,,,,,,,9/19/2026
 Bennett Christian,WR,OSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3000,44148646,0.6,2.28,0.2,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7874.png,,,,,,,9/19/2026
 Jerquaden Guilford,WR,OSU,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3000,44148664,0.6,2.28,0.2,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7874.png,,,,,,,9/19/2026
+Justus Ross-Simmons,WR,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),2400,44149537,1.02,2.26,0.43,7.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Synkwan Smith,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1500,44149621,1.6,2.18,1.07,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
-Justus Ross-Simmons,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),3600,44149612,0,2.16,0,10.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
 Elijah Brown,WR,UK,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3000,44149036,0.45,2.16,0.15,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8128.png,,,,,,,9/19/2026
 Darius Johnson,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1500,44149652,1.56,2.15,1.04,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
 C.J. Sadler,WR,UNC,Night,9/19/2026,"Night 9/19 12:00PM, 12 Games",3500,44148166,0,2.1,0,10.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7654.png,,,,,,,9/19/2026
@@ -947,7 +948,6 @@ Darien Williams,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/
 Zamondre Merriweather,WR,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1000,44149552,1.28,1.62,1.28,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
 Demetrice McCray,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1500,44149635,0.9,1.62,0.6,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
 Julian McFadden,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1500,44149650,0.72,1.48,0.48,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
-Justus Ross-Simmons,WR,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),2400,44149537,0,1.44,0,7.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
 Darien Williams,WR,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1000,44149566,0.96,1.37,0.96,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
 Demetrice McCray,WR,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1000,44149560,0.9,1.32,0.9,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
 Matt Outten,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),2100,44149615,0,1.26,0,6.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
@@ -966,7 +966,7 @@ Adam Howanitz,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/1
 Calvin Russell III,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1500,44149636,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
 Jack Lesniewicz,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1500,44149638,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
 Dylan Wester,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1500,44149639,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
-Daunte Bacheyie,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1500,44149640,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
+Daunte Bacheyie,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1500,44149640,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Elijah Washington-Baker,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1500,44149643,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
 Wyatt Villarreal,CPT,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1500,44149644,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
 BJ Garrett,CPT,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1500,44149645,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
@@ -990,7 +990,7 @@ Adam Howanitz,WR,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17
 Calvin Russell III,WR,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1000,44149561,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
 Jack Lesniewicz,WR,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1000,44149563,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
 Dylan Wester,WR,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1000,44149564,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
-Daunte Bacheyie,WR,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1000,44149565,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
+Daunte Bacheyie,WR,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1000,44149565,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,12/30/1899,n/a,n/a,n/a,n/a,n/a,9/17/2026
 Elijah Washington-Baker,WR,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1000,44149568,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
 Wyatt Villarreal,WR,PITT,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1000,44149569,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7712.png,,,,,,,9/17/2026
 BJ Garrett,WR,SYR,Showdown Captain Mode,9/17/2026,Showdown Captain Mode 9/17 7:30PM (SYR @ PITT),1000,44149570,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7729.png,,,,,,,9/17/2026
