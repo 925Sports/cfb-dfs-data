@@ -67,7 +67,7 @@ def classify_slate(name, num_games=None):
     return "Classic"
 
 
-def fetch_contests():
+def fetch_lobby():
     last_err = None
     for sport in SPORT_CODES:
         url = f"https://www.draftkings.com/lobby/getcontests?sport={sport}"
@@ -78,7 +78,7 @@ def fetch_contests():
             contests = data.get("Contests", [])
             if contests:
                 print(f"Found {len(contests)} contests using sport={sport}")
-                return contests, sport
+                return data, sport
             print(f"No contests for sport={sport}")
         except Exception as e:
             last_err = e
@@ -86,36 +86,81 @@ def fetch_contests():
     raise RuntimeError(f"Failed to fetch CFB contests: {last_err}")
 
 
+# Classic salary (94) and Showdown captain (95). Skip snake / TD-only / other formats.
+KEEP_CONTEST_TYPES = {94, 95}
+
+
 def main():
     print("Fetching DraftKings CFB contests...")
     try:
-        contests, sport_used = fetch_contests()
+        lobby, sport_used = fetch_lobby()
     except Exception as e:
         print(f"Failed to fetch contests: {e}")
         return
 
+    contests = lobby.get("Contests") or []
+    lobby_groups = lobby.get("DraftGroups") or []
+
     draft_groups = {}
+    for g in lobby_groups:
+        ctype = g.get("ContestTypeId")
+        if ctype not in KEEP_CONTEST_TYPES:
+            continue
+        dg = str(g.get("DraftGroupId") or "")
+        if not dg:
+            continue
+        game_count = int(g.get("GameCount") or 0)
+        suffix = (g.get("ContestStartTimeSuffix") or "").strip()
+        start_est = g.get("StartDateEst") or g.get("StartDate") or ""
+        if ctype == 95 or game_count == 1:
+            slate_type = "Showdown Captain Mode"
+        elif "night" in suffix.lower() and "late" in suffix.lower():
+            slate_type = "Late Night"
+        elif "night" in suffix.lower():
+            slate_type = "Night"
+        elif "afternoon" in suffix.lower():
+            slate_type = "Afternoon"
+        elif "early" in suffix.lower():
+            slate_type = "Early"
+        else:
+            # Use weekday + game count so a Friday 2-gamer is not folded into Saturday Classic
+            weekday = ""
+            try:
+                weekday = datetime.fromisoformat(str(start_est).split(".")[0]).strftime("%A")
+            except Exception:
+                weekday = ""
+            if game_count and game_count <= 3 and weekday:
+                slate_type = f"{weekday} {game_count}-Game"
+            elif weekday:
+                slate_type = weekday
+            else:
+                slate_type = "Classic"
+        draft_groups[dg] = {
+            "slate_type": slate_type,
+            "contest_ids": [],
+            "contest_names": [],
+            "game_count": game_count,
+            "suffix": suffix,
+            "start_est": start_est,
+        }
+
     for c in contests:
         name = (c.get("n") or c.get("Name") or "").lower()
-        if "best ball" in name or "pick6" in name or "pick 6" in name:
+        if "best ball" in name or "pick6" in name or "pick 6" in name or "snake" in name:
             continue
         dg = str(c.get("dg") or c.get("DraftGroupId") or "")
         cid = str(c.get("id") or c.get("ContestId") or "")
         cname = c.get("n") or c.get("Name") or ""
         if not dg or not cid:
             continue
-        slate_type = classify_slate(cname)
         if dg not in draft_groups:
-            draft_groups[dg] = {
-                "slate_type": slate_type,
-                "contest_ids": [],
-                "contest_names": [],
-            }
+            continue
         draft_groups[dg]["contest_ids"].append(cid)
         draft_groups[dg]["contest_names"].append(cname)
-        draft_groups[dg]["slate_type"] = slate_type
 
     print(f"Found {len(draft_groups)} CFB draft groups")
+    for dg, g in draft_groups.items():
+        print(f"  {dg}: {g['slate_type']} games={g.get('game_count')} suffix={g.get('suffix')!r}")
 
     rows = []
     headers = [
@@ -158,7 +203,7 @@ def main():
                     except Exception:
                         pass
 
-        num_games = len(comps)
+        num_games = len(comps) or int(group.get("game_count") or 0)
         if num_games == 1:
             group["slate_type"] = "Showdown Captain Mode"
 
@@ -172,7 +217,8 @@ def main():
                 matchup = list(comps.values())[0]["matchup"]
                 slate_header = f"{slate_date} {time_part} ({matchup})"
             else:
-                slate_header = f"{slate_date} {time_part}, {num_games} Games"
+                label = group.get("slate_type") or "Classic"
+                slate_header = f"{label} {slate_date} {time_part}, {num_games} Games"
 
         player_versions = defaultdict(list)
         for p in draftables:
