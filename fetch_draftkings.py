@@ -90,6 +90,56 @@ def fetch_lobby():
 KEEP_CONTEST_TYPES = {94, 95}
 
 
+def fetch_draftables(dg_id):
+    """DK blocks some hosts on the old draftables URL. Try working mirrors."""
+    urls = [
+        f"https://api.draftkings.com/sites/US-DK/draftgroups/v1/draftgroups/{dg_id}/draftables",
+        f"https://api.draftkings.com/draftgroups/v1/draftgroups/{dg_id}/draftables?format=json",
+        f"https://www.draftkings.com/lineup/getavailableplayers?draftGroupId={dg_id}",
+    ]
+    last = None
+    for url in urls:
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=30)
+            last = r.status_code
+            if r.status_code != 200:
+                print(f"    {r.status_code} {url.split('/')[2]}")
+                continue
+            data = r.json()
+            if data.get("draftables"):
+                print(f"    ok {len(data['draftables'])} from {url.split('/')[2]}")
+                return data
+            # lineup/getavailableplayers shape
+            plist = data.get("playerList") or []
+            if plist:
+                converted = []
+                for p in plist:
+                    converted.append({
+                        "draftableId": p.get("did") or p.get("pid"),
+                        "playerId": p.get("pid"),
+                        "displayName": p.get("fn") and f"{p.get('fn','')} {p.get('ln','')}".strip() or p.get("pn") or "",
+                        "firstName": p.get("fn") or "",
+                        "lastName": p.get("ln") or "",
+                        "salary": p.get("s") or 0,
+                        "position": p.get("pn") or p.get("pos") or "",
+                        "teamAbbreviation": p.get("tid") or p.get("htid") or "",
+                        "playerImage50": "",
+                        "competition": {
+                            "competitionId": p.get("tsid") or "",
+                            "startTime": "",
+                            "homeTeam": {"abbreviation": p.get("htid") or ""},
+                            "awayTeam": {"abbreviation": p.get("atid") or ""},
+                        },
+                    })
+                print(f"    ok {len(converted)} from getavailableplayers")
+                return {"draftables": converted}
+        except Exception as e:
+            print(f"    error {url.split('/')[2]}: {e}")
+            last = e
+    print(f"    all endpoints failed ({last})")
+    return None
+
+
 def main():
     print("Fetching DraftKings CFB contests...")
     try:
@@ -172,19 +222,14 @@ def main():
 
     for dg_id, group in draft_groups.items():
         print(f"Fetching draftables for {dg_id}...")
-        url = f"https://api.draftkings.com/draftgroups/v1/draftgroups/{dg_id}/draftables?format=json"
-        try:
-            r = requests.get(url, headers=HEADERS, timeout=30)
-            if r.status_code != 200:
-                print(f"  Failed {dg_id}: {r.status_code}")
-                continue
-            salary_data = r.json()
-        except Exception as e:
-            print(f"  Error {dg_id}: {e}")
+        salary_data = fetch_draftables(dg_id)
+        if not salary_data:
+            print(f"  Failed {dg_id}: no draftables")
             continue
 
         draftables = salary_data.get("draftables", [])
         if not draftables:
+            print(f"  Empty draftables for {dg_id}")
             continue
 
         comps = {}
