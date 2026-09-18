@@ -3093,7 +3093,7 @@
                 <div id="generationLog"></div>
 
                 <div style="display:flex;flex-wrap:wrap;gap:0.6rem;margin-top:1rem;align-items:center;">
-                    <button class="success" data-tip="Download DraftKings Upload Lineups CSV. Classic header is QB,RB,RB,WR,WR,WR,FLEX,S-FLEX. Showdown is CPT,UTIL,UTIL,UTIL,UTIL,UTIL (DK uses UTIL, not FLEX). Cells are Name (Draftable ID). Use Lineups → Upload Lineups and pick the matching CFB slate. For Edit Entries, paste these player columns into the DK template (leave Entry ID / Contest columns alone)." onclick="downloadLineups()">⬇ Download CSV (DK Upload)</button>
+                    <button class="success" data-tip="Download DraftKings Upload Lineups CSV. Classic header is QB,RB,RB,WR,WR,WR,FLEX,S-FLEX. Showdown is CPT,FLEX,FLEX,FLEX,FLEX,FLEX. Cells are Name (Draftable ID). Use Lineups → Upload Lineups and pick the matching NFL slate. For Edit Entries, paste these player columns into the DK template (leave Entry ID / Contest columns alone)." onclick="downloadLineups()">⬇ Download CSV (DK Upload)</button>
                     <button class="success" data-tip="Export only checked lineups as DraftKings CSV." onclick="exportCheckedLineups()">⬇ Export Checked</button>
                     <button class="ghost" data-tip="Download a readable CSV with names, salary, projected points, and ownership." onclick="downloadLineupsDetailed()">⬇ Detailed CSV</button>
                     <button class="ghost" data-tip="Copy all lineups as plain text for Discord, Twitter, or notes." onclick="copyLineupsAsText()">📋 Copy as Text</button>
@@ -3679,6 +3679,7 @@
         // ====================== CONFIG & STATE ======================
         const DATA_SOURCES = {
             main: 'players.csv',
+            drafttable: 'drafttable.csv',
             ownership: 'ownership.csv',
             final: 'final.csv',
             odds: 'CFBGameOdds.csv'
@@ -3688,13 +3689,13 @@
             ownership: 'https://raw.githubusercontent.com/925Sports/cfb-dfs-data/main/ownership.csv',
             final: 'https://raw.githubusercontent.com/925Sports/cfb-dfs-data/main/final.csv',
             odds: 'https://raw.githubusercontent.com/925Sports/cfb-dfs-data/main/CFBGameOdds.csv',
+            drafttable: 'https://raw.githubusercontent.com/925Sports/cfb-dfs-data/main/drafttable.csv',
             sheetOdds: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS8KYFAnWpyXL6XY9_fYAhF1C0YRTewdTvj9Wy0s5vxhTSkFOPCf16BMbJYdyRW9mHTCoEX6RUF60zg/pub?gid=0&single=true&output=csv',
             sheetMain: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSV0x8a_qRCwt9t2MRmRph7MwHioKNrZTN00niOF2spzpMzxrlaz3cKr5oE_soDhjkeH8NbU4UxsIqe/pub?gid=585863704&single=true&output=csv',
             sheetFinal: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSV0x8a_qRCwt9t2MRmRph7MwHioKNrZTN00niOF2spzpMzxrlaz3cKr5oE_soDhjkeH8NbU4UxsIqe/pub?gid=807849522&single=true&output=csv'
         };
         const CLASSIC_SLOTS = ['QB','RB1','RB2','WR1','WR2','WR3','FLEX','SFLEX'];
         const DK_CLASSIC_HEADER = 'QB,RB,RB,WR,WR,WR,FLEX,S-FLEX';
-        const DK_SHOWDOWN_HEADER = 'CPT,UTIL,UTIL,UTIL,UTIL,UTIL';
         const CFB_RECIPE = {
             twoQbMainSlateWinRate: 0.93,
             qbStackedOnePc: 0.74,
@@ -6677,11 +6678,12 @@ function parseOddsCsv(text) {
                     }
                     throw lastErr || new Error('All sources failed');
                 }
-                const [mainRes, ownRes, finalRes, oddsRes] = await Promise.all([
+                const [mainRes, ownRes, finalRes, oddsRes, dkRes] = await Promise.all([
                     firstOk([DATA_SOURCES.main, DATA_FALLBACKS.main, DATA_FALLBACKS.sheetMain]),
                     firstOk([DATA_SOURCES.ownership, DATA_FALLBACKS.ownership]).catch(() => null),
                     firstOk([DATA_SOURCES.final, DATA_FALLBACKS.final, DATA_FALLBACKS.sheetFinal]).catch(() => null),
-                    firstOk([DATA_SOURCES.odds, DATA_FALLBACKS.odds, DATA_FALLBACKS.sheetOdds]).catch(() => null)
+                    firstOk([DATA_SOURCES.odds, DATA_FALLBACKS.odds, DATA_FALLBACKS.sheetOdds]).catch(() => null),
+                    firstOk([DATA_SOURCES.drafttable, DATA_FALLBACKS.drafttable]).catch(() => null)
                 ]);
                 if (!mainRes.ok) throw new Error('Main data failed: ' + mainRes.status);
                 if (!silent) {
@@ -6694,6 +6696,7 @@ function parseOddsCsv(text) {
                 const csvText = await mainRes.text();
                 const ownershipCsv = ownRes ? await ownRes.text() : '';
                 const finalCsv = finalRes ? await finalRes.text() : '';
+                const draftCsv = dkRes && dkRes.ok ? await dkRes.text() : '';
                 const oddsCsv = oddsRes ? await oddsRes.text() : '';
                 try { parseOddsCsv(oddsCsv); } catch (e) { console.warn('odds parse', e); oddsGames = []; }
                 if (!silent) {
@@ -6746,7 +6749,33 @@ function parseOddsCsv(text) {
                     header: true, skipEmptyLines: true, dynamicTyping: true,
                     complete: (results) => {
                         try {
-                        const rowsIn = (results.data || []).filter(r => r && (r['Player Name'] || r.Name || r.player));
+                        let rowsIn = (results.data || []).filter(r => r && (r['Player Name'] || r.Name || r.player));
+                        const sheetProj = new Map();
+                        rowsIn.forEach(r => {
+                            const n = String(r['Player Name'] || '').trim().toLowerCase();
+                            const fp = parseFloat(r['Projected FP']);
+                            if (n && Number.isFinite(fp) && fp > 0) sheetProj.set(n, fp);
+                        });
+                        window._sheetProj = sheetProj;
+                        if (draftCsv) {
+                            try {
+                                const dkParsed = Papa.parse(draftCsv, { header: true, skipEmptyLines: true, dynamicTyping: true });
+                                const dkRows = (dkParsed.data || []).filter(r => r && r['Player Name'] && r.Salary);
+                                const have = new Set(rowsIn.map(r => String(r.Role || r['Slate Header'] || '')));
+                                const extra = [];
+                                dkRows.forEach(r => {
+                                    const role = r.Role || r['Slate Header'] || r['Slate Type'] || '';
+                                    if (role && !have.has(role)) extra.push(r);
+                                });
+                                if (dkRows.length && extra.length) {
+                                    // Prefer full DK slate list; keep sheet rows for slates already present
+                                    const extraRoles = new Set(extra.map(r => r.Role || r['Slate Header'] || r['Slate Type']));
+                                    rowsIn = rowsIn.concat(dkRows.filter(r => extraRoles.has(r.Role || r['Slate Header'] || r['Slate Type'])));
+                                } else if (dkRows.length > rowsIn.length) {
+                                    rowsIn = dkRows;
+                                }
+                            } catch (e) { console.warn('drafttable merge', e); }
+                        }
                         if (!rowsIn.length) {
                             rawData = [];
                             filteredData = [];
@@ -6782,7 +6811,7 @@ function parseOddsCsv(text) {
                                 }
 
                                 // Keep original source projection so Reset can restore it
-                                const sourceProj = parseFloat(row['Projected FP']) || 0;
+                                const sourceProj = parseFloat(row['Projected FP']) || (window._sheetProj && window._sheetProj.get(String(row['Player Name']||'').trim().toLowerCase())) || 0;
                                 // Apply custom projections if present
                                 let proj = sourceProj;
                                 let own = ownershipMap.get(norm) || 0;
@@ -8872,7 +8901,7 @@ function parseOddsCsv(text) {
             }
             const indices = [...lineupChecked].sort((a, b) => a - b);
             const lineups = indices.map(idx => generatedLineups[idx]).filter(Boolean);
-            downloadDkCsv(lineups, 'DK_CFB_checked');
+            downloadDkCsv(lineups, 'DK_NFL_checked');
         }
 
         function openSwapModal(lineupIndex, slot) {
@@ -10889,7 +10918,7 @@ function parseOddsCsv(text) {
         function buildDkUploadCsv(lineups, forceShowdown) {
             const isShowdown = forceShowdown == null ? isDkShowdownSlate(selectedSlate) : !!forceShowdown;
             const header = isShowdown
-                ? DK_SHOWDOWN_HEADER
+                ? 'CPT,FLEX,FLEX,FLEX,FLEX,FLEX'
                 : DK_CLASSIC_HEADER;
             const rows = [header];
             let missing = 0;
@@ -10926,14 +10955,14 @@ function parseOddsCsv(text) {
                 if (!proceed) return false;
             }
             const kind = built.isShowdown ? 'Showdown' : 'Classic';
-            const fname = (filenamePrefix || 'DK_CFB') + '_' + kind + '_' + built.count + '.csv';
+            const fname = (filenamePrefix || 'DK_NFL') + '_' + kind + '_' + built.count + '.csv';
             downloadTextFile(built.csv, fname);
             return true;
         }
 
         function downloadLineups() {
             markChecklist('export', true);
-            if (downloadDkCsv(generatedLineups, 'DK_CFB_lineups')) {
+            if (downloadDkCsv(generatedLineups, 'DK_NFL_lineups')) {
                 setNextStep('CSV downloaded. Upload at draftkings.com/lineup/upload — pick CFB / College Football + the matching Classic or Showdown slate/time.');
             }
         }
@@ -11387,39 +11416,8 @@ function parseOddsCsv(text) {
             }
             const indices = [...mcChecked].sort((a, b) => a - b);
             const lineups = indices.map(idx => generatedLineups[idx - 1]).filter(Boolean);
-            downloadDkCsv(lineups, 'DK_CFB_sim_checked');
+            downloadDkCsv(lineups, 'DK_NFL_sim_checked');
         }
     </script>
-
-<script>
-(function () {
-  var params = new URLSearchParams(window.location.search);
-  var token = params.get("access");
-  var endpoint =
-    "https://www.ninetofivesports.com/_functions/checkAccess?token=" +
-    encodeURIComponent(token || "");
-
-  function deny() {
-    document.body.innerHTML =
-      '<div style="font-family:Inter,system-ui,sans-serif;background:#070b14;color:#e7ecf5;min-height:100vh;display:flex;align-items:center;justify-content:center;padding:24px;text-align:center">' +
-      "<div><h1 style='margin:0 0 8px'>NineToFive Paid Members Only</h1>" +
-      "<p style='color:#8b93a7'>This builder is for active 925 members.</p>" +
-      "<p><a href='https://www.ninetofivesports.com/plans-pricing' style='color:#2E8DA1'>Become a Member</a></p></div></div>";
-  }
-
-  if (!token) {
-    deny();
-    return;
-  }
-
-  fetch(endpoint)
-    .then(function (r) { return r.json(); })
-    .then(function (data) {
-      if (!data || data.ok !== true) deny();
-    })
-    .catch(function () { deny(); });
-})();
-</script>
-
 </body>
 </html>
