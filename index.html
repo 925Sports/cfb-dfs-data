@@ -374,6 +374,16 @@
             background: var(--card-bg);
         }
         .dropdown-button::after { content: '▾'; font-size: 0.7rem; opacity: 0.7; }
+        .slate-group-label {
+            font-size: 0.68rem;
+            font-weight: 800;
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+            color: var(--muted);
+            padding: 0.5rem 0.75rem 0.2rem;
+            pointer-events: none;
+        }
+        .dropdown-menu.slate-menu { max-height: 380px; }
         .dropdown-menu {
             display: none;
             position: absolute;
@@ -3093,7 +3103,7 @@
                 <div id="generationLog"></div>
 
                 <div style="display:flex;flex-wrap:wrap;gap:0.6rem;margin-top:1rem;align-items:center;">
-                    <button class="success" data-tip="Download DraftKings Upload Lineups CSV. Classic header is QB,RB,RB,WR,WR,WR,FLEX,S-FLEX. Showdown is CPT,FLEX,FLEX,FLEX,FLEX,FLEX. Cells are Name (Draftable ID). Use Lineups → Upload Lineups and pick the matching NFL slate. For Edit Entries, paste these player columns into the DK template (leave Entry ID / Contest columns alone)." onclick="downloadLineups()">⬇ Download CSV (DK Upload)</button>
+                    <button class="success" data-tip="Download DraftKings Upload Lineups CSV. Classic header is QB,RB,RB,WR,WR,WR,FLEX,S-FLEX. Showdown is CPT,UTIL,UTIL,UTIL,UTIL,UTIL. Cells are Name (Draftable ID). Use Lineups → Upload Lineups and pick the matching NFL slate. For Edit Entries, paste these player columns into the DK template (leave Entry ID / Contest columns alone)." onclick="downloadLineups()">⬇ Download CSV (DK Upload)</button>
                     <button class="success" data-tip="Export only checked lineups as DraftKings CSV." onclick="exportCheckedLineups()">⬇ Export Checked</button>
                     <button class="ghost" data-tip="Download a readable CSV with names, salary, projected points, and ownership." onclick="downloadLineupsDetailed()">⬇ Detailed CSV</button>
                     <button class="ghost" data-tip="Copy all lineups as plain text for Discord, Twitter, or notes." onclick="copyLineupsAsText()">📋 Copy as Text</button>
@@ -4837,10 +4847,35 @@
             return toDkAbbr(best);
         }
 
-                function slateDisplayName(role) {
+                function tidySlateLabel(s) {
+            return String(s || '')
+                .replace(/\b([A-Za-z]+(?:[ -][A-Za-z0-9]+)*)(?:\s+\1)+\b/g, '$1')
+                .replace(/\s+/g, ' ')
+                .trim();
+        }
+        function isJunkSlate(role) {
             const s = String(role || '');
+            if (!s) return true;
+            if (/\(\s*@\s*\)/.test(s)) return true;
+            if (/\(\s*\)/.test(s)) return true;
+            return false;
+        }
+        function isShowdownRole(role) {
+            const s = String(role || '');
+            return /showdown|captain/i.test(s) || /\([A-Z]{2,}\s*@\s*[A-Z]{2,}\)/.test(s);
+        }
+        function slateSortDate(role) {
+            const s = String(role || '');
+            let m = s.match(/(\d{4})-(\d{2})-(\d{2})/);
+            if (m) return new Date(+m[1], +m[2]-1, +m[3]);
+            m = s.match(/(\d{1,2})\/(\d{1,2})/);
+            if (m) return new Date(new Date().getFullYear(), +m[1]-1, +m[2]);
+            return new Date(9999, 11, 31);
+        }
+        function slateDisplayName(role) {
+            const s = tidySlateLabel(role);
             if (!s) return 'Select Slate';
-            return s.replace(',', ' (').replace(/$/, ')');
+            return s.replace(',', ' (').replace(/\)$/, '').replace(/$/, ')').replace(/\)\)$/, ')');
         }
 function parseOddsCsv(text) {
             oddsGames = [];
@@ -5076,7 +5111,7 @@ function parseOddsCsv(text) {
                 if (p.slotType === 'Captain') return false;
                 return true;
             });
-            if (lab) lab.textContent = (selectedSlate || 'No slate') + (isSd ? ' · Showdown is CPT + 5 FLEX (1.5x CPT)' : ' · Classic 8: QB/RB/RB/WR/WR/WR/FLEX/S-FLEX');
+            if (lab) lab.textContent = (selectedSlate || 'No slate') + (isSd ? ' · Showdown is CPT + 5 UTIL (1.5x CPT)' : ' · Classic 8: QB/RB/RB/WR/WR/WR/FLEX/S-FLEX');
             if (!pool.length) {
                 root.innerHTML = '<p class="cs-note">Pick a slate in Builder first.</p>';
                 return;
@@ -6886,25 +6921,33 @@ function parseOddsCsv(text) {
                                 applyProjectionOverrides(customProjections);
                             }
 
-                            availableSlates = [...new Set(rawData.map(r => r['Role']))].filter(Boolean);
-                            const slatesWithDates = availableSlates.map(slate => {
-                                const datePattern = /\d{4}-\d{2}-\d{2}/;
-                                const dateStr = slate.match(datePattern)?.[0] || '9999-12-31';
-                                const [y, m, d] = dateStr.split('-').map(Number);
-                                const date = new Date(y, m - 1, d);
-                                return { slate, date };
-                            }).sort((a, b) => {
-                                if (a.date.getTime() !== b.date.getTime()) return a.date - b.date;
-                                const aSD = a.slate.includes('Showdown');
-                                const bSD = b.slate.includes('Showdown');
-                                if (aSD && !bSD) return 1;
-                                if (!aSD && bSD) return -1;
-                                return a.slate.localeCompare(b.slate);
+                            const rawRoles = [...new Set(rawData.map(r => r['Role']))].filter(Boolean);
+                            const seenLabel = new Set();
+                            availableSlates = rawRoles.filter(role => {
+                                if (isJunkSlate(role)) return false;
+                                const key = tidySlateLabel(role).toLowerCase();
+                                if (seenLabel.has(key)) return false;
+                                seenLabel.add(key);
+                                return true;
                             });
-
-                            document.getElementById('slateMenu').innerHTML = slatesWithDates.map(({slate}) =>
-                                `<label><input type="radio" name="slate" value="${slate}" onchange="updateSlate(this.value)">${slateDisplayName(slate)}</label>`
-                            ).join('');
+                            const slatesWithDates = availableSlates.map(slate => ({
+                                slate,
+                                date: slateSortDate(slate),
+                                sd: isShowdownRole(slate)
+                            })).sort((a, b) => {
+                                if (a.sd !== b.sd) return a.sd ? 1 : -1;
+                                if (a.date.getTime() !== b.date.getTime()) return a.date - b.date;
+                                return slateDisplayName(a.slate).localeCompare(slateDisplayName(b.slate));
+                            });
+                            const classic = slatesWithDates.filter(s => !s.sd);
+                            const showdown = slatesWithDates.filter(s => s.sd);
+                            const radio = (slate) =>
+                                `<label><input type="radio" name="slate" value="${slate}" onchange="updateSlate(this.value)">${slateDisplayName(slate)}</label>`;
+                            const menu = document.getElementById('slateMenu');
+                            if (menu) menu.classList.add('slate-menu');
+                            menu.innerHTML =
+                                (classic.length ? '<div class="slate-group-label">Classic</div>' + classic.map(s => radio(s.slate)).join('') : '') +
+                                (showdown.length ? '<div class="slate-group-label">Showdown</div>' + showdown.map(s => radio(s.slate)).join('') : '');
 
                             // Prefer previously selected slate from session if still available
                             let preferred = null;
@@ -10918,7 +10961,7 @@ function parseOddsCsv(text) {
         function buildDkUploadCsv(lineups, forceShowdown) {
             const isShowdown = forceShowdown == null ? isDkShowdownSlate(selectedSlate) : !!forceShowdown;
             const header = isShowdown
-                ? 'CPT,FLEX,FLEX,FLEX,FLEX,FLEX'
+                ? 'CPT,UTIL,UTIL,UTIL,UTIL,UTIL'
                 : DK_CLASSIC_HEADER;
             const rows = [header];
             let missing = 0;
