@@ -241,7 +241,8 @@ def main():
                 home = (comp.get("homeTeam") or {}).get("abbreviation") or comp.get("homeTeamAbbreviation") or ""
                 away = (comp.get("awayTeam") or {}).get("abbreviation") or comp.get("awayTeamAbbreviation") or ""
                 st = comp.get("startTime") or ""
-                comps[cid] = {"matchup": f"{away} @ {home}", "startTime": st}
+                matchup = f"{away} @ {home}".strip(" @")
+                comps[cid] = {"matchup": matchup, "startTime": st}
                 if st:
                     try:
                         start_times.append(datetime.fromisoformat(st.replace("Z", "+00:00")))
@@ -260,7 +261,13 @@ def main():
             time_part = local.strftime("%-I:%M%p")
             if num_games == 1:
                 matchup = list(comps.values())[0]["matchup"]
-                slate_header = f"{slate_date} {time_part} ({matchup})"
+                suffix = (group.get("suffix") or "").strip(" ()")
+                if (not matchup or matchup in ("@",)) and suffix:
+                    matchup = suffix
+                if matchup and matchup not in ("@",):
+                    slate_header = f"Showdown Captain Mode {slate_date} {time_part} ({matchup})"
+                else:
+                    slate_header = f"Showdown Captain Mode {slate_date} {time_part}"
             else:
                 label = group.get("slate_type") or "Classic"
                 slate_header = f"{label} {slate_date} {time_part}, {num_games} Games"
