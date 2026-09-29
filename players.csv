@@ -1,361 +1,1065 @@
 Player Name,Position,Team,Slate Type,Date,Role,Salary,Draftable ID,Projected FP,Combined FP,Value,Implied FP,Passing TDs,Rushing Yards,Receiving Yards,Passing Yards,Rush+Rec Yards,Anytime TD,Passing Attempts,Fantasy Score,Headshot URL,Game Start Time,Match Title (Underdog),Game Short Title (Underdog),Venue Name (Underdog),Venue Type (Underdog),Broadcasts (Underdog),Game Start Time (DRAFTTABLE)
-Demond Williams Jr.,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),16200,44270593,24.67,29.45,1.52,48.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Demond Williams Jr.,QB,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),10800,44270517,24.67,26.21,2.28,32.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Demond Williams Jr.,QB,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",8200,44254320,24.67,24.65,3.01,24.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Dezmen Roebuck,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),13500,44270596,19.84,23.98,1.47,40.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Justice Haynes,RB,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",8500,44254388,21.45,22.26,2.52,25.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Dezmen Roebuck,WR,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),9000,44270520,19.84,21.28,2.21,27,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Liam Szarka,QB,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",7600,44254326,20.77,21.18,2.73,22.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Alberto Mendoza,QB,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",7800,44254322,19.39,20.19,2.49,23.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Dezmen Roebuck,WR,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",6900,44254529,19.84,20.02,2.88,20.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Darius Taylor,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),12900,44270597,15.34,20.01,1.19,38.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Drake Lindsey,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),14700,44270595,13.5,19.62,0.92,44.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Darius Taylor,RB,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),8600,44270521,15.34,17.43,1.78,25.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Austin Simmons,WR,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254838,18.63,16.7,6.21,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Drake Lindsey,QB,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),9800,44270519,13.5,16.68,1.38,29.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Micah Ford,RB,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",6600,44254394,15.62,16.46,2.37,19.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Darius Taylor,RB,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",6500,44254391,15.34,16.17,2.36,19.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Javon Tracy,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),10200,44270602,12.29,15.96,1.21,30.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Austin Simmons,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270658,18.63,15.8,12.42,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Rashid Williams,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),12600,44270598,10.19,15.71,0.81,37.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Austin Simmons,WR,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270582,18.63,15.5,18.63,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Noah Jennings,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),9300,44270604,12.04,15.21,1.29,27.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Davis Warren,QB,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",7300,44254330,13.2,14.94,1.81,21.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Drake Lindsey,QB,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",6800,44254338,13.5,14.88,1.99,20.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Jordan Allen,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",5800,44254535,13.55,14.32,2.34,17.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Javon Tracy,WR,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),6800,44270526,12.29,13.92,1.81,20.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Dominic Kelley,RB,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",6100,44254400,12.16,13.38,1.99,18.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Noah Jennings,WR,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),6200,44270528,12.04,13.35,1.94,18.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Carter Jones,QB,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",7100,44254334,11.37,13.35,1.6,21.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Caden High,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4800,44254538,12.94,13.23,2.7,14.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Rashid Williams,WR,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),8400,44270522,10.19,13.19,1.21,25.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Owen Allen,RB,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4900,44254415,12.44,12.89,2.54,14.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-TJ Thomas,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),12300,44270599,6.81,12.83,0.55,36.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Javon Tracy,WR,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4600,44254541,12.29,12.6,2.67,13.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Trey Cooley,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),9600,44270603,8.5,12.56,0.89,28.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Jayden Limar,RB,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254496,12.57,12.45,3.14,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Noah Jennings,WR,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4300,44254550,12.04,12.21,2.8,12.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Rashid Williams,WR,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",6400,44254532,10.19,11.99,1.59,19.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Jayden Limar,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270641,12.57,10.95,8.38,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Kevin Roche Jr.,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3700,44254589,10.73,10.8,2.9,11.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Benji Blackburn,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254565,10.48,10.79,2.62,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Jayden Limar,RB,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270565,12.57,10.65,12.57,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Trey Cooley,RB,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),6400,44270527,8.5,10.64,1.33,19.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Jalen Smith,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),5400,44270625,9.06,10.49,1.68,16.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-TJ Thomas,RB,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),8200,44270523,6.81,10.37,0.83,24.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Jordan Washington,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),6900,44270616,7.77,10.35,1.13,20.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Chris Lawson,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),5700,44270624,8.67,10.35,1.52,17.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Dalen Penson,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4400,44254547,9.6,10.32,2.18,13.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Quaid Carr,RB,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254493,9.56,10.05,2.39,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Herschel Turner,RB,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",5500,44254403,8.35,9.98,1.52,16.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-A.J. Turner,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),10800,44270601,4.18,9.82,0.39,32.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Baron Naone,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),7200,44270615,6.68,9.66,0.93,21.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Jalen Smith,WR,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254562,9.06,9.65,2.26,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Trey Cooley,RB,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254424,8.5,9.5,1.89,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Elijah Brown,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),15000,44270594,0.52,9.41,0.03,45,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Jalen Smith,WR,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),3600,44270549,9.06,9.41,2.52,10.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Chris Lawson,WR,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4100,44254571,8.67,9.39,2.11,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Matt Long,WR,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254544,8.32,9.36,1.85,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-TJ Thomas,RB,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",6300,44254397,6.81,9.23,1.08,18.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Chris Lawson,WR,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),3800,44270548,8.67,9.21,2.28,11.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Brian Bonner Jr.,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),8700,44270612,4.83,9.08,0.55,26.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Damien Morgan,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4300,44254553,8.04,9.01,1.87,12.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Jordan Washington,RB,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),4600,44270540,7.77,8.97,1.69,13.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Decker DeGraaf,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),4800,44270626,7.38,8.78,1.54,14.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Jordan Washington,RB,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4100,44254454,7.77,8.67,1.89,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Quaid Carr,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270638,9.56,8.55,6.37,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Quaid Carr,RB,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270562,9.56,8.25,9.56,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Baron Naone,WR,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),4800,44270539,6.68,8.22,1.39,14.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Decker DeGraaf,WR,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3800,44254583,7.38,8.18,1.94,11.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Ansu Sanoe,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),8400,44270613,3.65,7.96,0.43,25.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Decker DeGraaf,WR,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),3200,44270550,7.38,7.82,2.3,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Baron Naone,WR,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4100,44254568,6.68,7.8,1.63,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-A.J. Turner,RB,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),7200,44270525,4.18,7.66,0.58,21.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Malachi Hosley,RB,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",5000,44254409,5.81,7.64,1.16,15,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Rocco Conti,RB,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4700,44254418,5.93,7.56,1.26,14.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Brian Bonner Jr.,RB,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),5800,44270536,4.83,7.34,0.83,17.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Brady Palmer,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),12000,44270600,0,7.2,0,36,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-JonAnthony Hall,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4200,44254556,5.82,7.18,1.39,12.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Sedrick Irvin,RB,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4600,44254421,5.5,7.16,1.2,13.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Trez Davis,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),4200,44270627,5.76,7.13,1.37,12.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Jonah Dawson,WR,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3300,44254619,5.94,6.73,1.8,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Gary Givens III,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3600,44254595,5.7,6.72,1.58,10.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Trez Davis,WR,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3500,44254607,5.76,6.71,1.65,10.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Kemper Hodges,QB,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254378,4.91,6.63,1.09,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Donnie Cheers,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3500,44254598,5.51,6.51,1.57,10.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Brian Bonner Jr.,RB,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4400,44254430,4.83,6.5,1.1,13.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Elijah Brown,QB,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),10000,44270518,0.52,6.41,0.05,30,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Trez Davis,WR,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),2800,44270551,5.76,6.29,2.06,8.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Ansu Sanoe,RB,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),5600,44270537,3.65,6.28,0.65,16.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-A.J. Turner,RB,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4800,44254412,4.18,6.22,0.87,14.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Trelain Maddox,RB,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",5200,44254406,3.71,6.09,0.71,15.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Adam Hrynciw,WR,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3800,44254586,4.55,5.92,1.2,11.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Marshaun Brown,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3900,44254577,4.44,5.89,1.14,11.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Christian Moss,WR,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254847,5.08,5.86,1.69,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Max Shikenjanski,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),9000,44270608,0.44,5.75,0.05,27,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Evan Haynes,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254694,4.86,5.69,1.62,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Simon Kibbee,WR,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3200,44254637,4.5,5.52,1.41,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Jordan Clay,WR,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254865,4.64,5.51,1.55,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Ansu Sanoe,RB,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4200,44254445,3.65,5.44,0.87,12.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Owen Lansu,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),9000,44270605,0,5.4,0,27,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Michael Merdinger,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),9000,44270606,0,5.4,0,27,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Treston McMillan,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),9000,44270607,0,5.4,0,27,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Dylan Wittke,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),9000,44270609,0,5.4,0,27,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Derek Zammit,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),9000,44270610,0,5.4,0,27,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Dash Beierly,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),9000,44270611,0,5.4,0,27,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Jordan Onovughe,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3900,44254580,3.81,5.39,0.98,11.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Nico Brown,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3200,44254628,4.09,5.19,1.28,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Elijah Brown,QB,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",7700,44254324,0.52,5.03,0.07,23.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Xavier Ford,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),7800,44270614,0.42,5.02,0.05,23.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Grady Adamson,QB,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",7300,44254328,0.72,4.96,0.1,21.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Gage LaDue,RB,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254508,3.2,4.96,0.8,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Christian Moss,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270655,5.08,4.96,3.38,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Atticus Joseph,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3300,44254616,3.67,4.92,1.11,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Chris Corbo,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3100,44254643,3.72,4.84,1.2,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Brady Palmer,QB,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),8000,44270524,0,4.8,0,24,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Jordan Clay,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1800,44270634,4.64,4.79,2.58,5.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-DJ Asiasi,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3300,44254613,3.46,4.74,1.05,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Liam Thorpe,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3100,44254658,3.55,4.7,1.15,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Ky Woods,RB,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4200,44254439,2.72,4.69,0.65,12.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Christian Moss,WR,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270579,5.08,4.66,5.08,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Evan Medders,QB,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",7200,44254332,0.39,4.63,0.05,21.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Jaiven Plummer,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3700,44254592,3,4.62,0.81,11.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Chad Alexander,RB,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4200,44254433,2.57,4.58,0.61,12.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Zion Robinson,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3400,44254604,3,4.44,0.88,10.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Michael Mitchell Jr.,QB,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",6900,44254336,0.37,4.43,0.05,20.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Jordan Clay,WR,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1200,44270558,4.64,4.43,3.87,3.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Rahkeem Smith,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3300,44254610,3,4.38,0.91,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Debron Gatling,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3900,44254574,2.5,4.34,0.64,11.7,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Luke Duncan,QB,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",6700,44254340,0.37,4.31,0.05,20.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Grant Washington,RB,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254475,2.36,4.29,0.59,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Pierce Walsh,WR,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254709,3.11,4.29,1.04,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Isaiah Fuhrmann,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4100,44254559,1.94,4.01,0.47,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Gavin Harris,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3200,44254622,2.58,3.98,0.8,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Tyler Robles,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),6600,44270617,0,3.96,0,19.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Grady Gross,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),6600,44270618,0,3.96,0,19.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Hunter McKee,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),6600,44270619,0,3.96,0,19.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-C.J. Wallace,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),6600,44270620,0,3.96,0,19.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Max Shikenjanski,QB,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),6000,44270532,0.44,3.95,0.07,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Perry Thompson,WR,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254739,2.59,3.87,0.86,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Chico Holt,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3100,44254655,2.42,3.8,0.78,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Brady Palmer,QB,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",6200,44254342,0,3.72,0,18.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Owen Lansu,QB,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),6000,44270529,0,3.6,0,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Michael Merdinger,QB,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),6000,44270530,0,3.6,0,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Treston McMillan,QB,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),6000,44270531,0,3.6,0,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Dylan Wittke,QB,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),6000,44270533,0,3.6,0,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Derek Zammit,QB,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),6000,44270534,0,3.6,0,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Dash Beierly,QB,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),6000,44270535,0,3.6,0,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Beckham Sunderland,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),6000,44270621,0,3.6,0,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Luke Drzewiecki,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),6000,44270622,0,3.6,0,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Daniel Jackson,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),6000,44270623,0,3.6,0,18,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Travis Wood,RB,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254511,1.49,3.6,0.37,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Kaden Helms,WR,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254712,2.22,3.57,0.74,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Chris Davis Jr.,RB,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4100,44254451,1.31,3.51,0.32,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Xavier Ford,RB,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),5200,44270538,0.42,3.46,0.08,15.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Pierce Walsh,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270648,3.11,3.39,2.07,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Kade Eldridge,WR,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3200,44254631,1.79,3.35,0.56,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Niko Castillo,RB,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254469,1.14,3.31,0.29,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Coi Jean-Noel,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3100,44254646,1.69,3.21,0.54,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Jaceon Doss,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3100,44254652,1.63,3.16,0.53,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Pierce Walsh,WR,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270572,3.11,3.09,3.11,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-AJ Bianco,QB,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254358,0.47,3.07,0.1,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Max Shikenjanski,QB,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254350,0.44,3.05,0.1,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Kade Eldridge,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),2700,44270631,1.79,3.05,0.66,8.1,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Jalen Rashad Turner,RB,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4100,44254457,0.72,3.03,0.17,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Josh Johnson,QB,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254376,0.38,3,0.08,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Ryken Moon,RB,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254499,0.75,3,0.19,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Perry Thompson,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270645,2.59,2.97,1.73,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Tuna Altahir,RB,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254490,0.69,2.95,0.17,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Janerious Jackson,RB,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4100,44254448,0.58,2.92,0.14,12.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Xavier Ford,RB,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4200,44254436,0.42,2.86,0.1,12.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-David Pantelis,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254820,1.29,2.83,0.43,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Grant Washington,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270642,2.36,2.79,1.57,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Graham Knowles,QB,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254344,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Ben Guthrie,QB,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254346,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Cole Bergeron,QB,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254348,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Michael Merdinger,QB,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254352,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Dylan Wittke,QB,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254354,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Owen Lansu,QB,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254356,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Reeve Slone,QB,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254360,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Charlie Mirer,QB,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254362,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Dylan Rizk,QB,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254364,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Devin Mignery,QB,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254366,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Luke Levitt,QB,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254368,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Treston McMillan,QB,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254370,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Dash Beierly,QB,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254372,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Derek Zammit,QB,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254374,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Maguire Martin,QB,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254380,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Cade Spradling,QB,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254382,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Howard Fisher,QB,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254384,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Grady Kinsey,QB,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4500,44254386,0,2.7,0,13.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Hayden Moore,WR,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3200,44254625,0.96,2.69,0.3,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Perry Thompson,WR,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270569,2.59,2.67,2.59,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Kaden Helms,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270657,2.22,2.67,1.48,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Tyler Robles,K,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),4400,44270541,0,2.64,0,13.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Grady Gross,K,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),4400,44270542,0,2.64,0,13.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Hunter McKee,K,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),4400,44270543,0,2.64,0,13.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-C.J. Wallace,K,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),4400,44270544,0,2.64,0,13.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Carter Jackson,RB,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4400,44254427,0,2.64,0,13.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Roman Voss,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),3600,44270628,0.54,2.59,0.15,10.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Bodpegn Miller,WR,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3100,44254661,0.9,2.58,0.29,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Hayden Moore,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),3000,44270630,0.96,2.57,0.32,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Champ Hampton,RB,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4200,44254442,0,2.52,0,12.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Kade Eldridge,WR,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1800,44270555,1.79,2.51,1,5.4,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Grant Washington,RB,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270566,2.36,2.49,2.36,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Roman Voss,WR,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3400,44254601,0.54,2.47,0.16,10.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Jacob Simpson,WR,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254718,0.78,2.42,0.26,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Zion Steptoe,WR,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254730,0.78,2.42,0.26,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Mason James,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),3300,44270629,0.54,2.41,0.16,9.9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Beckham Sunderland,K,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),4000,44270545,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Luke Drzewiecki,K,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),4000,44270546,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Daniel Jackson,K,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),4000,44270547,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Shane Marshall,RB,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254460,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-J.P. Powell,RB,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254463,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Jayden Barr,RB,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254466,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Jaron Thomas,RB,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254472,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Zeke Bates,RB,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254478,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Ryan Estrada,RB,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254481,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Bronwyn Rios,RB,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254484,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Mekai Smith,RB,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254487,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Julian McMahan,RB,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254502,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-D'Aryhian Clemons,RB,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254505,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Omari Elias,RB,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254514,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Chase Ferrell,RB,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254517,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Oswaldo Morales,RB,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254520,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Luke Rauh,RB,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254523,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Price Davis,RB,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",4000,44254526,0,2.4,0,12,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Kaden Helms,WR,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270581,2.22,2.37,2.22,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Mason James,WR,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3200,44254634,0.54,2.35,0.17,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Carter Shaw,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254811,0.67,2.33,0.22,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Keegan Sack,WR,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254892,0.66,2.33,0.22,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Mason Hayes,WR,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3200,44254640,0.42,2.26,0.13,9.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Quayd Hendryx,WR,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254727,0.48,2.18,0.16,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Bodpegn Miller,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),2100,44270633,0.9,1.98,0.43,6.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Hayden Moore,WR,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),2000,44270554,0.96,1.97,0.48,6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Roman Voss,WR,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),2400,44270552,0.54,1.87,0.23,7.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Julian Johnson,WR,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3100,44254649,0,1.86,0,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Sylas Maiava-Alaimalo,WR,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3100,44254664,0,1.86,0,9.3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Niko Castillo,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270636,1.14,1.81,0.76,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Spencer Mermans,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254667,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Nate Agyemang,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254670,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Connor Roush,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254673,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Blake Ragsdale,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254676,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Rocco Xerogeanes,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254679,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Jack Richerson,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254682,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Chris Elko,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254685,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Darnell Collins,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254688,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Kentrell Davis,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254691,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Joseph Moseley,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254697,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Wills Campbell,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254700,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-Cal Faulkner,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254703,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-J.J. Winston,WR,GT,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254706,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7633.png,,,,,,,9/26/2026
-George Rohl,WR,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254715,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Sam Peters,WR,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254721,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Gabe Weaver,WR,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254724,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Bradley Martino,WR,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254733,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Braiden Stevens,WR,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254736,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Josiah Dozier,WR,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254742,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Donielle Hayes,WR,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254745,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Rico Blassingame,WR,MINN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254748,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Jayden O'Rourke,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254751,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Benjamin Wheeler,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254754,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Carter Eck,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254757,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Kolawole Babalola,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254760,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Trace Estes,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254763,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Darren Schmitt,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254766,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Daijon Calimon,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254769,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Gerick Robinson,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254772,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Mack Kump,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254775,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Isaiah Williams,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254778,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Amari Nash,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254781,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Perrion Williams,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254784,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Alex Grush,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254787,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Deven Vigue,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254790,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Don Henry,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254793,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Joe Stimpson,WR,NEV,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254796,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7925.png,,,,,,,9/26/2026
-Aiden Black,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254799,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Zach Giuliano,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254802,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Reiman Zebert,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254805,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Marcus Monroe,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254808,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Marcus Brown,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254814,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Langdon Horace,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254817,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Owen van Loben Sels,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254823,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Daylen Sharper,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254826,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Jacob Butler,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254829,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Tyler Kuo,WR,STAN,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254832,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8084.png,,,,,,,9/26/2026
-Charlie Crowell,WR,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254835,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Kekua Aumua,WR,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254841,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Sam Vyhlidal,WR,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254844,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Justice Williams,WR,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254850,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Blaise LaVista,WR,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254853,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Deji Ajose,WR,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254856,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Jace Burton,WR,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254859,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Asa Thompson,WR,UW,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254862,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Mitchell Blakeslee,WR,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254868,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Harry Caskey,WR,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254871,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Dominic Henning,WR,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254874,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Henry Barbisch,WR,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254877,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Griffin Stalfort,WR,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254880,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Grant Wayne,WR,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254883,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Owen Chambers,WR,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254886,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Mason Lowe,WR,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254889,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Harris Vinson,WR,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254895,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Major Quin,WR,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254898,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Astin Hange,WR,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254901,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Isaac Thomas,WR,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254904,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Noah McNair,WR,AF,Late Night,9/26/2026,"Late Night Late Night 9/26 10:30PM, 3 Games",3000,44254907,0,1.8,0,9,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8274.png,,,,,,,9/26/2026
-Mason James,WR,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),2200,44270553,0.54,1.75,0.25,6.6,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Bodpegn Miller,WR,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1400,44270557,0.9,1.56,0.64,4.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Zion Steptoe,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270654,0.78,1.52,0.52,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Jacob Simpson,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270661,0.78,1.52,0.52,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Niko Castillo,RB,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270560,1.14,1.51,1.14,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Ryken Moon,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270644,0.75,1.5,0.5,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Julian Johnson,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),2400,44270632,0,1.44,0,7.2,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Quayd Hendryx,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270646,0.48,1.28,0.32,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Zion Steptoe,WR,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270578,0.78,1.22,0.78,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Jacob Simpson,WR,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270585,0.78,1.22,0.78,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Ryken Moon,RB,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270568,0.75,1.2,0.75,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Quayd Hendryx,WR,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270570,0.48,0.98,0.48,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Julian Johnson,WR,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1600,44270556,0,0.96,0,4.8,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Ryan Estrada,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270635,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Julian McMahan,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270637,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-D'Aryhian Clemons,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270639,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Jaron Thomas,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270640,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Zeke Bates,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270643,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Rico Blassingame,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270647,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Justice Williams,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270649,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Gabe Weaver,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270650,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Asa Thompson,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270651,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Charlie Crowell,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270652,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Deji Ajose,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270653,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Kekua Aumua,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270656,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Blaise LaVista,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270659,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Sam Vyhlidal,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270660,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-George Rohl,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270662,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Donielle Hayes,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270663,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Braiden Stevens,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270664,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Josiah Dozier,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270665,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Jace Burton,CPT,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270666,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Sam Peters,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270667,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Bradley Martino,CPT,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1500,44270668,0,0.9,0,4.5,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Ryan Estrada,RB,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270559,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Julian McMahan,RB,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270561,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-D'Aryhian Clemons,RB,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270563,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Jaron Thomas,RB,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270564,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Zeke Bates,RB,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270567,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Rico Blassingame,WR,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270571,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Justice Williams,WR,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270573,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Gabe Weaver,WR,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270574,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Asa Thompson,WR,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270575,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Charlie Crowell,WR,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270576,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Deji Ajose,WR,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270577,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Kekua Aumua,WR,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270580,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Blaise LaVista,WR,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270583,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Sam Vyhlidal,WR,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270584,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-George Rohl,WR,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270586,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Donielle Hayes,WR,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270587,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Braiden Stevens,WR,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270588,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Josiah Dozier,WR,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270589,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Jace Burton,WR,UW,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270590,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/8101.png,,,,,,,9/26/2026
-Sam Peters,WR,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270591,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
-Bradley Martino,WR,MINN,Showdown Captain Mode,9/26/2026,Showdown Captain Mode Showdown Captain Mode 9/26 11:00PM (MINN @ UW),1000,44270592,0,0.6,0,3,,,,,,,,,https://dkn.gs/sports/images/cfb/teams/50/7860.png,,,,,,,9/26/2026
+Jahiem White,RB,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,9600,1441292,27.16,27.49,2.83,28.8,,,,,,,,,,,,,,,,
+Jahiem White,RB,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,7400,1441292,27.16,26.17,3.67,22.2,,,,,,,,,,,,,,,,
+Jeremiah Smith,WR,3439,Saturday,,Saturday Saturday,9400,1508831,25.36,25.93,2.7,28.2,,,,,,,,,,,,,,,,
+Conner Weigman,QB,3485,Saturday,,Saturday Saturday,8400,1380556,25.28,25.26,3.01,25.2,,,,,,,,,,,,,,,,
+Brock Glenn,QB,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,8400,1441531,24.04,24.27,2.86,25.2,,,,,,,,,,,,,,,,
+Michael Hawkins Jr.,QB,3423,Saturday,,Saturday Saturday,8500,1506192,23.59,23.98,2.78,25.5,,,,,,,,,,,,,,,,
+Byrum Brown,QB,3480,Saturday,,Saturday Saturday,8000,1379398,23.98,23.98,3,24,,,,,,,,,,,,,,,,
+Kamario Taylor,QB,3483,Saturday,,Saturday Saturday,8100,1581991,23.56,23.71,2.91,24.3,,,,,,,,,,,,,,,,
+Jadan Baugh,RB,3472,Saturday,,Saturday Saturday,9800,1506119,21.82,23.34,2.23,29.4,,,,,,,,,,,,,,,,
+Cam Cook,RB,3423,Saturday,,Saturday Saturday,9100,1443051,22.03,23.08,2.42,27.3,,,,,,,,,,,,,,,,
+Tayven Jackson,QB,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,10600,1381196,20.51,22.77,1.93,31.8,,,,,,,,,,,,,,,,
+Julian Sayin,QB,3439,Saturday,,Saturday Saturday,9000,1508833,21.13,22.3,2.35,27,,,,,,,,,,,,,,,,
+Keelon Russell,QB,3478,Saturday,,Saturday Saturday,8800,1582204,20.72,21.86,2.35,26.4,,,,,,,,,,,,,,,,
+Gunner Stockton,QB,3473,Saturday,,Saturday Saturday,8700,1381137,20.61,21.7,2.37,26.1,,,,,,,,,,,,,,,,
+CJ Carr,QB,3509,Saturday,,Saturday Saturday,8200,1512889,20.52,21.34,2.5,24.6,,,,,,,,,,,,,,,,
+Tayven Jackson,QB,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,7700,1381196,20.51,21.03,2.66,23.1,,,,,,,,,,,,,,,,
+Ashton Daniels,QB,3409,Saturday,,Saturday Saturday,6500,1395619,20.79,20.54,3.2,19.5,,,,,,,,,,,,,,,,
+Jamal Roberts,RB,3428,Saturday,,Saturday Saturday,7300,1460642,20.1,20.46,2.75,21.9,,,,,,,,,,,,,,,,
+Ajay Allen,RB,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,7200,1379240,20.09,20.4,2.79,21.6,,,,,,,,,,,,,,,,
+Baylor Hayes,QB,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,10000,1530218,17.37,19.9,1.74,30,,,,,,,,,,,,,,,,
+Dexter Williams II,QB,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,9000,1213949,17.26,19.21,1.92,27,,,,,,,,,,,,,,,,
+LaNorris Sellers,QB,3475,Saturday,,Saturday Saturday,7200,1441511,18.53,19.14,2.57,21.6,,,,,,,,,,,,,,,,
+Amare Thomas,WR,3485,Saturday,,Saturday Saturday,6600,1442263,18.79,18.99,2.85,19.8,,,,,,,,,,,,,,,,
+Austin Simmons,QB,3428,Saturday,,Saturday Saturday,6700,1459817,18.63,18.92,2.78,20.1,,,,,,,,,,,,,,,,
+Aaron Philo,QB,3472,Saturday,,Saturday Saturday,7700,1508034,17.79,18.85,2.31,23.1,,,,,,,,,,,,,,,,
+Colton Joseph,QB,3442,Saturday,,Saturday Saturday,7500,1452605,17.4,18.42,2.32,22.5,,,,,,,,,,,,,,,,
+DeSean Bishop,RB,3476,Saturday,,Saturday Saturday,7600,1442967,17.17,18.3,2.26,22.8,,,,,,,,,,,,,,,,
+Baylor Hayes,QB,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,7300,1530218,17.37,18.28,2.38,21.9,,,,,,,,,,,,,,,,
+Kenny Minchey,QB,3474,Saturday,,Saturday Saturday,6100,1445210,17.89,17.97,2.93,18.3,,,,,,,,,,,,,,,,
+Dexter Williams II,QB,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,6900,1213949,17.26,17.95,2.5,20.7,,,,,,,,,,,,,,,,
+Keshaun Singleton,WR,3480,Saturday,,Saturday Saturday,6700,1461788,17.22,17.8,2.57,20.1,,,,,,,,,,,,,,,,
+Nate Frazier,RB,3473,Saturday,,Saturday Saturday,7500,1518449,16.55,17.74,2.21,22.5,,,,,,,,,,,,,,,,
+Trey Hedden,QB,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,7000,1517362,16.43,17.34,2.35,21,,,,,,,,,,,,,,,,
+Bryce Underwood,QB,3435,Saturday,,Saturday Saturday,6900,1583624,16.5,17.34,2.39,20.7,,,,,,,,,,,,,,,,
+TK King,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,5800,1389629,17.3,17.32,2.98,17.4,,,,,,,,,,,,,,,,
+Faizon Brandon,QB,3476,Saturday,,Saturday Saturday,7400,1645893,16.09,17.31,2.17,22.2,,,,,,,,,,,,,,,,
+Anthony Evans III,WR,3483,Saturday,,Saturday Saturday,6800,1442637,16.47,17.26,2.42,20.4,,,,,,,,,,,,,,,,
+Aneyas Williams,RB,3509,Saturday,,Saturday Saturday,6400,1521387,16.59,17.11,2.59,19.2,,,,,,,,,,,,,,,,
+Jared Curtis,QB,3477,Saturday,,Saturday Saturday,5100,1646013,17.45,17.02,3.42,15.3,,,,,,,,,,,,,,,,
+Jordan Faison,WR,3509,Saturday,,Saturday Saturday,5900,1451516,16.73,16.92,2.84,17.7,,,,,,,,,,,,,,,,
+Junior Sherrill,WR,3477,Saturday,,Saturday Saturday,5400,1452983,17.02,16.86,3.15,16.2,,,,,,,,,,,,,,,,
+Alonza Barnett III,QB,3615,Saturday,,Saturday Saturday,5800,1380865,16.36,16.57,2.82,17.4,,,,,,,,,,,,,,,,
+Ryan Coleman-Williams,WR,3478,Saturday,,Saturday Saturday,7400,1520175,15.11,16.52,2.04,22.2,,,,,,,,,,,,,,,,
+Beau Pribula,QB,3414,Saturday,,Saturday Saturday,7600,1379262,14.72,16.34,1.94,22.8,,,,,,,,,,,,,,,,
+Darius Taylor,RB,3437,Saturday,,Saturday Saturday,6600,1447574,15.34,16.23,2.32,19.8,,,,,,,,,,,,,,,,
+Fluff Bothwell,RB,3483,Saturday,,Saturday Saturday,7100,1519851,14.91,16.19,2.1,21.3,,,,,,,,,,,,,,,,
+Lotzeir Brooks,WR,3478,Saturday,,Saturday Saturday,6600,1582201,15,15.96,2.27,19.8,,,,,,,,,,,,,,,,
+Donovan Olugbode,WR,3428,Saturday,,Saturday Saturday,6200,1582278,15.27,15.94,2.46,18.6,,,,,,,,,,,,,,,,
+Tyrell Henry,WR,3442,Saturday,,Saturday Saturday,4900,1400904,16.2,15.9,3.31,14.7,,,,,,,,,,,,,,,,
+James Jones,RB,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,6500,1516229,14.96,15.87,2.3,19.5,,,,,,,,,,,,,,,,
+Daniel Hill,RB,3478,Saturday,,Saturday Saturday,6700,1506064,14.7,15.78,2.19,20.1,,,,,,,,,,,,,,,,
+Ousmane Kromah,RB,3409,Saturday,,Saturday Saturday,5900,1589195,15.17,15.68,2.57,17.7,,,,,,,,,,,,,,,,
+Cayden Lee,WR,3428,Saturday,,Saturday Saturday,6300,1441000,14.73,15.57,2.34,18.9,,,,,,,,,,,,,,,,
+Bo Jackson,RB,3439,Saturday,,Saturday Saturday,7400,1583952,13.37,15.14,1.81,22.2,,,,,,,,,,,,,,,,
+Damari Alston,RB,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,8200,1389215,12.69,15.07,1.55,24.6,,,,,,,,,,,,,,,,
+CJ Baxter,RB,3474,Saturday,,Saturday Saturday,6000,1441277,14.25,15,2.38,18,,,,,,,,,,,,,,,,
+Alessio Milivojevic,QB,3436,Saturday,,Saturday Saturday,5300,1508498,14.57,14.83,2.75,15.9,,,,,,,,,,,,,,,,
+Chas Nimrod,WR,3480,Saturday,,Saturday Saturday,6100,1381284,13.91,14.79,2.28,18.3,,,,,,,,,,,,,,,,
+JJ Buchanan,WR,3435,Saturday,,Saturday Saturday,5800,1592502,14.12,14.78,2.43,17.4,,,,,,,,,,,,,,,,
+Aiden Flora,RB,3425,Saturday,,Saturday Saturday,6300,1515952,13.74,14.77,2.18,18.9,,,,,,,,,,,,,,,,
+Jaylen Raynor,QB,3425,Saturday,,Saturday Saturday,6600,1448370,13.46,14.73,2.04,19.8,,,,,,,,,,,,,,,,
+Billy Edwards Jr.,QB,3412,Saturday,,Saturday Saturday,5500,1305831,14.27,14.72,2.59,16.5,,,,,,,,,,,,,,,,
+Drake Lindsey,QB,3437,Saturday,,Saturday Saturday,6300,1508654,13.5,14.58,2.14,18.9,,,,,,,,,,,,,,,,
+Andrew Marsh,WR,3435,Saturday,,Saturday Saturday,5300,1583621,14.05,14.42,2.65,15.9,,,,,,,,,,,,,,,,
+Justin Stevenson,WR,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,7800,1442377,12.15,14.4,1.56,23.4,,,,,,,,,,,,,,,,
+Nolan James Jr.,RB,3509,Saturday,,Saturday Saturday,6900,1585598,12.76,14.35,1.85,20.7,,,,,,,,,,,,,,,,
+Samuel Singleton Jr.,RB,3409,Saturday,,Saturday Saturday,4000,1450140,14.8,14.24,3.7,12,,,,,,,,,,,,,,,,
+Makhi Hughes,RB,3485,Saturday,,Saturday Saturday,6800,1400793,12.62,14.17,1.86,20.4,,,,,,,,,,,,,,,,
+Jekail Middlebrook,RB,3414,Saturday,,Saturday Saturday,6500,1442535,12.77,14.11,1.96,19.5,,,,,,,,,,,,,,,,
+Corri Milliner,WR,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,6800,1451621,12.32,13.94,1.81,20.4,,,,,,,,,,,,,,,,
+Jordan Shipp,WR,3412,Saturday,,Saturday Saturday,4200,1508192,13.69,13.47,3.26,12.6,,,,,,,,,,,,,,,,
+Keenan Jackson Jr.,RB,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4100,1602535,13.76,13.47,3.36,12.3,,,,,,,,,,,,,,,,
+Damari Alston,RB,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,5500,1389215,12.69,13.45,2.31,16.5,,,,,,,,,,,,,,,,
+K.D. Hutchinson,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4800,1398587,13.16,13.41,2.74,14.4,,,,,,,,,,,,,,,,
+Keenan Jackson Jr.,RB,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,4000,1602535,13.76,13.41,3.44,12,,,,,,,,,,,,,,,,
+Tony Diaz,WR,3434,Saturday,,Saturday Saturday,4600,1592760,13.27,13.37,2.88,13.8,,,,,,,,,,,,,,,,
+Patrick Overmyer,WR,3485,Saturday,,Saturday Saturday,4300,1460669,13.36,13.27,3.11,12.9,,,,,,,,,,,,,,,,
+Micah Gilbert,WR,3509,Saturday,,Saturday Saturday,5700,1512890,12.26,13.23,2.15,17.1,,,,,,,,,,,,,,,,
+Vernell Brown III,WR,3472,Saturday,,Saturday Saturday,6500,1581922,11.54,13.13,1.77,19.5,,,,,,,,,,,,,,,,
+Jeremiah Cobb,RB,3480,Saturday,,Saturday Saturday,6200,1449307,11.72,13.1,1.89,18.6,,,,,,,,,,,,,,,,
+Jordan Marshall,RB,3435,Saturday,,Saturday Saturday,7000,1524361,11.02,13.01,1.57,21,,,,,,,,,,,,,,,,
+Brendon Haygood,RB,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,6600,1582557,11.3,13,1.71,19.8,,,,,,,,,,,,,,,,
+Javon Tracy,WR,3437,Saturday,,Saturday Saturday,5200,1390925,12.29,12.96,2.36,15.6,,,,,,,,,,,,,,,,
+Justin Stevenson,WR,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,5300,1442377,12.15,12.9,2.29,15.9,,,,,,,,,,,,,,,,
+Kamari Moulton,RB,3434,Saturday,,Saturday Saturday,6300,1452867,11.32,12.84,1.8,18.9,,,,,,,,,,,,,,,,
+Corri Milliner,WR,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4900,1451621,12.32,12.8,2.51,14.7,,,,,,,,,,,,,,,,
+Willie Rodriguez,WR,3474,Saturday,,Saturday Saturday,3900,1519404,13.03,12.77,3.34,11.7,,,,,,,,,,,,,,,,
+Abu Sama III,RB,3442,Saturday,,Saturday Saturday,5800,1451453,11.51,12.68,1.98,17.4,,,,,,,,,,,,,,,,
+Ahmad Hardy,RB,3428,Saturday,,Saturday Saturday,4000,1514599,12.73,12.58,3.18,12,,,,,,,,,,,,,,,,
+Noah Jennings,WR,3437,Saturday,,Saturday Saturday,4600,1469649,12.04,12.39,2.62,13.8,,,,,,,,,,,,,,,,
+Chrishon McCray,WR,3436,Saturday,,Saturday Saturday,4800,1395226,11.71,12.25,2.44,14.4,,,,,,,,,,,,,,,,
+Duce Robinson,WR,3409,Saturday,,Saturday Saturday,4100,1458871,12.16,12.19,2.97,12.3,,,,,,,,,,,,,,,,
+Eric Singleton Jr.,WR,3472,Saturday,,Saturday Saturday,4600,1441512,11.75,12.16,2.56,13.8,,,,,,,,,,,,,,,,
+Oran Singleton Jr.,WR,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,7200,1325725,9.77,12.14,1.36,21.6,,,,,,,,,,,,,,,,
+Jimmy Calloway,WR,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,6400,1232890,10.16,11.97,1.59,19.2,,,,,,,,,,,,,,,,
+Jonathan Stafford Jr.,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4200,1652660,11.8,11.96,2.81,12.6,,,,,,,,,,,,,,,,
+Chauncey Bowens,RB,3473,Saturday,,Saturday Saturday,6500,1506133,10.06,11.95,1.55,19.5,,,,,,,,,,,,,,,,
+Brendon Haygood,RB,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4800,1582557,11.3,11.92,2.35,14.4,,,,,,,,,,,,,,,,
+Re'Shaun Sanford II,RB,3485,Saturday,,Saturday Saturday,6100,1451937,10.28,11.88,1.69,18.3,,,,,,,,,,,,,,,,
+Duke Watson,RB,3615,Saturday,,Saturday Saturday,5900,1514150,10.18,11.68,1.73,17.7,,,,,,,,,,,,,,,,
+Rodney Bullard Jr.,WR,3436,Saturday,,Saturday Saturday,4700,1585775,10.94,11.57,2.33,14.1,,,,,,,,,,,,,,,,
+Dallas Wilson,WR,3472,Saturday,,Saturday Saturday,6900,1581920,9.21,11.51,1.33,20.7,,,,,,,,,,,,,,,,
+DJ Epps,WR,3423,Saturday,,Saturday Saturday,5200,1396617,10.27,11.34,1.97,15.6,,,,,,,,,,,,,,,,
+Kenny Darby,WR,3474,Saturday,,Saturday Saturday,4200,1646255,10.76,11.13,2.56,12.6,,,,,,,,,,,,,,,,
+Sedrick Alexander,RB,3477,Saturday,,Saturday Saturday,4900,1441104,10.02,10.96,2.04,14.7,,,,,,,,,,,,,,,,
+Jason Patterson,RB,3474,Saturday,,Saturday Saturday,5700,1506461,9.33,10.88,1.64,17.1,,,,,,,,,,,,,,,,
+Nyck Harbor,WR,3475,Saturday,,Saturday Saturday,4200,1458652,10.44,10.87,2.48,12.6,,,,,,,,,,,,,,,,
+Jacquon Gibson,WR,3414,Saturday,,Saturday Saturday,3900,1383388,10.65,10.86,2.73,11.7,,,,,,,,,,,,,,,,
+Jimmy Calloway,WR,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4500,1232890,10.16,10.83,2.26,13.5,,,,,,,,,,,,,,,,
+Oran Singleton Jr.,WR,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,5000,1325725,9.77,10.82,1.95,15,,,,,,,,,,,,,,,,
+Savion Hiter,RB,3435,Saturday,,Saturday Saturday,5800,1649810,9.03,10.7,1.56,17.4,,,,,,,,,,,,,,,,
+Sacovie White-Helton,WR,3473,Saturday,,Saturday Saturday,4500,1506123,9.6,10.38,2.13,13.5,,,,,,,,,,,,,,,,
+Ja'Kobi Jackson,RB,3439,Saturday,,Saturday Saturday,6400,1456696,8.13,10.35,1.27,19.2,,,,,,,,,,,,,,,,
+EJ Crowell,RB,3478,Saturday,,Saturday Saturday,5000,1645531,9.15,10.32,1.83,15,,,,,,,,,,,,,,,,
+Hank Brown,QB,3434,Saturday,,Saturday Saturday,5200,1449301,8.84,10.19,1.7,15.6,,,,,,,,,,,,,,,,
+Isiah Canion,WR,3473,Saturday,,Saturday Saturday,4100,1508036,9.66,10.19,2.36,12.3,,,,,,,,,,,,,,,,
+Benjamin Hall,RB,3412,Saturday,,Saturday Saturday,5300,1441804,8.6,10.06,1.62,15.9,,,,,,,,,,,,,,,,
+Josiah Martin,WR,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,3800,1507673,9.67,10.02,2.54,11.4,,,,,,,,,,,,,,,,
+Devin McCuin,WR,3439,Saturday,,Saturday Saturday,5600,1460651,8.27,9.98,1.48,16.8,,,,,,,,,,,,,,,,
+Sanfrisco Magee,WR,3483,Saturday,,Saturday Saturday,5000,1520279,8.67,9.94,1.73,15,,,,,,,,,,,,,,,,
+Cameron Flowers,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,5100,1518349,8.59,9.93,1.68,15.3,,,,,,,,,,,,,,,,
+Josiah Martin,WR,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3500,1507673,9.67,9.84,2.76,10.5,,,,,,,,,,,,,,,,
+AJ Williams III,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4400,1587725,8.91,9.77,2.02,13.2,,,,,,,,,,,,,,,,
+Rodney Tisdale Jr.,QB,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,8000,1518333,6.06,9.65,0.76,24,,,,,,,,,,,,,,,,
+Jeremiah Koger,WR,3480,Saturday,,Saturday Saturday,4300,1584493,8.84,9.65,2.05,12.9,,,,,,,,,,,,,,,,
+Jalen Smith,WR,3437,Saturday,,Saturday Saturday,4000,1515233,9.06,9.65,2.26,12,,,,,,,,,,,,,,,,
+Duane Thomas Jr.,WR,3615,Saturday,,Saturday Saturday,4800,1460446,8.41,9.61,1.75,14.4,,,,,,,,,,,,,,,,
+Javon Ross,WR,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,5400,1534614,7.95,9.6,1.47,16.2,,,,,,,,,,,,,,,,
+Zion Ragins,WR,3483,Saturday,,Saturday Saturday,4800,1520265,8.33,9.55,1.74,14.4,,,,,,,,,,,,,,,,
+Jayden Savoury,WR,3436,Saturday,,Saturday Saturday,3700,1598689,9.16,9.55,2.48,11.1,,,,,,,,,,,,,,,,
+Trequan Jones,RB,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,7400,1591610,6.27,9.46,0.85,22.2,,,,,,,,,,,,,,,,
+Braylon Staley,WR,3476,Saturday,,Saturday Saturday,5100,1506435,7.96,9.42,1.56,15.3,,,,,,,,,,,,,,,,
+Darrion Dupree,RB,3442,Saturday,,Saturday Saturday,5000,1509241,8,9.4,1.6,15,,,,,,,,,,,,,,,,
+Mazeo Bennett Jr.,WR,3475,Saturday,,Saturday Saturday,4000,1507231,8.71,9.37,2.18,12,,,,,,,,,,,,,,,,
+Trae'shawn Brown,RB,3478,Saturday,,Saturday Saturday,5400,1645534,7.62,9.34,1.41,16.2,,,,,,,,,,,,,,,,
+Duke Clark,RB,3472,Saturday,,Saturday Saturday,5200,1581934,7.72,9.3,1.48,15.6,,,,,,,,,,,,,,,,
+Demon June,RB,3412,Saturday,,Saturday Saturday,5100,1583284,7.75,9.26,1.52,15.3,,,,,,,,,,,,,,,,
+Chris Brooks Jr.,WR,3442,Saturday,,Saturday Saturday,3900,1401650,8.46,9.11,2.17,11.7,,,,,,,,,,,,,,,,
+Marquis Johnson,WR,3483,Saturday,,Saturday Saturday,4300,1460631,8.15,9.1,1.9,12.9,,,,,,,,,,,,,,,,
+Jayvontay Conner,WR,3477,Saturday,,Saturday Saturday,3600,1440999,8.66,9.09,2.41,10.8,,,,,,,,,,,,,,,,
+Grayson Tempest,WR,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1449435,9.04,9.03,3.01,9,,,,,,,,,,,,,,,,
+Quincy Porter,WR,3509,Saturday,,Saturday Saturday,3000,1583922,9,9,3,9,,,,,,,,,,,,,,,,
+Kameron Courtney,WR,3414,Saturday,,Saturday Saturday,4900,1509369,7.57,8.99,1.54,14.7,,,,,,,,,,,,,,,,
+DJ Vonnahme,WR,3434,Saturday,,Saturday Saturday,4000,1518533,8.24,8.99,2.06,12,,,,,,,,,,,,,,,,
+Cameron Pettaway,RB,3425,Saturday,,Saturday Saturday,5000,1515100,7.47,8.97,1.49,15,,,,,,,,,,,,,,,,
+Fredrick Moore,RB,3478,Saturday,,Saturday Saturday,4000,1520209,8.18,8.94,2.04,12,,,,,,,,,,,,,,,,
+Dante Dowdell,RB,3473,Saturday,,Saturday Saturday,4200,1444550,7.98,8.9,1.9,12.6,,,,,,,,,,,,,,,,
+Micahi Danzy,WR,3409,Saturday,,Saturday Saturday,3500,1516032,8.5,8.9,2.43,10.5,,,,,,,,,,,,,,,,
+Fredrick Moore,WR,3436,Saturday,,Saturday Saturday,3900,1441806,8.18,8.88,2.1,11.7,,,,,,,,,,,,,,,,
+Brady Hunt,WR,3475,Saturday,,Saturday Saturday,3600,1319214,8.1,8.64,2.25,10.8,,,,,,,,,,,,,,,,
+Daune Morris,RB,3476,Saturday,,Saturday Saturday,5100,1582317,6.91,8.58,1.35,15.3,,,,,,,,,,,,,,,,
+Jaden Bray,WR,3423,Saturday,,Saturday Saturday,3900,1286440,7.74,8.53,1.98,11.7,,,,,,,,,,,,,,,,
+Javon Ross,WR,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3600,1534614,7.95,8.52,2.21,10.8,,,,,,,,,,,,,,,,
+Omari Hayes,WR,3425,Saturday,,Saturday Saturday,4200,1393528,7.47,8.5,1.78,12.6,,,,,,,,,,,,,,,,
+Malachi Coleman,WR,3442,Saturday,,Saturday Saturday,3400,1441980,7.88,8.34,2.32,10.2,,,,,,,,,,,,,,,,
+Makhilyn Young,RB,3477,Saturday,,Saturday Saturday,4500,1395945,7,8.3,1.56,13.5,,,,,,,,,,,,,,,,
+Brodie Malone-Bradford,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4100,1584646,7.26,8.27,1.77,12.3,,,,,,,,,,,,,,,,
+Waden Charles,WR,3615,Saturday,,Saturday Saturday,3800,1582864,7.34,8.15,1.93,11.4,,,,,,,,,,,,,,,,
+Xai'Shaun Edwards,RB,3428,Saturday,,Saturday Saturday,4400,1517510,6.85,8.12,1.56,13.2,,,,,,,,,,,,,,,,
+TJ Washington Jr.,RB,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4700,1442761,6.61,8.11,1.41,14.1,,,,,,,,,,,,,,,,
+Xavier Brown,RB,3414,Saturday,,Saturday Saturday,4500,1378792,6.74,8.09,1.5,13.5,,,,,,,,,,,,,,,,
+Trequan Jones,RB,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,5100,1591610,6.27,8.08,1.23,15.3,,,,,,,,,,,,,,,,
+Le'Kamren Meadows,RB,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4800,1655159,6.48,8.07,1.35,14.4,,,,,,,,,,,,,,,,
+Cole Spence,WR,3477,Saturday,,Saturday Saturday,3500,1400180,7.41,8.03,2.12,10.5,,,,,,,,,,,,,,,,
+Jordan Washington,WR,3412,Saturday,,Saturday Saturday,3000,1506411,7.77,8.01,2.59,9,,,,,,,,,,,,,,,,
+Donovan Murph,WR,3475,Saturday,,Saturday Saturday,3700,1596585,7.15,7.94,1.93,11.1,,,,,,,,,,,,,,,,
+Josh Derry,WR,3615,Saturday,,Saturday Saturday,3700,1465263,7.16,7.94,1.93,11.1,,,,,,,,,,,,,,,,
+TJ Thomas,RB,3437,Saturday,,Saturday Saturday,5500,1516565,5.71,7.87,1.04,16.5,,,,,,,,,,,,,,,,
+Rico Scott,WR,3478,Saturday,,Saturday Saturday,3900,1520186,6.9,7.86,1.77,11.7,,,,,,,,,,,,,,,,
+Grayson Tempest,WR,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1449435,9.04,7.83,9.04,3,,,,,,,,,,,,,,,,
+DeShawn Spencer,WR,3480,Saturday,,Saturday Saturday,3500,1645892,7.08,7.77,2.02,10.5,,,,,,,,,,,,,,,,
+Trent Walker,WR,3485,Saturday,,Saturday Saturday,4700,1325660,6.12,7.72,1.3,14.1,,,,,,,,,,,,,,,,
+Jelani Thurman,WR,3412,Saturday,,Saturday Saturday,4300,1441837,6.43,7.72,1.5,12.9,,,,,,,,,,,,,,,,
+Jayvan Boggs,WR,3409,Saturday,,Saturday Saturday,4500,1583020,6.24,7.69,1.39,13.5,,,,,,,,,,,,,,,,
+Talyn Taylor,WR,3473,Saturday,,Saturday Saturday,4400,1581907,6.31,7.69,1.43,13.2,,,,,,,,,,,,,,,,
+Koby Young,WR,3485,Saturday,,Saturday Saturday,4200,1514691,6.43,7.67,1.53,12.6,,,,,,,,,,,,,,,,
+Trech Kekahuna,WR,3412,Saturday,,Saturday Saturday,3500,1461156,6.95,7.66,1.99,10.5,,,,,,,,,,,,,,,,
+Da'Shawn Martin,WR,3414,Saturday,,Saturday Saturday,4700,1518892,6.01,7.63,1.28,14.1,,,,,,,,,,,,,,,,
+Max Reese,WR,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,4600,1389021,6.03,7.59,1.31,13.8,,,,,,,,,,,,,,,,
+Quintrevion Wisner,RB,3409,Saturday,,Saturday Saturday,4700,1467246,5.9,7.54,1.26,14.1,,,,,,,,,,,,,,,,
+Noah Rogers,WR,3478,Saturday,,Saturday Saturday,3700,1442189,6.66,7.54,1.8,11.1,,,,,,,,,,,,,,,,
+Xavier Williams,RB,3434,Saturday,,Saturday Saturday,4900,1514202,5.73,7.52,1.17,14.7,,,,,,,,,,,,,,,,
+Dylan Wade,WR,3615,Saturday,,Saturday Saturday,3900,1451251,6.45,7.5,1.65,11.7,,,,,,,,,,,,,,,,
+DJ McKinney,RB,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,6200,1457731,4.7,7.48,0.76,18.6,,,,,,,,,,,,,,,,
+Jabree Coleman,RB,3475,Saturday,,Saturday Saturday,5000,1591565,5.59,7.47,1.12,15,,,,,,,,,,,,,,,,
+Landen Chambers,RB,3615,Saturday,,Saturday Saturday,4900,1450259,5.64,7.45,1.15,14.7,,,,,,,,,,,,,,,,
+Eugene Hilton Jr.,WR,3442,Saturday,,Saturday Saturday,4000,1583906,6.3,7.44,1.58,12,,,,,,,,,,,,,,,,
+Jonathan Bibbs,WR,3615,Saturday,,Saturday Saturday,3300,1514595,6.71,7.35,2.03,9.9,,,,,,,,,,,,,,,,
+DJ Miller,WR,3474,Saturday,,Saturday Saturday,3100,1582128,6.87,7.35,2.22,9.3,,,,,,,,,,,,,,,,
+Kaleb Edwards,WR,3478,Saturday,,Saturday Saturday,3700,1595176,6.36,7.31,1.72,11.1,,,,,,,,,,,,,,,,
+Jacob Harris,WR,3442,Saturday,,Saturday Saturday,4100,1451608,5.93,7.2,1.45,12.3,,,,,,,,,,,,,,,,
+Jaylon Domingeaux,WR,3442,Saturday,,Saturday Saturday,3000,1462348,6.55,7.04,2.18,9,,,,,,,,,,,,,,,,
+Javin Gordon,RB,3476,Saturday,,Saturday Saturday,4500,1584056,5.41,7.03,1.2,13.5,,,,,,,,,,,,,,,,
+Ty'Lyric Coleman,WR,3414,Saturday,,Saturday Saturday,3200,1455811,6.38,7.02,1.99,9.6,,,,,,,,,,,,,,,,
+Lawson Luckie,WR,3473,Saturday,,Saturday Saturday,3400,1442632,6.21,7.01,1.83,10.2,,,,,,,,,,,,,,,,
+Prince Strachan,WR,3423,Saturday,,Saturday Saturday,3200,1442267,6.36,7.01,1.99,9.6,,,,,,,,,,,,,,,,
+L.J. Phillips Jr.,RB,3434,Saturday,,Saturday Saturday,4300,1460527,5.51,6.99,1.28,12.9,,,,,,,,,,,,,,,,
+Max Reese,WR,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3600,1389021,6.03,6.99,1.68,10.8,,,,,,,,,,,,,,,,
+Baron Tipton,WR,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,3600,1514262,6.01,6.96,1.67,10.8,,,,,,,,,,,,,,,,
+Baron Tipton,WR,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3500,1514262,6.01,6.9,1.72,10.5,,,,,,,,,,,,,,,,
+Henry Boyer,WR,3474,Saturday,,Saturday Saturday,3600,1400516,5.89,6.87,1.64,10.8,,,,,,,,,,,,,,,,
+Bryson Kuzdzal,RB,3435,Saturday,,Saturday Saturday,4600,1461699,5.13,6.86,1.11,13.8,,,,,,,,,,,,,,,,
+Peyton Lewis,RB,3414,Saturday,,Saturday Saturday,5200,1506436,4.61,6.81,0.89,15.6,,,,,,,,,,,,,,,,
+Marvis Parrish,RB,3436,Saturday,,Saturday Saturday,5200,1589794,4.57,6.78,0.88,15.6,,,,,,,,,,,,,,,,
+Reece Vander Zee,WR,3434,Saturday,,Saturday Saturday,4100,1514199,5.4,6.78,1.32,12.3,,,,,,,,,,,,,,,,
+Amari Latimer,RB,3423,Saturday,,Saturday Saturday,5100,1648365,4.64,6.77,0.91,15.3,,,,,,,,,,,,,,,,
+Omar Mabson II,RB,3480,Saturday,,Saturday Saturday,4800,1595151,4.86,6.77,1.01,14.4,,,,,,,,,,,,,,,,
+CC Ezirim,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4000,1442490,5.46,6.77,1.37,12,,,,,,,,,,,,,,,,
+Dijon Stanley,RB,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4400,1456803,4.95,6.6,1.12,13.2,,,,,,,,,,,,,,,,
+Ric'Darious Farmer,WR,3615,Saturday,,Saturday Saturday,3500,1520396,5.57,6.56,1.59,10.5,,,,,,,,,,,,,,,,
+Rico Flores Jr.,WR,3414,Saturday,,Saturday Saturday,4500,1445214,4.8,6.54,1.07,13.5,,,,,,,,,,,,,,,,
+Radarious Jackson,WR,3476,Saturday,,Saturday Saturday,3700,1582571,5.39,6.53,1.46,11.1,,,,,,,,,,,,,,,,
+Tristen Brown,WR,3477,Saturday,,Saturday Saturday,3400,1521403,5.62,6.53,1.65,10.2,,,,,,,,,,,,,,,,
+Mylan Graham,WR,3509,Saturday,,Saturday Saturday,3200,1519336,5.73,6.5,1.79,9.6,,,,,,,,,,,,,,,,
+Bryson Washington,RB,3480,Saturday,,Saturday Saturday,4600,1443285,4.59,6.43,1,13.8,,,,,,,,,,,,,,,,
+Dominic Overby,WR,3425,Saturday,,Saturday Saturday,3900,1515947,5.11,6.43,1.31,11.7,,,,,,,,,,,,,,,,
+Solomon Beebe,RB,3414,Saturday,,Saturday Saturday,4000,1515377,5.01,6.41,1.25,12,,,,,,,,,,,,,,,,
+Brett Norfleet,WR,3428,Saturday,,Saturday Saturday,4100,1460637,4.9,6.38,1.2,12.3,,,,,,,,,,,,,,,,
+Nitro Tuggle,WR,3475,Saturday,,Saturday Saturday,3400,1506095,5.39,6.36,1.59,10.2,,,,,,,,,,,,,,,,
+Ty Claiborne,WR,3425,Saturday,,Saturday Saturday,3100,1390954,5.62,6.36,1.81,9.3,,,,,,,,,,,,,,,,
+Bryson Williams,WR,3436,Saturday,,Saturday Saturday,3000,1598685,5.7,6.36,1.9,9,,,,,,,,,,,,,,,,
+DJ McKinney,RB,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4300,1457731,4.7,6.34,1.09,12.9,,,,,,,,,,,,,,,,
+Landen Thomas,WR,3409,Saturday,,Saturday Saturday,3300,1507890,5.41,6.31,1.64,9.9,,,,,,,,,,,,,,,,
+Brandon Inniss,WR,3439,Saturday,,Saturday Saturday,4100,1449306,4.76,6.27,1.16,12.3,,,,,,,,,,,,,,,,
+Jonaz Walton,RB,3509,Saturday,,Saturday Saturday,4400,1651441,4.51,6.25,1.03,13.2,,,,,,,,,,,,,,,,
+Bailey Stockton,WR,3472,Saturday,,Saturday Saturday,3600,1460686,5.05,6.2,1.4,10.8,,,,,,,,,,,,,,,,
+DJ Butler,RB,3485,Saturday,,Saturday Saturday,4300,1515942,4.48,6.16,1.04,12.9,,,,,,,,,,,,,,,,
+Evan Pryor,RB,3472,Saturday,,Saturday Saturday,4100,1287829,4.6,6.14,1.12,12.3,,,,,,,,,,,,,,,,
+Jawarn Howell,RB,3475,Saturday,,Saturday Saturday,4500,1467495,4.28,6.13,0.95,13.5,,,,,,,,,,,,,,,,
+Isaiah West,RB,3439,Saturday,,Saturday Saturday,4800,1583970,4.02,6.1,0.84,14.4,,,,,,,,,,,,,,,,
+Josiah Thomas,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3700,1595600,4.85,6.1,1.31,11.1,,,,,,,,,,,,,,,,
+Kolin Wilson,RB,3483,Saturday,,Saturday Saturday,4600,1582003,3.97,5.93,0.86,13.8,,,,,,,,,,,,,,,,
+Keisean Henderson,QB,3485,Saturday,,Saturday Saturday,7900,1647243,1.48,5.92,0.19,23.7,,,,,,,,,,,,,,,,
+Bryan Jackson II,RB,3442,Saturday,,Saturday Saturday,4500,1509146,4.02,5.92,0.89,13.5,,,,,,,,,,,,,,,,
+Vince Benetti,WR,3425,Saturday,,Saturday Saturday,3300,1451455,4.84,5.85,1.47,9.9,,,,,,,,,,,,,,,,
+Walter Taylor,WR,3477,Saturday,,Saturday Saturday,3000,1400097,5.02,5.82,1.67,9,,,,,,,,,,,,,,,,
+London Humphreys,WR,3473,Saturday,,Saturday Saturday,3400,1452982,4.71,5.81,1.39,10.2,,,,,,,,,,,,,,,,
+A.J. Turner,RB,3437,Saturday,,Saturday Saturday,4100,1380120,4.18,5.8,1.02,12.3,,,,,,,,,,,,,,,,
+Micah Mays Jr.,WR,3472,Saturday,,Saturday Saturday,3300,1451638,4.76,5.79,1.44,9.9,,,,,,,,,,,,,,,,
+Cooper Flanagan,WR,3509,Saturday,,Saturday Saturday,3500,1451517,4.59,5.77,1.31,10.5,,,,,,,,,,,,,,,,
+Xay Davis,RB,3414,Saturday,,Saturday Saturday,4400,1583217,3.89,5.75,0.88,13.2,,,,,,,,,,,,,,,,
+Jake Johnson,WR,3480,Saturday,,Saturday Saturday,3400,1380562,4.59,5.72,1.35,10.2,,,,,,,,,,,,,,,,
+Zion Taylor,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4700,1441518,3.59,5.69,0.76,14.1,,,,,,,,,,,,,,,,
+Nathan McNeil,RB,3434,Saturday,,Saturday Saturday,5100,1583663,3.26,5.67,0.64,15.3,,,,,,,,,,,,,,,,
+Donnell Gee Jr.,WR,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3200,1594403,4.68,5.66,1.46,9.6,,,,,,,,,,,,,,,,
+Tavien St. Clair,QB,3439,Saturday,,Saturday Saturday,8400,1583919,0.7,5.6,0.08,25.2,,,,,,,,,,,,,,,,
+Ethan Davis,WR,3476,Saturday,,Saturday Saturday,3000,1443013,4.75,5.6,1.58,9,,,,,,,,,,,,,,,,
+Jaden Greathouse,WR,3509,Saturday,,Saturday Saturday,3600,1445215,4.28,5.59,1.19,10.8,,,,,,,,,,,,,,,,
+Josh Smith,WR,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3100,1509336,4.65,5.58,1.5,9.3,,,,,,,,,,,,,,,,
+Chaston Ditta,QB,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,8800,1583998,0.3,5.52,0.03,26.4,,,,,,,,,,,,,,,,
+Quincy Burroughs,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3800,1394762,4.03,5.51,1.06,11.4,,,,,,,,,,,,,,,,
+KK Smith,WR,3436,Saturday,,Saturday Saturday,3100,1451499,4.54,5.49,1.46,9.3,,,,,,,,,,,,,,,,
+Jaziun Patterson,RB,3436,Saturday,,Saturday Saturday,5600,1381921,2.64,5.47,0.47,16.8,,,,,,,,,,,,,,,,
+Scotty Fox Jr.,QB,3423,Saturday,,Saturday Saturday,8000,1582891,0.83,5.46,0.1,24,,,,,,,,,,,,,,,,
+Austin Mack,QB,3478,Saturday,,Saturday Saturday,8300,1441166,0.57,5.44,0.07,24.9,,,,,,,,,,,,,,,,
+Jamezell Lassiter,RB,3477,Saturday,,Saturday Saturday,4200,1521561,3.6,5.4,0.86,12.6,,,,,,,,,,,,,,,,
+Mason Williams,WR,3439,Saturday,,Saturday Saturday,3200,1451402,4.35,5.4,1.36,9.6,,,,,,,,,,,,,,,,
+Ryan Puglisi,QB,3473,Saturday,,Saturday Saturday,8200,1506109,0.57,5.37,0.07,24.6,,,,,,,,,,,,,,,,
+Nic Anderson,WR,3474,Saturday,,Saturday Saturday,3400,1381305,4.16,5.36,1.22,10.2,,,,,,,,,,,,,,,,
+Kedren Young,RB,3509,Saturday,,Saturday Saturday,4000,1512894,3.65,5.32,0.91,12,,,,,,,,,,,,,,,,
+Sam West,WR,3483,Saturday,,Saturday Saturday,3700,1441692,3.86,5.31,1.04,11.1,,,,,,,,,,,,,,,,
+Jaylen McGill,RB,3412,Saturday,,Saturday Saturday,4200,1591775,3.47,5.3,0.83,12.6,,,,,,,,,,,,,,,,
+Donnell Gee Jr.,WR,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,2600,1594403,4.68,5.3,1.8,7.8,,,,,,,,,,,,,,,,
+Shaun Terry II,WR,3428,Saturday,,Saturday Saturday,3600,1582279,3.91,5.29,1.09,10.8,,,,,,,,,,,,,,,,
+Evan James,WR,3434,Saturday,,Saturday Saturday,3600,1595557,3.9,5.28,1.08,10.8,,,,,,,,,,,,,,,,
+Dakota Twitty,WR,3414,Saturday,,Saturday Saturday,3600,1378811,3.87,5.25,1.07,10.8,,,,,,,,,,,,,,,,
+Addison Ostrenga,WR,3434,Saturday,,Saturday Saturday,3700,1381920,3.78,5.24,1.02,11.1,,,,,,,,,,,,,,,,
+Jovantae Barnes,RB,3474,Saturday,,Saturday Saturday,5000,1381303,2.78,5.22,0.56,15,,,,,,,,,,,,,,,,
+Brock Boyd,WR,3439,Saturday,,Saturday Saturday,3700,1649754,3.72,5.2,1.01,11.1,,,,,,,,,,,,,,,,
+TK Keys,WR,3476,Saturday,,Saturday Saturday,3400,1645987,3.95,5.2,1.16,10.2,,,,,,,,,,,,,,,,
+Christian Clark,RB,3475,Saturday,,Saturday Saturday,4600,1506379,3.04,5.19,0.66,13.8,,,,,,,,,,,,,,,,
+Luke Harpring,WR,3472,Saturday,,Saturday Saturday,3300,1516060,3.99,5.17,1.21,9.9,,,,,,,,,,,,,,,,
+Mikkel Skinner,WR,3474,Saturday,,Saturday Saturday,3200,1591582,4.06,5.17,1.27,9.6,,,,,,,,,,,,,,,,
+Naeshaun Montgomery,WR,3428,Saturday,,Saturday Saturday,3800,1581918,3.59,5.15,0.95,11.4,,,,,,,,,,,,,,,,
+DJ Black,WR,3475,Saturday,,Saturday Saturday,3800,1396922,3.58,5.15,0.94,11.4,,,,,,,,,,,,,,,,
+Tristan Ti'a,QB,3480,Saturday,,Saturday Saturday,7500,1601221,0.79,5.13,0.11,22.5,,,,,,,,,,,,,,,,
+Elyiss Williams,WR,3473,Saturday,,Saturday Saturday,3200,1581911,3.96,5.09,1.24,9.6,,,,,,,,,,,,,,,,
+Brandon Tullis,RB,3436,Saturday,,Saturday Saturday,4600,1508502,2.78,4.99,0.61,13.8,,,,,,,,,,,,,,,,
+Charles Taplin,WR,3436,Saturday,,Saturday Saturday,3200,1583719,3.83,4.99,1.2,9.6,,,,,,,,,,,,,,,,
+Isaiah Augustave,RB,3475,Saturday,,Saturday Saturday,4200,1451007,3.06,4.97,0.73,12.6,,,,,,,,,,,,,,,,
+Legend Bey,RB,3439,Saturday,,Saturday Saturday,4200,1649749,3.06,4.97,0.73,12.6,,,,,,,,,,,,,,,,
+Nate Roberts,WR,3439,Saturday,,Saturday Saturday,3800,1583992,3.33,4.94,0.88,11.4,,,,,,,,,,,,,,,,
+Tyson Davis,WR,3414,Saturday,,Saturday Saturday,3000,1326685,3.91,4.93,1.3,9,,,,,,,,,,,,,,,,
+Neil Salvage III,RB,3475,Saturday,,Saturday Saturday,4000,1518217,3.06,4.85,0.77,12,,,,,,,,,,,,,,,,
+Jaden McGill,RB,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4000,1513170,3.06,4.85,0.77,12,,,,,,,,,,,,,,,,
+David Wells Jr.,WR,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3400,1462871,3.49,4.83,1.03,10.2,,,,,,,,,,,,,,,,
+Jaden Reddell,WR,3473,Saturday,,Saturday Saturday,3300,1506129,3.56,4.83,1.08,9.9,,,,,,,,,,,,,,,,
+Amir Jackson,WR,3472,Saturday,,Saturday Saturday,3500,1523806,3.38,4.8,0.97,10.5,,,,,,,,,,,,,,,,
+Desirrio Riles,WR,3409,Saturday,,Saturday Saturday,3200,1458600,3.57,4.78,1.12,9.6,,,,,,,,,,,,,,,,
+TJ Pride,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3200,1516983,3.57,4.78,1.12,9.6,,,,,,,,,,,,,,,,
+Nick Osho,RB,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4200,1515707,2.82,4.77,0.67,12.6,,,,,,,,,,,,,,,,
+Nick Osho,RB,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,4200,1515707,2.82,4.77,0.67,12.6,,,,,,,,,,,,,,,,
+Tramell Jones Jr.,QB,3472,Saturday,,Saturday Saturday,7200,1581933,0.55,4.76,0.08,21.6,,,,,,,,,,,,,,,,
+Eli Holstein,QB,3414,Saturday,,Saturday Saturday,7100,1440897,0.59,4.73,0.08,21.3,,,,,,,,,,,,,,,,
+Dwight Phillips Jr.,RB,3473,Saturday,,Saturday Saturday,4700,1518455,2.38,4.73,0.51,14.1,,,,,,,,,,,,,,,,
+Shamar Easter,WR,3412,Saturday,,Saturday Saturday,3000,1451018,3.66,4.73,1.22,9,,,,,,,,,,,,,,,,
+David Wells Jr.,WR,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,3200,1462871,3.49,4.71,1.09,9.6,,,,,,,,,,,,,,,,
+Ja'Cory Thomas,WR,3477,Saturday,,Saturday Saturday,3500,1587810,3.23,4.68,0.92,10.5,,,,,,,,,,,,,,,,
+Josh Smith,WR,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1600,1509336,4.65,4.68,2.91,4.8,,,,,,,,,,,,,,,,
+Noah Vaughn,RB,3414,Saturday,,Saturday Saturday,4100,1455802,2.76,4.67,0.67,12.3,,,,,,,,,,,,,,,,
+Shane Carr,WR,3474,Saturday,,Saturday Saturday,3500,1531438,3.16,4.63,0.9,10.5,,,,,,,,,,,,,,,,
+Noah Grubbs,QB,3509,Saturday,,Saturday Saturday,7700,1651432,0,4.62,0,23.1,,,,,,,,,,,,,,,,
+Deuce Adams,QB,3442,Saturday,,Saturday Saturday,7000,1513421,0.53,4.62,0.08,21,,,,,,,,,,,,,,,,
+George MacIntyre,QB,3476,Saturday,,Saturday Saturday,6900,1582281,0.6,4.62,0.09,20.7,,,,,,,,,,,,,,,,
+Jarriett Buie,WR,3434,Saturday,,Saturday Saturday,3700,1452882,3,4.62,0.81,11.1,,,,,,,,,,,,,,,,
+Evan Boyd,WR,3425,Saturday,,Saturday Saturday,3000,1448312,3.52,4.61,1.17,9,,,,,,,,,,,,,,,,
+Kyle Koch,WR,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3100,1514236,3.43,4.6,1.11,9.3,,,,,,,,,,,,,,,,
+Parker Puckett,QB,3483,Saturday,,Saturday Saturday,7600,1590305,0,4.56,0,22.8,,,,,,,,,,,,,,,,
+John Neider,WR,3423,Saturday,,Saturday Saturday,4000,1451939,2.68,4.55,0.67,12,,,,,,,,,,,,,,,,
+Tyler Fortenberry,WR,3425,Saturday,,Saturday Saturday,3100,1510109,3.35,4.54,1.08,9.3,,,,,,,,,,,,,,,,
+Trent Thomas,WR,3476,Saturday,,Saturday Saturday,3200,1448740,3.22,4.5,1.01,9.6,,,,,,,,,,,,,,,,
+Ty Washington,WR,3509,Saturday,,Saturday Saturday,3000,1381338,3.38,4.5,1.13,9,,,,,,,,,,,,,,,,
+Ryan Ward,WR,3423,Saturday,,Saturday Saturday,3400,1508203,3.07,4.49,0.9,10.2,,,,,,,,,,,,,,,,
+Moussa Barry,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3400,1410999,3.05,4.48,0.9,10.2,,,,,,,,,,,,,,,,
+Marshall Pritchett,WR,3478,Saturday,,Saturday Saturday,3300,1582200,3.12,4.48,0.95,9.9,,,,,,,,,,,,,,,,
+Cutter Woods,QB,3475,Saturday,,Saturday Saturday,6700,1582291,0.51,4.43,0.08,20.1,,,,,,,,,,,,,,,,
+Kalib Hicks,RB,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4500,1443302,2.14,4.41,0.48,13.5,,,,,,,,,,,,,,,,
+Xavier Gayten,RB,3483,Saturday,,Saturday Saturday,4000,1520289,2.52,4.41,0.63,12,,,,,,,,,,,,,,,,
+Pierce Walsh,WR,3437,Saturday,,Saturday Saturday,3200,1452184,3.11,4.41,0.97,9.6,,,,,,,,,,,,,,,,
+Tommy Carr,QB,3435,Saturday,,Saturday Saturday,6500,1649813,0.61,4.39,0.09,19.5,,,,,,,,,,,,,,,,
+Maurice Brown II,WR,3475,Saturday,,Saturday Saturday,3300,1441530,3,4.38,0.91,9.9,,,,,,,,,,,,,,,,
+Carnell Warren,WR,3412,Saturday,,Saturday Saturday,3000,1649424,3.23,4.38,1.08,9,,,,,,,,,,,,,,,,
+Matt Fuller,RB,3475,Saturday,,Saturday Saturday,7200,1518215,0,4.32,0,21.6,,,,,,,,,,,,,,,,
+Brycen Coleman,WR,3477,Saturday,,Saturday Saturday,3200,1521582,2.99,4.31,0.93,9.6,,,,,,,,,,,,,,,,
+Adam Damante,QB,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,6400,1453347,0.56,4.29,0.09,19.2,,,,,,,,,,,,,,,,
+Grant Washington,RB,3437,Saturday,,Saturday Saturday,4000,1591442,2.36,4.29,0.59,12,,,,,,,,,,,,,,,,
+Caleb Goodie Sr.,WR,3428,Saturday,,Saturday Saturday,3200,1456117,2.96,4.29,0.93,9.6,,,,,,,,,,,,,,,,
+Lyndon Ravare,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3100,1519675,3.03,4.29,0.98,9.3,,,,,,,,,,,,,,,,
+Jalen Hoffman,WR,3435,Saturday,,Saturday Saturday,3300,1461700,2.86,4.27,0.87,9.9,,,,,,,,,,,,,,,,
+Chaston Ditta,QB,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,6700,1583998,0.3,4.26,0.04,20.1,,,,,,,,,,,,,,,,
+Seth Davis,RB,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,5800,1441019,0.98,4.26,0.17,17.4,,,,,,,,,,,,,,,,
+Kyle Parker,WR,3439,Saturday,,Saturday Saturday,4400,1441027,2.02,4.26,0.46,13.2,,,,,,,,,,,,,,,,
+Mike Tyler,WR,3475,Saturday,,Saturday Saturday,3100,1596589,3,4.26,0.97,9.3,,,,,,,,,,,,,,,,
+Malik Clark,WR,3475,Saturday,,Saturday Saturday,3100,1582290,3,4.26,0.97,9.3,,,,,,,,,,,,,,,,
+Josh Sapp,WR,3423,Saturday,,Saturday Saturday,3100,1378294,3,4.26,0.97,9.3,,,,,,,,,,,,,,,,
+Myles Libman,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3900,1462707,2.39,4.25,0.61,11.7,,,,,,,,,,,,,,,,
+Devin Carter,WR,3409,Saturday,,Saturday Saturday,3000,1648335,3.06,4.25,1.02,9,,,,,,,,,,,,,,,,
+Jyziah Rockwell,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1404563,3.07,4.25,1.02,9,,,,,,,,,,,,,,,,
+Salesi Moa,WR,3435,Saturday,,Saturday Saturday,3200,1649812,2.88,4.23,0.9,9.6,,,,,,,,,,,,,,,,
+TJ Abrams,WR,3472,Saturday,,Saturday Saturday,3100,1506096,2.94,4.21,0.95,9.3,,,,,,,,,,,,,,,,
+CJ Wiley,WR,3473,Saturday,,Saturday Saturday,3000,1581915,3,4.2,1,9,,,,,,,,,,,,,,,,
+Kahleil Jackson,WR,3472,Saturday,,Saturday Saturday,3000,1243093,3,4.2,1,9,,,,,,,,,,,,,,,,
+Jaylen Lloyd,WR,3472,Saturday,,Saturday Saturday,3000,1442018,3,4.2,1,9,,,,,,,,,,,,,,,,
+Max Drag,WR,3475,Saturday,,Saturday Saturday,3000,1445237,3,4.2,1,9,,,,,,,,,,,,,,,,
+Charly Mullaly,WR,3475,Saturday,,Saturday Saturday,3000,1466181,3,4.2,1,9,,,,,,,,,,,,,,,,
+Jonathan Echols,WR,3480,Saturday,,Saturday Saturday,3000,1509315,3,4.2,1,9,,,,,,,,,,,,,,,,
+Muizz Tounkara,WR,3485,Saturday,,Saturday Saturday,3000,1598907,3,4.2,1,9,,,,,,,,,,,,,,,,
+Cyrus Traugh,WR,3423,Saturday,,Saturday Saturday,3000,1454414,3,4.2,1,9,,,,,,,,,,,,,,,,
+Thomas Meyer,WR,3434,Saturday,,Saturday Saturday,3000,1590254,3,4.2,1,9,,,,,,,,,,,,,,,,
+Travis Johnson,WR,3435,Saturday,,Saturday Saturday,3000,1649723,3,4.2,1,9,,,,,,,,,,,,,,,,
+Carson Gulker,WR,3436,Saturday,,Saturday Saturday,3000,1477176,3,4.2,1,9,,,,,,,,,,,,,,,,
+James Tyre,WR,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1462783,3,4.2,1,9,,,,,,,,,,,,,,,,
+Hunter Barnes,RB,3476,Saturday,,Saturday Saturday,4300,1399916,1.98,4.16,0.46,12.9,,,,,,,,,,,,,,,,
+Bo Walker,RB,3473,Saturday,,Saturday Saturday,4100,1581894,2.1,4.14,0.51,12.3,,,,,,,,,,,,,,,,
+Josh Ford,WR,3478,Saturday,,Saturday Saturday,3100,1507219,2.81,4.11,0.91,9.3,,,,,,,,,,,,,,,,
+Mason Humphrey,WR,3412,Saturday,,Saturday Saturday,3200,1464061,2.73,4.1,0.85,9.6,,,,,,,,,,,,,,,,
+Arlis Boardingham,WR,3480,Saturday,,Saturday Saturday,3200,1394773,2.7,4.08,0.84,9.6,,,,,,,,,,,,,,,,
+Matt Zollers,QB,3428,Saturday,,Saturday Saturday,6200,1582280,0.41,4.04,0.07,18.6,,,,,,,,,,,,,,,,
+Cole Adams,WR,3477,Saturday,,Saturday Saturday,3100,1440887,2.73,4.04,0.88,9.3,,,,,,,,,,,,,,,,
+James Flanigan,WR,3509,Saturday,,Saturday Saturday,3200,1591909,2.57,3.98,0.8,9.6,,,,,,,,,,,,,,,,
+Zack Marshall,WR,3435,Saturday,,Saturday Saturday,3100,1441807,2.64,3.97,0.85,9.3,,,,,,,,,,,,,,,,
+Ryan Schwendeman,WR,3442,Saturday,,Saturday Saturday,3000,1406968,2.7,3.96,0.9,9,,,,,,,,,,,,,,,,
+Cody Jackson,WR,3425,Saturday,,Saturday Saturday,3500,1286443,2.3,3.94,0.66,10.5,,,,,,,,,,,,,,,,
+Ayden Williams,WR,3483,Saturday,,Saturday Saturday,3200,1451982,2.53,3.94,0.79,9.6,,,,,,,,,,,,,,,,
+Kyle Koch,WR,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,2000,1514236,3.43,3.94,1.72,6,,,,,,,,,,,,,,,,
+Brennan Parachek,WR,3436,Saturday,,Saturday Saturday,3300,1441838,2.43,3.93,0.74,9.9,,,,,,,,,,,,,,,,
+Lofton Howard,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3700,1450509,2.13,3.92,0.58,11.1,,,,,,,,,,,,,,,,
+Perry Thompson,WR,3437,Saturday,,Saturday Saturday,3000,1515888,2.59,3.87,0.86,9,,,,,,,,,,,,,,,,
+Braeden Jackson,RB,3434,Saturday,,Saturday Saturday,4600,1595456,1.38,3.86,0.3,13.8,,,,,,,,,,,,,,,,
+Mike Matthews,WR,3476,Saturday,,Saturday Saturday,6400,1506449,0,3.84,0,19.2,,,,,,,,,,,,,,,,
+Chris Jimerson Jr.,QB,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,6000,1585810,0.3,3.84,0.05,18,,,,,,,,,,,,,,,,
+Hogan Hansen,WR,3435,Saturday,,Saturday Saturday,3200,1508496,2.39,3.83,0.75,9.6,,,,,,,,,,,,,,,,
+Grant Stec,WR,3442,Saturday,,Saturday Saturday,3200,1509234,2.38,3.83,0.75,9.6,,,,,,,,,,,,,,,,
+AK Dear,RB,3478,Saturday,,Saturday Saturday,4100,1582207,1.68,3.8,0.41,12.3,,,,,,,,,,,,,,,,
+Keyone Jenkins,QB,3615,Saturday,,Saturday Saturday,5700,1442275,0.46,3.79,0.08,17.1,,,,,,,,,,,,,,,,
+Callum Wither,QB,3474,Saturday,,Saturday Saturday,5600,1380451,0.54,3.79,0.1,16.8,,,,,,,,,,,,,,,,
+Jae Lamar,RB,3473,Saturday,,Saturday Saturday,4000,1646533,1.74,3.79,0.44,12,,,,,,,,,,,,,,,,
+John Rogers,WR,3414,Saturday,,Saturday Saturday,3400,1509373,2.15,3.76,0.63,10.2,,,,,,,,,,,,,,,,
+Luke McGary,WR,3485,Saturday,,Saturday Saturday,3100,1449456,2.33,3.72,0.75,9.3,,,,,,,,,,,,,,,,
+Cederian Morgan,WR,3478,Saturday,,Saturday Saturday,3200,1645527,2.19,3.68,0.69,9.6,,,,,,,,,,,,,,,,
+Connor Moberly,QB,3425,Saturday,,Saturday Saturday,6100,1506992,0,3.66,0,18.3,,,,,,,,,,,,,,,,
+Malachi Marshall,QB,3409,Saturday,,Saturday Saturday,6100,1516660,0,3.66,0,18.3,,,,,,,,,,,,,,,,
+Andrew Alford,QB,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,6000,1594401,0,3.6,0,18,,,,,,,,,,,,,,,,
+Barrett Mullen,QB,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,6000,1653934,0,3.6,0,18,,,,,,,,,,,,,,,,
+Kincayde Eng,QB,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,6000,1653933,0,3.6,0,18,,,,,,,,,,,,,,,,
+Kyden Barker,QB,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,6000,1651869,0,3.6,0,18,,,,,,,,,,,,,,,,
+Ziondre Williams,QB,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,6000,1653966,0,3.6,0,18,,,,,,,,,,,,,,,,
+Connor Dantzler,QB,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,6000,1653932,0,3.6,0,18,,,,,,,,,,,,,,,,
+Arnold Barnes III,RB,3425,Saturday,,Saturday Saturday,4300,1442250,1.26,3.59,0.29,12.9,,,,,,,,,,,,,,,,
+Derek Meadows,WR,3478,Saturday,,Saturday Saturday,3100,1582198,2.15,3.58,0.69,9.3,,,,,,,,,,,,,,,,
+Riley Williams,WR,3483,Saturday,,Saturday Saturday,3100,1442258,2.14,3.58,0.69,9.3,,,,,,,,,,,,,,,,
+Jordon Harris,WR,3428,Saturday,,Saturday Saturday,3000,1460629,2.21,3.57,0.74,9,,,,,,,,,,,,,,,,
+Kaden Helms,WR,3437,Saturday,,Saturday Saturday,3000,1381310,2.22,3.57,0.74,9,,,,,,,,,,,,,,,,
+J.J. Hill,RB,3483,Saturday,,Saturday Saturday,4500,1645894,1.08,3.56,0.24,13.5,,,,,,,,,,,,,,,,
+Martavious Boswell,RB,3423,Saturday,,Saturday Saturday,4300,1651361,1.21,3.55,0.28,12.9,,,,,,,,,,,,,,,,
+Malae Fonoti,RB,3428,Saturday,,Saturday Saturday,4000,1516322,1.44,3.55,0.36,12,,,,,,,,,,,,,,,,
+Kevin Riley,RB,3478,Saturday,,Saturday Saturday,4400,1520204,1.12,3.53,0.25,13.2,,,,,,,,,,,,,,,,
+Jerry Lydiatt,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3200,1458949,2,3.52,0.63,9.6,,,,,,,,,,,,,,,,
+Nick Peal,RB,3473,Saturday,,Saturday Saturday,4000,1663104,1.38,3.5,0.34,12,,,,,,,,,,,,,,,,
+Brady Palmer,QB,3437,Saturday,,Saturday Saturday,5800,1649667,0,3.48,0,17.4,,,,,,,,,,,,,,,,
+Agyeman Addae,RB,3615,Saturday,,Saturday Saturday,4200,1582867,1.14,3.43,0.27,12.6,,,,,,,,,,,,,,,,
+Dayton Howard,WR,3434,Saturday,,Saturday Saturday,3200,1452863,1.89,3.43,0.59,9.6,,,,,,,,,,,,,,,,
+DaSaahn Brame,WR,3476,Saturday,,Saturday Saturday,3600,1582491,1.58,3.42,0.44,10.8,,,,,,,,,,,,,,,,
+Qua'Vez Humphreys,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3200,1444836,1.87,3.42,0.59,9.6,,,,,,,,,,,,,,,,
+Miles O'Neill,QB,3412,Saturday,,Saturday Saturday,5000,1524061,0.51,3.41,0.1,15,,,,,,,,,,,,,,,,
+Nykahi Davenport,RB,3480,Saturday,,Saturday Saturday,4200,1523366,1.07,3.38,0.25,12.6,,,,,,,,,,,,,,,,
+DaMarion Fowlkes,WR,3428,Saturday,,Saturday Saturday,3300,1582555,1.73,3.36,0.52,9.9,,,,,,,,,,,,,,,,
+Blaze Berlowitz,QB,3477,Saturday,,Saturday Saturday,4800,1442545,0.54,3.31,0.11,14.4,,,,,,,,,,,,,,,,
+Cam Fancher,QB,3436,Saturday,,Saturday Saturday,4800,1325737,0.54,3.31,0.11,14.4,,,,,,,,,,,,,,,,
+Niko Castillo,RB,3437,Saturday,,Saturday Saturday,4000,1656625,1.14,3.31,0.29,12,,,,,,,,,,,,,,,,
+Seth Davis,RB,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4200,1441019,0.98,3.3,0.23,12.6,,,,,,,,,,,,,,,,
+Luke Carney,QB,3485,Saturday,,Saturday Saturday,4500,1583231,0.72,3.28,0.16,13.5,,,,,,,,,,,,,,,,
+Blake Hebert,QB,3509,Saturday,,Saturday Saturday,4500,1585575,0.71,3.26,0.16,13.5,,,,,,,,,,,,,,,,
+Jeremy Hecklinski,QB,3434,Saturday,,Saturday Saturday,4800,1509593,0.46,3.25,0.1,14.4,,,,,,,,,,,,,,,,
+Brian Williams Jr.,WR,3480,Saturday,,Saturday Saturday,3300,1645907,1.57,3.24,0.48,9.9,,,,,,,,,,,,,,,,
+Lacota Dippre,WR,3472,Saturday,,Saturday Saturday,3000,1451248,1.79,3.23,0.6,9,,,,,,,,,,,,,,,,
+Carter Pabst,WR,3425,Saturday,,Saturday Saturday,3300,1597694,1.55,3.22,0.47,9.9,,,,,,,,,,,,,,,,
+JacQai Long,QB,3474,Saturday,,Saturday Saturday,4500,1511742,0.59,3.17,0.13,13.5,,,,,,,,,,,,,,,,
+Kaiden Prothro,WR,3473,Saturday,,Saturday Saturday,3000,1646635,1.71,3.16,0.57,9,,,,,,,,,,,,,,,,
+Kevin Sperry,QB,3409,Saturday,,Saturday Saturday,4500,1583010,0.54,3.13,0.12,13.5,,,,,,,,,,,,,,,,
+London Montgomery,RB,3472,Saturday,,Saturday Saturday,4000,1448363,0.9,3.12,0.23,12,,,,,,,,,,,,,,,,
+Martels Carter Jr.,RB,3474,Saturday,,Saturday Saturday,4000,1582126,0.9,3.12,0.23,12,,,,,,,,,,,,,,,,
+Jasen Lopez,WR,3409,Saturday,,Saturday Saturday,3200,1648333,1.49,3.11,0.46,9.6,,,,,,,,,,,,,,,,
+Zane Smith,RB,3485,Saturday,,Saturday Saturday,4200,1588349,0.72,3.1,0.17,12.6,,,,,,,,,,,,,,,,
+AJ Swann,QB,3483,Saturday,,Saturday Saturday,4500,1380614,0.47,3.08,0.11,13.5,,,,,,,,,,,,,,,,
+Zane Flores,QB,3425,Saturday,,Saturday Saturday,4500,1441249,0.48,3.08,0.11,13.5,,,,,,,,,,,,,,,,
+Brayden Fowler-Nicolosi,QB,3435,Saturday,,Saturday Saturday,4500,1379636,0.47,3.08,0.11,13.5,,,,,,,,,,,,,,,,
+Jackson Shockley,WR,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3300,1587031,1.37,3.08,0.41,9.9,,,,,,,,,,,,,,,,
+Max Shikenjanski,QB,3437,Saturday,,Saturday Saturday,4500,1452183,0.44,3.05,0.1,13.5,,,,,,,,,,,,,,,,
+Kaleb Jackson,RB,3412,Saturday,,Saturday Saturday,4000,1441053,0.81,3.05,0.2,12,,,,,,,,,,,,,,,,
+Easton Miller,RB,3425,Saturday,,Saturday Saturday,4000,1469661,0.77,3.02,0.19,12,,,,,,,,,,,,,,,,
+Chase Loftin,WR,3409,Saturday,,Saturday Saturday,3100,1583023,1.45,3.02,0.47,9.3,,,,,,,,,,,,,,,,
+Owen Carey,K,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,5000,1651871,0,3,0,15,,,,,,,,,,,,,,,,
+Evan Guenthner,K,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,5000,1511699,0,3,0,15,,,,,,,,,,,,,,,,
+Marlon Hauck,K,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,5000,1392084,0,3,0,15,,,,,,,,,,,,,,,,
+James Tyre,WR,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1462783,3,3,3,3,,,,,,,,,,,,,,,,
+Tae Meadows,RB,3480,Saturday,,Saturday Saturday,4100,1390499,0.66,2.99,0.16,12.3,,,,,,,,,,,,,,,,
+Channing Goodwin,WR,3435,Saturday,,Saturday Saturday,3100,1524359,1.39,2.97,0.45,9.3,,,,,,,,,,,,,,,,
+Chris Jimerson Jr.,QB,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4500,1585810,0.3,2.94,0.07,13.5,,,,,,,,,,,,,,,,
+C.J. Sadler,WR,3412,Saturday,,Saturday Saturday,3700,1649433,0.84,2.89,0.23,11.1,,,,,,,,,,,,,,,,
+Dominic De Freitas,K,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,4800,1597384,0,2.88,0,14.4,,,,,,,,,,,,,,,,
+Michael Taylor II,K,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,4800,1655460,0,2.88,0,14.4,,,,,,,,,,,,,,,,
+Xavier Ford,RB,3437,Saturday,,Saturday Saturday,4200,1591445,0.42,2.86,0.1,12.6,,,,,,,,,,,,,,,,
+Shamar Rigby,WR,3442,Saturday,,Saturday Saturday,3100,1518228,1.24,2.85,0.4,9.3,,,,,,,,,,,,,,,,
+TJ Chukwurah,WR,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3300,1472255,1.08,2.84,0.33,9.9,,,,,,,,,,,,,,,,
+KJ Parker,WR,3434,Saturday,,Saturday Saturday,3000,1514196,1.23,2.78,0.41,9,,,,,,,,,,,,,,,,
+Jackson Shockley,WR,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,2800,1587031,1.37,2.78,0.49,8.4,,,,,,,,,,,,,,,,
+Landon Roldan,WR,3473,Saturday,,Saturday Saturday,3100,1581883,1.14,2.77,0.37,9.3,,,,,,,,,,,,,,,,
+Kaleb Thomas,WR,3485,Saturday,,Saturday Saturday,3000,1507029,1.2,2.76,0.4,9,,,,,,,,,,,,,,,,
+Caden Piening,WR,3615,Saturday,,Saturday Saturday,3600,1582863,0.72,2.74,0.2,10.8,,,,,,,,,,,,,,,,
+Kayleb Barnett,WR,3477,Saturday,,Saturday Saturday,3000,1591743,1.14,2.71,0.38,9,,,,,,,,,,,,,,,,
+Jewlyen Roberts,WR,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1509339,1.14,2.71,0.38,9,,,,,,,,,,,,,,,,
+Ryan Montgomery,QB,3473,Saturday,,Saturday Saturday,4500,1581902,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Hezekiah Millender,QB,3473,Saturday,,Saturday Saturday,4500,1581897,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Jake Bobo,QB,3473,Saturday,,Saturday Saturday,4500,1595567,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Bryson Beaver,QB,3473,Saturday,,Saturday Saturday,4500,1646528,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Colter Ginn,QB,3473,Saturday,,Saturday Saturday,4500,1518454,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Whit Muschamp,QB,3477,Saturday,,Saturday Saturday,4500,1521536,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Drew Cowart,QB,3477,Saturday,,Saturday Saturday,4500,1582979,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Jack Elliott,QB,3477,Saturday,,Saturday Saturday,4500,1591749,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Jett Thomalla,QB,3478,Saturday,,Saturday Saturday,4500,1645532,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+John Gazzaniga,QB,3478,Saturday,,Saturday Saturday,4500,1595162,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+John Cooper,QB,3478,Saturday,,Saturday Saturday,4500,1520195,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Tayden-Evan Kaawa,QB,3478,Saturday,,Saturday Saturday,4500,1645530,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Jaden Rashada,QB,3483,Saturday,,Saturday Saturday,4500,1441095,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Brodie McWhorter,QB,3483,Saturday,,Saturday Saturday,4500,1646420,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Jayytee Taylor,QB,3483,Saturday,,Saturday Saturday,4500,1645896,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Nick Evers,QB,3428,Saturday,,Saturday Saturday,4500,1381306,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Brett Brown,QB,3428,Saturday,,Saturday Saturday,4500,1390814,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Gavin Sidwar,QB,3428,Saturday,,Saturday Saturday,4500,1645877,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Aidan Warner,QB,3472,Saturday,,Saturday Saturday,4500,1464400,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Will Griffin,QB,3472,Saturday,,Saturday Saturday,4500,1645677,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Aaron Williams,QB,3472,Saturday,,Saturday Saturday,4500,1536602,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Brennen Ward,QB,3474,Saturday,,Saturday Saturday,4500,1582135,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Carson Cruver,QB,3474,Saturday,,Saturday Saturday,4500,1451823,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Matt Ponatoski,QB,3474,Saturday,,Saturday Saturday,4500,1646289,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+William Drakeford Jr.,QB,3474,Saturday,,Saturday Saturday,4500,1666291,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Lucian Anderson III,QB,3475,Saturday,,Saturday Saturday,4500,1442426,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Landon Duckworth,QB,3475,Saturday,,Saturday Saturday,4500,1646239,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Jimmy Francis,QB,3475,Saturday,,Saturday Saturday,4500,1518214,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Brandon Cunningham,QB,3475,Saturday,,Saturday Saturday,4500,1596602,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Ryan Staub,QB,3476,Saturday,,Saturday Saturday,4500,1442672,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Mason Phillips,QB,3476,Saturday,,Saturday Saturday,4500,1596615,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Locklan Hewlett,QB,3480,Saturday,,Saturday Saturday,4500,1584486,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+John Colvin,QB,3480,Saturday,,Saturday Saturday,4500,1449308,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Rhys Brush,QB,3480,Saturday,,Saturday Saturday,4500,1645909,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Will Myers,QB,3480,Saturday,,Saturday Saturday,4500,1595150,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Canon Toon,QB,3485,Saturday,,Saturday Saturday,4500,1653417,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Jake Sock,QB,3485,Saturday,,Saturday Saturday,4500,1430328,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Ryan Smith,QB,3485,Saturday,,Saturday Saturday,4500,1653734,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Rocco Marriott,QB,3615,Saturday,,Saturday Saturday,4500,1647806,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Kaleb Annett,QB,3615,Saturday,,Saturday Saturday,4500,1509611,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Dante Carr,QB,3615,Saturday,,Saturday Saturday,4500,1647809,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Jyron Hughley,QB,3423,Saturday,,Saturday Saturday,4500,1648364,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Max Anderson,QB,3423,Saturday,,Saturday Saturday,4500,1592728,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Max Brown,QB,3423,Saturday,,Saturday Saturday,4500,1394782,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+John Johnson III,QB,3423,Saturday,,Saturday Saturday,4500,1648362,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Wyatt Walker Brown,QB,3423,Saturday,,Saturday Saturday,4500,1658516,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Wyatt Bohm,QB,3425,Saturday,,Saturday Saturday,4500,1451446,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Hudson Kurland,QB,3425,Saturday,,Saturday Saturday,4500,1654826,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Michael Grant,QB,3409,Saturday,,Saturday Saturday,4500,1450086,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Dean DeNobile,QB,3409,Saturday,,Saturday Saturday,4500,1392399,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Jaden O'Neal,QB,3409,Saturday,,Saturday Saturday,4500,1648336,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Cole Geer,QB,3414,Saturday,,Saturday Saturday,4500,1583210,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Boone Lourd,QB,3414,Saturday,,Saturday Saturday,4500,1516081,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Jae'Oyn Williams,QB,3414,Saturday,,Saturday Saturday,4500,1649435,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Ely Hamrick,QB,3414,Saturday,,Saturday Saturday,4500,1649443,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+DJ Mazzone,QB,3412,Saturday,,Saturday Saturday,4500,1508202,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Au'Tori Newkirk,QB,3412,Saturday,,Saturday Saturday,4500,1591755,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Andres Miyares Jr.,QB,3412,Saturday,,Saturday Saturday,4500,1520421,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Travis Burgess,QB,3412,Saturday,,Saturday Saturday,4500,1649399,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Teddy Jarrard,QB,3509,Saturday,,Saturday Saturday,4500,1655572,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Jimmy Sullivan,QB,3434,Saturday,,Saturday Saturday,4500,1583667,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Tradon Bessinger,QB,3434,Saturday,,Saturday Saturday,4500,1660860,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Ryan Fitzgerald,QB,3434,Saturday,,Saturday Saturday,4500,1590250,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Luke Fahey,QB,3439,Saturday,,Saturday Saturday,4500,1649755,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Justyn Martin,QB,3439,Saturday,,Saturday Saturday,4500,1384735,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Brady Geibel,QB,3439,Saturday,,Saturday Saturday,4500,1595880,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Kolton Stover,QB,3439,Saturday,,Saturday Saturday,4500,1601189,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Chase Herbstreit,QB,3435,Saturday,,Saturday Saturday,4500,1599275,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Brady Smigiel,QB,3435,Saturday,,Saturday Saturday,4500,1649818,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Michael Merdinger,QB,3437,Saturday,,Saturday Saturday,4500,1508204,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Dylan Wittke,QB,3437,Saturday,,Saturday Saturday,4500,1441603,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Owen Lansu,QB,3437,Saturday,,Saturday Saturday,4500,1649663,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Leo Hannan,QB,3436,Saturday,,Saturday Saturday,4500,1583716,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Peyton Babbitt,QB,3436,Saturday,,Saturday Saturday,4500,1665409,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Kayd Coffman,QB,3436,Saturday,,Saturday Saturday,4500,1649659,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Ryan Hopkins,QB,3442,Saturday,,Saturday Saturday,4500,1651273,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Danny O'Neil,QB,3442,Saturday,,Saturday Saturday,4500,1509422,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Carter Smith,QB,3442,Saturday,,Saturday Saturday,4500,1583904,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Andrew Alford,QB,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4500,1594401,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Kincayde Eng,QB,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4500,1653933,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Connor Dantzler,QB,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4500,1653932,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Barrett Mullen,QB,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4500,1653934,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Kyden Barker,QB,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4500,1651869,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Ziondre Williams,QB,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4500,1653966,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Kalani McLeod,QB,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4500,1655560,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Parker Stofa,QB,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4500,1531404,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Trey Arnold,QB,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4500,1652657,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Caleb McMickle,QB,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4500,1451932,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Cam O'Hara,QB,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4500,1652647,0,2.7,0,13.5,,,,,,,,,,,,,,,,
+Jaime Ffrench,WR,3435,Saturday,,Saturday Saturday,3000,1582496,1.07,2.66,0.36,9,,,,,,,,,,,,,,,,
+John Hebert,RB,3485,Saturday,,Saturday Saturday,4400,1653736,0,2.64,0,13.2,,,,,,,,,,,,,,,,
+Taevion Swint,RB,3615,Saturday,,Saturday Saturday,4400,1582861,0,2.64,0,13.2,,,,,,,,,,,,,,,,
+Isaiah Robinson,WR,3414,Saturday,,Saturday Saturday,3100,1583269,0.96,2.63,0.31,9.3,,,,,,,,,,,,,,,,
+Hayden Moore,WR,3437,Saturday,,Saturday Saturday,3100,1649712,0.96,2.63,0.31,9.3,,,,,,,,,,,,,,,,
+Elijah Burress,WR,3509,Saturday,,Saturday Saturday,3500,1585578,0.6,2.58,0.17,10.5,,,,,,,,,,,,,,,,
+Thomas Blackshear,WR,3473,Saturday,,Saturday Saturday,3000,1597661,0.96,2.57,0.32,9,,,,,,,,,,,,,,,,
+Harvey Broussard III,WR,3485,Saturday,,Saturday Saturday,3000,1461972,0.95,2.56,0.32,9,,,,,,,,,,,,,,,,
+Luke Tevis,WR,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1594410,0.96,2.56,0.32,9,,,,,,,,,,,,,,,,
+Christian Neptune,WR,3480,Saturday,,Saturday Saturday,3100,1598372,0.86,2.55,0.28,9.3,,,,,,,,,,,,,,,,
+Khalifa Keith,RB,3478,Saturday,,Saturday Saturday,4200,1456592,0,2.52,0,12.6,,,,,,,,,,,,,,,,
+Byron Louis,RB,3472,Saturday,,Saturday Saturday,4200,1598908,0,2.52,0,12.6,,,,,,,,,,,,,,,,
+Kenneth Williams,RB,3436,Saturday,,Saturday Saturday,4200,1471806,0,2.52,0,12.6,,,,,,,,,,,,,,,,
+Jamal Polite Jr.,WR,3425,Saturday,,Saturday Saturday,3400,1654824,0.6,2.52,0.18,10.2,,,,,,,,,,,,,,,,
+Matt Jeffery,WR,3509,Saturday,,Saturday Saturday,3400,1521390,0.6,2.52,0.18,10.2,,,,,,,,,,,,,,,,
+Joeseph Skipworth,WR,3483,Saturday,,Saturday Saturday,3000,1590315,0.9,2.52,0.3,9,,,,,,,,,,,,,,,,
+Terrione Graves,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3300,1588985,0.66,2.51,0.2,9.9,,,,,,,,,,,,,,,,
+Dylan Cope,WR,3414,Saturday,,Saturday Saturday,3000,1649479,0.88,2.5,0.29,9,,,,,,,,,,,,,,,,
+Armoni Weaver-Bomar,WR,3423,Saturday,,Saturday Saturday,3100,1591737,0.78,2.48,0.25,9.3,,,,,,,,,,,,,,,,
+Lex Cyrus,WR,3475,Saturday,,Saturday Saturday,3000,1582287,0.84,2.47,0.28,9,,,,,,,,,,,,,,,,
+Brec Long,WR,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1587821,0.84,2.47,0.28,9,,,,,,,,,,,,,,,,
+Shandon King,WR,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1588973,0.84,2.47,0.28,9,,,,,,,,,,,,,,,,
+Preston Hatfield,RB,3428,Saturday,,Saturday Saturday,4100,1654621,0,2.46,0,12.3,,,,,,,,,,,,,,,,
+Nehemiah Warmate,RB,3485,Saturday,,Saturday Saturday,4100,1588352,0,2.46,0,12.3,,,,,,,,,,,,,,,,
+Kaj Baker,RB,3615,Saturday,,Saturday Saturday,4100,1647811,0,2.46,0,12.3,,,,,,,,,,,,,,,,
+Ryver Peppers,RB,3425,Saturday,,Saturday Saturday,4100,1582791,0,2.46,0,12.3,,,,,,,,,,,,,,,,
+O'Lontae Dean,RB,3434,Saturday,,Saturday Saturday,4100,1583664,0,2.46,0,12.3,,,,,,,,,,,,,,,,
+Nate Palmer,RB,3442,Saturday,,Saturday Saturday,4100,1507213,0,2.46,0,12.3,,,,,,,,,,,,,,,,
+Jalen Brown,RB,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4100,1458941,0,2.46,0,12.3,,,,,,,,,,,,,,,,
+Grayson Brousseau,WR,3615,Saturday,,Saturday Saturday,3000,1518305,0.78,2.42,0.26,9,,,,,,,,,,,,,,,,
+Jacob Simpson,WR,3437,Saturday,,Saturday Saturday,3000,1508664,0.78,2.42,0.26,9,,,,,,,,,,,,,,,,
+Zion Steptoe,WR,3437,Saturday,,Saturday Saturday,3000,1379308,0.78,2.42,0.26,9,,,,,,,,,,,,,,,,
+Wade Penn,RB,3473,Saturday,,Saturday Saturday,4000,1518497,0,2.4,0,12,,,,,,,,,,,,,,,,
+Micah Bell,RB,3473,Saturday,,Saturday Saturday,4000,1451503,0,2.4,0,12,,,,,,,,,,,,,,,,
+Gabe Fisher,RB,3477,Saturday,,Saturday Saturday,4000,1452993,0,2.4,0,12,,,,,,,,,,,,,,,,
+Gabe Fields,RB,3477,Saturday,,Saturday Saturday,4000,1591733,0,2.4,0,12,,,,,,,,,,,,,,,,
+Jake Balis,RB,3477,Saturday,,Saturday Saturday,4000,1521563,0,2.4,0,12,,,,,,,,,,,,,,,,
+Evan Hampton,RB,3477,Saturday,,Saturday Saturday,4000,1646018,0,2.4,0,12,,,,,,,,,,,,,,,,
+Izayah Lee,RB,3477,Saturday,,Saturday Saturday,4000,1646015,0,2.4,0,12,,,,,,,,,,,,,,,,
+Jaron Jackson,RB,3478,Saturday,,Saturday Saturday,4000,1670470,0,2.4,0,12,,,,,,,,,,,,,,,,
+TC Washington,RB,3478,Saturday,,Saturday Saturday,4000,1666181,0,2.4,0,12,,,,,,,,,,,,,,,,
+J'Alan Terry,RB,3478,Saturday,,Saturday Saturday,4000,1666180,0,2.4,0,12,,,,,,,,,,,,,,,,
+Cooper Crosby,RB,3483,Saturday,,Saturday Saturday,4000,1646417,0,2.4,0,12,,,,,,,,,,,,,,,,
+Brinston Williams,RB,3483,Saturday,,Saturday Saturday,4000,1399978,0,2.4,0,12,,,,,,,,,,,,,,,,
+Anthony Favrow,RB,3428,Saturday,,Saturday Saturday,4000,1390824,0,2.4,0,12,,,,,,,,,,,,,,,,
+Max Warner,RB,3428,Saturday,,Saturday Saturday,4000,1645880,0,2.4,0,12,,,,,,,,,,,,,,,,
+Brady Hultman,RB,3428,Saturday,,Saturday Saturday,4000,1442355,0,2.4,0,12,,,,,,,,,,,,,,,,
+Anthony Rubio,RB,3472,Saturday,,Saturday Saturday,4000,1456496,0,2.4,0,12,,,,,,,,,,,,,,,,
+Brian Case,RB,3472,Saturday,,Saturday Saturday,4000,1598909,0,2.4,0,12,,,,,,,,,,,,,,,,
+Kelvin Jimenez,RB,3472,Saturday,,Saturday Saturday,4000,1550949,0,2.4,0,12,,,,,,,,,,,,,,,,
+Ahmir Smith,RB,3474,Saturday,,Saturday Saturday,4000,1518379,0,2.4,0,12,,,,,,,,,,,,,,,,
+Tovani Mizell,RB,3474,Saturday,,Saturday Saturday,4000,1518209,0,2.4,0,12,,,,,,,,,,,,,,,,
+Isaiah Jackson,RB,3474,Saturday,,Saturday Saturday,4000,1660960,0,2.4,0,12,,,,,,,,,,,,,,,,
+Delvecchio Alston II,RB,3474,Saturday,,Saturday Saturday,4000,1646258,0,2.4,0,12,,,,,,,,,,,,,,,,
+Jordan Colbert,RB,3474,Saturday,,Saturday Saturday,4000,1668283,0,2.4,0,12,,,,,,,,,,,,,,,,
+Ethan Kellum,RB,3475,Saturday,,Saturday Saturday,4000,1656133,0,2.4,0,12,,,,,,,,,,,,,,,,
+Justin Baker,RB,3476,Saturday,,Saturday Saturday,4000,1582284,0,2.4,0,12,,,,,,,,,,,,,,,,
+Will Rajecki,RB,3476,Saturday,,Saturday Saturday,4000,1659466,0,2.4,0,12,,,,,,,,,,,,,,,,
+Alvin Henderson,RB,3480,Saturday,,Saturday Saturday,4000,1581947,0,2.4,0,12,,,,,,,,,,,,,,,,
+Christian Burnette,RB,3480,Saturday,,Saturday Saturday,4000,1449303,0,2.4,0,12,,,,,,,,,,,,,,,,
+Cole Gamble,RB,3480,Saturday,,Saturday Saturday,4000,1515890,0,2.4,0,12,,,,,,,,,,,,,,,,
+Stuart Andrews,RB,3480,Saturday,,Saturday Saturday,4000,1654139,0,2.4,0,12,,,,,,,,,,,,,,,,
+JayShon Ridgle,RB,3485,Saturday,,Saturday Saturday,4000,1514688,0,2.4,0,12,,,,,,,,,,,,,,,,
+Arthur Lewis IV,RB,3615,Saturday,,Saturday Saturday,4000,1647814,0,2.4,0,12,,,,,,,,,,,,,,,,
+Chance Nixon,RB,3615,Saturday,,Saturday Saturday,4000,1593239,0,2.4,0,12,,,,,,,,,,,,,,,,
+Chris Talley,RB,3423,Saturday,,Saturday Saturday,4000,1648373,0,2.4,0,12,,,,,,,,,,,,,,,,
+Darius Morant,RB,3423,Saturday,,Saturday Saturday,4000,1518204,0,2.4,0,12,,,,,,,,,,,,,,,,
+Lawrence Autry,RB,3423,Saturday,,Saturday Saturday,4000,1658532,0,2.4,0,12,,,,,,,,,,,,,,,,
+Andre Devine,RB,3423,Saturday,,Saturday Saturday,4000,1523472,0,2.4,0,12,,,,,,,,,,,,,,,,
+Kayden Luke,RB,3423,Saturday,,Saturday Saturday,4000,1514670,0,2.4,0,12,,,,,,,,,,,,,,,,
+Caleb Francois,RB,3425,Saturday,,Saturday Saturday,4000,1654827,0,2.4,0,12,,,,,,,,,,,,,,,,
+Salahadin Allah,RB,3425,Saturday,,Saturday Saturday,4000,1524074,0,2.4,0,12,,,,,,,,,,,,,,,,
+Wyatt Archer,RB,3425,Saturday,,Saturday Saturday,4000,1469660,0,2.4,0,12,,,,,,,,,,,,,,,,
+Gabriel Wilson,RB,3425,Saturday,,Saturday Saturday,4000,1654828,0,2.4,0,12,,,,,,,,,,,,,,,,
+Amari Thomas,RB,3409,Saturday,,Saturday Saturday,4000,1648342,0,2.4,0,12,,,,,,,,,,,,,,,,
+Gemari Sands,RB,3409,Saturday,,Saturday Saturday,4000,1448644,0,2.4,0,12,,,,,,,,,,,,,,,,
+Gavin Markey,RB,3409,Saturday,,Saturday Saturday,4000,1589197,0,2.4,0,12,,,,,,,,,,,,,,,,
+Zay Parks,RB,3409,Saturday,,Saturday Saturday,4000,1516037,0,2.4,0,12,,,,,,,,,,,,,,,,
+Jack Stevens,RB,3414,Saturday,,Saturday Saturday,4000,1613468,0,2.4,0,12,,,,,,,,,,,,,,,,
+JoJo Troupe,RB,3412,Saturday,,Saturday Saturday,4000,1591778,0,2.4,0,12,,,,,,,,,,,,,,,,
+Charleston French,RB,3412,Saturday,,Saturday Saturday,4000,1521650,0,2.4,0,12,,,,,,,,,,,,,,,,
+Crew Davis,RB,3412,Saturday,,Saturday Saturday,4000,1649405,0,2.4,0,12,,,,,,,,,,,,,,,,
+Peter Pesansky,RB,3412,Saturday,,Saturday Saturday,4000,1520427,0,2.4,0,12,,,,,,,,,,,,,,,,
+Javian Osborne,RB,3509,Saturday,,Saturday Saturday,4000,1651449,0,2.4,0,12,,,,,,,,,,,,,,,,
+Kurt Smith,RB,3509,Saturday,,Saturday Saturday,4000,1651468,0,2.4,0,12,,,,,,,,,,,,,,,,
+Matt Williams,RB,3509,Saturday,,Saturday Saturday,4000,1653213,0,2.4,0,12,,,,,,,,,,,,,,,,
+Brevin Doll,RB,3434,Saturday,,Saturday Saturday,4000,1514190,0,2.4,0,12,,,,,,,,,,,,,,,,
+Anthony Rogers,RB,3439,Saturday,,Saturday Saturday,4000,1601188,0,2.4,0,12,,,,,,,,,,,,,,,,
+Stanley Jackson Jr.,RB,3439,Saturday,,Saturday Saturday,4000,1529919,0,2.4,0,12,,,,,,,,,,,,,,,,
+Favour Akih,RB,3439,Saturday,,Saturday Saturday,4000,1649774,0,2.4,0,12,,,,,,,,,,,,,,,,
+Chris Henry Jr.,WR,3439,Saturday,,Saturday Saturday,4000,1649756,0,2.4,0,12,,,,,,,,,,,,,,,,
+Jonathan Brown,RB,3435,Saturday,,Saturday Saturday,4000,1649827,0,2.4,0,12,,,,,,,,,,,,,,,,
+Donovan Johnson,RB,3435,Saturday,,Saturday Saturday,4000,1583631,0,2.4,0,12,,,,,,,,,,,,,,,,
+Tomas O'Meara,RB,3435,Saturday,,Saturday Saturday,4000,1524366,0,2.4,0,12,,,,,,,,,,,,,,,,
+Gary Stacy,RB,3435,Saturday,,Saturday Saturday,4000,1651640,0,2.4,0,12,,,,,,,,,,,,,,,,
+Micah Ka'apana,RB,3435,Saturday,,Saturday Saturday,4000,1524363,0,2.4,0,12,,,,,,,,,,,,,,,,
+Ayden Schlecht,RB,3435,Saturday,,Saturday Saturday,4000,1681120,0,2.4,0,12,,,,,,,,,,,,,,,,
+Jaron Thomas,RB,3437,Saturday,,Saturday Saturday,4000,1594133,0,2.4,0,12,,,,,,,,,,,,,,,,
+Zeke Bates,RB,3437,Saturday,,Saturday Saturday,4000,1649678,0,2.4,0,12,,,,,,,,,,,,,,,,
+Ryan Estrada,RB,3437,Saturday,,Saturday Saturday,4000,1656620,0,2.4,0,12,,,,,,,,,,,,,,,,
+Cam Edwards,RB,3436,Saturday,,Saturday Saturday,4000,1405933,0,2.4,0,12,,,,,,,,,,,,,,,,
+Jace Clarizio,RB,3436,Saturday,,Saturday Saturday,4000,1583723,0,2.4,0,12,,,,,,,,,,,,,,,,
+Jay Coyne,RB,3436,Saturday,,Saturday Saturday,4000,1400916,0,2.4,0,12,,,,,,,,,,,,,,,,
+Jaxon McCaig,RB,3436,Saturday,,Saturday Saturday,4000,1522969,0,2.4,0,12,,,,,,,,,,,,,,,,
+Darrin Jones Jr.,RB,3436,Saturday,,Saturday Saturday,4000,1598687,0,2.4,0,12,,,,,,,,,,,,,,,,
+Cedric Williams Jr.,RB,3436,Saturday,,Saturday Saturday,4000,1665411,0,2.4,0,12,,,,,,,,,,,,,,,,
+Zion Gist,RB,3436,Saturday,,Saturday Saturday,4000,1583725,0,2.4,0,12,,,,,,,,,,,,,,,,
+Juju Pope,RB,3442,Saturday,,Saturday Saturday,4000,1506488,0,2.4,0,12,,,,,,,,,,,,,,,,
+McCoy Smith,RB,3442,Saturday,,Saturday Saturday,4000,1660650,0,2.4,0,12,,,,,,,,,,,,,,,,
+Mason Lane,RB,3442,Saturday,,Saturday Saturday,4000,1523359,0,2.4,0,12,,,,,,,,,,,,,,,,
+Tyler Jansey,RB,3442,Saturday,,Saturday Saturday,4000,1442524,0,2.4,0,12,,,,,,,,,,,,,,,,
+Harrison Bortolotti,RB,3442,Saturday,,Saturday Saturday,4000,1596091,0,2.4,0,12,,,,,,,,,,,,,,,,
+Sevion Morrison,RB,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4000,1214023,0,2.4,0,12,,,,,,,,,,,,,,,,
+Kelvin Washington,RB,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4000,1594200,0,2.4,0,12,,,,,,,,,,,,,,,,
+Jamarcea Plater,RB,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4000,1653935,0,2.4,0,12,,,,,,,,,,,,,,,,
+Zachary Yang,RB,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4000,1608263,0,2.4,0,12,,,,,,,,,,,,,,,,
+Adarion Nettles,RB,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4000,1653968,0,2.4,0,12,,,,,,,,,,,,,,,,
+Colin Page,RB,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4000,1399145,0,2.4,0,12,,,,,,,,,,,,,,,,
+Isaiah Rudison,RB,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4000,1458922,0,2.4,0,12,,,,,,,,,,,,,,,,
+Roscoe Burton,RB,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4000,1518320,0,2.4,0,12,,,,,,,,,,,,,,,,
+David Barela,RB,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4000,1457692,0,2.4,0,12,,,,,,,,,,,,,,,,
+Xavier Rucker,RB,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4000,1652655,0,2.4,0,12,,,,,,,,,,,,,,,,
+Sincere Baines,RB,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4000,1471321,0,2.4,0,12,,,,,,,,,,,,,,,,
+Adrion Boyd,RB,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,4000,1599023,0,2.4,0,12,,,,,,,,,,,,,,,,
+Hunter Welcing,WR,3439,Saturday,,Saturday Saturday,3100,1214039,0.66,2.39,0.21,9.3,,,,,,,,,,,,,,,,
+Prince Jean,WR,3474,Saturday,,Saturday Saturday,3000,1646279,0.72,2.38,0.24,9,,,,,,,,,,,,,,,,
+Gracen Harris,WR,3483,Saturday,,Saturday Saturday,3300,1581995,0.48,2.36,0.15,9.9,,,,,,,,,,,,,,,,
+Quayd Hendryx,WR,3437,Saturday,,Saturday Saturday,3300,1656636,0.48,2.36,0.15,9.9,,,,,,,,,,,,,,,,
+Connor Cox,WR,3414,Saturday,,Saturday Saturday,3100,1441513,0.6,2.34,0.19,9.3,,,,,,,,,,,,,,,,
+Grant McAtee,WR,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3100,1654083,0.6,2.34,0.19,9.3,,,,,,,,,,,,,,,,
+Cam Williams,WR,3509,Saturday,,Saturday Saturday,3000,1512892,0.66,2.33,0.22,9,,,,,,,,,,,,,,,,
+TJ Chukwurah,WR,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,2400,1472255,1.08,2.3,0.45,7.2,,,,,,,,,,,,,,,,
+Roman Voss,WR,3437,Saturday,,Saturday Saturday,3100,1656617,0.54,2.29,0.17,9.3,,,,,,,,,,,,,,,,
+Bennett Christian,WR,3439,Saturday,,Saturday Saturday,3000,1379231,0.6,2.28,0.2,9,,,,,,,,,,,,,,,,
+Jerquaden Guilford,WR,3439,Saturday,,Saturday Saturday,3000,1649752,0.6,2.28,0.2,9,,,,,,,,,,,,,,,,
+Emmett Bork,WR,3442,Saturday,,Saturday Saturday,3000,1583947,0.6,2.28,0.2,9,,,,,,,,,,,,,,,,
+Jeremy Bell,WR,3473,Saturday,,Saturday Saturday,3000,1518501,0.54,2.23,0.18,9,,,,,,,,,,,,,,,,
+Taron Francis,WR,3423,Saturday,,Saturday Saturday,3000,1581882,0.54,2.23,0.18,9,,,,,,,,,,,,,,,,
+Elijah Brown,WR,3474,Saturday,,Saturday Saturday,3000,1378907,0.52,2.21,0.17,9,,,,,,,,,,,,,,,,
+Sequel Patterson,WR,3475,Saturday,,Saturday Saturday,3000,1656129,0.48,2.18,0.16,9,,,,,,,,,,,,,,,,
+Zach Ortwerth,WR,3434,Saturday,,Saturday Saturday,3100,1452875,0.36,2.15,0.12,9.3,,,,,,,,,,,,,,,,
+Micah Jones,WR,3472,Saturday,,Saturday Saturday,3500,1581929,0,2.1,0,10.5,,,,,,,,,,,,,,,,
+Stephon Johnson,WR,3485,Saturday,,Saturday Saturday,3400,1395219,0,2.04,0,10.2,,,,,,,,,,,,,,,,
+Kedrick Triplett,WR,3423,Saturday,,Saturday Saturday,3400,1651359,0,2.04,0,10.2,,,,,,,,,,,,,,,,
+Mason Woods,WR,3434,Saturday,,Saturday Saturday,3400,1590248,0,2.04,0,10.2,,,,,,,,,,,,,,,,
+Phillip Bell,WR,3439,Saturday,,Saturday Saturday,3400,1583914,0,2.04,0,10.2,,,,,,,,,,,,,,,,
+Luca Wolf,WR,3476,Saturday,,Saturday Saturday,3300,1645992,0,1.98,0,9.9,,,,,,,,,,,,,,,,
+Hayden Rollison,WR,3414,Saturday,,Saturday Saturday,3300,1451094,0,1.98,0,9.9,,,,,,,,,,,,,,,,
+Josiah Abdullah,WR,3414,Saturday,,Saturday Saturday,3300,1583213,0,1.98,0,9.9,,,,,,,,,,,,,,,,
+Jerome Bettis Jr.,WR,3509,Saturday,,Saturday Saturday,3300,1585607,0,1.98,0,9.9,,,,,,,,,,,,,,,,
+Nigel Johnson,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3300,1467474,0,1.98,0,9.9,,,,,,,,,,,,,,,,
+Craig Dandridge,WR,3473,Saturday,,Saturday Saturday,3200,1646636,0,1.92,0,9.6,,,,,,,,,,,,,,,,
+Justin Williams,WR,3472,Saturday,,Saturday Saturday,3200,1645700,0,1.92,0,9.6,,,,,,,,,,,,,,,,
+Brock Coffman,WR,3474,Saturday,,Saturday Saturday,3200,1589199,0,1.92,0,9.6,,,,,,,,,,,,,,,,
+Traville Frederick Jr.,WR,3485,Saturday,,Saturday Saturday,3200,1514682,0,1.92,0,9.6,,,,,,,,,,,,,,,,
+Tyren Hornes,WR,3615,Saturday,,Saturday Saturday,3200,1647795,0,1.92,0,9.6,,,,,,,,,,,,,,,,
+Lukas Ungar,WR,3414,Saturday,,Saturday Saturday,3200,1216810,0,1.92,0,9.6,,,,,,,,,,,,,,,,
+Chris Gacayan II,WR,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3200,1596077,0,1.92,0,9.6,,,,,,,,,,,,,,,,
+Ethan Barbour,WR,3473,Saturday,,Saturday Saturday,3100,1581913,0,1.86,0,9.3,,,,,,,,,,,,,,,,
+Zion Crumpton,WR,3483,Saturday,,Saturday Saturday,3100,1653728,0,1.86,0,9.3,,,,,,,,,,,,,,,,
+Kenric Lanier II,WR,3428,Saturday,,Saturday Saturday,3100,1447568,0,1.86,0,9.3,,,,,,,,,,,,,,,,
+Ja'Kayden Ferguson,WR,3474,Saturday,,Saturday Saturday,3100,1582248,0,1.86,0,9.3,,,,,,,,,,,,,,,,
+Drake Martinez,WR,3476,Saturday,,Saturday Saturday,3100,1321113,0,1.86,0,9.3,,,,,,,,,,,,,,,,
+Travis Smith Jr.,WR,3476,Saturday,,Saturday Saturday,3100,1582486,0,1.86,0,9.3,,,,,,,,,,,,,,,,
+Hunter Herring,WR,3480,Saturday,,Saturday Saturday,3100,1289839,0,1.86,0,9.3,,,,,,,,,,,,,,,,
+Caleb Rollerson,WR,3615,Saturday,,Saturday Saturday,3100,1524357,0,1.86,0,9.3,,,,,,,,,,,,,,,,
+Zamaurious Robertson,WR,3412,Saturday,,Saturday Saturday,3100,1649401,0,1.86,0,9.3,,,,,,,,,,,,,,,,
+Kai Rios,WR,3436,Saturday,,Saturday Saturday,3100,1391846,0,1.86,0,9.3,,,,,,,,,,,,,,,,
+Grayson O'Bara,WR,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3100,1392286,0,1.86,0,9.3,,,,,,,,,,,,,,,,
+Carson Su'esu'e,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3100,1593718,0,1.86,0,9.3,,,,,,,,,,,,,,,,
+Coleson Arends,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3100,1456670,0,1.86,0,9.3,,,,,,,,,,,,,,,,
+Colton Heinrich,WR,3473,Saturday,,Saturday Saturday,3000,1506146,0,1.8,0,9,,,,,,,,,,,,,,,,
+Brayden Fogle,WR,3473,Saturday,,Saturday Saturday,3000,1646631,0,1.8,0,9,,,,,,,,,,,,,,,,
+David Lalaian,WR,3473,Saturday,,Saturday Saturday,3000,1442648,0,1.8,0,9,,,,,,,,,,,,,,,,
+Lincoln Keyes,WR,3473,Saturday,,Saturday Saturday,3000,1646630,0,1.8,0,9,,,,,,,,,,,,,,,,
+Tyler J. Williams,WR,3473,Saturday,,Saturday Saturday,3000,1581904,0,1.8,0,9,,,,,,,,,,,,,,,,
+Dallas Dickerson,WR,3473,Saturday,,Saturday Saturday,3000,1646629,0,1.8,0,9,,,,,,,,,,,,,,,,
+Tre Shields,WR,3473,Saturday,,Saturday Saturday,3000,1663107,0,1.8,0,9,,,,,,,,,,,,,,,,
+Walter Blanchard,WR,3473,Saturday,,Saturday Saturday,3000,1468363,0,1.8,0,9,,,,,,,,,,,,,,,,
+Danny Curran,WR,3473,Saturday,,Saturday Saturday,3000,1509970,0,1.8,0,9,,,,,,,,,,,,,,,,
+Benjamin McElreath,WR,3473,Saturday,,Saturday Saturday,3000,1597653,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jackson St. Clair,WR,3473,Saturday,,Saturday Saturday,3000,1597651,0,1.8,0,9,,,,,,,,,,,,,,,,
+Will Taylor,WR,3473,Saturday,,Saturday Saturday,3000,1468365,0,1.8,0,9,,,,,,,,,,,,,,,,
+Ryan Mosley,WR,3473,Saturday,,Saturday Saturday,3000,1646648,0,1.8,0,9,,,,,,,,,,,,,,,,
+Brody Tolbert,WR,3473,Saturday,,Saturday Saturday,3000,1595583,0,1.8,0,9,,,,,,,,,,,,,,,,
+Maurice Veney,WR,3477,Saturday,,Saturday Saturday,3000,1476497,0,1.8,0,9,,,,,,,,,,,,,,,,
+Adam Gehm,WR,3477,Saturday,,Saturday Saturday,3000,1646045,0,1.8,0,9,,,,,,,,,,,,,,,,
+Palmer Riley,WR,3477,Saturday,,Saturday Saturday,3000,1660797,0,1.8,0,9,,,,,,,,,,,,,,,,
+Elijah Rooney,WR,3477,Saturday,,Saturday Saturday,3000,1554763,0,1.8,0,9,,,,,,,,,,,,,,,,
+Tilden Riley,WR,3477,Saturday,,Saturday Saturday,3000,1646048,0,1.8,0,9,,,,,,,,,,,,,,,,
+Joseph McVay,WR,3477,Saturday,,Saturday Saturday,3000,1521587,0,1.8,0,9,,,,,,,,,,,,,,,,
+Claiborne Richards,WR,3477,Saturday,,Saturday Saturday,3000,1451093,0,1.8,0,9,,,,,,,,,,,,,,,,
+Lebron Hill,WR,3477,Saturday,,Saturday Saturday,3000,1591745,0,1.8,0,9,,,,,,,,,,,,,,,,
+Cameran Dickson,WR,3477,Saturday,,Saturday Saturday,3000,1591747,0,1.8,0,9,,,,,,,,,,,,,,,,
+Ty Burd,WR,3477,Saturday,,Saturday Saturday,3000,1523186,0,1.8,0,9,,,,,,,,,,,,,,,,
+Owen Cabell,WR,3477,Saturday,,Saturday Saturday,3000,1646046,0,1.8,0,9,,,,,,,,,,,,,,,,
+Wils Jackson,WR,3477,Saturday,,Saturday Saturday,3000,1591739,0,1.8,0,9,,,,,,,,,,,,,,,,
+Kahden Smith,WR,3477,Saturday,,Saturday Saturday,3000,1646044,0,1.8,0,9,,,,,,,,,,,,,,,,
+Danny Lewis Jr.,WR,3478,Saturday,,Saturday Saturday,3000,1398547,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jay Lindsey,WR,3478,Saturday,,Saturday Saturday,3000,1520239,0,1.8,0,9,,,,,,,,,,,,,,,,
+Mack Sutter,WR,3478,Saturday,,Saturday Saturday,3000,1645536,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jaxon Shuttlesworth,WR,3478,Saturday,,Saturday Saturday,3000,1523506,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jack Sammarco,WR,3478,Saturday,,Saturday Saturday,3000,1507292,0,1.8,0,9,,,,,,,,,,,,,,,,
+Peyton Fox,WR,3478,Saturday,,Saturday Saturday,3000,1398525,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jude Cascone,WR,3478,Saturday,,Saturday Saturday,3000,1645557,0,1.8,0,9,,,,,,,,,,,,,,,,
+Tyler Henderson,WR,3478,Saturday,,Saturday Saturday,3000,1647514,0,1.8,0,9,,,,,,,,,,,,,,,,
+Maurice Mathis Jr.,WR,3478,Saturday,,Saturday Saturday,3000,1645543,0,1.8,0,9,,,,,,,,,,,,,,,,
+MJ Chirgwin,WR,3478,Saturday,,Saturday Saturday,3000,1409959,0,1.8,0,9,,,,,,,,,,,,,,,,
+Elijah Murray,WR,3478,Saturday,,Saturday Saturday,3000,1647511,0,1.8,0,9,,,,,,,,,,,,,,,,
+Ben Jackson,WR,3478,Saturday,,Saturday Saturday,3000,1595175,0,1.8,0,9,,,,,,,,,,,,,,,,
+Cooper Mollison,WR,3478,Saturday,,Saturday Saturday,3000,1520237,0,1.8,0,9,,,,,,,,,,,,,,,,
+Preston Landry,WR,3478,Saturday,,Saturday Saturday,3000,1647515,0,1.8,0,9,,,,,,,,,,,,,,,,
+Warner Ross,WR,3478,Saturday,,Saturday Saturday,3000,1647517,0,1.8,0,9,,,,,,,,,,,,,,,,
+Aubrey Walker,WR,3478,Saturday,,Saturday Saturday,3000,1661728,0,1.8,0,9,,,,,,,,,,,,,,,,
+Tailan Hall,WR,3478,Saturday,,Saturday Saturday,3000,1669996,0,1.8,0,9,,,,,,,,,,,,,,,,
+Amari Sabb,WR,3478,Saturday,,Saturday Saturday,3000,1661725,0,1.8,0,9,,,,,,,,,,,,,,,,
+Zayion Cotton,WR,3483,Saturday,,Saturday Saturday,3000,1645850,0,1.8,0,9,,,,,,,,,,,,,,,,
+Adam Land,WR,3483,Saturday,,Saturday Saturday,3000,1645936,0,1.8,0,9,,,,,,,,,,,,,,,,
+Luke Hutchinson,WR,3483,Saturday,,Saturday Saturday,3000,1645937,0,1.8,0,9,,,,,,,,,,,,,,,,
+Matt Mayfield,WR,3483,Saturday,,Saturday Saturday,3000,1648534,0,1.8,0,9,,,,,,,,,,,,,,,,
+Junior Henderson,WR,3483,Saturday,,Saturday Saturday,3000,1645888,0,1.8,0,9,,,,,,,,,,,,,,,,
+Bull Mitchell,WR,3483,Saturday,,Saturday Saturday,3000,1590313,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jessie Primer IV,WR,3483,Saturday,,Saturday Saturday,3000,1599694,0,1.8,0,9,,,,,,,,,,,,,,,,
+Fisher Southall,WR,3483,Saturday,,Saturday Saturday,3000,1653726,0,1.8,0,9,,,,,,,,,,,,,,,,
+Camden Capehart,WR,3483,Saturday,,Saturday Saturday,3000,1653388,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jayden Cration,WR,3483,Saturday,,Saturday Saturday,3000,1653727,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jude James,WR,3428,Saturday,,Saturday Saturday,3000,1514632,0,1.8,0,9,,,,,,,,,,,,,,,,
+Gavin Hoffman,WR,3428,Saturday,,Saturday Saturday,3000,1508440,0,1.8,0,9,,,,,,,,,,,,,,,,
+Isaac Jensen,WR,3428,Saturday,,Saturday Saturday,3000,1645879,0,1.8,0,9,,,,,,,,,,,,,,,,
+Adam Molitor,WR,3428,Saturday,,Saturday Saturday,3000,1518464,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jabari Brady,WR,3428,Saturday,,Saturday Saturday,3000,1645878,0,1.8,0,9,,,,,,,,,,,,,,,,
+Gavin Wyatt,WR,3428,Saturday,,Saturday Saturday,3000,1415164,0,1.8,0,9,,,,,,,,,,,,,,,,
+DJ McBride II,WR,3428,Saturday,,Saturday Saturday,3000,1654622,0,1.8,0,9,,,,,,,,,,,,,,,,
+Noah Flaskamp,WR,3428,Saturday,,Saturday Saturday,3000,1460626,0,1.8,0,9,,,,,,,,,,,,,,,,
+Devyon Hill-Lomax,WR,3428,Saturday,,Saturday Saturday,3000,1654620,0,1.8,0,9,,,,,,,,,,,,,,,,
+Karsten Fiene,WR,3428,Saturday,,Saturday Saturday,3000,1654629,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jayden Bolton,WR,3428,Saturday,,Saturday Saturday,3000,1536712,0,1.8,0,9,,,,,,,,,,,,,,,,
+Heze Kent,WR,3472,Saturday,,Saturday Saturday,3000,1645701,0,1.8,0,9,,,,,,,,,,,,,,,,
+Evan Chieca,WR,3472,Saturday,,Saturday Saturday,3000,1590607,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jaylen Jordon,WR,3472,Saturday,,Saturday Saturday,3000,1666768,0,1.8,0,9,,,,,,,,,,,,,,,,
+Tripp Brown Jr.,WR,3472,Saturday,,Saturday Saturday,3000,1645703,0,1.8,0,9,,,,,,,,,,,,,,,,
+Davian Groce,WR,3472,Saturday,,Saturday Saturday,3000,1645685,0,1.8,0,9,,,,,,,,,,,,,,,,
+Ace Ciongoli,WR,3472,Saturday,,Saturday Saturday,3000,1590860,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jaden Edgecombe,WR,3472,Saturday,,Saturday Saturday,3000,1482310,0,1.8,0,9,,,,,,,,,,,,,,,,
+Marquez Daniel,WR,3472,Saturday,,Saturday Saturday,3000,1645702,0,1.8,0,9,,,,,,,,,,,,,,,,
+Mason Jordan,WR,3472,Saturday,,Saturday Saturday,3000,1665939,0,1.8,0,9,,,,,,,,,,,,,,,,
+Justin Kattus,WR,3474,Saturday,,Saturday Saturday,3000,1519398,0,1.8,0,9,,,,,,,,,,,,,,,,
+Kendall Tambling,WR,3474,Saturday,,Saturday Saturday,3000,1660970,0,1.8,0,9,,,,,,,,,,,,,,,,
+Lincoln Watkins,WR,3474,Saturday,,Saturday Saturday,3000,1646290,0,1.8,0,9,,,,,,,,,,,,,,,,
+Xavier Daisy,WR,3474,Saturday,,Saturday Saturday,3000,1515392,0,1.8,0,9,,,,,,,,,,,,,,,,
+Ashton Cozart,WR,3474,Saturday,,Saturday Saturday,3000,1444576,0,1.8,0,9,,,,,,,,,,,,,,,,
+Rico Crowder,WR,3474,Saturday,,Saturday Saturday,3000,1506463,0,1.8,0,9,,,,,,,,,,,,,,,,
+Spencer Leadbetter,WR,3474,Saturday,,Saturday Saturday,3000,1461839,0,1.8,0,9,,,,,,,,,,,,,,,,
+Saxton Howard,WR,3474,Saturday,,Saturday Saturday,3000,1602187,0,1.8,0,9,,,,,,,,,,,,,,,,
+Denairius Gray,WR,3474,Saturday,,Saturday Saturday,3000,1646246,0,1.8,0,9,,,,,,,,,,,,,,,,
+Davis McCray,WR,3474,Saturday,,Saturday Saturday,3000,1646242,0,1.8,0,9,,,,,,,,,,,,,,,,
+Cash Harney,WR,3474,Saturday,,Saturday Saturday,3000,1660971,0,1.8,0,9,,,,,,,,,,,,,,,,
+Reno Roehm,WR,3475,Saturday,,Saturday Saturday,3000,1584749,0,1.8,0,9,,,,,,,,,,,,,,,,
+Caden Ramsey,WR,3475,Saturday,,Saturday Saturday,3000,1656140,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jordon Gidron,WR,3475,Saturday,,Saturday Saturday,3000,1582289,0,1.8,0,9,,,,,,,,,,,,,,,,
+Stone Furrey,WR,3475,Saturday,,Saturday Saturday,3000,1646243,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jackson Repp,WR,3475,Saturday,,Saturday Saturday,3000,1596609,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jayden Gibson,WR,3475,Saturday,,Saturday Saturday,3000,1381300,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jayden Sellers,WR,3475,Saturday,,Saturday Saturday,3000,1582292,0,1.8,0,9,,,,,,,,,,,,,,,,
+Cole Harrison,WR,3476,Saturday,,Saturday Saturday,3000,1521597,0,1.8,0,9,,,,,,,,,,,,,,,,
+Tyreek King,WR,3476,Saturday,,Saturday Saturday,3000,1659462,0,1.8,0,9,,,,,,,,,,,,,,,,
+Nathan Roberts,WR,3476,Saturday,,Saturday Saturday,3000,1456596,0,1.8,0,9,,,,,,,,,,,,,,,,
+Deon Hardin,WR,3476,Saturday,,Saturday Saturday,3000,1584579,0,1.8,0,9,,,,,,,,,,,,,,,,
+Ian Duarte,WR,3476,Saturday,,Saturday Saturday,3000,1516312,0,1.8,0,9,,,,,,,,,,,,,,,,
+Joakim Dodson,WR,3476,Saturday,,Saturday Saturday,3000,1596612,0,1.8,0,9,,,,,,,,,,,,,,,,
+JaColby Cooper,WR,3476,Saturday,,Saturday Saturday,3000,1659464,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jack-Henry Jakobik,WR,3476,Saturday,,Saturday Saturday,3000,1491564,0,1.8,0,9,,,,,,,,,,,,,,,,
+Brayden Carroll,WR,3476,Saturday,,Saturday Saturday,3000,1659467,0,1.8,0,9,,,,,,,,,,,,,,,,
+Lane Cope,WR,3476,Saturday,,Saturday Saturday,3000,1659465,0,1.8,0,9,,,,,,,,,,,,,,,,
+Luke Thompson,WR,3476,Saturday,,Saturday Saturday,3000,1645975,0,1.8,0,9,,,,,,,,,,,,,,,,
+Ben Petermann,WR,3476,Saturday,,Saturday Saturday,3000,1582325,0,1.8,0,9,,,,,,,,,,,,,,,,
+Doren Sacha,WR,3476,Saturday,,Saturday Saturday,3000,1532413,0,1.8,0,9,,,,,,,,,,,,,,,,
+Xavier Newsom,WR,3480,Saturday,,Saturday Saturday,3000,1602081,0,1.8,0,9,,,,,,,,,,,,,,,,
+Ryan Ghea,WR,3480,Saturday,,Saturday Saturday,3000,1581961,0,1.8,0,9,,,,,,,,,,,,,,,,
+Hunter Ousley,WR,3480,Saturday,,Saturday Saturday,3000,1515900,0,1.8,0,9,,,,,,,,,,,,,,,,
+DJ Broughton Jr.,WR,3480,Saturday,,Saturday Saturday,3000,1646423,0,1.8,0,9,,,,,,,,,,,,,,,,
+Sam Turner,WR,3480,Saturday,,Saturday Saturday,3000,1581945,0,1.8,0,9,,,,,,,,,,,,,,,,
+Kory Pettigrew,WR,3480,Saturday,,Saturday Saturday,3000,1584482,0,1.8,0,9,,,,,,,,,,,,,,,,
+Brady Marchese,WR,3480,Saturday,,Saturday Saturday,3000,1645895,0,1.8,0,9,,,,,,,,,,,,,,,,
+Will Upton,WR,3480,Saturday,,Saturday Saturday,3000,1449327,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jake White,WR,3480,Saturday,,Saturday Saturday,3000,1529050,0,1.8,0,9,,,,,,,,,,,,,,,,
+Bryce Cain,WR,3480,Saturday,,Saturday Saturday,3000,1506066,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jack Ellenburg,WR,3480,Saturday,,Saturday Saturday,3000,1654143,0,1.8,0,9,,,,,,,,,,,,,,,,
+Maxwell Kimpel,WR,3480,Saturday,,Saturday Saturday,3000,1679896,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jaivion Martin,WR,3485,Saturday,,Saturday Saturday,3000,1647274,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jacory Thurman,WR,3485,Saturday,,Saturday Saturday,3000,1582942,0,1.8,0,9,,,,,,,,,,,,,,,,
+Wyatt Herbel,WR,3485,Saturday,,Saturday Saturday,3000,1588343,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jaquise Martin,WR,3485,Saturday,,Saturday Saturday,3000,1588346,0,1.8,0,9,,,,,,,,,,,,,,,,
+Braeden Robinson,WR,3485,Saturday,,Saturday Saturday,3000,1653737,0,1.8,0,9,,,,,,,,,,,,,,,,
+Tyson Turner,WR,3485,Saturday,,Saturday Saturday,3000,1507233,0,1.8,0,9,,,,,,,,,,,,,,,,
+Keavon Roberts,WR,3485,Saturday,,Saturday Saturday,3000,1647272,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jack Newhouse,WR,3485,Saturday,,Saturday Saturday,3000,1653745,0,1.8,0,9,,,,,,,,,,,,,,,,
+Samuel Padgitt,WR,3485,Saturday,,Saturday Saturday,3000,1469738,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jeremiah Bushnell,WR,3485,Saturday,,Saturday Saturday,3000,1647270,0,1.8,0,9,,,,,,,,,,,,,,,,
+Dorian Barnes,WR,3485,Saturday,,Saturday Saturday,3000,1647247,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jeffrey Strozier Jr.,WR,3485,Saturday,,Saturday Saturday,3000,1598888,0,1.8,0,9,,,,,,,,,,,,,,,,
+Dylan Burk,WR,3615,Saturday,,Saturday Saturday,3000,1589916,0,1.8,0,9,,,,,,,,,,,,,,,,
+Thomas Wadsworth,WR,3615,Saturday,,Saturday Saturday,3000,1402398,0,1.8,0,9,,,,,,,,,,,,,,,,
+Brooks Hall,WR,3615,Saturday,,Saturday Saturday,3000,1647822,0,1.8,0,9,,,,,,,,,,,,,,,,
+Sam Powell,WR,3615,Saturday,,Saturday Saturday,3000,1656562,0,1.8,0,9,,,,,,,,,,,,,,,,
+Chase Hinshaw,WR,3615,Saturday,,Saturday Saturday,3000,1593234,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jordyn Bridgewater,WR,3615,Saturday,,Saturday Saturday,3000,1511231,0,1.8,0,9,,,,,,,,,,,,,,,,
+Andrea Parisi,WR,3615,Saturday,,Saturday Saturday,3000,1584862,0,1.8,0,9,,,,,,,,,,,,,,,,
+Carson Hinshaw,WR,3615,Saturday,,Saturday Saturday,3000,1524356,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jordan Nunuha,WR,3615,Saturday,,Saturday Saturday,3000,1647824,0,1.8,0,9,,,,,,,,,,,,,,,,
+Elijah Hardy,WR,3615,Saturday,,Saturday Saturday,3000,1656564,0,1.8,0,9,,,,,,,,,,,,,,,,
+Zack Palmer,WR,3615,Saturday,,Saturday Saturday,3000,1593240,0,1.8,0,9,,,,,,,,,,,,,,,,
+Cam Ball,WR,3423,Saturday,,Saturday Saturday,3000,1400152,0,1.8,0,9,,,,,,,,,,,,,,,,
+Carter Zuliani,WR,3423,Saturday,,Saturday Saturday,3000,1592736,0,1.8,0,9,,,,,,,,,,,,,,,,
+Xavier Anderson,WR,3423,Saturday,,Saturday Saturday,3000,1658536,0,1.8,0,9,,,,,,,,,,,,,,,,
+Sam Hamilton,WR,3423,Saturday,,Saturday Saturday,3000,1648389,0,1.8,0,9,,,,,,,,,,,,,,,,
+Kade Bush,WR,3423,Saturday,,Saturday Saturday,3000,1648378,0,1.8,0,9,,,,,,,,,,,,,,,,
+Keon Hutchins,WR,3423,Saturday,,Saturday Saturday,3000,1651360,0,1.8,0,9,,,,,,,,,,,,,,,,
+Malachi Thompson,WR,3423,Saturday,,Saturday Saturday,3000,1648371,0,1.8,0,9,,,,,,,,,,,,,,,,
+Landon Drumm,WR,3423,Saturday,,Saturday Saturday,3000,1658530,0,1.8,0,9,,,,,,,,,,,,,,,,
+Robert Oliver,WR,3423,Saturday,,Saturday Saturday,3000,1648377,0,1.8,0,9,,,,,,,,,,,,,,,,
+Charlie Hanafin,WR,3423,Saturday,,Saturday Saturday,3000,1648375,0,1.8,0,9,,,,,,,,,,,,,,,,
+Brad Mossor,WR,3423,Saturday,,Saturday Saturday,3000,1658534,0,1.8,0,9,,,,,,,,,,,,,,,,
+Greg Wilfred,WR,3423,Saturday,,Saturday Saturday,3000,1648376,0,1.8,0,9,,,,,,,,,,,,,,,,
+Christian Greenlaw,WR,3425,Saturday,,Saturday Saturday,3000,1465103,0,1.8,0,9,,,,,,,,,,,,,,,,
+Keaton Roskop,WR,3425,Saturday,,Saturday Saturday,3000,1507036,0,1.8,0,9,,,,,,,,,,,,,,,,
+Luke Galer,WR,3425,Saturday,,Saturday Saturday,3000,1647360,0,1.8,0,9,,,,,,,,,,,,,,,,
+Carson Edney,WR,3425,Saturday,,Saturday Saturday,3000,1654836,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jordan Vyborny,WR,3425,Saturday,,Saturday Saturday,3000,1593725,0,1.8,0,9,,,,,,,,,,,,,,,,
+AJ Petersen,WR,3425,Saturday,,Saturday Saturday,3000,1451459,0,1.8,0,9,,,,,,,,,,,,,,,,
+Cash Hayden,WR,3425,Saturday,,Saturday Saturday,3000,1515956,0,1.8,0,9,,,,,,,,,,,,,,,,
+Drake DeBaun,WR,3425,Saturday,,Saturday Saturday,3000,1654825,0,1.8,0,9,,,,,,,,,,,,,,,,
+Drew Byrd,WR,3425,Saturday,,Saturday Saturday,3000,1647361,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jack Bjorn,WR,3425,Saturday,,Saturday Saturday,3000,1390942,0,1.8,0,9,,,,,,,,,,,,,,,,
+Rylan Barnes,WR,3425,Saturday,,Saturday Saturday,3000,1451460,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jordyn Bailey,WR,3425,Saturday,,Saturday Saturday,3000,1443061,0,1.8,0,9,,,,,,,,,,,,,,,,
+Carson Robbins,WR,3425,Saturday,,Saturday Saturday,3000,1515949,0,1.8,0,9,,,,,,,,,,,,,,,,
+Trevor Fortenberry,WR,3425,Saturday,,Saturday Saturday,3000,1648699,0,1.8,0,9,,,,,,,,,,,,,,,,
+Zach Eskildsen,WR,3425,Saturday,,Saturday Saturday,3000,1654829,0,1.8,0,9,,,,,,,,,,,,,,,,
+Sam Zelenovich,WR,3425,Saturday,,Saturday Saturday,3000,1582821,0,1.8,0,9,,,,,,,,,,,,,,,,
+Malcolm Watkins,WR,3425,Saturday,,Saturday Saturday,3000,1647359,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jeffrey Roberts,WR,3425,Saturday,,Saturday Saturday,3000,1654831,0,1.8,0,9,,,,,,,,,,,,,,,,
+Ray Coffey,WR,3425,Saturday,,Saturday Saturday,3000,1648686,0,1.8,0,9,,,,,,,,,,,,,,,,
+Braden Goellner,WR,3425,Saturday,,Saturday Saturday,3000,1656537,0,1.8,0,9,,,,,,,,,,,,,,,,
+Greyson Labiad,WR,3409,Saturday,,Saturday Saturday,3000,1584992,0,1.8,0,9,,,,,,,,,,,,,,,,
+Drew Hardwick,WR,3409,Saturday,,Saturday Saturday,3000,1652829,0,1.8,0,9,,,,,,,,,,,,,,,,
+Xavier Tiller,WR,3409,Saturday,,Saturday Saturday,3000,1652827,0,1.8,0,9,,,,,,,,,,,,,,,,
+Corbyn Fordham,WR,3409,Saturday,,Saturday Saturday,3000,1648356,0,1.8,0,9,,,,,,,,,,,,,,,,
+Teriq Mallory,WR,3409,Saturday,,Saturday Saturday,3000,1589186,0,1.8,0,9,,,,,,,,,,,,,,,,
+Tae'Shaun Gelsey,WR,3409,Saturday,,Saturday Saturday,3000,1583043,0,1.8,0,9,,,,,,,,,,,,,,,,
+Tony Bland,WR,3409,Saturday,,Saturday Saturday,3000,1652830,0,1.8,0,9,,,,,,,,,,,,,,,,
+Brandon Bennett,WR,3409,Saturday,,Saturday Saturday,3000,1652828,0,1.8,0,9,,,,,,,,,,,,,,,,
+EJ White,WR,3409,Saturday,,Saturday Saturday,3000,1648334,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jonah Winston,WR,3409,Saturday,,Saturday Saturday,3000,1652826,0,1.8,0,9,,,,,,,,,,,,,,,,
+Keenen Jeune,WR,3409,Saturday,,Saturday Saturday,3000,1652831,0,1.8,0,9,,,,,,,,,,,,,,,,
+Darryon Williams,WR,3409,Saturday,,Saturday Saturday,3000,1648338,0,1.8,0,9,,,,,,,,,,,,,,,,
+Willem Thurber,WR,3414,Saturday,,Saturday Saturday,3000,1583268,0,1.8,0,9,,,,,,,,,,,,,,,,
+Justin Zames,WR,3414,Saturday,,Saturday Saturday,3000,1583273,0,1.8,0,9,,,,,,,,,,,,,,,,
+Henry Omohundro,WR,3414,Saturday,,Saturday Saturday,3000,1516085,0,1.8,0,9,,,,,,,,,,,,,,,,
+CJ Spence,WR,3414,Saturday,,Saturday Saturday,3000,1583219,0,1.8,0,9,,,,,,,,,,,,,,,,
+TeKai Kirby,WR,3414,Saturday,,Saturday Saturday,3000,1455812,0,1.8,0,9,,,,,,,,,,,,,,,,
+Trevor Ladd,WR,3414,Saturday,,Saturday Saturday,3000,1516089,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jack Rhodes,WR,3414,Saturday,,Saturday Saturday,3000,1649439,0,1.8,0,9,,,,,,,,,,,,,,,,
+Dillon Newton-Short,WR,3414,Saturday,,Saturday Saturday,3000,1583208,0,1.8,0,9,,,,,,,,,,,,,,,,
+Triston Ward,WR,3414,Saturday,,Saturday Saturday,3000,1508315,0,1.8,0,9,,,,,,,,,,,,,,,,
+Brand Morgan,WR,3414,Saturday,,Saturday Saturday,3000,1613469,0,1.8,0,9,,,,,,,,,,,,,,,,
+DaMari Carter,WR,3414,Saturday,,Saturday Saturday,3000,1649478,0,1.8,0,9,,,,,,,,,,,,,,,,
+Kyle Alt,WR,3414,Saturday,,Saturday Saturday,3000,1677817,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jaxxon Warren,WR,3412,Saturday,,Saturday Saturday,3000,1445250,0,1.8,0,9,,,,,,,,,,,,,,,,
+Carson Sneed,WR,3412,Saturday,,Saturday Saturday,3000,1649425,0,1.8,0,9,,,,,,,,,,,,,,,,
+Deems May,WR,3412,Saturday,,Saturday Saturday,3000,1398604,0,1.8,0,9,,,,,,,,,,,,,,,,
+Dream Rashad,WR,3412,Saturday,,Saturday Saturday,3000,1653523,0,1.8,0,9,,,,,,,,,,,,,,,,
+Nathan Leacock,WR,3412,Saturday,,Saturday Saturday,3000,1443012,0,1.8,0,9,,,,,,,,,,,,,,,,
+Madrid Tucker,WR,3412,Saturday,,Saturday Saturday,3000,1591779,0,1.8,0,9,,,,,,,,,,,,,,,,
+Dayton Sneed,WR,3412,Saturday,,Saturday Saturday,3000,1443011,0,1.8,0,9,,,,,,,,,,,,,,,,
+Nyqir Helton,WR,3412,Saturday,,Saturday Saturday,3000,1649402,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jaden Jefferson,WR,3412,Saturday,,Saturday Saturday,3000,1649408,0,1.8,0,9,,,,,,,,,,,,,,,,
+Kymistrii Young,WR,3412,Saturday,,Saturday Saturday,3000,1649423,0,1.8,0,9,,,,,,,,,,,,,,,,
+Keeyun Chapman,WR,3412,Saturday,,Saturday Saturday,3000,1653522,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jack Larsen,WR,3509,Saturday,,Saturday Saturday,3000,1512911,0,1.8,0,9,,,,,,,,,,,,,,,,
+Ian Premer,WR,3509,Saturday,,Saturday Saturday,3000,1655573,0,1.8,0,9,,,,,,,,,,,,,,,,
+Austin Ratigan,WR,3509,Saturday,,Saturday Saturday,3000,1655578,0,1.8,0,9,,,,,,,,,,,,,,,,
+Preston Fryzel,WR,3509,Saturday,,Saturday Saturday,3000,1651480,0,1.8,0,9,,,,,,,,,,,,,,,,
+Henry Garrity,WR,3509,Saturday,,Saturday Saturday,3000,1451507,0,1.8,0,9,,,,,,,,,,,,,,,,
+Brayden Robinson,WR,3509,Saturday,,Saturday Saturday,3000,1651436,0,1.8,0,9,,,,,,,,,,,,,,,,
+Bubba Frazier,WR,3509,Saturday,,Saturday Saturday,3000,1651431,0,1.8,0,9,,,,,,,,,,,,,,,,
+Logan Saldate,WR,3509,Saturday,,Saturday Saturday,3000,1521385,0,1.8,0,9,,,,,,,,,,,,,,,,
+Devin Fitzgerald,WR,3509,Saturday,,Saturday Saturday,3000,1651433,0,1.8,0,9,,,,,,,,,,,,,,,,
+Xavier Southall,WR,3509,Saturday,,Saturday Saturday,3000,1521398,0,1.8,0,9,,,,,,,,,,,,,,,,
+Dylan Faison,WR,3509,Saturday,,Saturday Saturday,3000,1651437,0,1.8,0,9,,,,,,,,,,,,,,,,
+Kaydon Finley,WR,3509,Saturday,,Saturday Saturday,3000,1651439,0,1.8,0,9,,,,,,,,,,,,,,,,
+Michael Burt,WR,3434,Saturday,,Saturday Saturday,3000,1514187,0,1.8,0,9,,,,,,,,,,,,,,,,
+Luke Brewer,WR,3434,Saturday,,Saturday Saturday,3000,1660859,0,1.8,0,9,,,,,,,,,,,,,,,,
+Dylan Stecker,WR,3434,Saturday,,Saturday Saturday,3000,1590253,0,1.8,0,9,,,,,,,,,,,,,,,,
+Eli Johnson,WR,3434,Saturday,,Saturday Saturday,3000,1590255,0,1.8,0,9,,,,,,,,,,,,,,,,
+Brody Schaffer,WR,3434,Saturday,,Saturday Saturday,3000,1660864,0,1.8,0,9,,,,,,,,,,,,,,,,
+Alex Eichmann,WR,3434,Saturday,,Saturday Saturday,3000,1389773,0,1.8,0,9,,,,,,,,,,,,,,,,
+Xavier Stinson,WR,3434,Saturday,,Saturday Saturday,3000,1649461,0,1.8,0,9,,,,,,,,,,,,,,,,
+Lance Beeghley,WR,3434,Saturday,,Saturday Saturday,3000,1518038,0,1.8,0,9,,,,,,,,,,,,,,,,
+Diondre Smith,WR,3434,Saturday,,Saturday Saturday,3000,1649463,0,1.8,0,9,,,,,,,,,,,,,,,,
+Isaiah Oliver,WR,3434,Saturday,,Saturday Saturday,3000,1660857,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jackson Naeve,WR,3434,Saturday,,Saturday Saturday,3000,1596068,0,1.8,0,9,,,,,,,,,,,,,,,,
+Apollo Payne,WR,3434,Saturday,,Saturday Saturday,3000,1583669,0,1.8,0,9,,,,,,,,,,,,,,,,
+Brody Lennon,WR,3439,Saturday,,Saturday Saturday,3000,1601202,0,1.8,0,9,,,,,,,,,,,,,,,,
+Maxence LeBlanc,WR,3439,Saturday,,Saturday Saturday,3000,1519340,0,1.8,0,9,,,,,,,,,,,,,,,,
+Nick Lautar,WR,3439,Saturday,,Saturday Saturday,3000,1649794,0,1.8,0,9,,,,,,,,,,,,,,,,
+Frankie McAllister,WR,3439,Saturday,,Saturday Saturday,3000,1653719,0,1.8,0,9,,,,,,,,,,,,,,,,
+De'Zie Jones,WR,3439,Saturday,,Saturday Saturday,3000,1583917,0,1.8,0,9,,,,,,,,,,,,,,,,
+David Adolph,WR,3439,Saturday,,Saturday Saturday,3000,1398685,0,1.8,0,9,,,,,,,,,,,,,,,,
+Nolan Baudo,WR,3439,Saturday,,Saturday Saturday,3000,1451075,0,1.8,0,9,,,,,,,,,,,,,,,,
+Brennen Schramm,WR,3439,Saturday,,Saturday Saturday,3000,1452648,0,1.8,0,9,,,,,,,,,,,,,,,,
+Amari Valerio-Hudson,WR,3439,Saturday,,Saturday Saturday,3000,1649776,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jaeden Ricketts,WR,3439,Saturday,,Saturday Saturday,3000,1649792,0,1.8,0,9,,,,,,,,,,,,,,,,
+Ryan Seimetz,WR,3439,Saturday,,Saturday Saturday,3000,1653717,0,1.8,0,9,,,,,,,,,,,,,,,,
+Deakon Tonielli,WR,3435,Saturday,,Saturday Saturday,3000,1461689,0,1.8,0,9,,,,,,,,,,,,,,,,
+Eli Owens,WR,3435,Saturday,,Saturday Saturday,3000,1583640,0,1.8,0,9,,,,,,,,,,,,,,,,
+Crandall Quinn,WR,3435,Saturday,,Saturday Saturday,3000,1599277,0,1.8,0,9,,,,,,,,,,,,,,,,
+Mason Bonner,WR,3435,Saturday,,Saturday Saturday,3000,1665692,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jimmy Pisani,WR,3435,Saturday,,Saturday Saturday,3000,1665698,0,1.8,0,9,,,,,,,,,,,,,,,,
+Kendrick Bell,WR,3435,Saturday,,Saturday Saturday,3000,1461685,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jamar Browder,WR,3435,Saturday,,Saturday Saturday,3000,1583645,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jacob Washington,WR,3435,Saturday,,Saturday Saturday,3000,1599313,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jaylen Pile,WR,3435,Saturday,,Saturday Saturday,3000,1649819,0,1.8,0,9,,,,,,,,,,,,,,,,
+Logan Forbes,WR,3435,Saturday,,Saturday Saturday,3000,1405910,0,1.8,0,9,,,,,,,,,,,,,,,,
+Kaleb Schlecht,WR,3435,Saturday,,Saturday Saturday,3000,1510410,0,1.8,0,9,,,,,,,,,,,,,,,,
+Bryce Wilcox,WR,3435,Saturday,,Saturday Saturday,3000,1405918,0,1.8,0,9,,,,,,,,,,,,,,,,
+Braydon Alford,WR,3435,Saturday,,Saturday Saturday,3000,1524515,0,1.8,0,9,,,,,,,,,,,,,,,,
+Julian Johnson,WR,3437,Saturday,,Saturday Saturday,3000,1508663,0,1.8,0,9,,,,,,,,,,,,,,,,
+George Rohl,WR,3437,Saturday,,Saturday Saturday,3000,1656629,0,1.8,0,9,,,,,,,,,,,,,,,,
+Sam Peters,WR,3437,Saturday,,Saturday Saturday,3000,1452173,0,1.8,0,9,,,,,,,,,,,,,,,,
+Gabe Weaver,WR,3437,Saturday,,Saturday Saturday,3000,1656635,0,1.8,0,9,,,,,,,,,,,,,,,,
+Bradley Martino,WR,3437,Saturday,,Saturday Saturday,3000,1591441,0,1.8,0,9,,,,,,,,,,,,,,,,
+Braiden Stevens,WR,3437,Saturday,,Saturday Saturday,3000,1656618,0,1.8,0,9,,,,,,,,,,,,,,,,
+Josiah Dozier,WR,3437,Saturday,,Saturday Saturday,3000,1656633,0,1.8,0,9,,,,,,,,,,,,,,,,
+Donielle Hayes,WR,3437,Saturday,,Saturday Saturday,3000,1452140,0,1.8,0,9,,,,,,,,,,,,,,,,
+Rico Blassingame,WR,3437,Saturday,,Saturday Saturday,3000,1649713,0,1.8,0,9,,,,,,,,,,,,,,,,
+Ethan Melville,WR,3436,Saturday,,Saturday Saturday,3000,1665444,0,1.8,0,9,,,,,,,,,,,,,,,,
+Eddie Whiting,WR,3436,Saturday,,Saturday Saturday,3000,1649709,0,1.8,0,9,,,,,,,,,,,,,,,,
+Joe Caudill,WR,3436,Saturday,,Saturday Saturday,3000,1649711,0,1.8,0,9,,,,,,,,,,,,,,,,
+Charlie Baker,WR,3436,Saturday,,Saturday Saturday,3000,1522971,0,1.8,0,9,,,,,,,,,,,,,,,,
+Braylon Collier,WR,3436,Saturday,,Saturday Saturday,3000,1583718,0,1.8,0,9,,,,,,,,,,,,,,,,
+Samson Gash,WR,3436,Saturday,,Saturday Saturday,3000,1665405,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jameel Gardner Jr.,WR,3436,Saturday,,Saturday Saturday,3000,1395207,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jack Yanachik,WR,3436,Saturday,,Saturday Saturday,3000,1458921,0,1.8,0,9,,,,,,,,,,,,,,,,
+Darelle Cochran,WR,3436,Saturday,,Saturday Saturday,3000,1665418,0,1.8,0,9,,,,,,,,,,,,,,,,
+Zach Washington,WR,3436,Saturday,,Saturday Saturday,3000,1649672,0,1.8,0,9,,,,,,,,,,,,,,,,
+Colin Charles,WR,3436,Saturday,,Saturday Saturday,3000,1649708,0,1.8,0,9,,,,,,,,,,,,,,,,
+Nick Hardy,WR,3436,Saturday,,Saturday Saturday,3000,1598696,0,1.8,0,9,,,,,,,,,,,,,,,,
+Nizyi Davis,WR,3442,Saturday,,Saturday Saturday,3000,1583971,0,1.8,0,9,,,,,,,,,,,,,,,,
+Aydon Fickell,WR,3442,Saturday,,Saturday Saturday,3000,1659896,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jack Sievers,WR,3442,Saturday,,Saturday Saturday,3000,1651422,0,1.8,0,9,,,,,,,,,,,,,,,,
+Zion Kearney,WR,3442,Saturday,,Saturday Saturday,3000,1506191,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jackson McGohan,WR,3442,Saturday,,Saturday Saturday,3000,1441045,0,1.8,0,9,,,,,,,,,,,,,,,,
+Kash Brock,WR,3442,Saturday,,Saturday Saturday,3000,1651274,0,1.8,0,9,,,,,,,,,,,,,,,,
+Eli Adams,WR,3442,Saturday,,Saturday Saturday,3000,1523657,0,1.8,0,9,,,,,,,,,,,,,,,,
+Mason Kelley,WR,3442,Saturday,,Saturday Saturday,3000,1596093,0,1.8,0,9,,,,,,,,,,,,,,,,
+Langdon Nordgaard,WR,3442,Saturday,,Saturday Saturday,3000,1523358,0,1.8,0,9,,,,,,,,,,,,,,,,
+Keeyshawn Tabuteau,WR,3442,Saturday,,Saturday Saturday,3000,1651275,0,1.8,0,9,,,,,,,,,,,,,,,,
+Zion Legree,WR,3442,Saturday,,Saturday Saturday,3000,1651417,0,1.8,0,9,,,,,,,,,,,,,,,,
+Dorsett Stecker,WR,3442,Saturday,,Saturday Saturday,3000,1659894,0,1.8,0,9,,,,,,,,,,,,,,,,
+Kuba Malecki,WR,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1653945,0,1.8,0,9,,,,,,,,,,,,,,,,
+Max Moore,WR,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1653938,0,1.8,0,9,,,,,,,,,,,,,,,,
+Xavier Green,WR,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1653944,0,1.8,0,9,,,,,,,,,,,,,,,,
+Joshua Rushing,WR,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1651874,0,1.8,0,9,,,,,,,,,,,,,,,,
+Cole Greene,WR,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1445138,0,1.8,0,9,,,,,,,,,,,,,,,,
+Courtney Lewis Jr.,WR,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1651878,0,1.8,0,9,,,,,,,,,,,,,,,,
+Kainon Gibson,WR,3512,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1653936,0,1.8,0,9,,,,,,,,,,,,,,,,
+Connor Vaughn,WR,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1408406,0,1.8,0,9,,,,,,,,,,,,,,,,
+Victor Aderungboye,WR,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1514240,0,1.8,0,9,,,,,,,,,,,,,,,,
+Drew Clemens,WR,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1582993,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jerious Singletary,WR,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1653972,0,1.8,0,9,,,,,,,,,,,,,,,,
+Dalton Carnes,WR,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1430335,0,1.8,0,9,,,,,,,,,,,,,,,,
+Lathon Latiolais,WR,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1653967,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jackson Muckelroy,WR,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1462645,0,1.8,0,9,,,,,,,,,,,,,,,,
+Eli Nikolas,WR,3587,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1655471,0,1.8,0,9,,,,,,,,,,,,,,,,
+Ray Lotten,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1456564,0,1.8,0,9,,,,,,,,,,,,,,,,
+Luke Lopez,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1652694,0,1.8,0,9,,,,,,,,,,,,,,,,
+Duke Frye,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1404413,0,1.8,0,9,,,,,,,,,,,,,,,,
+Joshua Goines,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1448273,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jayden Bell,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1457683,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jaylen Stokes,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1652651,0,1.8,0,9,,,,,,,,,,,,,,,,
+Josiah Castillo,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1652695,0,1.8,0,9,,,,,,,,,,,,,,,,
+Izeyah Wright,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1516959,0,1.8,0,9,,,,,,,,,,,,,,,,
+AJ Carey,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1652693,0,1.8,0,9,,,,,,,,,,,,,,,,
+JaDarius Sanders,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1652692,0,1.8,0,9,,,,,,,,,,,,,,,,
+Kaden Trevino,WR,3447,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1458936,0,1.8,0,9,,,,,,,,,,,,,,,,
+Aiden Miller,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1450505,0,1.8,0,9,,,,,,,,,,,,,,,,
+Griffin Reimer,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1448630,0,1.8,0,9,,,,,,,,,,,,,,,,
+Cross Nimmo,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1589797,0,1.8,0,9,,,,,,,,,,,,,,,,
+Arlando Crafton Jr.,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1655166,0,1.8,0,9,,,,,,,,,,,,,,,,
+Eli Wilt,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1655167,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jeremiah Carroll,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1477942,0,1.8,0,9,,,,,,,,,,,,,,,,
+Fonzy Smith,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1589792,0,1.8,0,9,,,,,,,,,,,,,,,,
+Devin Hamilton,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1652648,0,1.8,0,9,,,,,,,,,,,,,,,,
+Tre'von McGory,WR,3628,Thursday 2-Game,,Thursday 2-Game Thursday 2-Game,3000,1652661,0,1.8,0,9,,,,,,,,,,,,,,,,
+Jewlyen Roberts,WR,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1509339,1.14,1.51,1.14,3,,,,,,,,,,,,,,,,
+Luke Tevis,WR,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1594410,0.96,1.36,0.96,3,,,,,,,,,,,,,,,,
+Chris Gacayan II,WR,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,2200,1596077,0,1.32,0,6.6,,,,,,,,,,,,,,,,
+Brec Long,WR,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1587821,0.84,1.27,0.84,3,,,,,,,,,,,,,,,,
+Shandon King,WR,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1588973,0.84,1.27,0.84,3,,,,,,,,,,,,,,,,
+Grant McAtee,WR,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1200,1654083,0.6,1.2,0.5,3.6,,,,,,,,,,,,,,,,
+Grayson O'Bara,WR,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1400,1392286,0,0.84,0,4.2,,,,,,,,,,,,,,,,
+Kelvin Washington,RB,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1594200,0,0.6,0,3,,,,,,,,,,,,,,,,
+Adarion Nettles,RB,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1653968,0,0.6,0,3,,,,,,,,,,,,,,,,
+Zachary Yang,RB,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1608263,0,0.6,0,3,,,,,,,,,,,,,,,,
+Jamarcea Plater,RB,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1653935,0,0.6,0,3,,,,,,,,,,,,,,,,
+Sevion Morrison,RB,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1214023,0,0.6,0,3,,,,,,,,,,,,,,,,
+Colin Page,RB,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1399145,0,0.6,0,3,,,,,,,,,,,,,,,,
+Kuba Malecki,WR,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1653945,0,0.6,0,3,,,,,,,,,,,,,,,,
+Jackson Muckelroy,WR,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1462645,0,0.6,0,3,,,,,,,,,,,,,,,,
+Drew Clemens,WR,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1582993,0,0.6,0,3,,,,,,,,,,,,,,,,
+Max Moore,WR,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1653938,0,0.6,0,3,,,,,,,,,,,,,,,,
+Kainon Gibson,WR,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1653936,0,0.6,0,3,,,,,,,,,,,,,,,,
+Connor Vaughn,WR,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1408406,0,0.6,0,3,,,,,,,,,,,,,,,,
+Joshua Rushing,WR,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1651874,0,0.6,0,3,,,,,,,,,,,,,,,,
+Cole Greene,WR,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1445138,0,0.6,0,3,,,,,,,,,,,,,,,,
+Jerious Singletary,WR,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1653972,0,0.6,0,3,,,,,,,,,,,,,,,,
+Victor Aderungboye,WR,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1514240,0,0.6,0,3,,,,,,,,,,,,,,,,
+Lathon Latiolais,WR,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1653967,0,0.6,0,3,,,,,,,,,,,,,,,,
+Eli Nikolas,WR,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1655471,0,0.6,0,3,,,,,,,,,,,,,,,,
+Courtney Lewis Jr.,WR,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1651878,0,0.6,0,3,,,,,,,,,,,,,,,,
+Xavier Green,WR,3512,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1653944,0,0.6,0,3,,,,,,,,,,,,,,,,
+Dalton Carnes,WR,3587,Showdown Captain Mode,,Showdown Captain Mode Showdown Captain Mode,1000,1430335,0,0.6,0,3,,,,,,,,,,,,,,,,
