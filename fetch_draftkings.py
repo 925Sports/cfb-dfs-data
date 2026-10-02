@@ -115,7 +115,13 @@ def fetch_draftables(dg_id):
                 away, home = (matchup.split("@") + ["", ""])[:2]
                 start = ""
                 if len(parts) >= 3:
-                    start = " ".join(parts[1:3])
+                    raw_start = " ".join(parts[1:3]).replace("ET", "").strip()
+                    try:
+                        start = datetime.strptime(raw_start, "%m/%d/%Y %I:%M%p").replace(
+                            tzinfo=ZoneInfo("America/New_York")
+                        ).isoformat()
+                    except Exception:
+                        start = ""
                 first, _, last = name.partition(" ")
                 converted.append({
                     "draftableId": draftable_id,
