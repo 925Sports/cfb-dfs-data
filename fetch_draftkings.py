@@ -306,6 +306,10 @@ def main():
             first = p.get("firstName") or ""
             last = p.get("lastName") or ""
             salary = p.get("salary") or 0
+            try:
+                salary = int(float(str(salary).replace(",", "").replace("$", "") or 0))
+            except (TypeError, ValueError):
+                salary = 0
             pos = p.get("position") or ""
             # CFB lists TEs as WR on DK Classic. Keep CPT/K as-is for Showdown.
             if pos == "TE":
