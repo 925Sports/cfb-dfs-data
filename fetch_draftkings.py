@@ -6,6 +6,7 @@ Classic CFB uses QB / RB / RB / WR / WR / WR / FLEX / SFLEX (no TE, no DST).
 Showdown remains CPT + 5 FLEX and may include kickers.
 """
 import csv
+import io
 from collections import defaultdict
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -91,11 +92,60 @@ KEEP_CONTEST_TYPES = {94, 95}
 
 
 def fetch_draftables(dg_id):
-    """DK blocks some hosts on the old draftables URL. Try working mirrors."""
+    """DK blocks some hosts on the old draftables URL. The salaries CSV has the upload ID."""
+    csv_url = f"https://www.draftkings.com/lineup/getavailableplayerscsv?draftGroupId={dg_id}"
+    try:
+        r = requests.get(csv_url, headers=HEADERS, timeout=30)
+        if r.status_code == 200 and "Name" in r.text and "ID" in r.text:
+            text = r.text.lstrip("\ufeff")
+            reader = csv.DictReader(io.StringIO(text))
+            converted = []
+            for p in reader:
+                name = (p.get("Name") or "").strip()
+                draftable_id = (p.get("ID") or "").strip()
+                if not name or not draftable_id:
+                    continue
+                roster = (p.get("Roster Position") or "").strip()
+                pos = (p.get("Position") or roster or "").split("/")[0].strip()
+                if roster == "CPT":
+                    pos = "CPT"
+                game = p.get("Game Info") or ""
+                parts = game.split()
+                matchup = parts[0] if parts else ""
+                away, home = (matchup.split("@") + ["", ""])[:2]
+                start = ""
+                if len(parts) >= 3:
+                    start = " ".join(parts[1:3])
+                first, _, last = name.partition(" ")
+                converted.append({
+                    "draftableId": draftable_id,
+                    "playerId": draftable_id,
+                    "displayName": name,
+                    "firstName": first,
+                    "lastName": last,
+                    "salary": p.get("Salary") or 0,
+                    "position": pos,
+                    "teamAbbreviation": p.get("TeamAbbrev") or "",
+                    "playerImage50": "",
+                    "competition": {
+                        "competitionId": matchup,
+                        "startTime": start,
+                        "name": f"{away} @ {home}" if away and home else game,
+                        "homeTeam": {"abbreviation": home},
+                        "awayTeam": {"abbreviation": away},
+                    },
+                })
+            if converted:
+                print(f"    ok {len(converted)} from salaries CSV")
+                return {"draftables": converted}
+        else:
+            print(f"    salaries CSV {r.status_code}")
+    except Exception as e:
+        print(f"    salaries CSV error: {e}")
+
     urls = [
         f"https://api.draftkings.com/sites/US-DK/draftgroups/v1/draftgroups/{dg_id}/draftables",
         f"https://api.draftkings.com/draftgroups/v1/draftgroups/{dg_id}/draftables?format=json",
-        f"https://www.draftkings.com/lineup/getavailableplayers?draftGroupId={dg_id}",
     ]
     last = None
     for url in urls:
@@ -109,30 +159,6 @@ def fetch_draftables(dg_id):
             if data.get("draftables"):
                 print(f"    ok {len(data['draftables'])} from {url.split('/')[2]}")
                 return data
-            # lineup/getavailableplayers shape
-            plist = data.get("playerList") or []
-            if plist:
-                converted = []
-                for p in plist:
-                    converted.append({
-                        "draftableId": p.get("did") or p.get("pid"),
-                        "playerId": p.get("pid"),
-                        "displayName": p.get("fn") and f"{p.get('fn','')} {p.get('ln','')}".strip() or p.get("pn") or "",
-                        "firstName": p.get("fn") or "",
-                        "lastName": p.get("ln") or "",
-                        "salary": p.get("s") or 0,
-                        "position": p.get("pn") or p.get("pos") or "",
-                        "teamAbbreviation": p.get("tid") or p.get("htid") or "",
-                        "playerImage50": "",
-                        "competition": {
-                            "competitionId": p.get("tsid") or "",
-                            "startTime": "",
-                            "homeTeam": {"abbreviation": p.get("htid") or ""},
-                            "awayTeam": {"abbreviation": p.get("atid") or ""},
-                        },
-                    })
-                print(f"    ok {len(converted)} from getavailableplayers")
-                return {"draftables": converted}
         except Exception as e:
             print(f"    error {url.split('/')[2]}: {e}")
             last = e
