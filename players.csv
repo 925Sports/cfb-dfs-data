@@ -1,154 +1,156 @@
 Player Name,Position,Team,Slate Type,Date,Role,Salary,Draftable ID,Projected FP,Combined FP,Value,Implied FP,Passing TDs,Rushing Yards,Receiving Yards,Passing Yards,Rush+Rec Yards,Anytime TD,Passing Attempts,Fantasy Score,Headshot URL,Game Start Time,Match Title (Underdog),Game Short Title (Underdog),Venue Name (Underdog),Venue Type (Underdog),Broadcasts (Underdog),Game Start Time (DRAFTTABLE)
-Micah Alejado,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),14400,44354353,22.05,26.28,1.53,43.2,,,,,,,,,,,,,,,,10/4/2026
-Noah Fifita,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),16500,44354209,20.44,26.25,1.24,49.5,,,,,,,,,,,,,,,,10/3/2026
+Noah Fifita,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),16500,44354209,21.32,26.96,1.29,49.5,,,,,,,,,,,,,,,,10/3/2026
+Micah Alejado,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),14400,44354353,20.83,25.31,1.45,43.2,,,,,,,,,,,,,,,,10/4/2026
+Luke Weaver,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),14100,44354354,20,24.46,1.42,42.3,,,,,,,,,,,,,,,,10/4/2026
 Brad Jackson,QB,TXST,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",8100,44338191,24.12,24.16,2.98,24.3,,,,,,,,,,,,,,,,10/3/2026
-Micah Alejado,QB,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),9600,44354282,22.05,23.4,2.3,28.8,,,,,,,,,,,,,,,,10/4/2026
-Luke Weaver,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),14100,44354354,18.16,22.99,1.29,42.3,,,,,,,,,,,,,,,,10/4/2026
-Noah Fifita,QB,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),11000,44354136,20.44,22.95,1.86,33,,,,,,,,,,,,,,,,10/3/2026
-DeVon Rice,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),12600,44354356,18.4,22.28,1.46,37.8,,,,,,,,,,,,,,,,10/4/2026
-Micah Alejado,QB,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",7100,44337905,22.05,21.9,3.11,21.3,,,,,,,,,,,,,,,,10/4/2026
+Noah Fifita,QB,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),11000,44354136,21.32,23.66,1.94,33,,,,,,,,,,,,,,,,10/3/2026
+Micah Alejado,QB,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),9600,44354282,20.83,22.43,2.17,28.8,,,,,,,,,,,,,,,,10/4/2026
+Noah Fifita,QB,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",8400,44337628,21.32,22.1,2.54,25.2,,,,,,,,,,,,,,,,10/3/2026
+Luke Weaver,QB,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),9400,44354283,20,21.64,2.13,28.2,,,,,,,,,,,,,,,,10/4/2026
 JC French IV,CPT,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),14400,44354211,15.98,21.42,1.11,43.2,,,,,,,,,,,,,,,,10/3/2026
-Noah Fifita,QB,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",8400,44337628,20.44,21.39,2.43,25.2,,,,,,,,,,,,,,,,10/3/2026
+DeVon Rice,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),12600,44354356,16.96,21.13,1.35,37.8,,,,,,,,,,,,,,,,10/4/2026
+Micah Alejado,QB,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",7100,44337905,20.83,20.93,2.93,21.3,,,,,,,,,,,,,,,,10/4/2026
 Carson Clark,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),12900,44354355,16.02,20.56,1.24,38.7,,,,,,,,,,,,,,,,10/4/2026
-Luke Weaver,QB,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),9400,44354283,18.16,20.17,1.93,28.2,,,,,,,,,,,,,,,,10/4/2026
-Jabari Bates,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),10800,44354361,16.95,20.04,1.57,32.4,,,,,,,,,,,,,,,,10/4/2026
+Luke Weaver,QB,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6900,44337537,20,20.14,2.9,20.7,,,,,,,,,,,,,,,,10/4/2026
 Pofele Ashlock,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),11700,44354359,16.13,19.92,1.38,35.1,,,,,,,,,,,,,,,,10/4/2026
-DeVon Rice,RB,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),8400,44354285,18.4,19.76,2.19,25.2,,,,,,,,,,,,,,,,10/4/2026
 Gavin Freeman,WR,BAY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6200,44337857,19.89,19.63,3.21,18.6,,,,,,,,,,,,,,,,10/3/2026
 Tre Spivey,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),13200,44354212,14.58,19.58,1.1,39.6,,,,,,,,,,,,,,,,10/3/2026
 DJ Lagway,QB,BAY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6700,44337814,18.99,19.21,2.83,20.1,,,,,,,,,,,,,,,,10/3/2026
-Tama Uiliata,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),9900,44354363,15.95,18.7,1.61,29.7,,,,,,,,,,,,,,,,10/4/2026
-DeVon Rice,RB,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6600,44337913,18.4,18.68,2.79,19.8,,,,,,,,,,,,,,,,10/4/2026
-Luke Weaver,QB,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6900,44337537,18.16,18.67,2.63,20.7,,,,,,,,,,,,,,,,10/4/2026
-Reed Harris,WR,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",7100,44337775,17.97,18.63,2.53,21.3,,,,,,,,,,,,,,,,10/3/2026
+Cutter Boley,QB,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",7400,44337725,18.35,19.12,2.48,22.2,,,,,,,,,,,,,,,,10/3/2026
+DeVon Rice,RB,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),8400,44354285,16.96,18.61,2.02,25.2,,,,,,,,,,,,,,,,10/4/2026
+Jabari Bates,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),10800,44354361,15.13,18.59,1.4,32.4,,,,,,,,,,,,,,,,10/4/2026
 JC French IV,QB,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),9600,44354138,15.98,18.54,1.66,28.8,,,,,,,,,,,,,,,,10/3/2026
 Cooper Hoch,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),12300,44354357,13.72,18.36,1.12,36.9,,,,,,,,,,,,,,,,10/4/2026
 JV Gibson,CPT,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),11400,44354215,14.37,18.34,1.26,34.2,,,,,,,,,,,,,,,,10/3/2026
+Tama Uiliata,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),9900,44354363,15.23,18.12,1.54,29.7,,,,,,,,,,,,,,,,10/4/2026
 Torrance Burgess Jr.,RB,TXST,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5300,44338201,18.51,17.99,3.49,15.9,,,,,,,,,,,,,,,,10/3/2026
 Carson Clark,WR,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),8600,44354284,16.02,17.98,1.86,25.8,,,,,,,,,,,,,,,,10/4/2026
-Jabari Bates,RB,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),7200,44354290,16.95,17.88,2.35,21.6,,,,,,,,,,,,,,,,10/4/2026
+Reed Harris,WR,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",7100,44337775,16.88,17.76,2.38,21.3,,,,,,,,,,,,,,,,10/3/2026
 Pofele Ashlock,WR,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),7800,44354288,16.13,17.58,2.07,23.4,,,,,,,,,,,,,,,,10/4/2026
-Omarion Miller,WR,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6000,44337778,17.48,17.58,2.91,18,,,,,,,,,,,,,,,,10/3/2026
 Gi'Bran Payne,CPT,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),10500,44354217,14.05,17.54,1.34,31.5,,,,,,,,,,,,,,,,10/3/2026
-Cutter Boley,QB,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",7400,44337725,16.38,17.54,2.21,22.2,,,,,,,,,,,,,,,,10/3/2026
-Jabari Bates,RB,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6000,44337547,16.95,17.16,2.82,18,,,,,,,,,,,,,,,,10/4/2026
+DeVon Rice,RB,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6600,44337913,16.96,17.53,2.57,19.8,,,,,,,,,,,,,,,,10/4/2026
 Tre Spivey,WR,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),8800,44354139,14.58,16.94,1.66,26.4,,,,,,,,,,,,,,,,10/3/2026
-Giovanni Richardson,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),11100,44354216,12.81,16.91,1.15,33.3,,,,,,,,,,,,,,,,10/3/2026
 Carson Clark,WR,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6800,44337583,16.02,16.9,2.36,20.4,,,,,,,,,,,,,,,,10/4/2026
-Kyson Brown,RB,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5800,44337733,16.74,16.87,2.89,17.4,,,,,,,,,,,,,,,,10/3/2026
 Lucky Sutton,RB,SDSU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6400,44338011,16.17,16.78,2.53,19.2,,,,,,,,,,,,,,,,10/3/2026
 Pofele Ashlock,WR,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6400,44337952,16.13,16.74,2.52,19.2,,,,,,,,,,,,,,,,10/4/2026
-Tama Uiliata,WR,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),6600,44354292,15.95,16.72,2.42,19.8,,,,,,,,,,,,,,,,10/4/2026
 JC French IV,QB,CINCY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6400,44338092,15.98,16.62,2.5,19.2,,,,,,,,,,,,,,,,10/3/2026
-Tama Uiliata,WR,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5600,44337955,15.95,16.12,2.85,16.8,,,,,,,,,,,,,,,,10/4/2026
-Jayden Denegal,QB,SDSU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6000,44338003,15.61,16.09,2.6,18,,,,,,,,,,,,,,,,10/3/2026
+Omarion Miller,WR,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6000,44337778,16.13,16.5,2.69,18,,,,,,,,,,,,,,,,10/3/2026
+Jabari Bates,RB,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),7200,44354290,15.13,16.43,2.1,21.6,,,,,,,,,,,,,,,,10/4/2026
+Tama Uiliata,WR,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),6600,44354292,15.23,16.14,2.31,19.8,,,,,,,,,,,,,,,,10/4/2026
 JV Gibson,WR,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),7600,44354142,14.37,16.06,1.89,22.8,,,,,,,,,,,,,,,,10/3/2026
 Cooper Hoch,WR,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),8200,44354286,13.72,15.9,1.67,24.6,,,,,,,,,,,,,,,,10/4/2026
 Davian Jackson,RB,TXST,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5000,44338204,16.06,15.85,3.21,15,,,,,,,,,,,,,,,,10/3/2026
+Jabari Bates,RB,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6000,44337547,15.13,15.71,2.52,18,,,,,,,,,,,,,,,,10/4/2026
+Tama Uiliata,WR,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5600,44337955,15.23,15.54,2.72,16.8,,,,,,,,,,,,,,,,10/4/2026
+Kyson Brown,RB,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5800,44337733,14.98,15.46,2.58,17.4,,,,,,,,,,,,,,,,10/3/2026
 Gi'Bran Payne,RB,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),7000,44354144,14.05,15.44,2.01,21,,,,,,,,,,,,,,,,10/3/2026
+Jayden Denegal,QB,SDSU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6000,44338003,14.77,15.41,2.46,18,,,,,,,,,,,,,,,,10/3/2026
+Jerry McClure,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),9300,44354364,12.2,15.34,1.31,27.9,,,,,,,,,,,,,,,,10/4/2026
 Tre Spivey,WR,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5900,44337686,14.58,15.2,2.47,17.7,,,,,,,,,,,,,,,,10/3/2026
 Kainoa Carvalho,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),8100,44354373,12.78,15.08,1.58,24.3,,,,,,,,,,,,,,,,10/4/2026
 Cooper Hoch,WR,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6700,44337586,13.72,15,2.05,20.1,,,,,,,,,,,,,,,,10/4/2026
 JV Gibson,WR,CINCY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5400,44338143,14.37,14.74,2.66,16.2,,,,,,,,,,,,,,,,10/3/2026
 Dawson Pendergrass,RB,BAY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6100,44337824,13.81,14.71,2.26,18.3,,,,,,,,,,,,,,,,10/3/2026
-Giovanni Richardson,WR,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),7400,44354143,12.81,14.69,1.73,22.2,,,,,,,,,,,,,,,,10/3/2026
+Kedrick Reescano,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),12000,44354214,9.37,14.7,0.78,36,,,,,,,,,,,,,,,,10/3/2026
+Giovanni Richardson,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),11100,44354216,9.98,14.65,0.9,33.3,,,,,,,,,,,,,,,,10/3/2026
 Chris Dawn Jr.,WR,TXST,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5000,44338243,14.35,14.48,2.87,15,,,,,,,,,,,,,,,,10/3/2026
-Jerry McClure,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),9300,44354364,10.98,14.36,1.18,27.9,,,,,,,,,,,,,,,,10/4/2026
 Gi'Bran Payne,RB,CINCY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5100,44338104,14.05,14.3,2.75,15.3,,,,,,,,,,,,,,,,10/3/2026
 Cole Tabb,CPT,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),9600,44354219,10.5,14.16,1.09,28.8,,,,,,,,,,,,,,,,10/3/2026
-Kedrick Reescano,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),12000,44354214,8.55,14.04,0.71,36,,,,,,,,,,,,,,,,10/3/2026
+Jerry McClure,WR,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),6200,44354293,12.2,13.48,1.97,18.6,,,,,,,,,,,,,,,,10/4/2026
 Kainoa Carvalho,WR,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),5400,44354302,12.78,13.46,2.37,16.2,,,,,,,,,,,,,,,,10/4/2026
-Giovanni Richardson,WR,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5300,44337689,12.81,13.43,2.42,15.9,,,,,,,,,,,,,,,,10/3/2026
+Jerry McClure,WR,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5200,44337589,12.2,12.88,2.35,15.6,,,,,,,,,,,,,,,,10/4/2026
 Kainoa Carvalho,WR,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4300,44337958,12.78,12.8,2.97,12.9,,,,,,,,,,,,,,,,10/4/2026
 Isaiah Johnson,CPT,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),7800,44354230,10.1,12.76,1.29,23.4,,,,,,,,,,,,,,,,10/3/2026
 Chris Hunter,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),9300,44354220,8.77,12.59,0.94,27.9,,,,,,,,,,,,,,,,10/3/2026
-Jerry McClure,WR,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),6200,44354293,10.98,12.5,1.77,18.6,,,,,,,,,,,,,,,,10/4/2026
+Audric Harris,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),8400,44354372,9.36,12.52,1.11,25.2,,,,,,,,,,,,,,,,10/4/2026
 Javion Kinnard,RB,SDSU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5700,44338014,11.33,12.49,1.99,17.1,,,,,,,,,,,,,,,,10/3/2026
+Giovanni Richardson,WR,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),7400,44354143,9.98,12.43,1.35,22.2,,,,,,,,,,,,,,,,10/3/2026
 Ismail Mahdi,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),9900,44354218,8.06,12.39,0.81,29.7,,,,,,,,,,,,,,,,10/3/2026
+Kedrick Reescano,RB,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),8000,44354141,9.37,12.3,1.17,24,,,,,,,,,,,,,,,,10/3/2026
 Cole Tabb,RB,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),6400,44354146,10.5,12.24,1.64,19.2,,,,,,,,,,,,,,,,10/3/2026
-Jerry McClure,WR,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5200,44337589,10.98,11.9,2.11,15.6,,,,,,,,,,,,,,,,10/4/2026
-Audric Harris,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),8400,44354372,8.52,11.85,1.01,25.2,,,,,,,,,,,,,,,,10/4/2026
-Kedrick Reescano,RB,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),8000,44354141,8.55,11.64,1.07,24,,,,,,,,,,,,,,,,10/3/2026
 Cole Tabb,RB,CINCY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4800,44338107,10.5,11.28,2.19,14.4,,,,,,,,,,,,,,,,10/3/2026
 Isaiah Johnson,WR,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),5200,44354157,10.1,11.2,1.94,15.6,,,,,,,,,,,,,,,,10/3/2026
+Giovanni Richardson,WR,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5300,44337689,9.98,11.17,1.88,15.9,,,,,,,,,,,,,,,,10/3/2026
 Jadon Porter,WR,BAY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4900,44337863,9.96,10.91,2.03,14.7,,,,,,,,,,,,,,,,10/3/2026
+Kedrick Reescano,RB,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5600,44337638,9.37,10.86,1.67,16.8,,,,,,,,,,,,,,,,10/3/2026
+Audric Harris,WR,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),5600,44354301,9.36,10.84,1.67,16.8,,,,,,,,,,,,,,,,10/4/2026
 Chris Hunter,WR,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),6200,44354147,8.77,10.73,1.41,18.6,,,,,,,,,,,,,,,,10/3/2026
 Isaiah Johnson,WR,CINCY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4200,44338146,10.1,10.6,2.4,12.6,,,,,,,,,,,,,,,,10/3/2026
 Beau Sparks,WR,TXST,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5700,44338240,8.9,10.54,1.56,17.1,,,,,,,,,,,,,,,,10/3/2026
 Ismail Mahdi,RB,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),6600,44354145,8.06,10.41,1.22,19.8,,,,,,,,,,,,,,,,10/3/2026
 Caden Knighten,RB,BAY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5500,44337827,8.74,10.29,1.59,16.5,,,,,,,,,,,,,,,,10/3/2026
-Kedrick Reescano,RB,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5600,44337638,8.55,10.2,1.53,16.8,,,,,,,,,,,,,,,,10/3/2026
-Audric Harris,WR,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),5600,44354301,8.52,10.17,1.52,16.8,,,,,,,,,,,,,,,,10/4/2026
+Quincy Craig,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),8700,44354228,6,10.02,0.69,26.1,,,,,,,,,,,,,,,,10/3/2026
 Chris Hunter,WR,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4800,44337692,8.77,9.89,1.83,14.4,,,,,,,,,,,,,,,,10/3/2026
+Audric Harris,WR,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4000,44337964,9.36,9.88,2.34,12,,,,,,,,,,,,,,,,10/4/2026
 Jayden McGowan,WR,BAY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5100,44337866,8.3,9.7,1.63,15.3,,,,,,,,,,,,,,,,10/3/2026
 Nathan Acevedo,WR,SDSU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4700,44338047,8.52,9.64,1.81,14.1,,,,,,,,,,,,,,,,10/3/2026
 Josiah Lucas,RB,SDSU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4100,44338020,8.98,9.64,2.19,12.3,,,,,,,,,,,,,,,,10/3/2026
-Quincy Craig,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),8700,44354228,5.41,9.55,0.62,26.1,,,,,,,,,,,,,,,,10/3/2026
 DJ Jordan,WR,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3000,44337710,9.56,9.45,3.19,9,,,,,,,,,,,,,,,,10/3/2026
 Sawyer Anderson,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),15000,44354210,0.52,9.42,0.03,45,,,,,,,,,,,,,,,,10/3/2026
 Ismail Mahdi,RB,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4900,44337641,8.06,9.39,1.65,14.7,,,,,,,,,,,,,,,,10/3/2026
-Audric Harris,WR,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4000,44337964,8.52,9.21,2.13,12,,,,,,,,,,,,,,,,10/4/2026
 Louis Brown IV,WR,BAY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4400,44337860,7.84,8.92,1.78,13.2,,,,,,,,,,,,,,,,10/3/2026
 Anthony Ivey,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),5400,44354382,7.04,8.87,1.3,16.2,,,,,,,,,,,,,,,,10/4/2026
-Demarius Robinson,RB,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4000,44337748,8.05,8.84,2.01,12,,,,,,,,,,,,,,,,10/3/2026
 DJ Jordan,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),1500,44354269,9.56,8.55,6.38,4.5,,,,,,,,,,,,,,,,10/3/2026
-Donovan Brown,WR,SDSU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4200,44338044,7.2,8.28,1.72,12.6,,,,,,,,,,,,,,,,10/3/2026
+Quincy Craig,RB,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),5800,44354155,6,8.28,1.03,17.4,,,,,,,,,,,,,,,,10/3/2026
 DJ Jordan,WR,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),1000,44354196,9.56,8.25,9.56,3,,,,,,,,,,,,,,,,10/3/2026
+Isaiah Mizell,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),6300,44354236,5.57,8.23,0.88,18.9,,,,,,,,,,,,,,,,10/3/2026
+Demarius Robinson,RB,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4000,44337748,7.05,8.04,1.76,12,,,,,,,,,,,,,,,,10/3/2026
 Sitani Mikaele,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),8700,44354371,3.5,8.02,0.4,26.1,,,,,,,,,,,,,,,,10/4/2026
 Cole Rusk,WR,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3500,44337662,7.37,8,2.11,10.5,,,,,,,,,,,,,,,,10/3/2026
 Cole Rusk,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),3300,44354244,7.37,7.88,2.23,9.9,,,,,,,,,,,,,,,,10/3/2026
-Isaiah Mizell,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),6300,44354236,5.11,7.87,0.81,18.9,,,,,,,,,,,,,,,,10/3/2026
 Anthony Ivey,WR,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3700,44337595,7.04,7.85,1.9,11.1,,,,,,,,,,,,,,,,10/4/2026
-Quincy Craig,RB,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),5800,44354155,5.41,7.81,0.93,17.4,,,,,,,,,,,,,,,,10/3/2026
+Donovan Brown,WR,SDSU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4200,44338044,6.65,7.84,1.58,12.6,,,,,,,,,,,,,,,,10/3/2026
 Anthony Ivey,WR,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),3600,44354311,7.04,7.79,1.95,10.8,,,,,,,,,,,,,,,,10/4/2026
 Samaj Jones,CPT,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),12900,44354213,0,7.74,0,38.7,,,,,,,,,,,,,,,,10/3/2026
+Quincy Craig,RB,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4700,44337644,6,7.62,1.28,14.1,,,,,,,,,,,,,,,,10/3/2026
 Bjorn Jurgensen,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),12000,44354358,0.45,7.56,0.04,36,,,,,,,,,,,,,,,,10/4/2026
 Malachi Henry,CPT,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),5100,44354238,5.62,7.55,1.1,15.3,,,,,,,,,,,,,,,,10/3/2026
 Jackson Ford,WR,SDSU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3500,44338023,6.71,7.47,1.92,10.5,,,,,,,,,,,,,,,,10/3/2026
 Kylen Evans,WR,TXST,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3900,44338246,6.35,7.42,1.63,11.7,,,,,,,,,,,,,,,,10/3/2026
+Jordan Williams,WR,TXST,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3000,44338231,6.98,7.39,2.33,9,,,,,,,,,,,,,,,,10/3/2026
 Gavin Grover,CPT,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),4200,44354241,6.05,7.36,1.44,12.6,,,,,,,,,,,,,,,,10/3/2026
 Rodney Gallagher III,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),4800,44354239,5.43,7.22,1.13,14.4,,,,,,,,,,,,,,,,10/3/2026
 Cole Rusk,WR,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),2200,44354171,7.37,7.22,3.35,6.6,,,,,,,,,,,,,,,,10/3/2026
-Quincy Craig,RB,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4700,44337644,5.41,7.15,1.15,14.1,,,,,,,,,,,,,,,,10/3/2026
+Jacob Bostick,WR,SDSU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3600,44338062,6.29,7.2,1.75,10.8,,,,,,,,,,,,,,,,10/3/2026
 Gavin Grover,WR,CINCY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3700,44338122,6.05,7.06,1.63,11.1,,,,,,,,,,,,,,,,10/3/2026
-Jordan Williams,WR,TXST,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3000,44338231,6.45,6.96,2.15,9,,,,,,,,,,,,,,,,10/3/2026
+Isaiah Mizell,WR,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),4200,44354163,5.57,6.97,1.33,12.6,,,,,,,,,,,,,,,,10/3/2026
+Isaiah Mizell,WR,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4100,44337698,5.57,6.91,1.36,12.3,,,,,,,,,,,,,,,,10/3/2026
 Devin Alves,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),6000,44354381,4.06,6.85,0.68,18,,,,,,,,,,,,,,,,10/4/2026
 Robert McDaniel,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),11400,44354360,0,6.84,0,34.2,,,,,,,,,,,,,,,,10/4/2026
 Malachi Henry,WR,CINCY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3900,44338152,5.62,6.83,1.44,11.7,,,,,,,,,,,,,,,,10/3/2026
-Malachi Riley,WR,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3100,44337601,6.01,6.67,1.94,9.3,,,,,,,,,,,,,,,,10/4/2026
+Malachi Riley,WR,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3100,44337601,6.21,6.83,2,9.3,,,,,,,,,,,,,,,,10/4/2026
 Rodney Gallagher III,WR,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3800,44337695,5.43,6.62,1.43,11.4,,,,,,,,,,,,,,,,10/3/2026
-Isaiah Mizell,WR,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),4200,44354163,5.11,6.61,1.22,12.6,,,,,,,,,,,,,,,,10/3/2026
 Blaze Kamoku,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),3900,44354385,5.32,6.59,1.36,11.7,,,,,,,,,,,,,,,,10/4/2026
-Isaiah Mizell,WR,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4100,44337698,5.11,6.55,1.25,12.3,,,,,,,,,,,,,,,,10/3/2026
 Zechariah Sample,WR,TXST,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4000,44338249,5.18,6.54,1.29,12,,,,,,,,,,,,,,,,10/3/2026
-Brandon Phelps,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),3600,44354243,5.47,6.54,1.52,10.8,,,,,,,,,,,,,,,,10/3/2026
 Malachi Henry,WR,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),3400,44354165,5.62,6.53,1.65,10.2,,,,,,,,,,,,,,,,10/3/2026
 Gavin Grover,WR,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),2800,44354168,6.05,6.52,2.16,8.4,,,,,,,,,,,,,,,,10/3/2026
-Brandon Phelps,WR,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3500,44337701,5.47,6.48,1.56,10.5,,,,,,,,,,,,,,,,10/3/2026
-Jacob Bostick,WR,SDSU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3600,44338062,5.37,6.46,1.49,10.8,,,,,,,,,,,,,,,,10/3/2026
 Dre'lon Miller,WR,BAY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3300,44337875,5.6,6.46,1.7,9.9,,,,,,,,,,,,,,,,10/3/2026
 Sawyer Anderson,QB,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),10000,44354137,0.52,6.42,0.05,30,,,,,,,,,,,,,,,,10/3/2026
+Viliami Teu,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),6600,44354380,3.06,6.41,0.46,19.8,,,,,,,,,,,,,,,,10/4/2026
 Marquis Gillis,RB,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5400,44337736,3.96,6.41,0.73,16.2,,,,,,,,,,,,,,,,10/3/2026
 Cam Barfield,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),10500,44354362,0,6.3,0,31.5,,,,,,,,,,,,,,,,10/4/2026
 Sitani Mikaele,RB,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),5800,44354300,3.5,6.28,0.6,17.4,,,,,,,,,,,,,,,,10/4/2026
+Jordan Anderson,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),4800,44354383,4.24,6.28,0.88,14.4,,,,,,,,,,,,,,,,10/4/2026
 Rodney Gallagher III,WR,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),3200,44354166,5.43,6.26,1.7,9.6,,,,,,,,,,,,,,,,10/3/2026
+Ryan Wolfer,WR,SDSU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3200,44338026,5.4,6.24,1.69,9.6,,,,,,,,,,,,,,,,10/3/2026
 Blaze Kamoku,WR,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3300,44337967,5.32,6.23,1.61,9.9,,,,,,,,,,,,,,,,10/4/2026
-Viliami Teu,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),6600,44354380,2.76,6.17,0.42,19.8,,,,,,,,,,,,,,,,10/4/2026
 Antwan Roberts,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),8100,44354229,1.55,6.1,0.19,24.3,,,,,,,,,,,,,,,,10/3/2026
+Malachi Riley,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),1800,44354390,6.21,6.05,3.45,5.4,,,,,,,,,,,,,,,,10/4/2026
 Liam O'Brien,CPT,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),9000,44354226,0.65,5.92,0.07,27,,,,,,,,,,,,,,,,10/3/2026
 Daniel Rolovich,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),9000,44354366,0.62,5.9,0.07,27,,,,,,,,,,,,,,,,10/4/2026
-Malachi Riley,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),1800,44354390,6.01,5.89,3.34,5.4,,,,,,,,,,,,,,,,10/4/2026
-Brandon Phelps,WR,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),2400,44354170,5.47,5.82,2.28,7.2,,,,,,,,,,,,,,,,10/3/2026
 Blaze Kamoku,WR,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),2600,44354314,5.32,5.81,2.04,7.8,,,,,,,,,,,,,,,,10/4/2026
 Jaylen Jenkins,RB,TXST,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4400,44338207,3.94,5.79,0.9,13.2,,,,,,,,,,,,,,,,10/3/2026
+Brandon Phelps,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),3600,44354243,4.51,5.77,1.25,10.8,,,,,,,,,,,,,,,,10/3/2026
 Bert Emanuel Jr.,WR,SDSU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4500,44338059,3.78,5.72,0.84,13.5,,,,,,,,,,,,,,,,10/3/2026
+Brandon Phelps,WR,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3500,44337701,4.51,5.71,1.29,10.5,,,,,,,,,,,,,,,,10/3/2026
+Malachi Riley,WR,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),1200,44354319,6.21,5.69,5.17,3.6,,,,,,,,,,,,,,,,10/4/2026
 Devin Alves,WR,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),4000,44354310,4.06,5.65,1.02,12,,,,,,,,,,,,,,,,10/4/2026
+Devon Tauaefa,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),4200,44354384,3.88,5.62,0.92,12.6,,,,,,,,,,,,,,,,10/4/2026
 Zion Johnson,CPT,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),6600,44354235,2.01,5.57,0.3,19.8,,,,,,,,,,,,,,,,10/3/2026
 Sitani Mikaele,RB,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4600,44337919,3.5,5.56,0.76,13.8,,,,,,,,,,,,,,,,10/4/2026
 Isaiah Carlson,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),6900,44354379,1.75,5.54,0.25,20.7,,,,,,,,,,,,,,,,10/4/2026
 Devin Alves,WR,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3800,44337961,4.06,5.53,1.07,11.4,,,,,,,,,,,,,,,,10/4/2026
-Malachi Riley,WR,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),1200,44354319,6.01,5.53,5.01,3.6,,,,,,,,,,,,,,,,10/4/2026
-Ryan Wolfer,WR,SDSU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3200,44338026,4.38,5.42,1.37,9.6,,,,,,,,,,,,,,,,10/3/2026
+Jordan Anderson,WR,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3500,44337592,4.24,5.5,1.21,10.5,,,,,,,,,,,,,,,,10/4/2026
 Oscar Rios,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),9000,44354221,0,5.4,0,27,,,,,,,,,,,,,,,,10/3/2026
 Luke Haugo,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),9000,44354222,0,5.4,0,27,,,,,,,,,,,,,,,,10/3/2026
 Will Kocher,CPT,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),9000,44354223,0,5.4,0,27,,,,,,,,,,,,,,,,10/3/2026
@@ -161,21 +163,23 @@ CJ Lee,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown C
 Hazyn Botelho,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),9000,44354369,0,5.4,0,27,,,,,,,,,,,,,,,,10/4/2026
 Tyler Jacklich,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),9000,44354370,0,5.4,0,27,,,,,,,,,,,,,,,,10/4/2026
 Jaylon Hawkins,WR,SDSU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3700,44338053,3.97,5.4,1.07,11.1,,,,,,,,,,,,,,,,10/3/2026
+Jordan Anderson,WR,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),3200,44354312,4.24,5.32,1.33,9.6,,,,,,,,,,,,,,,,10/4/2026
 Gavin Parkhurst,QB,TXST,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",7600,44338193,0.91,5.29,0.12,22.8,,,,,,,,,,,,,,,,10/3/2026
 Larenzo Fenner,CPT,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),4500,44354240,3.19,5.25,0.71,13.5,,,,,,,,,,,,,,,,10/3/2026
-Devon Tauaefa,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),4200,44354384,3.4,5.24,0.81,12.6,,,,,,,,,,,,,,,,10/4/2026
 Blake Smith,WR,TXST,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3500,44338219,3.84,5.17,1.1,10.5,,,,,,,,,,,,,,,,10/3/2026
 Samaj Jones,QB,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),8600,44354140,0,5.16,0,25.8,,,,,,,,,,,,,,,,10/3/2026
 Bjorn Jurgensen,QB,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),8000,44354287,0.45,5.16,0.06,24,,,,,,,,,,,,,,,,10/4/2026
 Sawyer Anderson,QB,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",7900,44337630,0.52,5.16,0.07,23.7,,,,,,,,,,,,,,,,10/3/2026
+Devon Tauaefa,WR,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3400,44337931,3.88,5.14,1.14,10.2,,,,,,,,,,,,,,,,10/4/2026
+Viliami Teu,RB,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),4400,44354309,3.06,5.09,0.7,13.2,,,,,,,,,,,,,,,,10/4/2026
+Brandon Phelps,WR,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),2400,44354170,4.51,5.05,1.88,7.2,,,,,,,,,,,,,,,,10/3/2026
 Tucker Cusano,WR,TXST,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3100,44338252,3.96,5.03,1.28,9.3,,,,,,,,,,,,,,,,10/3/2026
+Viliami Teu,RB,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4200,44337553,3.06,4.97,0.73,12.6,,,,,,,,,,,,,,,,10/4/2026
 Wesley Yarbrough,RB,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4000,44337650,3.15,4.92,0.79,12,,,,,,,,,,,,,,,,10/3/2026
-Viliami Teu,RB,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),4400,44354309,2.76,4.85,0.63,13.2,,,,,,,,,,,,,,,,10/4/2026
+Jordan Napier,WR,SDSU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3300,44338050,3.66,4.91,1.11,9.9,,,,,,,,,,,,,,,,10/3/2026
 Carson Brown,WR,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3200,44337970,3.63,4.83,1.14,9.6,,,,,,,,,,,,,,,,10/4/2026
-Jordan Anderson,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),4800,44354383,2.4,4.8,0.5,14.4,,,,,,,,,,,,,,,,10/4/2026
+Devon Tauaefa,WR,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),2800,44354313,3.88,4.78,1.39,8.4,,,,,,,,,,,,,,,,10/4/2026
 Larenzo Fenner,WR,CINCY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3700,44338149,3.19,4.77,0.86,11.1,,,,,,,,,,,,,,,,10/3/2026
-Devon Tauaefa,WR,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3400,44337931,3.4,4.76,1,10.2,,,,,,,,,,,,,,,,10/4/2026
-Viliami Teu,RB,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4200,44337553,2.76,4.73,0.66,12.6,,,,,,,,,,,,,,,,10/4/2026
 Carson Brown,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),3000,44354387,3.63,4.71,1.21,9,,,,,,,,,,,,,,,,10/4/2026
 Hudson Borsari,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),7800,44354374,0,4.68,0,23.4,,,,,,,,,,,,,,,,10/4/2026
 Sean Olvera-Harle,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),7800,44354375,0,4.68,0,23.4,,,,,,,,,,,,,,,,10/4/2026
@@ -184,6 +188,7 @@ Justius Lowe,WR,SDSU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4
 Michael Turner,RB,BAY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4200,44337830,2.59,4.59,0.62,12.6,,,,,,,,,,,,,,,,10/3/2026
 Robert McDaniel,QB,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),7600,44354289,0,4.56,0,22.8,,,,,,,,,,,,,,,,10/4/2026
 Cade Wolford,WR,CINCY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3200,44338155,3.27,4.54,1.02,9.6,,,,,,,,,,,,,,,,10/3/2026
+Kamaehu Kopa-Kaawalauole,WR,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3100,44337568,3.34,4.53,1.08,9.3,,,,,,,,,,,,,,,,10/4/2026
 Sullivan Moon,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),7500,44354231,0,4.5,0,22.5,,,,,,,,,,,,,,,,10/3/2026
 Michael Salgado-Medina,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),7500,44354232,0,4.5,0,22.5,,,,,,,,,,,,,,,,10/3/2026
 Joey Fernandez,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),7500,44354376,0,4.5,0,22.5,,,,,,,,,,,,,,,,10/4/2026
@@ -191,13 +196,12 @@ Trajan Sinatra,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Sh
 Mathias Brown,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),7500,44354378,0,4.5,0,22.5,,,,,,,,,,,,,,,,10/4/2026
 Antwan Roberts,RB,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),5400,44354156,1.55,4.48,0.29,16.2,,,,,,,,,,,,,,,,10/3/2026
 Mikey Keene,QB,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6900,44337727,0.38,4.45,0.06,20.7,,,,,,,,,,,,,,,,10/3/2026
-Devon Tauaefa,WR,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),2800,44354313,3.4,4.4,1.21,8.4,,,,,,,,,,,,,,,,10/4/2026
 Larenzo Fenner,WR,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),3000,44354167,3.19,4.35,1.06,9,,,,,,,,,,,,,,,,10/3/2026
 Stephen Rusnak,CPT,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),7200,44354233,0,4.32,0,21.6,,,,,,,,,,,,,,,,10/3/2026
 Max Lemasters,CPT,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),7200,44354234,0,4.32,0,21.6,,,,,,,,,,,,,,,,10/3/2026
 Bjorn Jurgensen,QB,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6600,44337907,0.45,4.32,0.07,19.8,,,,,,,,,,,,,,,,10/4/2026
 Lyviel Waters,WR,CINCY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3200,44338128,3,4.32,0.94,9.6,,,,,,,,,,,,,,,,10/3/2026
-Jordan Napier,WR,SDSU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3300,44338050,2.87,4.27,0.87,9.9,,,,,,,,,,,,,,,,10/3/2026
+Derek Eusebio,WR,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3000,44337793,3.09,4.27,1.03,9,,,,,,,,,,,,,,,,10/3/2026
 Zion Johnson,RB,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),4400,44354162,2.01,4.25,0.46,13.2,,,,,,,,,,,,,,,,10/3/2026
 Cam Barfield,RB,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),7000,44354291,0,4.2,0,21,,,,,,,,,,,,,,,,10/4/2026
 Tre' Griffiths,WR,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3000,44337973,3,4.2,1,9,,,,,,,,,,,,,,,,10/4/2026
@@ -211,18 +215,18 @@ Zylan Perry,CPT,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Show
 Carson Brown,WR,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),2000,44354316,3.63,4.11,1.82,6,,,,,,,,,,,,,,,,10/4/2026
 Daniel Rolovich,QB,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),6000,44354295,0.62,4.1,0.1,18,,,,,,,,,,,,,,,,10/4/2026
 Cade Wolford,CPT,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),2400,44354247,3.27,4.06,1.36,7.2,,,,,,,,,,,,,,,,10/3/2026
-Jordan Anderson,WR,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3500,44337592,2.4,4.02,0.69,10.5,,,,,,,,,,,,,,,,10/4/2026
 Lyviel Waters,CPT,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),2700,44354246,3,4.02,1.11,8.1,,,,,,,,,,,,,,,,10/3/2026
 Isaiah Carlson,RB,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4300,44337550,1.75,3.98,0.41,12.9,,,,,,,,,,,,,,,,10/4/2026
 Antwan Roberts,RB,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4500,44337647,1.55,3.94,0.34,13.5,,,,,,,,,,,,,,,,10/3/2026
+Raiden Vines-Bright,WR,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3100,44337787,2.6,3.94,0.84,9.3,,,,,,,,,,,,,,,,10/3/2026
+Kamaehu Kopa-Kaawalauole,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),2100,44354389,3.34,3.93,1.59,6.3,,,,,,,,,,,,,,,,10/4/2026
 Jordan Ross,WR,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3000,44337713,2.63,3.9,0.88,9,,,,,,,,,,,,,,,,10/3/2026
+Tyler Powell,WR,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3100,44337668,2.5,3.86,0.81,9.3,,,,,,,,,,,,,,,,10/3/2026
 Titan Lacaden,WR,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3100,44337976,2.49,3.85,0.8,9.3,,,,,,,,,,,,,,,,10/4/2026
-Jordan Anderson,WR,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),3200,44354312,2.4,3.84,0.75,9.6,,,,,,,,,,,,,,,,10/4/2026
 Grayson Rigdon,RB,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4500,44337739,1.38,3.8,0.31,13.5,,,,,,,,,,,,,,,,10/3/2026
-Raiden Vines-Bright,WR,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3100,44337787,2.41,3.79,0.78,9.3,,,,,,,,,,,,,,,,10/3/2026
 Robert McDaniel,QB,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",6300,44337539,0,3.78,0,18.9,,,,,,,,,,,,,,,,10/4/2026
 Jaren Hamilton,WR,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3900,44337784,1.68,3.68,0.43,11.7,,,,,,,,,,,,,,,,10/3/2026
-Tyler Powell,WR,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3100,44337668,2.22,3.64,0.72,9.3,,,,,,,,,,,,,,,,10/3/2026
+Jalen Moss,WR,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3200,44337781,2.19,3.67,0.68,9.6,,,,,,,,,,,,,,,,10/3/2026
 Oscar Rios,QB,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),6000,44354148,0,3.6,0,18,,,,,,,,,,,,,,,,10/3/2026
 Luke Haugo,QB,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),6000,44354149,0,3.6,0,18,,,,,,,,,,,,,,,,10/3/2026
 Will Kocher,QB,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),6000,44354150,0,3.6,0,18,,,,,,,,,,,,,,,,10/3/2026
@@ -238,11 +242,11 @@ Tony Livingston,WR,BAY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM,
 Cade Wolford,WR,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),1600,44354174,3.27,3.58,2.05,4.8,,,,,,,,,,,,,,,,10/3/2026
 Cam Barfield,RB,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5900,44337916,0,3.54,0,17.7,,,,,,,,,,,,,,,,10/4/2026
 Samaj Jones,QB,CINCY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",5900,44338094,0,3.54,0,17.7,,,,,,,,,,,,,,,,10/3/2026
+Kamaehu Kopa-Kaawalauole,WR,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),1400,44354318,3.34,3.51,2.38,4.2,,,,,,,,,,,,,,,,10/4/2026
 Lyviel Waters,WR,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),1800,44354173,3,3.48,1.67,5.4,,,,,,,,,,,,,,,,10/3/2026
 AJ Ia,WR,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3200,44337757,1.89,3.43,0.59,9.6,,,,,,,,,,,,,,,,10/3/2026
 Khamari Anderson,WR,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3000,44337772,2.04,3.43,0.68,9,,,,,,,,,,,,,,,,10/3/2026
 Titan Lacaden,CPT,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),2400,44354388,2.49,3.43,1.04,7.2,,,,,,,,,,,,,,,,10/4/2026
-Kamaehu Kopa-Kaawalauole,WR,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3100,44337568,1.95,3.42,0.63,9.3,,,,,,,,,,,,,,,,10/4/2026
 Wesley Yarbrough,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),1500,44354253,3.15,3.42,2.1,4.5,,,,,,,,,,,,,,,,10/3/2026
 Giyahni Kontosis,WR,CINCY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3100,44338158,1.9,3.38,0.61,9.3,,,,,,,,,,,,,,,,10/3/2026
 Taji Atkins,RB,TXST,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4100,44338210,1.11,3.35,0.27,12.3,,,,,,,,,,,,,,,,10/3/2026
@@ -259,11 +263,10 @@ Liam O'Brien,QB,CINCY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 
 Cardae Mack,RB,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4000,44337742,1.02,3.22,0.26,12,,,,,,,,,,,,,,,,10/3/2026
 Daniel Rolovich,QB,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4500,44337541,0.62,3.2,0.14,13.5,,,,,,,,,,,,,,,,10/4/2026
 Ryelan Morris,RB,BAY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4300,44337833,0.72,3.16,0.17,12.9,,,,,,,,,,,,,,,,10/3/2026
-Derek Eusebio,WR,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3000,44337793,1.66,3.13,0.55,9,,,,,,,,,,,,,,,,10/3/2026
 Hudson Borsari,K,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),5200,44354303,0,3.12,0,15.6,,,,,,,,,,,,,,,,10/4/2026
 Sean Olvera-Harle,K,HAW,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),5200,44354304,0,3.12,0,15.6,,,,,,,,,,,,,,,,10/4/2026
 Wesley Yarbrough,RB,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),1000,44354180,3.15,3.12,3.15,3,,,,,,,,,,,,,,,,10/3/2026
-Jalen Moss,WR,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3200,44337781,1.45,3.08,0.45,9.6,,,,,,,,,,,,,,,,10/3/2026
+Tyler Powell,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),1800,44354249,2.5,3.08,1.39,5.4,,,,,,,,,,,,,,,,10/3/2026
 Zylan Perry,RB,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),3600,44354164,1.09,3.03,0.3,10.8,,,,,,,,,,,,,,,,10/3/2026
 Sullivan Moon,K,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),5000,44354158,0,3,0,15,,,,,,,,,,,,,,,,10/3/2026
 Michael Salgado-Medina,K,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),5000,44354159,0,3,0,15,,,,,,,,,,,,,,,,10/3/2026
@@ -281,10 +284,9 @@ Stephen Rusnak,K,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Sho
 Max Lemasters,K,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),4800,44354161,0,2.88,0,14.4,,,,,,,,,,,,,,,,10/3/2026
 Stone Saunders,QB,SDSU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4500,44338007,0.21,2.87,0.05,13.5,,,,,,,,,,,,,,,,10/3/2026
 Jordan Martin,WR,TXST,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3000,44338255,1.32,2.86,0.44,9,,,,,,,,,,,,,,,,10/3/2026
-Tyler Powell,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),1800,44354249,2.22,2.86,1.23,5.4,,,,,,,,,,,,,,,,10/3/2026
-Kamaehu Kopa-Kaawalauole,CPT,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),2100,44354389,1.95,2.82,0.93,6.3,,,,,,,,,,,,,,,,10/4/2026
 Caleb Smith,WR,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3600,44337704,0.78,2.78,0.22,10.8,,,,,,,,,,,,,,,,10/3/2026
 Giyahni Kontosis,CPT,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),2100,44354248,1.9,2.78,0.9,6.3,,,,,,,,,,,,,,,,10/3/2026
+Tyler Powell,WR,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),1200,44354176,2.5,2.72,2.08,3.6,,,,,,,,,,,,,,,,10/3/2026
 Shane King,CPT,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),3000,44354245,1.14,2.71,0.38,9,,,,,,,,,,,,,,,,10/3/2026
 CJ Lee,QB,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4500,44337543,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/4/2026
 Hudson Wyatt,QB,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4500,44337545,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/4/2026
@@ -312,7 +314,6 @@ DeBraun Hampton,WR,BAY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM,
 Josiah Fetui,WR,HAW,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3000,44337982,0.96,2.57,0.32,9,,,,,,,,,,,,,,,,10/4/2026
 Taz Williams Jr.,WR,BAY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3100,44337869,0.84,2.53,0.27,9.3,,,,,,,,,,,,,,,,10/3/2026
 R.J. Mosley,WR,ARIZ,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3000,44337707,0.9,2.52,0.3,9,,,,,,,,,,,,,,,,10/3/2026
-Tyler Powell,WR,ARIZ,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),1200,44354176,2.22,2.5,1.85,3.6,,,,,,,,,,,,,,,,10/3/2026
 Jase Nix,WR,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3000,44337604,0.78,2.42,0.26,9,,,,,,,,,,,,,,,,10/4/2026
 Tyler Jacklich,RB,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4000,44337556,0,2.4,0,12,,,,,,,,,,,,,,,,10/4/2026
 Sir Autry,RB,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4000,44337559,0,2.4,0,12,,,,,,,,,,,,,,,,10/4/2026
@@ -330,7 +331,6 @@ Jayzon Thompson,RB,CINCY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30P
 James Lewis,RB,CINCY,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4000,44338119,0,2.4,0,12,,,,,,,,,,,,,,,,10/3/2026
 Juntavious Harris,RB,TXST,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4000,44338213,0,2.4,0,12,,,,,,,,,,,,,,,,10/3/2026
 Cole Pryor,RB,TXST,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",4000,44338216,0,2.4,0,12,,,,,,,,,,,,,,,,10/3/2026
-Kamaehu Kopa-Kaawalauole,WR,SJSU,Showdown Captain Mode,10/4/2026,Showdown Captain Mode Showdown Captain Mode 10/4 12:00AM (SJSU @ HAW),1400,44354318,1.95,2.4,1.4,4.2,,,,,,,,,,,,,,,,10/4/2026
 Dominique McKenzie,WR,SJSU,Late Night,10/4/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3000,44337598,0.72,2.38,0.24,9,,,,,,,,,,,,,,,,10/4/2026
 Giyahni Kontosis,WR,CINCY,Showdown Captain Mode,10/3/2026,Showdown Captain Mode Showdown Captain Mode 10/3 11:00PM (CINCY @ ARIZ),1400,44354175,1.9,2.36,1.35,4.2,,,,,,,,,,,,,,,,10/3/2026
 James Giggey,WR,ASU,Late Night,10/3/2026,"Late Night Late Night 10/3 10:30PM, 4 Games",3100,44337754,0.6,2.34,0.19,9.3,,,,,,,,,,,,,,,,10/3/2026
