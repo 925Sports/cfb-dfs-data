@@ -1,56 +1,56 @@
 Player Name,Position,Team,Slate Type,Date,Role,Salary,Draftable ID,Projected FP,Combined FP,Value,Implied FP,Passing TDs,Rushing Yards,Receiving Yards,Passing Yards,Rush+Rec Yards,Anytime TD,Passing Attempts,Fantasy Score,Headshot URL,Game Start Time,Match Title (Underdog),Game Short Title (Underdog),Venue Name (Underdog),Venue Type (Underdog),Broadcasts (Underdog),Game Start Time (DRAFTTABLE)
-Goose Crowder,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),16500,44380447,17.03,23.52,1.03,49.5,,,,,,,,,,,,,,,,10/6/2026
-Mario Sanders,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),12900,44380451,17.26,21.55,1.34,38.7,,,,,,,,,,,,,,,,10/6/2026
-Steven Robinson,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),12600,44380452,17.09,21.23,1.36,37.8,,,,,,,,,,,,,,,,10/6/2026
-Goose Crowder,QB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),11000,44380373,17.03,20.22,1.55,33,,,,,,,,,,,,,,,,10/6/2026
+Goose Crowder,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),16500,44380447,17.13,22.31,1.04,49.5,1.5,,,204,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
 Ethan Hampton,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),13800,44380450,14.74,20.07,1.07,41.4,,,,,,,,,,,,,,,,10/6/2026
-Mario Sanders,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),8600,44380377,17.26,18.97,2.01,25.8,,,,,,,,,,,,,,,,10/6/2026
-Steven Robinson,RB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),8400,44380378,17.09,18.71,2.03,25.2,,,,,,,,,,,,,,,,10/6/2026
-Landry Lyddy,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),15600,44380448,11.59,18.63,0.74,46.8,,,,,,,,,,,,,,,,10/6/2026
+Goose Crowder,QB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),11000,44380373,17.13,19.67,1.56,33,1.5,,,204,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Steven Robinson,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),12600,44380452,15.32,18.91,1.22,37.8,,,6.5,,73.5,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Mario Sanders,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),12900,44380451,14.51,18.86,1.12,38.7,,,24.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Gavin Griffin,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),11100,44380455,14.47,17.48,1.3,33.3,,45.5,10.5,,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
 Ethan Hampton,QB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9200,44380376,14.74,17.31,1.6,27.6,,,,,,,,,,,,,,,,10/6/2026
-Howard Kinchen,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),12300,44380453,11.42,16.52,0.93,36.9,,,,,,,,,,,,,,,,10/6/2026
-Landry Lyddy,QB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),10400,44380374,11.59,15.51,1.11,31.2,,,,,,,,,,,,,,,,10/6/2026
-Gavin Griffin,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),11100,44380455,9.32,14.11,0.84,33.3,,,,,,,,,,,,,,,,10/6/2026
-Howard Kinchen,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),8200,44380379,11.42,14.06,1.39,24.6,,,,,,,,,,,,,,,,10/6/2026
-TK Keyes,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9300,44380458,10.42,13.92,1.12,27.9,,,,,,,,,,,,,,,,10/6/2026
-Robert Briggs,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),7800,44380466,10.32,12.94,1.32,23.4,,,,,,,,,,,,,,,,10/6/2026
-Jaheim Merriweather,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),7500,44380467,10.01,12.51,1.33,22.5,,,,,,,,,,,,,,,,10/6/2026
-TK Keyes,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6200,44380384,10.42,12.06,1.68,18.6,,,,,,,,,,,,,,,,10/6/2026
-Jordan Lovett,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),11700,44380454,6.21,11.99,0.53,35.1,,,,,,,,,,,,,,,,10/6/2026
-Gavin Griffin,RB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),7400,44380381,9.32,11.89,1.26,22.2,,,,,,,,,,,,,,,,10/6/2026
-Robert Briggs,RB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),5200,44380392,10.32,11.38,1.98,15.6,,,,,,,,,,,,,,,,10/6/2026
-Brandon Hood,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380490,12.66,11.03,8.44,4.5,,,,,,,,,,,,,,,,10/6/2026
-Jaheim Merriweather,RB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),5000,44380393,10.01,11.01,2,15,,,,,,,,,,,,,,,,10/6/2026
-Brandon Hood,RB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380416,12.66,10.73,12.66,3,,,,,,,,,,,,,,,,10/6/2026
-TJ Lott,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9900,44380457,5.1,10.02,0.51,29.7,,,,,,,,,,,,,,,,10/6/2026
-Jordan Lovett,RB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),7800,44380380,6.21,9.65,0.8,23.4,,,,,,,,,,,,,,,,10/6/2026
+Steven Robinson,RB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),8400,44380378,15.32,16.9,1.82,25.2,,,6.5,,73.5,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Landry Lyddy,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),15600,44380448,11.82,16.72,0.76,46.8,0.5,4.5,,175.5,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Mario Sanders,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),8600,44380377,14.51,16.54,1.69,25.8,,,24.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Gavin Griffin,RB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),7400,44380381,14.47,15.71,1.96,22.2,,45.5,10.5,,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Howard Kinchen,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),12300,44380453,10.56,15.3,0.86,36.9,,,35,,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Landry Lyddy,QB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),10400,44380374,11.82,14.53,1.14,31.2,0.5,4.5,,175.5,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Howard Kinchen,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),8200,44380379,10.56,13.09,1.29,24.6,,,35,,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Robert Briggs,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),7800,44380466,10.32,12.94,1.32,23.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+TK Keyes,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9300,44380458,9.47,12.79,1.02,27.9,,,33.5,,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+AJ Little,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),10200,44380456,8.63,12.58,0.85,30.6,,,29,,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Jaheim Merriweather,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),7500,44380467,10.01,12.51,1.33,22.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Jordan Lovett,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),11700,44380454,6.21,11.99,0.53,35.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Robert Briggs,RB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),5200,44380392,10.32,11.38,1.98,15.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+TK Keyes,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6200,44380384,9.47,11.11,1.53,18.6,,,33.5,,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Brandon Hood,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380490,12.66,11.03,8.44,4.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Jaheim Merriweather,RB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),5000,44380393,10.01,11.01,2,15,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+AJ Little,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6800,44380382,8.63,10.75,1.27,20.4,,,29,,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Brandon Hood,RB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380416,12.66,10.73,12.66,3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+TJ Lott,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9900,44380457,5.1,10.02,0.51,29.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Jordan Lovett,RB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),7800,44380380,6.21,9.65,0.8,23.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 Jaylen Himes,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),8100,44380465,5.61,9.35,0.69,24.3,,,,,,,,,,,,,,,,10/6/2026
 Tucker Kilcrease,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),14400,44380449,0.52,9.06,0.04,43.2,,,,,,,,,,,,,,,,10/6/2026
-Jamarice Wilder,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),8400,44380464,5.03,9.06,0.6,25.2,,,,,,,,,,,,,,,,10/6/2026
-TJ Lott,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6600,44380383,5.1,8.04,0.77,19.8,,,,,,,,,,,,,,,,10/6/2026
+Jamarice Wilder,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),8400,44380464,5.03,9.06,0.6,25.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+TJ Lott,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6600,44380383,5.1,8.04,0.77,19.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 Jaylen Himes,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),5400,44380391,5.61,7.73,1.04,16.2,,,,,,,,,,,,,,,,10/6/2026
-Jace Petty,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),4500,44380477,6.28,7.72,1.39,13.5,,,,,,,,,,,,,,,,10/6/2026
+Jace Petty,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),4500,44380477,6.28,7.72,1.39,13.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 Grant Page,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),4200,44380478,6.1,7.4,1.45,12.6,,,,,,,,,,,,,,,,10/6/2026
-Jamarice Wilder,RB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),5600,44380390,5.03,7.38,0.9,16.8,,,,,,,,,,,,,,,,10/6/2026
-AJ Little,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),10200,44380456,1.2,7.08,0.12,30.6,,,,,,,,,,,,,,,,10/6/2026
-Noreel White,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),5700,44380475,4.41,6.95,0.77,17.1,,,,,,,,,,,,,,,,10/6/2026
-Jace Petty,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),3000,44380403,6.28,6.82,2.09,9,,,,,,,,,,,,,,,,10/6/2026
+Jamarice Wilder,RB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),5600,44380390,5.03,7.38,0.9,16.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Noreel White,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),5700,44380475,4.41,6.95,0.77,17.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Jace Petty,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),3000,44380403,6.28,6.82,2.09,9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 Grant Page,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),2800,44380404,6.1,6.56,2.18,8.4,,,,,,,,,,,,,,,,10/6/2026
 Tucker Kilcrease,QB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9600,44380375,0.52,6.18,0.05,28.8,,,,,,,,,,,,,,,,10/6/2026
 John White,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9000,44380462,0.95,6.16,0.11,27,,,,,,,,,,,,,,,,10/6/2026
 MJ Johnson,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380486,6.3,5.94,4.2,4.5,,,,,,,,,,,,,,,,10/6/2026
-Jeremiah Beck Jr.,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),2700,44380482,5.35,5.9,1.98,8.1,,,,,,,,,,,,,,,,10/6/2026
-Noreel White,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),3800,44380401,4.41,5.81,1.16,11.4,,,,,,,,,,,,,,,,10/6/2026
-Mojo Dortch,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),3000,44380481,4.93,5.74,1.64,9,,,,,,,,,,,,,,,,10/6/2026
+Jeremiah Beck Jr.,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),2700,44380482,5.35,5.9,1.98,8.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Noreel White,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),3800,44380401,4.41,5.81,1.16,11.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Mojo Dortch,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),3000,44380481,4.93,5.74,1.64,9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 MJ Johnson,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380412,6.3,5.64,6.3,3,,,,,,,,,,,,,,,,10/6/2026
 Maddox McCrory,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9000,44380459,0,5.4,0,27,,,,,,,,,,,,,,,,10/6/2026
 Hugh Price,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9000,44380460,0,5.4,0,27,,,,,,,,,,,,,,,,10/6/2026
 Rodge Waldrop,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9000,44380461,0,5.4,0,27,,,,,,,,,,,,,,,,10/6/2026
 Jack James,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9000,44380463,0,5.4,0,27,,,,,,,,,,,,,,,,10/6/2026
-Jeremiah Beck Jr.,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1800,44380408,5.35,5.36,2.97,5.4,,,,,,,,,,,,,,,,10/6/2026
+Jeremiah Beck Jr.,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1800,44380408,5.35,5.36,2.97,5.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 Kristian Tate,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380496,5.48,5.28,3.65,4.5,,,,,,,,,,,,,,,,10/6/2026
-Mojo Dortch,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),2000,44380407,4.93,5.14,2.46,6,,,,,,,,,,,,,,,,10/6/2026
-AJ Little,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6800,44380382,1.2,5.04,0.18,20.4,,,,,,,,,,,,,,,,10/6/2026
+Mojo Dortch,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),2000,44380407,4.93,5.14,2.46,6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 Kristian Tate,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380422,5.48,4.98,5.48,3,,,,,,,,,,,,,,,,10/6/2026
 Bryce Burgess,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6900,44380472,0.76,4.75,0.11,20.7,,,,,,,,,,,,,,,,10/6/2026
 John White,QB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6000,44380388,0.95,4.36,0.16,18,,,,,,,,,,,,,,,,10/6/2026
@@ -60,9 +60,9 @@ Jalen Ballard,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Sho
 Hayden Wolfe,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),7200,44380471,0,4.32,0,21.6,,,,,,,,,,,,,,,,10/6/2026
 Jywon Boyd,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),2400,44380483,3.33,4.1,1.39,7.2,,,,,,,,,,,,,,,,10/6/2026
 Jackson Worley,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),2100,44380484,3.5,4.06,1.67,6.3,,,,,,,,,,,,,,,,10/6/2026
-Preston Kilgore,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),3600,44380480,2.27,3.98,0.63,10.8,,,,,,,,,,,,,,,,10/6/2026
 Reed Harradine,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6600,44380473,0,3.96,0,19.8,,,,,,,,,,,,,,,,10/6/2026
 Creighton Wilbanks,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6600,44380474,0,3.96,0,19.8,,,,,,,,,,,,,,,,10/6/2026
+Preston Kilgore,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),3600,44380480,2.27,3.81,0.63,10.8,,,7.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 Jackson Worley,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1400,44380410,3.5,3.64,2.5,4.2,,,,,,,,,,,,,,,,10/6/2026
 Jywon Boyd,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1600,44380409,3.33,3.62,2.08,4.8,,,,,,,,,,,,,,,,10/6/2026
 Maddox McCrory,QB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6000,44380385,0,3.6,0,18,,,,,,,,,,,,,,,,10/6/2026
@@ -71,20 +71,20 @@ Rodge Waldrop,QB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Show
 Jack James,QB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6000,44380389,0,3.6,0,18,,,,,,,,,,,,,,,,10/6/2026
 AC Walters,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380488,3.18,3.44,2.12,4.5,,,,,,,,,,,,,,,,10/6/2026
 Bryce Burgess,RB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),4600,44380398,0.76,3.37,0.16,13.8,,,,,,,,,,,,,,,,10/6/2026
-Preston Kilgore,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),2400,44380406,2.27,3.26,0.95,7.2,,,,,,,,,,,,,,,,10/6/2026
+Preston Kilgore,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),2400,44380406,2.27,3.16,0.95,7.2,,,7.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 AC Walters,RB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380414,3.18,3.14,3.18,3,,,,,,,,,,,,,,,,10/6/2026
-Davis Dalton,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),5100,44380476,0,3.06,0,15.3,,,,,,,,,,,,,,,,10/6/2026
+Davis Dalton,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),5100,44380476,0,3.06,0,15.3,,,14.5,,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
 Ethan Head,K,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),4800,44380394,0,2.88,0,14.4,,,,,,,,,,,,,,,,10/6/2026
 Jaden Tynes,K,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),4800,44380395,0,2.88,0,14.4,,,,,,,,,,,,,,,,10/6/2026
 Jalen Ballard,K,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),4800,44380396,0,2.88,0,14.4,,,,,,,,,,,,,,,,10/6/2026
 Hayden Wolfe,K,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),4800,44380397,0,2.88,0,14.4,,,,,,,,,,,,,,,,10/6/2026
-Fabian Rogosch,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),3900,44380479,0.54,2.77,0.14,11.7,,,,,,,,,,,,,,,,10/6/2026
+Fabian Rogosch,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),3900,44380479,0.54,2.77,0.14,11.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 Reed Harradine,K,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),4400,44380399,0,2.64,0,13.2,,,,,,,,,,,,,,,,10/6/2026
 Creighton Wilbanks,K,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),4400,44380400,0,2.64,0,13.2,,,,,,,,,,,,,,,,10/6/2026
-Davis Dalton,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),3400,44380402,0,2.04,0,10.2,,,,,,,,,,,,,,,,10/6/2026
-Fabian Rogosch,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),2600,44380405,0.54,1.99,0.21,7.8,,,,,,,,,,,,,,,,10/6/2026
-Eelijah Singleton,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1800,44380485,0.84,1.75,0.47,5.4,,,,,,,,,,,,,,,,10/6/2026
-Eelijah Singleton,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1200,44380411,0.84,1.39,0.7,3.6,,,,,,,,,,,,,,,,10/6/2026
+Davis Dalton,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),3400,44380402,0,2.04,0,10.2,,,14.5,,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Fabian Rogosch,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),2600,44380405,0.54,1.99,0.21,7.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Eelijah Singleton,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1800,44380485,0.84,1.75,0.47,5.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Eelijah Singleton,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1200,44380411,0.84,1.39,0.7,3.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 Javery Mayberry,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380509,0.42,1.24,0.28,4.5,,,,,,,,,,,,,,,,10/6/2026
 Javery Mayberry,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380435,0.42,0.94,0.42,3,,,,,,,,,,,,,,,,10/6/2026
 Jaylen Foster,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380487,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/6/2026
@@ -101,7 +101,7 @@ Marquis Harris,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Sh
 Ky McNulty,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380501,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/6/2026
 KD Reynolds,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380502,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/6/2026
 Andrew Leslie,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380503,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/6/2026
-Broderick Peters,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380504,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/6/2026
+Broderick Peters,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380504,0,0.9,0,4.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 Dylan Denson,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380505,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/6/2026
 Cace Reed,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380506,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/6/2026
 Daivon Nelson,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380507,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/6/2026
@@ -115,7 +115,7 @@ Jah'Marren Jackson,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mod
 Caston Brown,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380516,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/6/2026
 Hayden Jackson,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380517,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/6/2026
 Drew Bilderback,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380518,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/6/2026
-Kaden Saunders,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380519,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/6/2026
+Kaden Saunders,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380519,0,0.9,0,4.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 Jacorey Whitted,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380520,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/6/2026
 Jaylen Foster,RB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380413,0,0.6,0,3,,,,,,,,,,,,,,,,10/6/2026
 Robert Henderson,RB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380415,0,0.6,0,3,,,,,,,,,,,,,,,,10/6/2026
@@ -131,7 +131,7 @@ Marquis Harris,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Sho
 Ky McNulty,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380427,0,0.6,0,3,,,,,,,,,,,,,,,,10/6/2026
 KD Reynolds,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380428,0,0.6,0,3,,,,,,,,,,,,,,,,10/6/2026
 Andrew Leslie,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380429,0,0.6,0,3,,,,,,,,,,,,,,,,10/6/2026
-Broderick Peters,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380430,0,0.6,0,3,,,,,,,,,,,,,,,,10/6/2026
+Broderick Peters,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380430,0,0.6,0,3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 Dylan Denson,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380431,0,0.6,0,3,,,,,,,,,,,,,,,,10/6/2026
 Cace Reed,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380432,0,0.6,0,3,,,,,,,,,,,,,,,,10/6/2026
 Daivon Nelson,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380433,0,0.6,0,3,,,,,,,,,,,,,,,,10/6/2026
@@ -145,5 +145,5 @@ Jah'Marren Jackson,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode
 Caston Brown,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380442,0,0.6,0,3,,,,,,,,,,,,,,,,10/6/2026
 Hayden Jackson,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380443,0,0.6,0,3,,,,,,,,,,,,,,,,10/6/2026
 Drew Bilderback,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380444,0,0.6,0,3,,,,,,,,,,,,,,,,10/6/2026
-Kaden Saunders,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380445,0,0.6,0,3,,,,,,,,,,,,,,,,10/6/2026
+Kaden Saunders,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380445,0,0.6,0,3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 Jacorey Whitted,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380446,0,0.6,0,3,,,,,,,,,,,,,,,,10/6/2026
