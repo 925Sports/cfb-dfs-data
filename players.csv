@@ -1,91 +1,1146 @@
 Player Name,Position,Team,Slate Type,Date,Role,Salary,Draftable ID,Projected FP,Combined FP,Value,Implied FP,Passing TDs,Rushing Yards,Receiving Yards,Passing Yards,Rush+Rec Yards,Anytime TD,Passing Attempts,Fantasy Score,Headshot URL,Game Start Time,Match Title (Underdog),Game Short Title (Underdog),Venue Name (Underdog),Venue Type (Underdog),Broadcasts (Underdog),Game Start Time (DRAFTTABLE)
-Goose Crowder,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),16500,44380447,16.37,21.67,0.99,49.5,1.5,,,194,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Nate Sheppard,RB,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",9700,44405855,25.14,25.93,2.59,29.1,,,,,,,,,,,,,,,,10/10/2026
+Michael Hawkins Jr.,QB,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",9000,44405605,25.53,25.82,2.84,27,,,,,,,,,,,,,,,,10/10/2026
+Jadan Baugh,RB,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",9100,44405858,24.57,25.12,2.7,27.3,,,,,,,,,,,,,,,,10/10/2026
+Caden Creel,QB,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",8200,44379983,24.51,24.52,2.99,24.6,0.5,39.5,,178.5,,,,,,n/a,JSU @ KENN,Jax State @ Kennesaw St,Fifth Third Stadium,outdoor,CBS Sports,10/7/2026
+Conner Weigman,QB,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",8600,44405613,23.48,23.94,2.73,25.8,,,,,,,,,,,,,,,,10/10/2026
+Cam Cook,RB,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",8900,44405861,23.23,23.92,2.61,26.7,,,,,,,,,,,,,,,,10/10/2026
+Avery Johnson,QB,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",8300,44405617,23.42,23.72,2.82,24.9,,,,,,,,,,,,,,,,10/10/2026
+JJ Kohl,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),15600,44380594,20.49,23.65,1.31,46.8,1.5,4.5,,199.5,,,35.5,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Dante Moore,QB,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7500,44405641,22.84,22.78,3.05,22.5,,,,,,,,,,,,,,,,10/10/2026
+Maguire Anderson,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),13200,44380597,18.9,22.63,1.43,39.6,,,67.5,,,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Noah Fifita,QB,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",8900,44405607,21.32,22.4,2.4,26.7,,,,,,,,,,,,,,,,10/10/2026
+Drew Mestemaker,QB,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",8000,44405629,21.99,22.39,2.75,24,,,,,,,,,,,,,,,,10/10/2026
+Collin Dixon,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",8400,44406389,21.46,22.21,2.55,25.2,,,,,,,,,,,,,,,,10/10/2026
+Marcel Reed,QB,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7300,44405645,22.23,22.16,3.04,21.9,,,,,,,,,,,,,,,,10/10/2026
+Trinidad Chambliss,QB,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",8700,44405609,21.11,22.11,2.43,26.1,,,,,,,,,,,,,,,,10/10/2026
+Josh Hoover,QB,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",8500,44405615,21.16,22.02,2.49,25.5,,,,,,,,,,,,,,,,10/10/2026
+JJ Kohl,QB,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),10400,44380521,20.49,21.78,1.97,31.2,1.5,4.5,,199.5,,,35.5,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Justice Haynes,RB,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",8200,44405864,20.85,21.6,2.54,24.6,,,,,,,,,,,,,,,,10/10/2026
+Katin Houser,QB,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7000,44405653,21.54,21.43,3.08,21,,,,,,,,,,,,,,,,10/10/2026
+Jamal Roberts,RB,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7500,44405876,20.52,20.91,2.74,22.5,,,,,,,,,,,,,,,,10/10/2026
+Goose Crowder,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),16500,44380447,16.1,20.78,0.98,49.5,1.5,,,197,,,,19.5,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+JJ Kohl,QB,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",7400,44379987,20.49,20.7,2.77,22.2,1.5,4.5,,199.5,,,35.5,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Maguire Anderson,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),8800,44380524,18.9,20.25,2.15,26.4,,,67.5,,,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Anthony Colandrea,QB,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7900,44405631,19.38,20.24,2.45,23.7,,,,,,,,,,,,,,,,10/10/2026
+Rickie Collins,QB,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",6900,44379991,20.14,20.22,2.92,20.7,0.5,14.5,,183,,,,,,n/a,JSU @ KENN,Jax State @ Kennesaw St,Fifth Third Stadium,outdoor,CBS Sports,10/7/2026
 Ethan Hampton,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),13800,44380450,14.74,20.07,1.07,41.4,,,,,,,,,,,,,,,,10/6/2026
-Mario Sanders,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),12900,44380451,14.74,19.06,1.14,38.7,,,53.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
-Goose Crowder,QB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),11000,44380373,16.37,19.03,1.49,33,1.5,,,194,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
-Steven Robinson,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),12600,44380452,13.8,17.64,1.09,37.8,,53,,,64.5,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Trey Hedden,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),12900,44380598,15.4,20.06,1.19,38.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+James Jones,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),14400,44380595,16.77,19.94,1.16,43.2,,71,3.5,,95.5,0.5,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Maguire Anderson,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",6800,44380112,18.9,19.17,2.78,20.4,,,67.5,,,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Caleb Hawkins,RB,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7100,44405885,18.59,18.97,2.62,21.3,,59.5,18,,124.5,,,,,n/a,UCF @ OKST,UCF @ Oklahoma St,Boone Pickens Stadium,outdoor,ESPN2,10/10/2026
+LaNorris Sellers,QB,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7200,44405647,18.29,18.95,2.54,21.6,,,,,,,,,,,,,,,,10/10/2026
+Kewan Lacy,RB,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7800,44405870,17.75,18.88,2.28,23.4,,,,,,,,,,,,,,,,10/10/2026
+Aaron Philo,QB,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7800,44405633,17.66,18.81,2.26,23.4,,,,,,,,,,,,,,,,10/10/2026
+Charlie Becker,WR,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7600,44406395,17.44,18.51,2.29,22.8,,,,,,,,,,,,,,,,10/10/2026
+Goose Crowder,QB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),11000,44380373,16.1,18.47,1.46,33,1.5,,,197,,,,19.5,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Wayne Knight,RB,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",8000,44405867,17.05,18.44,2.13,24,,,,,,,,,,,,,,,,10/10/2026
+Mario Sanders,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),12900,44380451,14.38,18.28,1.12,38.7,,,53.5,,,,,12,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+James Jones,RB,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),9600,44380522,16.77,18.21,1.75,28.8,,71,3.5,,95.5,0.5,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Mason Heintschel,QB,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405723,19.38,18.2,4.31,13.5,,,,,,,,,,,,,,,,10/10/2026
+Deuce Alexander,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7900,44406392,16.8,18.18,2.13,23.7,,,,,,,,,,,,,,,,10/10/2026
+Arch Manning,QB,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7700,44405635,17.42,18.1,2.26,23.1,0.5,12.5,,185.5,,,29.5,,,n/a,TEX @ OKLA,Texas @ Oklahoma,Cotton Bowl,outdoor,ABC,10/10/2026
+Junior Sherrill,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5700,44406434,17.71,17.58,3.11,17.1,,,,,,,,,,,,,,,,10/10/2026
+Nick Marsh,WR,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6900,44406407,16.68,17.49,2.42,20.7,,,,,,,,,,,,,,,,10/10/2026
+Trey Hedden,QB,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),8600,44380525,15.4,17.48,1.79,25.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Joe Jackson,RB,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5500,44405936,17.68,17.44,3.21,16.5,,,,,,,,,,,,,,,,10/10/2026
+Austin Simmons,QB,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7100,44405651,16.41,17.39,2.31,21.3,,,,,,,,,,,,,,,,10/10/2026
+James Jones,RB,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",7200,44380025,16.77,17.35,2.33,21.6,,71,3.5,,95.5,0.5,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
 Ethan Hampton,QB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9200,44380376,14.74,17.31,1.6,27.6,,,,,,,,,,,,,,,,10/6/2026
-Mario Sanders,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),8600,44380377,14.74,16.73,1.71,25.8,,,53.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
-Landry Lyddy,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),15600,44380448,12.39,16.52,0.79,46.8,0.5,2.5,,192.5,,,31.5,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
-Howard Kinchen,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),12300,44380453,12.4,16.32,1.01,36.9,,,36,,,0.5,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
-Steven Robinson,RB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),8400,44380378,13.8,15.62,1.64,25.2,,53,,,64.5,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
-Landry Lyddy,QB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),10400,44380374,12.39,14.65,1.19,31.2,0.5,2.5,,192.5,,,31.5,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
-Howard Kinchen,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),8200,44380379,12.4,14.36,1.51,24.6,,,36,,,0.5,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
-TK Keyes,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9300,44380458,9.99,13.21,1.07,27.9,,,34.5,,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
-AJ Little,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),10200,44380456,9.19,13.04,0.9,30.6,,,19.5,,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Steven Robinson,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),12600,44380452,13.78,17.15,1.09,37.8,,54,5.5,,64.5,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Alberto Mendoza,QB,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5700,44405679,17.14,17.13,3.01,17.1,,,,,,,,,,,,,,,,10/10/2026
+TK King,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),12300,44380599,12.73,17.08,1.04,36.9,,,47.5,,,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Turbo Richard,RB,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7700,44405873,15.39,16.93,2,23.1,,,,,,,,,,,,,,,,10/10/2026
+Cayden Lee,WR,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6900,44406404,15.89,16.85,2.3,20.7,,,,,,,,,,,,,,,,10/10/2026
+Alonza Barnett III,QB,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5900,44405675,16.58,16.8,2.81,17.7,,,,,,,,,,,,,,,,10/10/2026
+Jared Curtis,QB,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6800,44405657,15.81,16.73,2.32,20.4,,,,,,,,,,,,,,,,10/10/2026
+Amare Thomas,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6500,44406416,16,16.7,2.46,19.5,,,,,,,,,,,,,,,,10/10/2026
+Jordon Davison,RB,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7000,44405888,15.49,16.59,2.21,21,,,,,,,,,,,,,,,,10/10/2026
+Ja'Kyrian Turner,RB,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6400,44405900,15.63,16.35,2.44,19.2,,,,,,,,,,,,,,,,10/10/2026
+Adam Damante,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),11400,44380601,12.84,16.26,1.13,34.2,1.5,,,183,,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Mario Sanders,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),8600,44380377,14.38,16.21,1.67,25.8,,,53.5,,,,,12,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Jamal Rule,RB,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4900,44405972,16.51,16.15,3.37,14.7,,,,,,,,,,,,,,,,10/10/2026
+Trey Hedden,QB,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",6200,44379995,15.4,16.04,2.48,18.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Howard Kinchen,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),12300,44380453,12.42,15.84,1.01,36.9,,,37.5,,,0.5,,11,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Landry Lyddy,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),15600,44380448,12.17,15.64,0.78,46.8,0.5,0.5,,182.5,,,27.5,12.5,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Wyatt Young,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7200,44406398,14.21,15.54,1.97,21.6,,,64,,,,,,,n/a,UCF @ OKST,UCF @ Oklahoma St,Boone Pickens Stadium,outdoor,ESPN2,10/10/2026
+Steven Robinson,RB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),8400,44380378,13.78,15.38,1.64,25.2,,54,5.5,,64.5,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Walker Eget,QB,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5100,44405693,15.39,15.37,3.02,15.3,,,,,,,,,,,,,,,,10/10/2026
+Nico Iamaleava,QB,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6200,44405669,14.5,15.32,2.34,18.6,,,,,,,,,,,,,,,,10/10/2026
+Mario Craver,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5100,44406461,15.33,15.32,3,15.3,,,,,,,,,,,,,,,,10/10/2026
+Justin Bowick,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6200,44406422,14.59,15.31,2.35,18.6,,,39.5,,,,,,,n/a,UCF @ OKST,UCF @ Oklahoma St,Boone Pickens Stadium,outdoor,ESPN2,10/10/2026
+Donovan Olugbode,WR,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6100,44406425,14.54,15.29,2.38,18.3,,,,,,,,,,,,,,,,10/10/2026
+Evan Stewart,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6000,44406428,14.61,15.29,2.44,18,,,,,,,,,,,,,,,,10/10/2026
+TK King,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),8200,44380526,12.73,14.87,1.55,24.6,,,47.5,,,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Rodney Fields Jr.,RB,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5900,44405915,14.05,14.78,2.38,17.7,,,,,,,,,,,,,,,,10/10/2026
+Alessio Milivojevic,QB,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5600,44405681,14.27,14.78,2.55,16.8,,,,,,,,,,,,,,,,10/10/2026
+Adam Damante,QB,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),7600,44380528,12.84,14.43,1.69,22.8,1.5,,,183,,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Javen Nicholas,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3400,44406743,15.44,14.39,4.54,10.2,,,,,,,,,,,,,,,,10/10/2026
+Howard Kinchen,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),8200,44380379,12.42,14.12,1.51,24.6,,,37.5,,,0.5,,11,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Landry Lyddy,QB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),10400,44380374,12.17,14.08,1.17,31.2,0.5,0.5,,182.5,,,27.5,12.5,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Jojo Stone,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),9300,44380604,10.95,14,1.18,27.9,,,29,,,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Mekhi Nelson,RB,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5200,44405954,13.36,13.81,2.57,15.6,,,,,,,,,,,,,,,,10/10/2026
+TK King,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",6200,44380115,12.73,13.79,2.05,18.6,,,47.5,,,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Lee Beebe Jr.,RB,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6500,44405897,12.34,13.77,1.9,19.5,,,,,,,,,,,,,,,,10/10/2026
+Jamill Williams,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",5100,44380121,13.39,13.77,2.63,15.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Isaiah Sategna III,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5900,44406431,12.85,13.72,2.18,17.7,,,59.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/10/2026
+Isaiah Horton,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5200,44406452,13.23,13.71,2.54,15.6,,,,,,,,,,,,,,,,10/10/2026
+Zion Booker,WR,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4900,44380124,13.45,13.7,2.74,14.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Makhi Hughes,RB,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6900,44405891,11.89,13.65,1.72,20.7,,,,,,,,,,,,,,,,10/10/2026
+Jaziun Patterson,RB,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5900,44405918,12.53,13.57,2.12,17.7,,,,,,,,,,,,,,,,10/10/2026
+Adam Damante,QB,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",5800,44379997,12.84,13.57,2.21,17.4,1.5,,,183,,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+John Mateer,QB,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6400,44405665,12.68,13.46,1.98,19.2,0.5,4.5,,175.5,,,33.5,,,n/a,TEX @ OKLA,Texas @ Oklahoma,Cotton Bowl,outdoor,ABC,10/10/2026
+Tre Spivey,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407544,14.58,13.46,4.86,9,,,,,,,,,,,,,,,,10/10/2026
+Duke Watson,RB,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5600,44405930,12.47,13.33,2.23,16.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/10/2026
+Kyle McNeal,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),5400,44380626,12.59,13.31,2.33,16.2,,,,,,,,,,,,,,,,10/7/2026
+Jordan Allen,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5100,44406455,12.75,13.26,2.5,15.3,,,,,,,,,,,,,,,,10/10/2026
+Jeremiah McClellan,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4900,44406482,12.88,13.24,2.63,14.7,,,,,,,,,,,,,,,,10/10/2026
+Rueben Owens II,RB,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5800,44405924,12.17,13.21,2.1,17.4,,,,,,,,,,,,,,,,10/10/2026
+Billy Edwards Jr.,QB,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5300,44405689,12.43,13.12,2.34,15.9,,,,,,,,,,,,,,,,10/10/2026
+Patrick Overmyer,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4900,44406485,12.65,13.06,2.58,14.7,,,,,,,,,,,,,,,,10/10/2026
+Dierre Hill Jr.,RB,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7300,44405879,10.79,13.01,1.48,21.9,,,,,,,,,,,,,,,,10/10/2026
 Robert Briggs,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),7800,44380466,10.32,12.94,1.32,23.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
-Gavin Griffin,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),11100,44380455,9.6,12.92,0.87,33.3,,47,9.5,,77.5,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Kwazi Gilmer,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4900,44406479,12.46,12.91,2.54,14.7,,,,,,,,,,,,,,,,10/10/2026
+Anthony Carrie,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),12000,44380600,9.04,12.81,0.75,36,,35,12.5,,63.5,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Jacory Barney Jr.,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44406533,12.59,12.77,2.8,13.5,,,,,,,,,,,,,,,,10/10/2026
+Latrelle Murrell,RB,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4800,44380049,12.33,12.74,2.57,14.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+TK Keyes,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9300,44380458,9.84,12.73,1.06,27.9,,,35,,,,,9.5,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+AJ Little,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),10200,44380456,9.22,12.64,0.9,30.6,,,30,,,,,9,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Jordan Shipp,WR,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4900,44406473,12.12,12.63,2.47,14.7,,,,,,,,,,,,,,,,10/10/2026
+Ryan Wingo,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6400,44406419,11.15,12.6,1.74,19.2,,,34,,,,,,,n/a,TEX @ OKLA,Texas @ Oklahoma,Cotton Bowl,outdoor,ABC,10/10/2026
+Ahmad Hardy,RB,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406137,12.73,12.58,3.18,12,,,,,,,,,,,,,,,,10/10/2026
+DJ Epps,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5400,44406443,11.66,12.57,2.16,16.2,,,,,,,,,,,,,,,,10/10/2026
+Damon Ferguson Jr.,RB,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5500,44405933,11.54,12.53,2.1,16.5,,,,,,,,,,,,,,,,10/10/2026
 Jaheim Merriweather,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),7500,44380467,10.01,12.51,1.33,22.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Kyle McNeal,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4000,44380148,12.59,12.47,3.15,12,,,,,,,,,,,,,,,,10/7/2026
+Dakorien Moore,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5600,44406437,11.32,12.42,2.02,16.8,,,,,,,,,,,,,,,,10/10/2026
+Raleek Brown,RB,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6200,44405906,11.16,12.35,1.8,18.6,,28,,,52.5,,,,,n/a,TEX @ OKLA,Texas @ Oklahoma,Cotton Bowl,outdoor,ABC,10/10/2026
+Jojo Stone,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),6200,44380531,10.95,12.33,1.77,18.6,,,29,,,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Vernell Brown III,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6700,44406413,10.34,12.29,1.54,20.1,,,,,,,,,,,,,,,,10/10/2026
+Traylon Ray,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44406527,11.92,12.24,2.65,13.5,,,,,,,,,,,,,,,,10/10/2026
+Kyle McNeal,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),3600,44380553,12.59,12.23,3.5,10.8,,,,,,,,,,,,,,,,10/7/2026
+La'Vell Wright,RB,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44406002,11.91,12.22,2.65,13.5,,,,,,,,,,,,,,,,10/10/2026
+Gavin Griffin,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),11100,44380455,9.3,12.18,0.84,33.3,,52,9.5,,75.5,,,12,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Horatio Fields,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4800,44406497,11.57,12.14,2.41,14.4,,,,,,,,,,,,,,,,10/10/2026
+Mikey Matthews,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407604,12.89,12.11,4.3,9,,,,,,,,,,,,,,,,10/10/2026
+Aidan Laughery,RB,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5800,44405921,10.74,12.07,1.85,17.4,,,,,,,,,,,,,,,,10/10/2026
+Devonte Lyons,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),10800,44380602,6.97,12.06,0.65,32.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Hollywood Smothers,RB,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6700,44405894,10.71,12.02,1.6,20.1,,33.5,4.5,,64.5,,,,,n/a,TEX @ OKLA,Texas @ Oklahoma,Cotton Bowl,outdoor,ABC,10/10/2026
 Jordan Lovett,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),11700,44380454,6.21,11.99,0.53,35.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
-TK Keyes,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6200,44380384,9.99,11.54,1.61,18.6,,,34.5,,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Benjamin Hall,RB,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5300,44405945,10.95,11.94,2.07,15.9,,,,,,,,,,,,,,,,10/10/2026
+Ca'Lil Valentine,RB,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406209,11.92,11.94,2.98,12,,,,,,,,,,,,,,,,10/10/2026
+Sedrick Alexander,RB,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5400,44405942,10.75,11.84,1.99,16.2,,,,,,,,,,,,,,,,10/10/2026
+Khobie Martin,RB,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406215,11.75,11.8,2.94,12,,,,,,,,,,,,,,,,10/10/2026
+Jaron Tibbs,WR,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5000,44406464,10.98,11.78,2.2,15,,,,,,,,,,,,,,,,10/10/2026
+Re'Shaun Sanford II,RB,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6300,44405903,9.96,11.75,1.58,18.9,,,,,,,,,,,,,,,,10/10/2026
+Cataurus Hicks,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5500,44406440,10.52,11.72,1.91,16.5,,,,,,,,,,,,,,,,10/10/2026
+TJ Washington Jr.,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),9900,44380603,7.06,11.59,0.71,29.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Hudson Clement,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4600,44406521,11.03,11.58,2.4,13.8,,,,,,,,,,,,,,,,10/10/2026
+Dylan Gary,WR,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3900,44380166,11.5,11.54,2.95,11.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Jojo Stone,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4700,44380127,10.95,11.52,2.33,14.1,,,29,,,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+James Resar,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),8400,44380613,8.41,11.43,1,25.2,,,14.5,,,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
 Robert Briggs,RB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),5200,44380392,10.32,11.38,1.98,15.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
-Gavin Griffin,RB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),7400,44380381,9.6,11.37,1.3,22.2,,47,9.5,,77.5,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
-AJ Little,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6800,44380382,9.19,11.2,1.35,20.4,,,19.5,,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+TK Keyes,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6200,44380384,9.84,11.24,1.59,18.6,,,35,,,,,9.5,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Keyone Jenkins,QB,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5400,44405685,10.1,11.19,1.87,16.2,0.5,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/10/2026
+Anthony Carrie,RB,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),8000,44380527,9.04,11.13,1.13,24,,35,12.5,,63.5,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Brian Rowe Jr.,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4700,44406512,10.39,11.13,2.21,14.1,,,,,,,,,,,,,,,,10/10/2026
+Dallas Wilson,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7000,44406401,8.62,11.1,1.23,21,,,,,,,,,,,,,,,,10/10/2026
+Kedrick Reescano,RB,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6000,44405912,9.37,11.1,1.56,18,,,,,,,,,,,,,,,,10/10/2026
+Giovanni Richardson,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5200,44406449,9.97,11.1,1.92,15.6,,,,,,,,,,,,,,,,10/10/2026
 Brandon Hood,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380490,12.66,11.03,8.44,4.5,,,,,,,,,,,,,,,,10/6/2026
+Deondre Johnson,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",5600,44380118,9.76,11.02,1.74,16.8,,,19.5,,,,,,,n/a,JSU @ KENN,Jax State @ Kennesaw St,Fifth Third Stadium,outdoor,CBS Sports,10/7/2026
+Brayden Munroe,WR,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4000,44380151,10.8,11.02,2.7,12,,,32.5,,,,,,,n/a,JSU @ KENN,Jax State @ Kennesaw St,Fifth Third Stadium,outdoor,CBS Sports,10/7/2026
+AJ Little,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6800,44380382,9.22,11.01,1.36,20.4,,,30,,,,,9,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 Jaheim Merriweather,RB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),5000,44380393,10.01,11.01,2,15,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Chrishon McCray,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4200,44406557,10.51,10.93,2.5,12.6,,,,,,,,,,,,,,,,10/10/2026
+Semaj Morgan,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4900,44406476,9.94,10.89,2.03,14.7,,,,,,,,,,,,,,,,10/10/2026
+Gavin Griffin,RB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),7400,44380381,9.3,10.85,1.26,22.2,,52,9.5,,75.5,,,12,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Rodney Bullard Jr.,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5000,44406467,9.78,10.83,1.96,15,,,,,,,,,,,,,,,,10/10/2026
+Messiah Hampton,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4200,44406560,10.37,10.82,2.47,12.6,,,,,,,,,,,,,,,,10/10/2026
 Brandon Hood,RB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380416,12.66,10.73,12.66,3,,,,,,,,,,,,,,,,10/6/2026
+Rocky Beers,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4200,44406566,10.31,10.72,2.45,12.6,,,32,,,,,,,n/a,TEX @ OKLA,Texas @ Oklahoma,Cotton Bowl,outdoor,ABC,10/10/2026
+Boogie Woods III,RB,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",5400,44380040,9.45,10.66,1.75,16.2,,50.5,,,,,,,,n/a,JSU @ KENN,Jax State @ Kennesaw St,Fifth Third Stadium,outdoor,CBS Sports,10/7/2026
+Censere Lee,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5300,44406446,9.33,10.65,1.76,15.9,,,,,,,,,,,,,,,,10/10/2026
+Trell Harris,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4800,44406491,9.67,10.61,2.01,14.4,,,,,,,,,,,,,,,,10/10/2026
+Nyck Harbor,WR,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3700,44406650,10.48,10.6,2.83,11.1,,,,,,,,,,,,,,,,10/10/2026
+Dalen Penson,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4700,44406503,9.6,10.5,2.04,14.1,,,,,,,,,,,,,,,,10/10/2026
+Jamari Johnson,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5000,44406470,9.27,10.42,1.85,15,,,,,,,,,,,,,,,,10/10/2026
+Eric Singleton Jr.,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44406536,9.59,10.37,2.13,13.5,,,,,,,,,,,,,,,,10/10/2026
+Kevin Roche Jr.,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3800,44406614,10.11,10.37,2.66,11.4,,,,,,,,,,,,,,,,10/10/2026
+Anthony Carrie,RB,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",6100,44380028,9.04,10.34,1.48,18.3,,35,12.5,,63.5,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Jelani Thurman,WR,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5100,44406458,8.95,10.22,1.75,15.3,,,,,,,,,,,,,,,,10/10/2026
+Anthony Woods,RB,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6100,44405909,8.17,10.2,1.34,18.3,,,,,,,,,,,,,,,,10/10/2026
+Jeremiah Hasley,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4300,44406551,9.48,10.16,2.2,12.9,,,,,,,,,,,,,,,,10/10/2026
+Lloyd Avant,RB,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5700,44405927,8.95,10.09,1.57,17.1,,17,4.5,,42.5,,,,,n/a,TEX @ OKLA,Texas @ Oklahoma,Cotton Bowl,outdoor,ABC,10/10/2026
 TJ Lott,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9900,44380457,5.1,10.02,0.51,29.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Brodie Malone-Bradford,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),6600,44380622,7.58,10.02,1.15,19.8,,,,,,,,,,,,,,,,10/7/2026
+AJ Williams III,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),8700,44380612,6.47,10,0.74,26.1,,,31.5,,,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Jayshon Platt,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406590,9.45,9.96,2.36,12,,,,,,,,,,,,,,,,10/10/2026
+James Resar,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),5600,44380540,8.41,9.92,1.5,16.8,,,14.5,,,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Devonte Lyons,RB,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),7200,44380529,6.97,9.9,0.97,21.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Malik Knight,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407121,10.09,9.87,3.36,9,,,,,,,,,,,,,,,,10/10/2026
+Javon Rogers,WR,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4600,44380130,8.97,9.84,1.95,13.8,,,33,,,,,,,n/a,JSU @ KENN,Jax State @ Kennesaw St,Fifth Third Stadium,outdoor,CBS Sports,10/7/2026
+Fredrick Moore,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4800,44406494,8.61,9.77,1.79,14.4,,,,,,,,,,,,,,,,10/10/2026
+Duke Clark,RB,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5100,44405960,8.31,9.71,1.63,15.3,,,,,,,,,,,,,,,,10/10/2026
+Duane Thomas Jr.,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44406539,8.71,9.67,1.94,13.5,,,,,,,,,,,,,,,,10/10/2026
 Jordan Lovett,RB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),7800,44380380,6.21,9.65,0.8,23.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Makhilyn Young,RB,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4700,44405987,8.52,9.63,1.81,14.1,,,,,,,,,,,,,,,,10/10/2026
+Caleb Odom,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4600,44406524,8.59,9.63,1.87,13.8,,,,,,,,,,,,,,,,10/10/2026
+TJ Washington Jr.,RB,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),6600,44380530,7.06,9.61,1.07,19.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+DJ Jordan,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407532,9.56,9.45,3.19,9,,,,,,,,,,,,,,,,10/10/2026
+Triston Morgan,RB,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4500,44380052,8.36,9.39,1.86,13.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
 Jaylen Himes,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),8100,44380465,5.61,9.35,0.69,24.3,,,,,,,,,,,,,,,,10/6/2026
+Ismail Mahdi,RB,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4800,44405981,8.06,9.33,1.68,14.4,,,,,,,,,,,,,,,,10/10/2026
+Demon June,RB,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5100,44405957,7.8,9.3,1.53,15.3,,,,,,,,,,,,,,,,10/10/2026
+James Resar,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4400,44380136,8.41,9.27,1.91,13.2,,,14.5,,,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Bryce Yates,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4700,44406506,7.97,9.2,1.7,14.1,,,,,,,,,,,,,,,,10/10/2026
+Khristian Lando,RB,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4900,44380046,7.71,9.11,1.57,14.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Brayden Trimble,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3600,44406671,8.67,9.1,2.41,10.8,,,,,,,,,,,,,,,,10/10/2026
 Tucker Kilcrease,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),14400,44380449,0.52,9.06,0.04,43.2,,,,,,,,,,,,,,,,10/6/2026
 Jamarice Wilder,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),8400,44380464,5.03,9.06,0.6,25.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Isaiah Mozee,RB,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4800,44405978,7.64,8.99,1.59,14.4,,,,,,,,,,,,,,,,10/10/2026
+Chris Hunter,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406812,8.77,8.99,2.66,9.9,,,,,,,,,,,,,,,,10/10/2026
+Carson Kent,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44406530,7.85,8.98,1.74,13.5,,,,,,,,,,,,,,,,10/10/2026
+Terry Bussey,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407916,8.95,8.96,2.98,9,,,,,,,,,,,,,,,,10/10/2026
+Jalen Likely,RB,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",5800,44380031,7.06,8.92,1.22,17.4,,22,,,,,,,,n/a,JSU @ KENN,Jax State @ Kennesaw St,Fifth Third Stadium,outdoor,CBS Sports,10/7/2026
+Devonte Lyons,RB,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",5300,44380037,6.97,8.76,1.32,15.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Jayden Savoury,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3900,44406602,7.98,8.73,2.05,11.7,,,,,,,,,,,,,,,,10/10/2026
+Brodie Malone-Bradford,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),4400,44380549,7.58,8.7,1.72,13.2,,,,,,,,,,,,,,,,10/7/2026
+Xai'Shaun Edwards,RB,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4400,44406026,7.55,8.68,1.72,13.2,,,,,,,,,,,,,,,,10/10/2026
+TJ Washington Jr.,RB,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",5000,44380043,7.06,8.65,1.41,15,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Brodie Malone-Bradford,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4200,44380139,7.58,8.58,1.8,12.6,,,,,,,,,,,,,,,,10/7/2026
+Zachary Waters,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),13500,44380596,0.55,8.54,0.04,40.5,,,,,,,,,,,,,,,,10/7/2026
+CJ Campbell Jr.,RB,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5400,44405939,6.61,8.53,1.22,16.2,,,,,,,,,,,,,,,,10/10/2026
+Darius Cannon,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3500,44380175,8.07,8.51,2.31,10.5,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Brady Hunt,WR,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3600,44406680,7.91,8.49,2.2,10.8,,,,,,,,,,,,,,,,10/10/2026
+Jaden Bray,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406584,7.59,8.47,1.9,12,,,,,,,,,,,,,,,,10/10/2026
+Jayvontay Conner,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3400,44406767,8.03,8.47,2.36,10.2,,,,,,,,,,,,,,,,10/10/2026
+Mazeo Bennett Jr.,WR,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3700,44406653,7.78,8.44,2.1,11.1,,,,,,,,,,,,,,,,10/10/2026
+AJ Williams III,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),5800,44380539,6.47,8.43,1.11,17.4,,,31.5,,,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Emmett Mosley V,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4900,44406488,7.01,8.39,1.43,14.7,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/10/2026
+Josh Derry,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4100,44406578,7.34,8.34,1.79,12.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/10/2026
+Waden Charles,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3900,44406608,7.49,8.33,1.92,11.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/10/2026
+Malachi Hosley,RB,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4100,44406059,7.32,8.32,1.79,12.3,,,,,,,,,,,,,,,,10/10/2026
+Israel Polk,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406950,8.08,8.32,2.61,9.3,,,,,,,,,,,,,,,,10/10/2026
+Trent Walker,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4300,44406548,7.16,8.31,1.66,12.9,,,,,,,,,,,,,,,,10/10/2026
 Jace Petty,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),4500,44380477,7,8.3,1.56,13.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Landon Ellis,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406545,7.32,8.25,1.83,12,,,,,,,,,,,,,,,,10/10/2026
+Jamarion Morrow,RB,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4200,44406047,7.09,8.19,1.69,12.6,,,,,,,,,,,,,,,,10/10/2026
+Cole Rusk,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3700,44406638,7.37,8.12,1.99,11.1,,,,,,,,,,,,,,,,10/10/2026
+Jonah Burton,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4600,44406515,6.69,8.11,1.45,13.8,,,,,,,,,,,,,,,,10/10/2026
+Chris Barnes,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4300,44406554,6.88,8.08,1.6,12.9,,,,,,,,,,,,,,,,10/10/2026
+Sterling Joseph,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),8100,44380614,4.01,8.07,0.5,24.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Dylan Wade,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3500,44406737,7.45,8.06,2.13,10.5,,,,,,,,,,,,,,,,10/10/2026
 TJ Lott,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6600,44380383,5.1,8.04,0.77,19.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Koby Young,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4800,44406500,6.27,7.89,1.31,14.4,,,,,,,,,,,,,,,,10/10/2026
+Makhi Frazier,RB,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4700,44405990,6.31,7.87,1.34,14.1,,,,,,,,,,,,,,,,10/10/2026
+Jabree Coleman,RB,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5200,44405951,5.9,7.84,1.13,15.6,,,,,,,,,,,,,,,,10/10/2026
+Garrett Oakley,WR,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4400,44406542,6.48,7.82,1.47,13.2,,,,,,,,,,,,,,,,10/10/2026
 Jaylen Himes,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),5400,44380391,5.61,7.73,1.04,16.2,,,,,,,,,,,,,,,,10/6/2026
+Josiah Thomas,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),4800,44380628,6.27,7.73,1.31,14.4,,,25,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+AJ Williams III,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4500,44380133,6.47,7.73,1.44,13.5,,,31.5,,,,,,,n/a,NMSU @ FIU,NM State @ FIU,Pitbull Stadium,outdoor,ESPN2,10/7/2026
+Tyson Carter,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),5700,44380624,5.65,7.71,0.99,17.1,,,24.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Miles Coleman,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406572,6.58,7.67,1.65,12,,,,,,,,,,,,,,,,10/10/2026
+Jared Richardson,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3700,44406611,6.8,7.66,1.84,11.1,,,,,,,,,,,,,,,,10/10/2026
+Terrence Lewis,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3900,44406587,6.76,7.65,1.73,11.7,,,24.5,,,,,,,n/a,UCF @ OKST,UCF @ Oklahoma St,Boone Pickens Stadium,outdoor,ESPN2,10/10/2026
+Jordan Washington,WR,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407067,7.29,7.63,2.43,9,,,,,,,,,,,,,,,,10/10/2026
+Bailey Stockton,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406596,6.52,7.61,1.63,12,,,,,,,,,,,,,,,,10/10/2026
+Landen Chambers,RB,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4200,44406050,6.28,7.55,1.5,12.6,,,,,,,,,,,,,,,,10/10/2026
+Quincy Craig,RB,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44406008,6,7.5,1.33,13.5,,,,,,,,,,,,,,,,10/10/2026
+Jay Harris,RB,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4300,44406023,6.13,7.48,1.43,12.9,,,,,,,,,,,,,,,,10/10/2026
 Jace Petty,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),3000,44380403,7,7.4,2.33,9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 Grant Page,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),4200,44380478,6.1,7.4,1.45,12.6,,,,,,,,,,,,,,,,10/6/2026
 Jamarice Wilder,RB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),5600,44380390,5.03,7.38,0.9,16.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Eric Nelson Jr.,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3300,44380184,6.72,7.36,2.04,9.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Josiah Thomas,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3900,44380154,6.27,7.24,1.61,11.7,,,25,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Greg Gaines III,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),4200,44380630,5.89,7.23,1.4,12.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Carter Nelson,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406938,6.7,7.22,2.16,9.3,,,,,,,,,,,,,,,,10/10/2026
+Tyreek Robinson,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3500,44406695,6.38,7.2,1.82,10.5,,,,,,,,,,,,,,,,10/10/2026
+Eric Nelson Jr.,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),3000,44380634,6.72,7.18,2.24,9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Stephon Johnson,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3600,44406659,6.17,7.1,1.71,10.8,,,,,,,,,,,,,,,,10/10/2026
+Jaivon Solomon,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406581,5.75,7,1.44,12,,,,,,,,,,,,,,,,10/10/2026
 Noreel White,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),5700,44380475,4.41,6.95,0.77,17.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Iverson Hooks,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3400,44406761,6.13,6.95,1.8,10.2,,,,,,,,,,,,,,,,10/10/2026
+Ronnel Johnson,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4300,44380142,5.45,6.94,1.27,12.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Greg Gaines III,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3700,44380163,5.89,6.93,1.59,11.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Donovan Murph,WR,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3400,44406764,6.09,6.91,1.79,10.2,,,,,,,,,,,,,,,,10/10/2026
+Max Hunt,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407106,6.37,6.9,2.12,9,,,,,,,,,,,,,,,,10/10/2026
+Josiah Thomas,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),3200,44380555,6.27,6.87,1.96,9.6,,,25,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Tyson Carter,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4100,44380145,5.65,6.85,1.38,12.3,,,24.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Johntay Cook II,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3600,44406686,5.81,6.81,1.61,10.8,,,,,,,,,,,,,,,,10/10/2026
+Isaiah Mizell,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3900,44406593,5.56,6.79,1.43,11.7,,,,,,,,,,,,,,,,10/10/2026
+Xavier Robinson,RB,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4600,44405993,4.98,6.74,1.08,13.8,,,,,,,,,,,,,,,,10/10/2026
+Jaivian Thomas,RB,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4700,44405984,4.86,6.71,1.03,14.1,,,,,,,,,,,,,,,,10/10/2026
+Cole Spence,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3400,44406731,5.82,6.7,1.71,10.2,,,,,,,,,,,,,,,,10/10/2026
+Tyson Carter,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),3800,44380551,5.65,6.69,1.49,11.4,,,24.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Luke Lindenmeyer,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4100,44406569,5.21,6.63,1.27,12.3,,,,,,,,,,,,,,,,10/10/2026
+Prince Strachan,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3400,44406752,5.74,6.63,1.69,10.2,,,,,,,,,,,,,,,,10/10/2026
+Davion Chandler,WR,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406575,5.27,6.61,1.32,12,,,,,,,,,,,,,,,,10/10/2026
+Brandon Smith,RB,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4300,44406038,5.01,6.59,1.17,12.9,,,,,,,,,,,,,,,,10/10/2026
+Brett Norfleet,WR,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3700,44406632,5.45,6.58,1.47,11.1,,,,,,,,,,,,,,,,10/10/2026
+Eric Nelson Jr.,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),2000,44380561,6.72,6.58,3.36,6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
 Grant Page,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),2800,44380404,6.1,6.56,2.18,8.4,,,,,,,,,,,,,,,,10/6/2026
+Caleb Cunningham,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3200,44406887,5.76,6.53,1.8,9.6,,,,,,,,,,,,,,,,10/10/2026
+Rodney Gallagher III,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3600,44406674,5.43,6.5,1.51,10.8,,,,,,,,,,,,,,,,10/10/2026
+Isaiah Fuhrmann,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3200,44406842,5.73,6.5,1.79,9.6,,,,,,,,,,,,,,,,10/10/2026
+Nyziah Hunter,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4600,44406518,4.65,6.48,1.01,13.8,,,,,,,,,,,,,,,,10/10/2026
+Sterling Joseph,RB,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),5400,44380541,4.01,6.45,0.74,16.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Trech Kekahuna,WR,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3400,44406746,5.49,6.43,1.61,10.2,,,,,,,,,,,,,,,,10/10/2026
+Greg Gaines III,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),2800,44380557,5.89,6.39,2.1,8.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Carson Kolb,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3500,44406704,5.47,6.38,1.56,10.5,,,14.5,,,,,,,n/a,UCF @ OKST,UCF @ Oklahoma St,Boone Pickens Stadium,outdoor,ESPN2,10/10/2026
+Walter Taylor,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407703,5.72,6.38,1.91,9,,,,,,,,,,,,,,,,10/10/2026
+Elijah Lagg,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3700,44406617,5.17,6.36,1.4,11.1,,,,,,,,,,,,,,,,10/10/2026
+Bryson Williams,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407496,5.7,6.36,1.9,9,,,,,,,,,,,,,,,,10/10/2026
+Tre Page III,RB,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4100,44406062,4.85,6.34,1.18,12.3,,,,,,,,,,,,,,,,10/10/2026
+Amari Latimer,RB,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44406005,4.51,6.31,1,13.5,,,,,,,,,,,,,,,,10/10/2026
+Darrell Gill Jr.,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407760,5.63,6.3,1.88,9,,,,,,,,,,,,,,,,10/10/2026
+Justus Savage,RB,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4000,44380085,4.84,6.27,1.21,12,,,,,,,,,,,,,,,,10/7/2026
+Richie Anderson III,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407883,5.58,6.26,1.86,9,,,,,,,,,,,,,,,,10/10/2026
+Dijon Stanley,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),5100,44380627,3.97,6.24,0.78,15.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Myles Libman,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),4500,44380629,4.38,6.2,0.97,13.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
 Tucker Kilcrease,QB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9600,44380375,0.52,6.18,0.05,28.8,,,,,,,,,,,,,,,,10/6/2026
 John White,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9000,44380462,0.95,6.16,0.11,27,,,,,,,,,,,,,,,,10/6/2026
+Aaron Gregory,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3200,44406899,5.3,6.16,1.66,9.6,,,,,,,,,,,,,,,,10/10/2026
+Jonathan Bibbs,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3400,44406740,5.11,6.13,1.5,10.2,,,,,,,,,,,,,,,,10/10/2026
+Evan Pryor,RB,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4100,44406065,4.55,6.1,1.11,12.3,,,,,,,,,,,,,,,,10/10/2026
+Tristen Brown,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3500,44406734,5,6.1,1.43,10.5,,,,,,,,,,,,,,,,10/10/2026
+Marvis Parrish,RB,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5300,44405948,3.6,6.06,0.68,15.9,,,,,,,,,,,,,,,,10/10/2026
+Jordan Anderson,RB,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4300,44406029,4.24,5.98,0.99,12.9,,,,,,,,,,,,,,,,10/10/2026
+Brandon White,WR,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3700,44406620,4.69,5.97,1.27,11.1,,,,,,,,,,,,,,,,10/10/2026
+Keisean Henderson,QB,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",8000,44405625,1.44,5.95,0.18,24,,,,,,,,,,,,,,,,10/10/2026
 MJ Johnson,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380486,6.3,5.94,4.2,4.5,,,,,,,,,,,,,,,,10/6/2026
+Trelain Maddox,RB,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4900,44405969,3.71,5.91,0.76,14.7,,,,,,,,,,,,,,,,10/10/2026
 Jeremiah Beck Jr.,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),2700,44380482,5.35,5.9,1.98,8.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Shazz Preston,WR,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3700,44406635,4.58,5.88,1.24,11.1,,,,,,,,,,,,,,,,10/10/2026
+Luke Gilbert,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3800,44380160,4.47,5.86,1.18,11.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Sterling Joseph,RB,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4400,44380055,4.01,5.85,0.91,13.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Zachary Waters,QB,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),9000,44380523,0.55,5.84,0.06,27,,,,,,,,,,,,,,,,10/7/2026
+Quinn Clark,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406788,4.81,5.83,1.46,9.9,,,,,,,,,,,,,,,,10/10/2026
+Scotty Fox Jr.,QB,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",8600,44405611,0.82,5.82,0.1,25.8,,,,,,,,,,,,,,,,10/10/2026
 Noreel White,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),3800,44380401,4.41,5.81,1.16,11.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Grant Wilson,QB,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",8200,44405621,1.1,5.8,0.13,24.6,,,,,,,,,,,,,,,,10/10/2026
+Myles Libman,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3800,44380157,4.38,5.78,1.15,11.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
 Mojo Dortch,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),3000,44380481,4.93,5.74,1.64,9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Nitro Tuggle,WR,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44406977,4.91,5.72,1.64,9,,,,,,,,,,,,,,,,10/10/2026
+Tyler Morris,WR,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406800,4.66,5.71,1.41,9.9,,,,,,,,,,,,,,,,10/10/2026
+Evan Haynes,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407061,4.86,5.69,1.62,9,,,,,,,,,,,,,,,,10/10/2026
+Brandon Phelps,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3400,44406716,4.51,5.65,1.33,10.2,,,,,,,,,,,,,,,,10/10/2026
+Dijon Stanley,RB,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4100,44380067,3.97,5.64,0.97,12.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
 MJ Johnson,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380412,6.3,5.64,6.3,3,,,,,,,,,,,,,,,,10/6/2026
+Jayden Ford,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),6000,44380623,2.52,5.62,0.42,18,,,,,,,,,,,,,,,,10/7/2026
+Ayo Adeyi,RB,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4300,44406032,4.02,5.62,0.93,12.9,,20.5,,,,,,,,n/a,UCF @ OKST,UCF @ Oklahoma St,Boone Pickens Stadium,outdoor,ESPN2,10/10/2026
+KK Smith,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406806,4.54,5.61,1.37,9.9,,,,,,,,,,,,,,,,10/10/2026
+Ric'Darious Farmer,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406830,4.52,5.6,1.37,9.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/10/2026
+DJ Black,WR,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3500,44406728,4.32,5.56,1.23,10.5,,,,,,,,,,,,,,,,10/10/2026
+Nick Townsend,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44406986,4.62,5.49,1.54,9,,,,,,,,,,,,,,,,10/10/2026
+Emaree Winston,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406824,4.48,5.46,1.36,9.9,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/10/2026
+Deuce Knight,QB,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",8100,44405623,0.74,5.45,0.09,24.3,,,,,,,,,,,,,,,,10/10/2026
+Luke Harpring,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3500,44406722,4.16,5.43,1.19,10.5,,,,,,,,,,,,,,,,10/10/2026
+Shaun Terry II,WR,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3200,44406854,4.38,5.43,1.37,9.6,,,,,,,,,,,,,,,,10/10/2026
+Tory Blaylock,RB,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406164,3.77,5.42,0.94,12,,,,,,,,,,,,,,,,10/10/2026
 Maddox McCrory,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9000,44380459,0,5.4,0,27,,,,,,,,,,,,,,,,10/6/2026
 Hugh Price,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9000,44380460,0,5.4,0,27,,,,,,,,,,,,,,,,10/6/2026
 Rodge Waldrop,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9000,44380461,0,5.4,0,27,,,,,,,,,,,,,,,,10/6/2026
 Jack James,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),9000,44380463,0,5.4,0,27,,,,,,,,,,,,,,,,10/6/2026
+Kalani McLeod,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),9000,44380605,0,5.4,0,27,,,,,,,,,,,,,,,,10/7/2026
+Matt Ivaldi,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),9000,44380606,0,5.4,0,27,,,,,,,,,,,,,,,,10/7/2026
+Zach Marker,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),9000,44380607,0,5.4,0,27,,,,,,,,,,,,,,,,10/7/2026
+Parker Stofa,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),9000,44380608,0,5.4,0,27,,,,,,,,,,,,,,,,10/7/2026
+Trey Whirley,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),9000,44380609,0,5.4,0,27,,,,,,,,,,,,,,,,10/7/2026
+Trey Arnold,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),9000,44380610,0,5.4,0,27,,,,,,,,,,,,,,,,10/7/2026
+DJ Alexander,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),9000,44380611,0,5.4,0,27,,,,,,,,,,,,,,,,10/7/2026
+Sawyer Anderson,QB,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",8300,44405619,0.52,5.4,0.06,24.9,,,,,,,,,,,,,,,,10/10/2026
+JT Lindsey,RB,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5000,44405963,3,5.4,0.6,15,,,,,,,,,,,,,,,,10/10/2026
+Luke Hasz,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3700,44406656,3.98,5.4,1.08,11.1,,,,,,,,,,,,,,,,10/10/2026
+Naeshaun Montgomery,WR,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3500,44406698,4.13,5.4,1.18,10.5,,,,,,,,,,,,,,,,10/10/2026
+Reed Jesiolowski,WR,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3100,44380220,4.39,5.37,1.42,9.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
 Jeremiah Beck Jr.,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1800,44380408,5.35,5.36,2.97,5.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Mason Humphrey,WR,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3200,44406845,4.27,5.33,1.33,9.6,,,,,,,,,,,,,,,,10/10/2026
+John Neider,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3600,44406668,3.95,5.32,1.1,10.8,,,,,,,,,,,,,,,,10/10/2026
+DJ Butler,RB,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406338,3.64,5.31,0.91,12,,,,,,,,,,,,,,,,10/10/2026
+Myles Libman,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),3000,44380556,4.38,5.3,1.46,9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Jackson Verdugo,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),3900,44380631,3.9,5.3,1,11.7,,,13.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Parker Livingstone,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406794,4.14,5.29,1.25,9.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/10/2026
 Kristian Tate,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380496,5.48,5.28,3.65,4.5,,,,,,,,,,,,,,,,10/6/2026
+Shamar Easter,WR,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3500,44406665,3.96,5.27,1.13,10.5,,,,,,,,,,,,,,,,10/10/2026
+Amir Jackson,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406821,4.11,5.26,1.24,9.9,,,,,,,,,,,,,,,,10/10/2026
+Cedric Kouemi,RB,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4300,44380061,3.34,5.25,0.78,12.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Navelle Dean,WR,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3400,44380178,3.99,5.23,1.17,10.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Dijon Stanley,RB,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),3400,44380554,3.97,5.22,1.17,10.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Da'Jaun Riggs,RB,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4600,44405996,3.08,5.22,0.67,13.8,,,,,,,,,,,,,,,,10/10/2026
+KJ Edwards,RB,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4600,44405999,3.08,5.22,0.67,13.8,,,,,,,,,,,,,,,,10/10/2026
+Blake Barnett,QB,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7900,44405627,0.57,5.19,0.07,23.7,,,,,,,,,,,,,,,,10/10/2026
+Jaylen McGill,RB,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4400,44406017,3.19,5.19,0.72,13.2,,,,,,,,,,,,,,,,10/10/2026
+Lucas Farrington,RB,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",5500,44380034,2.34,5.17,0.43,16.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Charles Taplin,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3500,44406710,3.83,5.16,1.09,10.5,,,,,,,,,,,,,,,,10/10/2026
+Micah Mays Jr.,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3600,44406677,3.73,5.15,1.04,10.8,,,,,,,,,,,,,,,,10/10/2026
+Jackson Verdugo,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3600,44380169,3.9,5.14,1.08,10.8,,,13.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
 Mojo Dortch,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),2000,44380407,4.93,5.14,2.46,6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+TJ Lateef,QB,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7500,44405637,0.78,5.13,0.1,22.5,,,,,,,,,,,,,,,,10/10/2026
+Derrek Cooper,RB,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4400,44406014,3.1,5.12,0.7,13.2,,,,,,,,,,,,,,,,10/10/2026
+Christian Abney,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3200,44406863,4,5.12,1.25,9.6,,,,,,,,,,,,,,,,10/10/2026
+Isaiah Augustave,RB,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4400,44406011,3.06,5.09,0.7,13.2,,,,,,,,,,,,,,,,10/10/2026
+Houston Thomas,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406827,3.88,5.09,1.18,9.9,,,,,,,,,,,,,,,,10/10/2026
+Gerard Bullock Jr.,WR,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3200,44380199,3.91,5.05,1.22,9.6,,,,,,,,,,,,,,,,10/7/2026
+Jamari Harrold,WR,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3300,44380187,3.82,5.04,1.16,9.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Jawarn Howell,RB,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406299,3.26,5.01,0.81,12,,,,,,,,,,,,,,,,10/10/2026
+Broderick Vehrs,QB,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7600,44405639,0.52,4.98,0.07,22.8,,,,,,,,,,,,,,,,10/10/2026
 Kristian Tate,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380422,5.48,4.98,5.48,3,,,,,,,,,,,,,,,,10/6/2026
+Tradarian Ball,RB,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4200,44406044,3.06,4.97,0.73,12.6,,,,,,,,,,,,,,,,10/10/2026
+Jack Moran,QB,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",7800,44379985,0.34,4.95,0.04,23.4,,,,,,,,,,,,,,,,10/7/2026
+Ashton Bethel-Roman,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3800,44406605,3.32,4.94,0.87,11.4,,,,,,,,,,,,,,,,10/10/2026
+Brandon Tullis,RB,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4300,44406035,2.94,4.93,0.68,12.9,,,,,,,,,,,,,,,,10/10/2026
+Ja'Cory Thomas,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3600,44406683,3.46,4.93,0.96,10.8,,,,,,,,,,,,,,,,10/10/2026
+Wesley Yarbrough,RB,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406251,3.15,4.92,0.79,12,,,,,,,,,,,,,,,,10/10/2026
+Tramell Jones Jr.,QB,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7400,44405643,0.54,4.87,0.07,22.2,,,,,,,,,,,,,,,,10/10/2026
+Javari Barnett,RB,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406194,3.06,4.85,0.77,12,,,,,,,,,,,,,,,,10/10/2026
+Sean Cuono,RB,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406218,3.06,4.85,0.77,12,,,,,,,,,,,,,,,,10/10/2026
+Jayreon Campbell,RB,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406221,3.06,4.85,0.77,12,,,,,,,,,,,,,,,,10/10/2026
+Neil Salvage III,RB,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406302,3.06,4.85,0.77,12,,,,,,,,,,,,,,,,10/10/2026
+Elijah Thomas,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406944,3.82,4.81,1.23,9.3,,,14.5,,,,,,,n/a,TEX @ OKLA,Texas @ Oklahoma,Cotton Bowl,outdoor,ABC,10/10/2026
+Cole Adams,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407718,3.75,4.8,1.25,9,,,,,,,,,,,,,,,,10/10/2026
+Karle Lacey Jr.,QB,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7200,44405649,0.58,4.79,0.08,21.6,,,,,,,,,,,,,,,,10/10/2026
+Chris Corbo,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3200,44406839,3.58,4.78,1.12,9.6,,,,,,,,,,,,,,,,10/10/2026
+Lyndon Ravare,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),3600,44380632,3.25,4.76,0.9,10.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
 Bryce Burgess,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6900,44380472,0.76,4.75,0.11,20.7,,,,,,,,,,,,,,,,10/6/2026
+Gavin Harris,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406911,3.61,4.75,1.16,9.3,,,,,,,,,,,,,,,,10/10/2026
+Kavon Simmons,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3600,44406623,3.19,4.71,0.89,10.8,,,,,,,,,,,,,,,,10/10/2026
+Michael Masunas,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407844,3.64,4.71,1.21,9,,,,,,,,,,,,,,,,10/10/2026
+Lyndon Ravare,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3500,44380172,3.25,4.7,0.93,10.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Andrew Olesh,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3400,44406758,3.28,4.66,0.96,10.2,,,,,,,,,,,,,,,,10/10/2026
+Sterling Berkhalter,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406896,3.49,4.65,1.13,9.3,,,,,,,,,,,,,,,,10/10/2026
+Zachary Waters,QB,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",7000,44379989,0.55,4.64,0.08,21,,,,,,,,,,,,,,,,10/7/2026
+Dylan Raiola,QB,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6900,44405655,0.62,4.64,0.09,20.7,,,,,,,,,,,,,,,,10/10/2026
+Brayden Loftin,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3400,44406719,3.25,4.64,0.96,10.2,,,,,,,,,,,,,,,,10/10/2026
+CJ Givers,RB,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4100,44406056,2.71,4.63,0.66,12.3,,,,,,,,,,,,,,,,10/10/2026
+Brennan Parachek,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406803,3.29,4.61,1,9.9,,,,,,,,,,,,,,,,10/10/2026
+Linkon Cure,WR,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3200,44406851,3.37,4.61,1.05,9.6,,,,,,,,,,,,,,,,10/10/2026
+Jackson Verdugo,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),2600,44380558,3.9,4.6,1.5,7.8,,,13.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Nate Kurisky,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3200,44406833,3.34,4.59,1.04,9.6,,,,,,,,,,,,,,,,10/10/2026
+Maurice Brown II,WR,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3600,44406647,3,4.56,0.83,10.8,,,,,,,,,,,,,,,,10/10/2026
+Tony Kinsler,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406920,3.37,4.56,1.09,9.3,,,,,,,,,,,,,,,,10/10/2026
+Jayden Ford,RB,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4200,44380064,2.52,4.54,0.6,12.6,,,,,,,,,,,,,,,,10/7/2026
+Hayden Hansen,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406791,3.2,4.54,0.97,9.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/10/2026
+Mackenzie Alleyne,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406857,3.46,4.51,1.12,9.3,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/10/2026
+Noah Sidan,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),7500,44380615,0,4.5,0,22.5,,,,,,,,,,,,,,,,10/7/2026
+Robert Czeremcha,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),7500,44380616,0,4.5,0,22.5,,,,,,,,,,,,,,,,10/7/2026
+Ethan Silva,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),7500,44380617,0,4.5,0,22.5,,,,,,,,,,,,,,,,10/7/2026
+Jaiven Plummer,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3500,44406662,3,4.5,0.86,10.5,,,,,,,,,,,,,,,,10/10/2026
+Chad Alexander,RB,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406074,2.57,4.46,0.64,12,,,,,,,,,,,,,,,,10/10/2026
+Brady Hart,QB,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6500,44405663,0.66,4.43,0.1,19.5,,,,,,,,,,,,,,,,10/10/2026
+Jayden Ford,RB,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),4000,44380550,2.52,4.42,0.63,12,,,,,,,,,,,,,,,,10/7/2026
+Cameron Miller,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407766,3.27,4.41,1.09,9,,,,,,,,,,,,,,,,10/10/2026
+Jamezell Lassiter,RB,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406308,2.5,4.4,0.63,12,,,,,,,,,,,,,,,,10/10/2026
+Cutter Woods,QB,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6600,44405661,0.53,4.38,0.08,19.8,,,,,,,,,,,,,,,,10/10/2026
+Aidan Mizell,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3600,44406641,2.77,4.38,0.77,10.8,,,,,,,,,,,,,,,,10/10/2026
+Rahkeem Smith,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406782,3,4.38,0.91,9.9,,,,,,,,,,,,,,,,10/10/2026
+Cyrus Traugh,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406785,3,4.38,0.91,9.9,,,,,,,,,,,,,,,,10/10/2026
+Gatlin Bair,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406815,3,4.38,0.91,9.9,,,,,,,,,,,,,,,,10/10/2026
 John White,QB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6000,44380388,0.95,4.36,0.16,18,,,,,,,,,,,,,,,,10/6/2026
+Matt Zollers,QB,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6700,44405659,0.41,4.34,0.06,20.1,,,,,,,,,,,,,,,,10/10/2026
 Ethan Head,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),7200,44380468,0,4.32,0,21.6,,,,,,,,,,,,,,,,10/6/2026
 Jaden Tynes,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),7200,44380469,0,4.32,0,21.6,,,,,,,,,,,,,,,,10/6/2026
 Jalen Ballard,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),7200,44380470,0,4.32,0,21.6,,,,,,,,,,,,,,,,10/6/2026
 Hayden Wolfe,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),7200,44380471,0,4.32,0,21.6,,,,,,,,,,,,,,,,10/6/2026
+Jalen Brown,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),7200,44380618,0,4.32,0,21.6,,,,,,,,,,,,,,,,10/7/2026
+Matt Fuller,RB,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",7200,44405882,0,4.32,0,21.6,,,,,,,,,,,,,,,,10/10/2026
+Landon Varnes,QB,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",6500,44379993,0.49,4.3,0.08,19.5,,,,,,,,,,,,,,,,10/7/2026
+Donovan Green,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407352,3.12,4.3,1.04,9,,,,,,,,,,,,,,,,10/10/2026
+TJ Pride,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3200,44380190,2.96,4.29,0.93,9.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Ryan Ward,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3200,44406848,2.97,4.29,0.93,9.6,,,,,,,,,,,,,,,,10/10/2026
+Kendre Harrison,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406875,3,4.26,0.97,9.3,,,,,,,,,,,,,,,,10/10/2026
+Mike Tyler,WR,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406881,3,4.26,0.97,9.3,,,,,,,,,,,,,,,,10/10/2026
+Carson Boyd,QB,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6300,44405667,0.56,4.23,0.09,18.9,,,,,,,,,,,,,,,,10/10/2026
+Josh Sapp,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44406926,3,4.2,1,9,,,,,,,,,,,,,,,,10/10/2026
+Luke Sorensen,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407265,3,4.2,1,9,,,,,,,,,,,,,,,,10/10/2026
+Keelan Smith,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407268,3,4.2,1,9,,,,,,,,,,,,,,,,10/10/2026
+Kenyon Alston,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407418,3,4.2,1,9,,,,,,,,,,,,,,,,10/10/2026
+Nas Rankin,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407424,3,4.2,1,9,,,,,,,,,,,,,,,,10/10/2026
+PJ MacFarlane,WR,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407451,3,4.2,1,9,,,,,,,,,,,,,,,,10/10/2026
+Carson Gulker,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407481,3,4.2,1,9,,,,,,,,,,,,,,,,10/10/2026
+A.J. Pugliano,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407550,3,4.2,1,9,,,,,,,,,,,,,,,,10/10/2026
+Markus Dixon,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407553,3,4.2,1,9,,,,,,,,,,,,,,,,10/10/2026
+Kahleil Jackson,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407643,3,4.2,1,9,,,,,,,,,,,,,,,,10/10/2026
+Jaylen Lloyd,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407646,3,4.2,1,9,,,,,,,,,,,,,,,,10/10/2026
+Max Drag,WR,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407664,3,4.2,1,9,,,,,,,,,,,,,,,,10/10/2026
+Malik Clark,WR,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407676,3,4.2,1,9,,,,,,,,,,,,,,,,10/10/2026
+Charly Mullaly,WR,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407679,3,4.2,1,9,,,,,,,,,,,,,,,,10/10/2026
+Muizz Tounkara,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407814,3,4.2,1,9,,,,,,,,,,,,,,,,10/10/2026
+Davis Bryson,WR,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3200,44380202,2.83,4.18,0.88,9.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Whitt Newbauer,QB,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6000,44405673,0.68,4.15,0.11,18,,,,,,,,,,,,,,,,10/10/2026
+David Barker,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),6900,44380619,0,4.14,0,20.7,,,,,,,,,,,,,,,,10/7/2026
+Kyah Francone,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),6900,44380620,0,4.14,0,20.7,,,,,,,,,,,,,,,,10/7/2026
+Ilya Uvaydov,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),6900,44380621,0,4.14,0,20.7,,,,,,,,,,,,,,,,10/7/2026
+Davin Stoffel,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406953,2.84,4.13,0.92,9.3,,,,,,,,,,,,,,,,10/10/2026
+Preston Kilgore,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),3600,44380480,2.64,4.11,0.73,10.8,,,8.5,,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
 Jywon Boyd,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),2400,44380483,3.33,4.1,1.39,7.2,,,,,,,,,,,,,,,,10/6/2026
+Kaden Feagin,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406797,2.64,4.09,0.8,9.9,,,,,,,,,,,,,,,,10/10/2026
+Cam Coleman,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6800,44406410,0,4.08,0,20.4,,,35.5,,,,,,,n/a,TEX @ OKLA,Texas @ Oklahoma,Cotton Bowl,outdoor,ABC,10/10/2026
+Blaze Berlowitz,QB,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",6100,44405671,0.52,4.08,0.09,18.3,,,,,,,,,,,,,,,,10/10/2026
+Carsyn Baker,RB,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406365,2.1,4.08,0.53,12,,,,,,,,,,,,,,,,10/10/2026
+TJ Abrams,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3400,44406725,2.54,4.07,0.75,10.2,,,,,,,,,,,,,,,,10/10/2026
 Jackson Worley,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),2100,44380484,3.5,4.06,1.67,6.3,,,,,,,,,,,,,,,,10/6/2026
+Lyndon Ravare,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),2400,44380559,3.25,4.04,1.35,7.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Tyler Powell,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3400,44406713,2.5,4.04,0.74,10.2,,,,,,,,,,,,,,,,10/10/2026
+Caleb Goodie Sr.,WR,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3500,44406701,2.42,4.03,0.69,10.5,,,,,,,,,,,,,,,,10/10/2026
+Taevion Swint,RB,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4200,44406053,1.86,4.01,0.44,12.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/10/2026
+Brycen Coleman,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406884,2.68,4.01,0.87,9.3,,,,,,,,,,,,,,,,10/10/2026
 Reed Harradine,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6600,44380473,0,3.96,0,19.8,,,,,,,,,,,,,,,,10/6/2026
 Creighton Wilbanks,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6600,44380474,0,3.96,0,19.8,,,,,,,,,,,,,,,,10/6/2026
+Ty Dieffenbach,QB,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5800,44405677,0.58,3.94,0.1,17.4,,,,,,,,,,,,,,,,10/10/2026
+Jordan Ross,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407535,2.63,3.9,0.88,9,,,,,,,,,,,,,,,,10/10/2026
+Jermaine Bishop Jr.,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3500,44406689,2.24,3.89,0.64,10.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/10/2026
+Synkwan Smith,RB,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4300,44406020,1.6,3.86,0.37,12.9,,,,,,,,,,,,,,,,10/10/2026
+Debron Gatling,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406914,2.5,3.86,0.81,9.3,,,,,,,,,,,,,,,,10/10/2026
+Lawrence Autry,RB,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406122,1.78,3.82,0.45,12,,,,,,,,,,,,,,,,10/10/2026
+Andrew Barker,WR,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406956,2.45,3.82,0.79,9.3,,,,,,,,,,,,,,,,10/10/2026
+TJ Pride,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),2400,44380636,2.96,3.81,1.24,7.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Christian Clark,RB,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406296,1.74,3.8,0.44,12,,,,,,,,,,,,,,,,10/10/2026
+Justin Cook,RB,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406104,1.74,3.79,0.44,12,,,,,,,,,,,,,,,,10/10/2026
+Grady Adamson,QB,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5300,44405687,0.72,3.76,0.14,15.9,,,,,,,,,,,,,,,,10/10/2026
+Holden Geriner,QB,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5500,44405683,0.56,3.75,0.1,16.5,,,,,,,,,,,,,,,,10/10/2026
+Cortez Mills Jr.,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406941,2.35,3.74,0.76,9.3,,,,,,,,,,,,,,,,10/10/2026
+Jayden Moore,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3500,44406692,2.03,3.72,0.58,10.5,,,,,,,,,,,,,,,,10/10/2026
+Derrick Salley Jr.,WR,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3900,44406599,1.69,3.69,0.43,11.7,,,,,,,,,,,,,,,,10/10/2026
+Antwan Roberts,RB,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406248,1.55,3.64,0.39,12,,,,,,,,,,,,,,,,10/10/2026
 Jackson Worley,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1400,44380410,3.5,3.64,2.5,4.2,,,,,,,,,,,,,,,,10/6/2026
-Preston Kilgore,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),3600,44380480,2.04,3.62,0.57,10.8,,,8.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 Jywon Boyd,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1600,44380409,3.33,3.62,2.08,4.8,,,,,,,,,,,,,,,,10/6/2026
 Maddox McCrory,QB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6000,44380385,0,3.6,0,18,,,,,,,,,,,,,,,,10/6/2026
 Hugh Price,QB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6000,44380386,0,3.6,0,18,,,,,,,,,,,,,,,,10/6/2026
 Rodge Waldrop,QB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6000,44380387,0,3.6,0,18,,,,,,,,,,,,,,,,10/6/2026
 Jack James,QB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),6000,44380389,0,3.6,0,18,,,,,,,,,,,,,,,,10/6/2026
+Kalani McLeod,QB,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),6000,44380532,0,3.6,0,18,,,,,,,,,,,,,,,,10/7/2026
+Matt Ivaldi,QB,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),6000,44380533,0,3.6,0,18,,,,,,,,,,,,,,,,10/7/2026
+Zach Marker,QB,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),6000,44380534,0,3.6,0,18,,,,,,,,,,,,,,,,10/7/2026
+Parker Stofa,QB,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),6000,44380535,0,3.6,0,18,,,,,,,,,,,,,,,,10/7/2026
+Trey Whirley,QB,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),6000,44380536,0,3.6,0,18,,,,,,,,,,,,,,,,10/7/2026
+Trey Arnold,QB,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),6000,44380537,0,3.6,0,18,,,,,,,,,,,,,,,,10/7/2026
+DJ Alexander,QB,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),6000,44380538,0,3.6,0,18,,,,,,,,,,,,,,,,10/7/2026
+Simeon Price,RB,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406263,1.5,3.6,0.37,12,,,,,,,,,,,,,,,,10/10/2026
+Joshua Dye,RB,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406326,1.49,3.59,0.37,12,,,,,,,,,,,,,,,,10/10/2026
+David Alpers III,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3200,44380193,2.07,3.57,0.65,9.6,,,,,,,,,,,,,,,,10/7/2026
+Jordon Harris,WR,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407217,2.21,3.57,0.74,9,,,,,,,,,,,,,,,,10/10/2026
+Malae Fonoti,RB,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406146,1.44,3.55,0.36,12,,,,,,,,,,,,,,,,10/10/2026
+Izaiah Williams,WR,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44406932,2.18,3.54,0.73,9,,,,,,,,,,,,,,,,10/10/2026
+Cam Fancher,QB,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5200,44405691,0.52,3.53,0.1,15.6,,,,,,,,,,,,,,,,10/10/2026
+Rodney Harris II,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3200,44406860,1.97,3.5,0.62,9.6,,,,,,,,,,,,,,,,10/10/2026
+Jerry Lydiatt,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3100,44380205,2.05,3.5,0.66,9.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Kwinten Ives,RB,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406155,1.34,3.47,0.33,12,,,,,,,,,,,,,,,,10/10/2026
+Preston Kilgore,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),2400,44380406,2.64,3.46,1.1,7.2,,,8.5,,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Lebron Bond,WR,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44406959,2.07,3.46,0.69,9,,,,,,,,,,,,,,,,10/10/2026
 AC Walters,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380488,3.18,3.44,2.12,4.5,,,,,,,,,,,,,,,,10/6/2026
+Monterrio Elston Jr.,RB,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4800,44405975,0.66,3.41,0.14,14.4,,,,,,,,,,,,,,,,10/10/2026
+Carnell Warren,WR,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407088,1.98,3.38,0.66,9,,,,,,,,,,,,,,,,10/10/2026
 Bryce Burgess,RB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),4600,44380398,0.76,3.37,0.16,13.8,,,,,,,,,,,,,,,,10/6/2026
+Martavious Boswell,RB,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406116,1.21,3.37,0.3,12,,,,,,,,,,,,,,,,10/10/2026
+TJ Pride,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1600,44380563,2.96,3.33,1.85,4.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Agyeman Addae,RB,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406377,1.14,3.31,0.29,12,,,,,,,,,,,,,,,,10/10/2026
+Micah Riley,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407880,1.86,3.29,0.62,9,,,,,,,,,,,,,,,,10/10/2026
+Miles O'Neill,QB,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4800,44405697,0.5,3.28,0.1,14.4,,,,,,,,,,,,,,,,10/10/2026
+Luke Carney,QB,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405829,0.72,3.28,0.16,13.5,,,,,,,,,,,,,,,,10/10/2026
+Nate Henry,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),5400,44380625,0,3.24,0,16.2,,,,,,,,,,,,,,,,10/7/2026
+Demetrice McCray,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4200,44406563,0.9,3.24,0.21,12.6,,,,,,,,,,,,,,,,10/10/2026
+Kaliq Lockett,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44406989,1.8,3.24,0.6,9,,,,,,,,,,,,,,,,10/10/2026
+Brock Schott,WR,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3200,44406866,1.61,3.21,0.5,9.6,,,,,,,,,,,,,,,,10/10/2026
+Madden Iamaleava,QB,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405793,0.59,3.17,0.13,13.5,,,,,,,,,,,,,,,,10/10/2026
+James Simon,RB,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406356,0.96,3.17,0.24,12,,,,,,,,,,,,,,,,10/10/2026
+Zane Smith,RB,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4300,44406041,0.72,3.16,0.17,12.9,,,,,,,,,,,,,,,,10/10/2026
+Kam Bell,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380259,1.7,3.16,0.57,9,,,,,,,,,,,,,,,,10/7/2026
+Coi Jean-Noel,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407052,1.69,3.15,0.56,9,,,,,,,,,,,,,,,,10/10/2026
+Izaiah Hartrup,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407769,1.68,3.14,0.56,9,,,,,,,,,,,,,,,,10/10/2026
 AC Walters,RB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380414,3.18,3.14,3.18,3,,,,,,,,,,,,,,,,10/6/2026
-Davis Dalton,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),5100,44380476,0,3.06,0,15.3,,,24.5,,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
-Preston Kilgore,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),2400,44380406,2.04,2.97,0.85,7.2,,,8.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Jaylin Brown,RB,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406101,0.9,3.12,0.23,12,,,,,,,,,,,,,,,,10/10/2026
+KD Jones,RB,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406182,0.9,3.12,0.23,12,,,,,,,,,,,,,,,,10/10/2026
+London Montgomery,RB,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406281,0.9,3.12,0.23,12,,,,,,,,,,,,,,,,10/10/2026
+Josh Phifer,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406818,1.38,3.08,0.42,9.9,,,,,,,,,,,,,,,,10/10/2026
+Dan Mahan,QB,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4600,44405699,0.39,3.07,0.09,13.8,,,,,,,,,,,,,,,,10/10/2026
+Ari Patu,QB,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405703,0.46,3.07,0.1,13.5,,,,,,,,,,,,,,,,10/10/2026
+Davis Dalton,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),5100,44380476,0,3.06,0,15.3,,,32,,,,,7.5,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Janiran Bonner,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407274,1.55,3.04,0.52,9,,,,,,,,,,,,,,,,10/10/2026
+Kaleb Jackson,RB,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406089,0.79,3.03,0.2,12,,,,,,,,,,,,,,,,10/10/2026
+Dylan Gentry,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3200,44380196,1.37,3.02,0.43,9.6,,,,,,,,,,,,,,,,10/7/2026
+Noah Sidan,K,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),5000,44380542,0,3,0,15,,,,,,,,,,,,,,,,10/7/2026
+Robert Czeremcha,K,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),5000,44380543,0,3,0,15,,,,,,,,,,,,,,,,10/7/2026
+Ethan Silva,K,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),5000,44380544,0,3,0,15,,,,,,,,,,,,,,,,10/7/2026
+Corey Dailey,QB,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5000,44405695,0,3,0,15,,,,,,,,,,,,,,,,10/10/2026
+Jayvian Tanelus,RB,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",5000,44405966,0,3,0,15,,,,,,,,,,,,,,,,10/10/2026
+Gabe Glover,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380274,1.49,2.99,0.5,9,,,,,,,,,,,,,,,,10/7/2026
+DaMarion Fowlkes,WR,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44406935,1.44,2.95,0.48,9,,,,,,,,,,,,,,,,10/10/2026
+Will Anciaux,WR,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406755,1.2,2.94,0.36,9.9,,,,,,,,,,,,,,,,10/10/2026
+Anthony Favrow,RB,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406140,0.66,2.93,0.16,12,,,,,,,,,,,,,,,,10/10/2026
+Leland Smith,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44406968,1.39,2.91,0.46,9,,,,,,,,,,,,,,,,10/10/2026
+Jerry Lydiatt,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),2100,44380637,2.05,2.9,0.98,6.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Shane King,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406809,1.14,2.89,0.35,9.9,,,,,,,,,,,,,,,,10/10/2026
 Ethan Head,K,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),4800,44380394,0,2.88,0,14.4,,,,,,,,,,,,,,,,10/6/2026
 Jaden Tynes,K,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),4800,44380395,0,2.88,0,14.4,,,,,,,,,,,,,,,,10/6/2026
 Jalen Ballard,K,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),4800,44380396,0,2.88,0,14.4,,,,,,,,,,,,,,,,10/6/2026
 Hayden Wolfe,K,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),4800,44380397,0,2.88,0,14.4,,,,,,,,,,,,,,,,10/6/2026
+Jalen Brown,RB,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),4800,44380545,0,2.88,0,14.4,,,,,,,,,,,,,,,,10/7/2026
+C.J. Sadler,WR,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3600,44406626,0.84,2.83,0.23,10.8,,,,,,,,,,,,,,,,10/10/2026
+Josh Manning,WR,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4700,44406509,0,2.82,0,14.1,,,,,,,,,,,,,,,,10/10/2026
+Spencer Shannon,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406893,1.2,2.82,0.39,9.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/10/2026
 Fabian Rogosch,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),3900,44380479,0.54,2.77,0.14,11.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+David Barker,K,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),4600,44380546,0,2.76,0,13.8,,,,,,,,,,,,,,,,10/7/2026
+Kyah Francone,K,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),4600,44380547,0,2.76,0,13.8,,,,,,,,,,,,,,,,10/7/2026
+Ilya Uvaydov,K,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),4600,44380548,0,2.76,0,13.8,,,,,,,,,,,,,,,,10/7/2026
+Kaleb Thomas,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407799,1.2,2.76,0.4,9,,,,,,,,,,,,,,,,10/10/2026
+Kayleb Barnett,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44406980,1.14,2.71,0.38,9,,,,,,,,,,,,,,,,10/10/2026
+Kalani McLeod,QB,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4500,44379999,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/7/2026
+Parker Stofa,QB,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4500,44380001,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/7/2026
+Trey Arnold,QB,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4500,44380003,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/7/2026
+Kadyn Palmer,QB,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4500,44380005,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/7/2026
+Noah Lee,QB,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4500,44380007,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/7/2026
+Donovan Moorhead,QB,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4500,44380009,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/7/2026
+Zach Marker,QB,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4500,44380011,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/7/2026
+DJ Alexander,QB,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4500,44380013,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/7/2026
+Trey Whirley,QB,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4500,44380015,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/7/2026
+Matt Ivaldi,QB,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4500,44380017,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/7/2026
+Skyler Williams,QB,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4500,44380019,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/7/2026
+Jamarcus Harrison,QB,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4500,44380021,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/7/2026
+Julian Lapene,QB,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4500,44380023,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/7/2026
+Terry Walker III,QB,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405701,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Blaine Hipa,QB,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405705,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Lawrence Gardner,QB,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405707,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Graham Knowles,QB,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405709,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Ben Guthrie,QB,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405711,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Cole Bergeron,QB,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405713,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Andres Miyares Jr.,QB,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405715,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Travis Burgess,QB,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405717,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+DJ Mazzone,QB,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405719,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Au'Tori Newkirk,QB,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405721,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Angelo Renda,QB,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405725,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Beau Jackson,QB,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405727,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Davin Friedman,QB,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405729,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Jyron Hughley,QB,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405731,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Max Anderson,QB,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405733,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Max Brown,QB,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405735,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Wyatt Walker Brown,QB,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405737,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+John Johnson III,QB,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405739,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Jacob Knuth,QB,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405741,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Dillon Duff,QB,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405743,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Nick Evers,QB,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405745,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Brett Brown,QB,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405747,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Gavin Sidwar,QB,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405749,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Daniel Kaelin,QB,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405751,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Bode Soukup,QB,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405753,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Bowe Bentley,QB,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405755,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Jett Niu,QB,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405757,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Grant Jordan,QB,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405759,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Luke Tepas,QB,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405761,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Dane Eisenmenger,QB,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405763,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Michael Clayton II,QB,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405765,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Tyler Cherry,QB,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405767,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Jacob Bell,QB,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405769,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Maverick Geske,QB,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405771,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Peyton Babbitt,QB,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405773,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Leo Hannan,QB,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405775,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Kayd Coffman,QB,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405777,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Luke Haugo,QB,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405779,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Mason Bray,QB,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405781,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Oscar Rios,QB,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405783,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Brock Thomas,QB,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405785,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Akili Smith Jr.,QB,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405787,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+TC Manumaleuna,QB,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405789,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Ryder Hayes,QB,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405791,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+DJ Bordeaux,QB,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405795,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Colton Gumino,QB,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405797,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Aidan Warner,QB,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405799,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Will Griffin,QB,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405801,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Aaron Williams,QB,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405803,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Lucian Anderson III,QB,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405805,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Landon Duckworth,QB,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405807,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Jimmy Francis,QB,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405809,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Brandon Cunningham,QB,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405811,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Whit Muschamp,QB,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405813,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Jack Elliott,QB,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405815,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Drew Cowart,QB,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405817,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Walker Howard,QB,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405819,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+AJ Maddox,QB,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405821,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+George Hamsley,QB,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405823,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Jack Patterson,QB,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405825,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Rees Wise,QB,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405827,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Canon Toon,QB,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405831,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Jake Sock,QB,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405833,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Ryan Smith,QB,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405835,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+MJ Morris,QB,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405837,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Dia Bell,QB,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405839,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Luke Dunham,QB,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405841,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Helaman Casuga,QB,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405843,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Paxton Land,QB,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405845,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Eli Morcos,QB,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405847,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Rocco Marriott,QB,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405849,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Kaleb Annett,QB,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405851,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
+Dante Carr,QB,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4500,44405853,0,2.7,0,13.5,,,,,,,,,,,,,,,,10/10/2026
 Reed Harradine,K,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),4400,44380399,0,2.64,0,13.2,,,,,,,,,,,,,,,,10/6/2026
 Creighton Wilbanks,K,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),4400,44380400,0,2.64,0,13.2,,,,,,,,,,,,,,,,10/6/2026
-Davis Dalton,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),3400,44380402,0,2.04,0,10.2,,,24.5,,,,,,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
+Jalen Brown,RB,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4300,44380058,0,2.58,0,12.9,,,,,,,,,,,,,,,,10/7/2026
+Michael Smith,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407745,0.96,2.57,0.32,9,,,,,,,,,,,,,,,,10/10/2026
+Harvey Broussard III,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407820,0.95,2.56,0.32,9,,,,,,,,,,,,,,,,10/10/2026
+R.J. Mosley,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44406962,0.9,2.52,0.3,9,,,,,,,,,,,,,,,,10/10/2026
+Lacota Dippre,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44406971,0.91,2.52,0.3,9,,,,,,,,,,,,,,,,10/10/2026
+Jackson Wasserstrom,WR,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407454,0.9,2.52,0.3,9,,,,,,,,,,,,,,,,10/10/2026
+Terrione Graves,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3300,44380181,0.66,2.51,0.2,9.9,,,,,,,,,,,,,,,,10/7/2026
+Terrione Graves,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),3300,44380633,0.66,2.51,0.2,9.9,,,,,,,,,,,,,,,,10/7/2026
+Caleb Smith,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406872,0.78,2.48,0.25,9.3,,,,,,,,,,,,,,,,10/10/2026
+Jerry Lydiatt,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1400,44380564,2.05,2.48,1.46,4.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Lex Cyrus,WR,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407673,0.84,2.47,0.28,9,,,,,,,,,,,,,,,,10/10/2026
+Nate Henry,RB,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4100,44380070,0,2.46,0,12.3,,,,,,,,,,,,,,,,10/7/2026
+Devaughn Slaughter,WR,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380361,0.83,2.46,0.28,9,,,,,,,,,,,,,,,,10/7/2026
+Caden Piening,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406902,0.72,2.44,0.23,9.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/10/2026
+Armoni Weaver-Bomar,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44406929,0.78,2.42,0.26,9,,,,,,,,,,,,,,,,10/10/2026
+Grayson Brousseau,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407928,0.78,2.42,0.26,9,,,,,,,,,,,,,,,,10/10/2026
+Tyren Hornes,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406776,0.54,2.41,0.16,9.9,,,,,,,,,,,,,,,,10/10/2026
+Isaiah Rudison,RB,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4000,44380073,0,2.4,0,12,,,,,,,,,,,,,,,,10/7/2026
+Roscoe Burton,RB,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4000,44380076,0,2.4,0,12,,,,,,,,,,,,,,,,10/7/2026
+Xavier Rucker,RB,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4000,44380079,0,2.4,0,12,,,,,,,,,,,,,,,,10/7/2026
+David Barela,RB,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4000,44380082,0,2.4,0,12,,,,,,,,,,,,,,,,10/7/2026
+Jacob Cornejo,RB,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4000,44380088,0,2.4,0,12,,,,,,,,,,,,,,,,10/7/2026
+Jamarious Acklin,RB,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4000,44380091,0,2.4,0,12,,,,,,,,,,,,,,,,10/7/2026
+Maurice Winston,RB,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4000,44380094,0,2.4,0,12,,,,,,,,,,,,,,,,10/7/2026
+Justin Compere,RB,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4000,44380097,0,2.4,0,12,,,,,,,,,,,,,,,,10/7/2026
+Devin Ingram,RB,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4000,44380100,0,2.4,0,12,,,,,,,,,,,,,,,,10/7/2026
+Jonathan Mathis,RB,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4000,44380103,0,2.4,0,12,,,,,,,,,,,,,,,,10/7/2026
+Joshua Troupe,RB,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4000,44380106,0,2.4,0,12,,,,,,,,,,,,,,,,10/7/2026
+Celley Davis,RB,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",4000,44380109,0,2.4,0,12,,,,,,,,,,,,,,,,10/7/2026
+Wilhelm Daal II,RB,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406068,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Cole Denson,RB,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406071,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Shane Marshall,RB,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406077,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+J.P. Powell,RB,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406080,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Jayden Barr,RB,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406083,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+JoJo Troupe,RB,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406086,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Charleston French,RB,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406092,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Crew Davis,RB,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406095,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Peter Pesansky,RB,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406098,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Ethan Shine,RB,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406107,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Zaky Roberts,RB,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406110,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Chris Talley,RB,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406113,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Darius Morant,RB,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406119,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Andre Devine,RB,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406125,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Kayden Luke,RB,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406128,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Tanner West,RB,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406131,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+LJ McGhee,RB,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406134,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Max Warner,RB,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406143,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Preston Hatfield,RB,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406149,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Brady Hultman,RB,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406152,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Conor Booth,RB,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406158,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Vincent Genatone,RB,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406161,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Jonathan Hatton Jr.,RB,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406167,0,2.4,0,12,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/10/2026
+Ben McCreary,RB,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406170,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Andy Bass,RB,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406173,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Gabe Sawchuk,RB,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406176,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+DeZephen Walker,RB,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406179,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+William Mason,RB,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406185,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Dennis Moody III,RB,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406188,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Javen Hall,RB,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406191,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Cedric Wyche II,RB,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406197,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+John Forster,RB,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406200,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Nelsyn Wheeler,RB,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406203,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Murphy Clement,RB,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406206,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Corey Rashad,RB,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406212,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Kenneth Williams,RB,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406224,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Zion Gist,RB,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406227,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Jace Clarizio,RB,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406230,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Darrin Jones Jr.,RB,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406233,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Cam Edwards,RB,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406236,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Cedric Williams Jr.,RB,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406239,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Jay Coyne,RB,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406242,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Jaxon McCaig,RB,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406245,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Anthony Wilhite,RB,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406254,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Lohgan Bottjer,RB,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406257,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Cornelius Warren III,RB,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406260,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Killian Sombe,RB,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406266,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Zander Quinn,RB,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406269,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Dylan Lee,RB,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406272,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Karson Cox,RB,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406275,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Troy Leigber,RB,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406278,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Byron Louis,RB,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406284,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Anthony Rubio,RB,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406287,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Brian Case,RB,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406290,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Kelvin Jimenez,RB,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406293,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Ethan Kellum,RB,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406305,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Gabe Fisher,RB,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406311,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Gabe Fields,RB,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406314,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Izayah Lee,RB,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406317,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Evan Hampton,RB,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406320,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Jake Balis,RB,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406323,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Shekai Mills-Knight,RB,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406329,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Ja'Michael Jones,RB,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406332,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Damarius Yates,RB,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406335,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+John Hebert,RB,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406341,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Nehemiah Warmate,RB,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406344,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+JayShon Ridgle,RB,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406347,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Michael Terry III,RB,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406350,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Ryan Niblett,RB,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406353,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Jett Walker,RB,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406359,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Carson Berger,RB,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406362,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+DeDe Murray,RB,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406368,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Ramarian Tillman,RB,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406371,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Tiger Riden Jr.,RB,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406374,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Kaj Baker,RB,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406380,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Arthur Lewis IV,RB,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406383,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Chance Nixon,RB,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",4000,44406386,0,2.4,0,12,,,,,,,,,,,,,,,,10/10/2026
+Luke McGary,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406890,0.66,2.38,0.21,9.3,,,,,,,,,,,,,,,,10/10/2026
+Brady Bidwell,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44406965,0.72,2.38,0.24,9,,,,,,,,,,,,,,,,10/10/2026
+Jake Taylor,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406905,0.6,2.34,0.19,9.3,,,,,,,,,,,,,,,,10/10/2026
+Shane Rosenthal,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407607,0.66,2.33,0.22,9,,,,,,,,,,,,,,,,10/10/2026
+Kelshaun Johnson,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44406992,0.6,2.28,0.2,9,,,,,,,,,,,,,,,,10/10/2026
+Adonis Moise,WR,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407196,0.6,2.28,0.2,9,,,,,,,,,,,,,,,,10/10/2026
+Jer'Michael Carter,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407328,0.6,2.28,0.2,9,,,,,,,,,,,,,,,,10/10/2026
+Caleb Rollerson,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407943,0.6,2.28,0.2,9,,,,,,,,,,,,,,,,10/10/2026
+Taron Francis,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407157,0.54,2.23,0.18,9,,,,,,,,,,,,,,,,10/10/2026
+Sequel Patterson,WR,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407697,0.48,2.18,0.16,9,,,,,,,,,,,,,,,,10/10/2026
+Nate Henry,RB,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),3600,44380552,0,2.16,0,10.8,,,,,,,,,,,,,,,,10/7/2026
+Kedrick Triplett,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3600,44406629,0,2.16,0,10.8,,,,,,,,,,,,,,,,10/10/2026
+Micah Jones,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3600,44406644,0,2.16,0,10.8,,,,,,,,,,,,,,,,10/10/2026
+Harry Lodge,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407583,0.42,2.14,0.14,9,,,,,,,,,,,,,,,,10/10/2026
+Jalen Saint Paul,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407598,0.42,2.14,0.14,9,,,,,,,,,,,,,,,,10/10/2026
+Ty Robinson,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3500,44406707,0,2.1,0,10.5,,,,,,,,,,,,,,,,10/10/2026
+Will Vala III,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407394,0.36,2.09,0.12,9,,,,,,,,,,,,,,,,10/10/2026
+Davis Dalton,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),3400,44380402,0,2.04,0,10.2,,,32,,,,,7.5,,n/a,USM @ TROY,So. Miss @ Troy,Veterans Memorial Stadium (AL),outdoor,ESPN2,10/6/2026
 Fabian Rogosch,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),2600,44380405,0.54,1.99,0.21,7.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Bryan Hamilton,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406749,0,1.98,0,9.9,,,,,,,,,,,,,,,,10/10/2026
+Kiotti Armstrong,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406770,0,1.98,0,9.9,,,,,,,,,,,,,,,,10/10/2026
+TK Norman,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406773,0,1.98,0,9.9,,,,,,,,,,,,,,,,10/10/2026
+Paxon Kettering,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3300,44406779,0,1.98,0,9.9,,,,,,,,,,,,,,,,10/10/2026
+Brody Keefe,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3200,44406836,0,1.92,0,9.6,,,,,,,,,,,,,,,,10/10/2026
+Kai Rios,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3200,44406869,0,1.92,0,9.6,,,,,,,,,,,,,,,,10/10/2026
+Jaylen Stokes,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3100,44380208,0,1.86,0,9.3,,,,,,,,,,,,,,,,10/7/2026
+Jameson Scissum,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3100,44380211,0,1.86,0,9.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/7/2026
+Franklin Baret Jr.,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3100,44380214,0,1.86,0,9.3,,,,,,,,,,,,,,,,10/7/2026
+Sean Burke,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3100,44380217,0,1.86,0,9.3,,,,,,,,,,,,,,,,10/7/2026
+Keon Davis,WR,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3100,44380223,0,1.86,0,9.3,,,,,,,,,,,,,,,,10/7/2026
+Hudson Lewis,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406878,0,1.86,0,9.3,,,,,,,,,,,,,,,,10/10/2026
+Kavon Conciauro,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406908,0,1.86,0,9.3,,,,,,,,,,,,,,,,10/10/2026
+Jaxxon Warren,WR,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406917,0,1.86,0,9.3,,,,,,,,,,,,,,,,10/10/2026
+Morgan McPhaul,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3100,44406947,0,1.86,0,9.3,,,,,,,,,,,,,,,,10/10/2026
+Terrione Graves,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),2200,44380560,0.66,1.85,0.3,6.6,,,,,,,,,,,,,,,,10/7/2026
+Carson Su'esu'e,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380226,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Ray Lotten,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380229,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Joshua Goines,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380232,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Luke Lopez,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380235,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Duke Frye,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380238,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Jayden Bell,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380241,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Josiah Castillo,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380244,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+AJ Carey,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380247,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Kaden Trevino,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380250,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Izeyah Wright,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380253,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+JaDarius Sanders,WR,NMST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380256,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Trace Thompson,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380262,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Shane Payton Hodges,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380265,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Andrevius Smith,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380268,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Cianan Williams,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380271,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Colton Pitchford,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380277,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+AJ Watkins,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380280,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Nabi Hoyt,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380283,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Temarion Foster,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380286,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Cade Frier,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380289,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Rollie Pinto,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380292,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Blake Wallace,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380295,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Bryson Rouillier,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380298,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Landon Watkins,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380301,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Camdon Pitchford,WR,JACST,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380304,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Kevin Schaeffer,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380307,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Davis Brown,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380310,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Ayden Passley,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380313,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Remy Goins,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380316,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Andre Brown,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380319,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Amari Isaac,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380322,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Kenny Williams,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380325,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Dylan Herman,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380328,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Donovan Giles,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380331,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Barrett Schulz,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380334,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Justin Little,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380337,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Malik Penson,WR,FIU,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380340,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Chase Tatum,WR,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380343,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Spencer Wise,WR,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380346,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Darren Pinkard,WR,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380349,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Josh Williamson,WR,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380352,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Erik Ronning,WR,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380355,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Jet Tabb,WR,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380358,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Colt Muschara,WR,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380364,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Dylan Green,WR,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380367,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Kayden Miller,WR,KENNS,Wednesday 2-Game,10/7/2026,"Wednesday 2-Game Wednesday 2-Game 10/7 7:00PM, 2 Games",3000,44380370,0,1.8,0,9,,,,,,,,,,,,,,,,10/7/2026
+Dylan Wester,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44406923,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Justin Williams,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44406974,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Braeden Robinson,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44406983,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Tony Boggs,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44406995,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Benjamin Moseley,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44406998,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Brett Elliott,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407001,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jack Gaskins,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407004,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Qeanu Johnson,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407007,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Blake Rohrer,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407010,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Paul Holyfield Jr.,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407013,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jamien Little,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407016,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jackson Maggiore,WR,DUKE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407019,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Spencer Mermans,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407022,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Blake Ragsdale,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407025,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Nate Agyemang,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407028,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Rocco Xerogeanes,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407031,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Connor Roush,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407034,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jack Richerson,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407037,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Chris Elko,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407040,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Darnell Collins,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407043,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Kentrell Davis,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407046,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+J.J. Winston,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407049,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Cal Faulkner,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407055,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Joseph Moseley,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407058,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Wills Campbell,WR,GT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407064,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Carson Sneed,WR,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407070,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Deems May,WR,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407073,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Dream Rashad,WR,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407076,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Nathan Leacock,WR,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407079,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Madrid Tucker,WR,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407082,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Dayton Sneed,WR,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407085,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Zamaurious Robertson,WR,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407091,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Kymistrii Young,WR,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407094,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jaden Jefferson,WR,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407097,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Keeyun Chapman,WR,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407100,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Nyqir Helton,WR,UNC,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407103,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Wyatt Villarreal,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407109,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jordan Fields,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407112,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Adam Howanitz,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407115,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Truitt Brown,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407118,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Benny Haselrig,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407124,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Cam Sapp,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407127,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Rodney Dunbar,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407130,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jake Sassic,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407133,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Amah Agwu,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407136,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jack Lesniewicz,WR,PITT,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407139,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Cam Ball,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407142,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Carter Zuliani,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407145,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Xavier Anderson,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407148,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Sam Hamilton,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407151,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Kade Bush,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407154,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Keon Hutchins,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407160,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Malachi Thompson,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407163,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Landon Drumm,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407166,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Robert Oliver,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407169,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Charlie Hanafin,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407172,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Brad Mossor,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407175,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Greg Wilfred,WR,WVU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407178,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Arley Morrell,WR,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407181,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Lawson McGraw,WR,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407184,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Elias Wilson,WR,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407187,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Owen Harrington,WR,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407190,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Sterling Lockett,WR,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407193,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Isaac Koch,WR,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407199,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Larry Porter IV,WR,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407202,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Max Lovett,WR,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407205,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Julius Wilson,WR,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407208,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Nash Morrison,WR,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407211,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Kaprice Keith,WR,KSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407214,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jude James,WR,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407220,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Gavin Hoffman,WR,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407223,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Isaac Jensen,WR,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407226,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Adam Molitor,WR,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407229,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Kenric Lanier II,WR,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407232,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jabari Brady,WR,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407235,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+DJ McBride II,WR,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407238,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Devyon Hill-Lomax,WR,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407241,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Noah Flaskamp,WR,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407244,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jayden Bolton,WR,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407247,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Gavin Wyatt,WR,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407250,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Karsten Fiene,WR,MIZZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407253,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Eric Ingwerson,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407256,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Cayden Echternach,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407259,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Danny King,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407262,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Demitrius Bell,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407271,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Nalin Scott,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407277,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Larry Miles,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407280,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+DJ Singleton Jr.,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407283,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Roman Mangini,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407286,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jackson Carpenter,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407289,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Hayes Miller,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407292,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Maurice Purify II,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407295,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jamari Brown,WR,NEB,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407298,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jack Van Dorselaer,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407301,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Trynae Washington,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407304,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+John Locke Jr.,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407307,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Kade McIntyre,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407310,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Ryder Mix,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407313,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Tyler Ruxer,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407316,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+CJ Nickson,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407319,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Manny Choice,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407322,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jacob Jordan,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407325,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Ivan Carreon,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407331,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jahsiear Rogers,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407334,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Eli Merck,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407337,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Trey Brown,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407340,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Xavier Okwufulueze,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407343,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jayden Petit,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407346,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Daniel Odom,WR,OU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407349,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Oscar Hammond,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407355,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Luke Logan,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407358,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Bodie Boydstun,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407361,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Matrail Lopez,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407364,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Quincy Shelton,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407367,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jabarie Thornton,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407370,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Kam Powell,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407373,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Blake Hogshooter,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407376,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Malachi Jackson,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407379,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Dayvon Standard,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407382,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Ty Watts,WR,OKST,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407385,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Maurice Smith Jr.,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407388,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Landen Von Seggern,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407391,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Logan Farrell,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407397,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Tanner Hollinger,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407400,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Grant Smith,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407403,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+BJ Thurman,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407406,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Eddie Kasper,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407409,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Nate Cichy,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407412,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jacob Eberhart,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407415,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jacob Harvey,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407421,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Alex Perry,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407427,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jershaun Newton,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407430,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Karson Kaiser,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407433,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+RJ Jones III,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407436,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Leslie Mosley Jr.,WR,IL,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407439,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Trevor Gibbs,WR,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407442,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Blake Thiry,WR,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407445,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Parker Elmore,WR,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407448,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Cade Kaiser,WR,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407457,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Hunter Stroud,WR,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407460,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Bruno Massel IV,WR,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407463,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Lavar Keys,WR,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407466,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jaidon Van Pelt,WR,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407469,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Kortez Rupert,WR,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407472,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Myles Kendrick,WR,IU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407475,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Joe Caudill,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407478,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Ethan Melville,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407484,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Charlie Baker,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407487,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Eddie Whiting,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407490,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Samson Gash,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407493,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Braylon Collier,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407499,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jack Yanachik,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407502,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Zach Washington,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407505,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Nick Hardy,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407508,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Colin Charles,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407511,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Darelle Cochran,WR,MSU,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407514,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Arthur Ban,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407517,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Kellan Ford,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407520,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Henry Gabalis,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407523,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Lachlan Teissier,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407526,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Tyler Mustain,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407529,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jordan McCord III,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407538,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Landon Kelsey,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407541,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Scotty Brennan,WR,ARIZ,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407547,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Cole Newton,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407556,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Dayton Raiola,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407559,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Nathan McCoy II,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407562,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jalen Lott,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407565,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Aaron Bidwell,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407568,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jovon McRae II,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407571,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Dillon Gresham,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407574,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jack Ressler,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407577,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Hunter Vaughn,WR,ORE,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407580,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Noah Fox-Flores,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407586,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Dylan Sims,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407589,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Peter Bario,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407592,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Stevie Amar Jr.,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407595,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jonah Smith,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407601,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jace Brown,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407610,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Kenneth Moore III,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407613,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Markus Kier,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407616,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Russell Weir,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407619,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Marcus Harris,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407622,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jackson Meehan,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407625,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Major Pride,WR,UCLA,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407628,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Heze Kent,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407631,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Evan Chieca,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407634,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jaylen Jordon,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407637,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Tripp Brown Jr.,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407640,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Davian Groce,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407649,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Ace Ciongoli,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407652,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jaden Edgecombe,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407655,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Marquez Daniel,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407658,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Mason Jordan,WR,UF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407661,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Reno Roehm,WR,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407667,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Caden Ramsey,WR,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407670,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jordon Gidron,WR,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407682,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Stone Furrey,WR,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407685,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jackson Repp,WR,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407688,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jayden Gibson,WR,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407691,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jayden Sellers,WR,SCAR,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407694,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Maurice Veney,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407700,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Elijah Rooney,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407706,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Palmer Riley,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407709,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Adam Gehm,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407712,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Tilden Riley,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407715,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Joseph McVay,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407721,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Kahden Smith,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407724,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Claiborne Richards,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407727,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Ty Burd,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407730,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Cameran Dickson,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407733,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Lebron Hill,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407736,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Owen Cabell,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407739,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Wils Jackson,WR,VAND,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407742,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Wyatt Smalley,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407748,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Hayden Bradley,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407751,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jack Harper,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407754,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Brady Prieskorn,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407757,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Isaiah Spencer,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407763,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Dillon Alfred,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407772,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Samari Reed,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407775,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+William Jones,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407778,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Case Thomas,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407781,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Levi Blount,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407784,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jase Mathews,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407787,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Kervin Johnson Jr.,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407790,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Dylan Davis,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407793,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Anthony Aguirre,WR,MISS,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407796,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Traville Frederick Jr.,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407802,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jaivion Martin,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407805,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jacory Thurman,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407808,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Wyatt Herbel,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407811,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jaquise Martin,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407817,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Tyson Turner,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407823,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Keavon Roberts,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407826,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jack Newhouse,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407829,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Samuel Padgitt,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407832,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jeremiah Bushnell,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407835,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Dorian Barnes,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407838,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jeffrey Strozier Jr.,WR,UH,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407841,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Ridge Barker,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407847,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Charlie Jilek,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407850,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Will Randle,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407853,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Bryce Chambers,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407856,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Daylan McCutcheon,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407859,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Rett Andersen,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407862,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Hudson Powell,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407865,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Kohen Brown,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407868,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Ty Boatright,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407871,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Chris Stewart,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407874,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Evan Enderlin,WR,TEX,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407877,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+KK Johnson,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407886,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Luke Braden,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407889,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Carter Braugh,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407892,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Evan Jacobson,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407895,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Caleb Tafua,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407898,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jayden Warren,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407901,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Kade Stewart,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407904,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Mike Brown,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407907,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Chase Burton,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407910,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Madden Williams,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407913,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Whitaker Williams,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407919,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jackson Hebert,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407922,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Will Hargett,WR,TA&M,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407925,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Dylan Burk,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407931,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Thomas Wadsworth,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407934,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Sam Powell,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407937,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Brooks Hall,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407940,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Chase Hinshaw,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407946,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jordyn Bridgewater,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407949,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Jordan Nunuha,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407952,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Andrea Parisi,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407955,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Elijah Hardy,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407958,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Zack Palmer,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407961,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
+Carson Hinshaw,WR,UCF,Saturday,10/10/2026,"Saturday Saturday 10/10 12:00PM, 12 Games",3000,44407964,0,1.8,0,9,,,,,,,,,,,,,,,,10/10/2026
 Eelijah Singleton,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1800,44380485,0.84,1.75,0.47,5.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
+Jaylen Stokes,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),2700,44380635,0,1.62,0,8.1,,,,,,,,,,,,,,,,10/7/2026
 Eelijah Singleton,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1200,44380411,0.84,1.39,0.7,3.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 Javery Mayberry,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380509,0.42,1.24,0.28,4.5,,,,,,,,,,,,,,,,10/6/2026
+Jaylen Stokes,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1800,44380562,0,1.08,0,5.4,,,,,,,,,,,,,,,,10/7/2026
+Sean Burke,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1800,44380638,0,1.08,0,5.4,,,,,,,,,,,,,,,,10/7/2026
 Javery Mayberry,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380435,0.42,0.94,0.42,3,,,,,,,,,,,,,,,,10/6/2026
 Jaylen Foster,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380487,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/6/2026
 Robert Henderson,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380489,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/6/2026
@@ -117,6 +1172,35 @@ Hayden Jackson,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Sh
 Drew Bilderback,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380518,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/6/2026
 Kaden Saunders,CPT,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380519,0,0.9,0,4.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 Jacorey Whitted,CPT,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1500,44380520,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/6/2026
+Roscoe Burton,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380639,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Justin Compere,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380640,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+David Barela,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380641,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Xavier Rucker,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380642,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Isaiah Rudison,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380643,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Barrett Schulz,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380644,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Izeyah Wright,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380645,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Amari Isaac,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380646,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+JaDarius Sanders,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380647,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+AJ Carey,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380648,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Dylan Herman,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380649,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Josiah Castillo,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380650,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Jayden Bell,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380651,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Duke Frye,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380652,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Malik Penson,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380653,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Carson Su'esu'e,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380654,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Remy Goins,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380655,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Justin Little,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380656,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Joshua Goines,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380657,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Ray Lotten,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380658,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Ayden Passley,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380659,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Luke Lopez,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380660,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Donovan Giles,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380661,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Kenny Williams,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380662,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Kevin Schaeffer,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380663,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Kaden Trevino,CPT,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380664,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Andre Brown,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380665,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Davis Brown,CPT,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1500,44380666,0,0.9,0,4.5,,,,,,,,,,,,,,,,10/7/2026
+Sean Burke,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1200,44380565,0,0.72,0,3.6,,,,,,,,,,,,,,,,10/7/2026
 Jaylen Foster,RB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380413,0,0.6,0,3,,,,,,,,,,,,,,,,10/6/2026
 Robert Henderson,RB,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380415,0,0.6,0,3,,,,,,,,,,,,,,,,10/6/2026
 DeWhitt Betterson Jr.,RB,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380417,0,0.6,0,3,,,,,,,,,,,,,,,,10/6/2026
@@ -147,3 +1231,31 @@ Hayden Jackson,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Sho
 Drew Bilderback,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380444,0,0.6,0,3,,,,,,,,,,,,,,,,10/6/2026
 Kaden Saunders,WR,USM,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380445,0,0.6,0,3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,10/6/2026
 Jacorey Whitted,WR,TROY,Showdown Captain Mode,10/6/2026,Showdown Captain Mode Showdown Captain Mode 10/6 8:00PM (USM @ TROY),1000,44380446,0,0.6,0,3,,,,,,,,,,,,,,,,10/6/2026
+Roscoe Burton,RB,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380566,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Justin Compere,RB,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380567,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+David Barela,RB,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380568,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Xavier Rucker,RB,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380569,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Isaiah Rudison,RB,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380570,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Barrett Schulz,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380571,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Izeyah Wright,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380572,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Amari Isaac,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380573,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+JaDarius Sanders,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380574,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+AJ Carey,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380575,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Dylan Herman,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380576,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Josiah Castillo,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380577,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Jayden Bell,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380578,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Duke Frye,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380579,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Malik Penson,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380580,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Carson Su'esu'e,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380581,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Remy Goins,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380582,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Justin Little,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380583,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Joshua Goines,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380584,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Ray Lotten,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380585,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Ayden Passley,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380586,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Luke Lopez,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380587,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Donovan Giles,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380588,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Kenny Williams,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380589,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Kevin Schaeffer,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380590,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Kaden Trevino,WR,NMST,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380591,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Andre Brown,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380592,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
+Davis Brown,WR,FIU,Showdown Captain Mode,10/7/2026,Showdown Captain Mode Showdown Captain Mode 10/7 7:30PM (NMST @ FIU),1000,44380593,0,0.6,0,3,,,,,,,,,,,,,,,,10/7/2026
