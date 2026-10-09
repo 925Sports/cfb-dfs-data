@@ -1020,6 +1020,25 @@
         }
         .badge-inj { background: var(--warning); color: #1e293b; }
         .badge-excl { background: var(--danger); color: white; }
+        .player-badge.inj-tip { cursor: help; }
+        #injuryTip {
+            position: fixed;
+            z-index: 4000;
+            display: none;
+            max-width: 280px;
+            white-space: normal;
+            text-align: left;
+            background: #0f172a;
+            color: #f8fafc;
+            font-size: 0.75rem;
+            font-weight: 500;
+            line-height: 1.35;
+            padding: 0.5rem 0.65rem;
+            border-radius: 8px;
+            box-shadow: 0 8px 20px rgba(0,0,0,0.35);
+            pointer-events: none;
+        }
+        td.player-name-cell { overflow: visible; }
 
         /* Player action menu */
         .player-action-menu {
@@ -3012,7 +3031,12 @@
                     <button class="ghost" data-tip="Set max exposure to 40% for all visible players. Good for large-field GPPs." onclick="bulkSetExposure('max', 40)">Max Exp 40%</button>
                     <button class="ghost" data-tip="Set max exposure to 60% for all visible players. Balanced multi-entry setting." onclick="bulkSetExposure('max', 60)">Max Exp 60%</button>
                     <button class="ghost" data-tip="Allow any player up to 100% exposure (no per-player cap beyond global max)." onclick="bulkSetExposure('max', 100)">Max Exp 100%</button>
-                    <button class="ghost" data-tip="Exclude all players with projected FP under 8 from the pool." onclick="bulkZeroLowProj()">Zero &lt; 8 FP</button>
+                                        <label style="display:inline-flex;align-items:center;gap:0.3rem;font-size:0.8rem;color:var(--muted);">
+                        Min FP floor
+                        <input id="fpFloorInput" type="number" min="0" max="80" step="0.5" value="8" style="width:68px;padding:0.35rem 0.4rem;" title="Players under this projected fantasy-point floor get the X. Press Enter or Apply floor." onkeydown="if(event.key==='Enter'){event.preventDefault();bulkExcludeUnderFloor();}">
+                    </label>
+                    <button class="ghost" data-tip="Hit the X on every player in this slate under the min FP floor you typed." onclick="bulkExcludeUnderFloor()">Apply floor</button>
+                    <button class="ghost" data-tip="Hit the X on Out, Questionable, and Doubtful. Probable players stay in." onclick="bulkExcludeInjuryTags()">Exclude OUT / Q / D</button>
                     <button class="ghost" data-tip="Exclude every player currently showing 0 projected fantasy points from the pool." onclick="bulkExcludeZeroProj()">Exclude 0 FP</button>
                     <button class="ghost" data-tip="Reset every player's min exposure to 0% and max to 100%." onclick="bulkResetExposures()">Reset Exposures</button>
                     <button class="ghost" data-tip="Clear all Force and Core Lock flags from the player pool." onclick="clearAllForces()">Clear Forces</button>
@@ -3785,6 +3809,111 @@
         function isDkOut(row) {
             return OUT_STATUS.has(dkInjuryStatus(row));
         }
+        const INJURY_EXCLUDE = new Set(["OUT", "O", "Q", "D"]);
+        const injuryKept = new Set();
+        const injuryNoteCache = new Map();
+        const INJURY_LABEL = {
+            OUT: "Out", O: "Out", Q: "Questionable", D: "Doubtful", P: "Probable",
+            IR: "Injured reserve", OFS: "Out for season", SUSP: "Suspended"
+        };
+        function injuryNoteText(row) {
+            return String((row && (row.injuryNote || row["Injury Note"])) || "").trim();
+        }
+        function escAttr(s) {
+            return String(s || "")
+                .replace(/&/g, "&" + "amp;")
+                .replace(/"/g, "&" + "quot;")
+                .replace(/</g, "&" + "lt;")
+                .replace(/>/g, "&" + "gt;");
+        }
+        function injuryHoverText(row) {
+            const st = dkInjuryStatus(row);
+            const note = injuryNoteText(row);
+            const label = INJURY_LABEL[st] || st || "Injury";
+            if (note) return label + " — " + note;
+            if (!st) return "";
+            if (OUT_STATUS.has(st)) return label + ". DraftKings lists this player as out, so the projection is 0.";
+            return label + ". Injury detail shows here once DraftKings news is on the feed.";
+        }
+        function injuryBadgeHtml(row) {
+            const st = dkInjuryStatus(row);
+            const news = dkNewsFlag(row);
+            const pdk = escAttr((row && (row.playerDkId || row["Player DK ID"])) || "");
+            let html = "";
+            if (st) {
+                const tip = escAttr(injuryHoverText(row));
+                const cls = OUT_STATUS.has(st) ? "badge-excl" : "badge-inj";
+                html += `<span class="player-badge ${cls} inj-tip" data-tip="${tip}" data-pdk="${pdk}">${st}</span>`;
+            }
+            if (news) {
+                const tip = escAttr(news + " news");
+                html += ` <span class="player-badge badge-inj inj-tip" data-tip="${tip}">${news}</span>`;
+            }
+            return html;
+        }
+        function positionInjuryTip(badge) {
+            let el = document.getElementById("injuryTip");
+            if (!el) {
+                el = document.createElement("div");
+                el.id = "injuryTip";
+                document.body.appendChild(el);
+            }
+            const tip = badge.getAttribute("data-tip") || "";
+            if (!tip) { el.style.display = "none"; return; }
+            el.textContent = tip;
+            el.style.display = "block";
+            const r = badge.getBoundingClientRect();
+            const width = Math.min(280, window.innerWidth - 16);
+            el.style.maxWidth = width + "px";
+            let left = r.left;
+            if (left + width > window.innerWidth - 8) left = window.innerWidth - width - 8;
+            if (left < 8) left = 8;
+            let top = r.bottom + 8;
+            el.style.left = left + "px";
+            el.style.top = top + "px";
+            const h = el.offsetHeight || 48;
+            if (top + h > window.innerHeight - 8) el.style.top = Math.max(8, r.top - h - 8) + "px";
+        }
+        function hideInjuryTip() {
+            const el = document.getElementById("injuryTip");
+            if (el) el.style.display = "none";
+        }
+        function rememberInjuryNote(pdk, note) {
+            if (!pdk || !note) return;
+            injuryNoteCache.set(pdk, note);
+            (rawData || []).forEach(row => {
+                if (String(row.playerDkId || row["Player DK ID"] || "") === pdk) row.injuryNote = note;
+            });
+            (allSlatePlayers || []).forEach(pl => { if (String(pl.playerDkId || "") === pdk) pl.injuryNote = note; });
+            (filteredData || []).forEach(pl => { if (String(pl.playerDkId || "") === pdk) pl.injuryNote = note; });
+            document.querySelectorAll(".inj-tip").forEach(badge => {
+                if ((badge.getAttribute("data-pdk") || "") !== pdk) return;
+                const row = (filteredData || []).find(pl => String(pl.playerDkId || "") === pdk);
+                if (row) badge.setAttribute("data-tip", injuryHoverText(row));
+            });
+            const open = document.querySelector(".inj-tip:hover");
+            if (open && open.getAttribute("data-pdk") === pdk) positionInjuryTip(open);
+        }
+        function fetchInjuryNote(pdk) {
+            if (!pdk) return;
+            const known = (filteredData || []).find(pl => String(pl.playerDkId || "") === pdk)
+                || (allSlatePlayers || []).find(pl => String(pl.playerDkId || "") === pdk);
+            if (known && injuryNoteText(known)) return;
+            if (injuryNoteCache.has(pdk)) {
+                const cached = injuryNoteCache.get(pdk);
+                if (cached) rememberInjuryNote(pdk, cached);
+                return;
+            }
+            injuryNoteCache.set(pdk, "");
+            fetch("https://www.draftkings.com/playercard/" + encodeURIComponent(pdk) + "?_data=routes/playercard.$playerDkId")
+                .then(r => r.ok ? r.json() : null)
+                .then(j => {
+                    const news = ((((j || {}).playerCard || {}).playerCard || {}).news) || [];
+                    const note = String((news[0] && news[0].summary) || "").trim();
+                    if (note) rememberInjuryNote(pdk, note);
+                })
+                .catch(() => {});
+        }
         function applyInjuryZero(row) {
             if (!row || !isDkOut(row)) return row;
             row.injuryStatus = "OUT";
@@ -3835,6 +3964,26 @@
 
         // ====================== INIT ======================
         document.addEventListener('DOMContentLoaded', () => {
+            document.addEventListener('mouseover', (e) => {
+                const badge = e.target.closest && e.target.closest('.inj-tip');
+                if (!badge) return;
+                positionInjuryTip(badge);
+                fetchInjuryNote(badge.getAttribute('data-pdk') || '');
+            });
+            document.addEventListener('mouseout', (e) => {
+                const badge = e.target.closest && e.target.closest('.inj-tip');
+                if (!badge) return;
+                const next = e.relatedTarget;
+                if (next && badge.contains(next)) return;
+                hideInjuryTip();
+            });
+            document.addEventListener('click', (e) => {
+                const badge = e.target.closest && e.target.closest('.inj-tip');
+                if (!badge) { hideInjuryTip(); return; }
+                e.stopPropagation();
+                positionInjuryTip(badge);
+                fetchInjuryNote(badge.getAttribute('data-pdk') || '');
+            });
             window._loadStarted = Date.now();
             // Start data load immediately while loading screen is visible
             fetchData(false);
@@ -6839,6 +6988,23 @@ function parseOddsCsv(text) {
                                 } else if (dkRows.length > rowsIn.length) {
                                     rowsIn = dkRows;
                                 }
+                                const byDid = new Map();
+                                dkRows.forEach(r => {
+                                    const id = String(r['Draftable ID'] || '').trim();
+                                    if (id) byDid.set(id, r);
+                                });
+                                rowsIn.forEach(r => {
+                                    const dk = byDid.get(String(r['Draftable ID'] || '').trim());
+                                    if (!dk) return;
+                                    const st = String(dk['Injury Status'] || '').trim();
+                                    if (st && !String(r['Injury Status'] || '').trim()) r['Injury Status'] = st;
+                                    const news = String(dk['News Flag'] || '').trim();
+                                    if (news && !String(r['News Flag'] || '').trim()) r['News Flag'] = news;
+                                    const note = String(dk['Injury Note'] || '').trim();
+                                    if (note) r['Injury Note'] = note;
+                                    const pdk = String(dk['Player DK ID'] || '').trim();
+                                    if (pdk && pdk !== String(r['Draftable ID'] || '').trim()) r['Player DK ID'] = pdk;
+                                });
                             } catch (e) { console.warn('drafttable merge', e); }
                         }
                         if (!rowsIn.length) {
@@ -6929,6 +7095,8 @@ function parseOddsCsv(text) {
                                     headshot: row['Headshot URL'] || '',
                                     injuryStatus: isOut ? 'OUT' : injuryStatus,
                                     newsFlag: (!newsFlag || newsFlag.toLowerCase() === 'none') ? '' : newsFlag,
+                                    injuryNote: String(row['Injury Note'] || '').trim(),
+                                    playerDkId: String(row['Player DK ID'] || '').trim(),
                                     matchTitle: row['Match Title (Underdog)'] || '',
                                     gameShort: row['Game Short Title (Underdog)'] || '',
                                     venue: row['Venue Name (Underdog)'] || '',
@@ -7122,6 +7290,7 @@ function parseOddsCsv(text) {
                     corePlayers: [...corePlayers],
                     injuredPlayers: [...injuredPlayers],
                     deselectedPlayers: [...deselectedPlayers],
+                    injuryKept: [...injuryKept],
                     minExposures: {...minExposures},
                     maxExposures: {...maxExposures},
                     buildAroundCpt,
@@ -7259,6 +7428,10 @@ function parseOddsCsv(text) {
             if (session.corePlayers) corePlayers = session.corePlayers;
             if (session.injuredPlayers) injuredPlayers = new Set(session.injuredPlayers);
             if (session.deselectedPlayers) deselectedPlayers = new Set(session.deselectedPlayers);
+            if (session.injuryKept) {
+                injuryKept.clear();
+                session.injuryKept.forEach(n => injuryKept.add(n));
+            }
             if (session.minExposures) minExposures = session.minExposures;
             if (session.maxExposures) maxExposures = session.maxExposures;
             if (session.buildAroundCpt) buildAroundCpt = session.buildAroundCpt;
@@ -7305,6 +7478,7 @@ function parseOddsCsv(text) {
             try { playerPriority = {}; } catch (e) {}
             try { forcedPlayers = new Set(); } catch (e) {}
             try { deselectedPlayers = new Set(); } catch (e) {}
+            try { injuryKept.clear(); } catch (e) {}
             try { injuredPlayers = new Set(); } catch (e) {}
             try { minExposures = {}; } catch (e) {}
             try { maxExposures = {}; } catch (e) {}
@@ -7538,6 +7712,8 @@ function parseOddsCsv(text) {
                     passTd: row.passTd, atd: row.atd, passAtt: row.passAtt,
                     fantasyScore: row.fantasyScore, headshot: row.headshot,
                     injuryStatus: row.injuryStatus || '', newsFlag: row.newsFlag || '',
+                    injuryNote: row.injuryNote || row['Injury Note'] || '',
+                    playerDkId: row.playerDkId || row['Player DK ID'] || '',
                     matchTitle: row.matchTitle, gameShort: row.gameShort,
                     venue: row.venue, venueType: row.venueType, broadcasts: row.broadcasts,
                     startDisplay: row.startDisplay
@@ -8632,6 +8808,7 @@ function parseOddsCsv(text) {
                 }
                 const injuryStatus = dkInjuryStatus(row);
                 const newsFlag = dkNewsFlag(row);
+                const injuryNote = injuryNoteText(row);
                 if (OUT_STATUS.has(injuryStatus)) projectedFP = 0;
                 if (minExposures[displayName] === undefined) {
                     minExposures[displayName] = 0;
@@ -8644,7 +8821,8 @@ function parseOddsCsv(text) {
                 return {
                     displayName, baseName, Position: row.Position, Team: normalizeTeam(row.Team), Opponent: row.Opponent,
                     salary: row.salary, id: row.id, projectedFP,
-                    injuryStatus, newsFlag,
+                    injuryStatus, newsFlag, injuryNote,
+                    playerDkId: row.playerDkId || row['Player DK ID'] || '',
                     minExposure: minExposures[displayName], maxExposure: maxExposures[displayName],
                     slotType, positions, gameStartTime: row.gameStartTime,
                     ownership: (custom && custom.ownership != null) ? custom.ownership : row.ownership,
@@ -8657,6 +8835,12 @@ function parseOddsCsv(text) {
                     _userEditedFP: !!(custom && custom._userEdited && custom.proj != null),
                     _userEditedOwn: !!(custom && custom._userEdited && custom.ownership != null)
                 };
+            });
+
+            tempData.forEach(p => {
+                if (INJURY_EXCLUDE.has(dkInjuryStatus(p)) && !injuryKept.has(p.displayName)) {
+                    deselectedPlayers.add(p.displayName);
+                }
             });
 
             // Also inject Showdown DST entries if needed (already in allSlatePlayers, but for table consistency)
@@ -8692,7 +8876,6 @@ function parseOddsCsv(text) {
                         case 'Opp': valA = (a.Opponent||'').toLowerCase(); valB = (b.Opponent||'').toLowerCase(); break;
                         case 'Impl Tot': valA = Number(a.impliedTotal)||0; valB = Number(b.impliedTotal)||0; break;
                         case 'Position': valA = a.Position.toLowerCase(); valB = b.Position.toLowerCase(); break;
-                        case 'Status': valA = dkInjuryStatus(a) || 'ZZZ'; valB = dkInjuryStatus(b) || 'ZZZ'; break;
                         case 'Salary': valA = a.salary; valB = b.salary; break;
                         case 'Projected FP': valA = a.projectedFP; valB = b.projectedFP; break;
                         case 'Value': valA = a.salary > 0 ? a.projectedFP / a.salary * 1000 : 0; valB = b.salary > 0 ? b.projectedFP / b.salary * 1000 : 0; break;
@@ -8708,7 +8891,7 @@ function parseOddsCsv(text) {
 
             _heatImpl = heatRange(filteredData, r => Number(r.impliedTotal));
             _heatVal = heatRange(filteredData, r => r.salary > 0 ? r.projectedFP / r.salary * 1000 : null);
-            const headers = [' ', 'Player', 'Team', 'Opp', 'Impl Tot', 'Position', 'Status', 'Salary', 'Projected FP', 'Value', 'Projected Ownership', 'Min Exposure', 'Max Exposure'];
+            const headers = [' ', 'Player', 'Team', 'Opp', 'Impl Tot', 'Position', 'Salary', 'Projected FP', 'Value', 'Projected Ownership', 'Min Exposure', 'Max Exposure'];
             document.getElementById('tableHeader').innerHTML = headers.map(h => {
                 const active = h === sortColumn ? ` class="${sortDirection}"` : '';
                 const tip = h === ' ' ? '' : ' title="Click to sort"';
@@ -8732,9 +8915,7 @@ function parseOddsCsv(text) {
                 if (isCore) badges += '<span class="player-badge badge-core">CORE LOCK</span>';
                 else if (isForced) badges += '<span class="player-badge badge-force">FORCE</span>';
                 if (meta.badge) badges += `<span class="player-badge ${meta.badgeClass}">${meta.badge}</span>`;
-                if (isDkOut(row)) badges += '<span class="player-badge badge-excl">OUT</span>';
-                else if (dkInjuryStatus(row)) badges += `<span class="player-badge badge-inj">${dkInjuryStatus(row)}</span>`;
-                if (dkNewsFlag(row)) badges += `<span class="player-badge badge-inj">${dkNewsFlag(row)}</span>`;
+                badges += injuryBadgeHtml(row);
                 if (isInjured) badges += '<span class="player-badge badge-inj">INJ</span>';
                 if (isDeselected) badges += '<span class="player-badge badge-excl">EXCL</span>';
                 let rowClass = '';
@@ -8749,7 +8930,9 @@ function parseOddsCsv(text) {
                     <td><span class="deselect-icon" style="color:${color}" onclick="toggleDeselect('${safeName}')">${icon}</span></td>
                     <td class="player-name-cell">
                         <div class="player-prio-wrap">
-                            <span onclick="openStackSuggest('${safeName}')" oncontextmenu="showPlayerMenu(event, '${safeName}')" title="Click = stack partners • Right-click = actions" style="cursor:pointer;">${row.displayName}${badges}</span>
+                            <span style="display:inline-flex;align-items:center;flex-wrap:wrap;gap:0.15rem;">
+                                <span onclick="openStackSuggest('${safeName}')" oncontextmenu="showPlayerMenu(event, '${safeName}')" title="Click = stack partners • Right-click = actions" style="cursor:pointer;">${row.displayName}</span>${badges}
+                            </span>
                             <select title="Exposure tier — boosts optimizer weight &amp; sets min/max exposure (works with 0 projection)" onchange="playerActionTarget='${safeName}'; setPlayerPriority(this.value)">
                                 <option value="" ${!prioKey?'selected':''}>— Exposure tier</option>
                                 <option value="core" ${prioKey==='core'?'selected':''}>Core Play 30–40%</option>
@@ -8765,13 +8948,6 @@ function parseOddsCsv(text) {
                     <td>${row.Opponent || ''}</td>
                     <td>${heatPill(row.impliedTotal, _heatImpl, row.impliedTotal != null ? Number(row.impliedTotal).toFixed(1) : '')}</td>
                     <td>${row.Position}</td>
-                    <td>${(function () {
-                        const st = dkInjuryStatus(row);
-                        const news = dkNewsFlag(row);
-                        if (!st && !news) return '';
-                        const cls = OUT_STATUS.has(st) ? 'badge-excl' : 'badge-inj';
-                        return `<span class="player-badge ${cls}">${st || 'NEWS'}</span>${news ? ` <span class="player-badge badge-inj">${news}</span>` : ''}`;
-                    })()}</td>
                     <td>${row.salary}</td>
                     <td style="${row._userEditedFP ? 'background:rgba(245,158,11,0.15);' : ''}">
                         <input type="number" step="0.1" min="0" max="80" value="${row.projectedFP.toFixed(2)}"
@@ -8796,9 +8972,15 @@ function parseOddsCsv(text) {
         }
 
         function toggleDeselect(name) {
-            if (deselectedPlayers.has(name)) deselectedPlayers.delete(name);
-            else deselectedPlayers.add(name);
+            if (deselectedPlayers.has(name)) {
+                deselectedPlayers.delete(name);
+                injuryKept.add(name);
+            } else {
+                deselectedPlayers.add(name);
+                injuryKept.delete(name);
+            }
             updateTable();
+            queueSessionSave();
         }
 
         function updateExposure(playerDisplayName, type, value) {
@@ -8889,13 +9071,33 @@ function parseOddsCsv(text) {
             });
             updateTable();
         }
-        function bulkZeroLowProj() {
-            filteredData.forEach(p => {
-                if (p.projectedFP < 8) {
+        function bulkExcludeUnderFloor() {
+            const raw = parseFloat(document.getElementById('fpFloorInput')?.value);
+            const floor = Number.isFinite(raw) ? raw : 8;
+            let n = 0;
+            const pool = (allSlatePlayers && allSlatePlayers.length) ? allSlatePlayers : filteredData;
+            pool.forEach(p => {
+                if ((Number(p.projectedFP) || 0) < floor) {
                     deselectedPlayers.add(p.displayName);
+                    n++;
                 }
             });
             updateTable();
+            setDataStatus('', `Excluded ${n} players under ${floor} FP`);
+        }
+        function bulkZeroLowProj() { bulkExcludeUnderFloor(); }
+        function bulkExcludeInjuryTags() {
+            let n = 0;
+            const pool = (allSlatePlayers && allSlatePlayers.length) ? allSlatePlayers : filteredData;
+            pool.forEach(p => {
+                if (INJURY_EXCLUDE.has(dkInjuryStatus(p))) {
+                    deselectedPlayers.add(p.displayName);
+                    injuryKept.delete(p.displayName);
+                    n++;
+                }
+            });
+            updateTable();
+            setDataStatus('', `Excluded ${n} OUT / Q / D players`);
         }
         function bulkExcludeZeroProj() {
             // Exclude everyone at exactly 0 FP in the current pool view (and raw slate rows)
