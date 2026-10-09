@@ -2450,16 +2450,16 @@
             <div class="card-body howto-card">
                 <p style="margin-top:0;color:var(--muted);">Data loads on open and refreshes in the background. Filters, tiers, and locks are kept. Work auto-saves in this browser.</p>
                 <div class="sd-panel" style="margin:0.75rem 0 1rem;">
-                    <div class="sd-panel-title">CFB construction recipe (research-backed)</div>
+                    <div class="sd-panel-title">CFB construction recipe</div>
                     <p class="sd-panel-hint">DraftKings Classic: QB, 2 RB, 3 WR, FLEX (RB/WR), SUPERFLEX (QB/RB/WR). $50k. No DST. TEs are WRs.</p>
                     <ul style="margin:0.2rem 0 0;padding-left:1.15rem;font-size:0.82rem;">
-                        <li><strong>Two QBs by default.</strong> 26 of 28 flagship GPPs on 12+ game slates were won with a quarterback in Superflex. Keep “QB only at Superflex” on for main slates; uncheck on 1–3 game slates.</li>
-                        <li><strong>Don’t overstack.</strong> Winning QBs had ≥1 pass catcher 74% of the time and two pass catchers only 14%. Default GPP stack is QB + 1 WR. Use QB + 2 WR for pocket passers with condensed targets.</li>
+                        <li><strong>Two QBs by default.</strong> Keep “QB only at Superflex” on for main slates. Uncheck it on 1–3 game slates so RB/WR can fill Superflex.</li>
+                        <li><strong>Don’t overstack.</strong> Default GPP stack is QB + 1 WR. Use QB + 2 WR for pocket passers with a condensed target tree.</li>
                         <li><strong>Dual-threat QBs can go naked.</strong> If the ceiling is rushing TDs, skip the WR stack and spend up elsewhere.</li>
-                        <li><strong>Max 2 WR from one team</strong> on large slates (built into the solver). Triple stacks almost never win 12-game GPPs.</li>
+                        <li><strong>Max 2 WR from one team</strong> on large slates (built into the solver).</li>
                         <li><strong>Volume + matchup over stars.</strong> Bell-cow carries and condensed target share beat recruiting rankings, especially early season.</li>
                         <li><strong>GPP mix:</strong> at least two players under 20% own and one under 10%. Ownership is inefficient in CFB but still condenses on chalk.</li>
-                        <li><strong>Showdown kickers</strong> hit fewer CFB optimals than NFL. Leave Min K/DST at 0 unless the script is FG-heavy.</li>
+                        <li><strong>Showdown kickers</strong> are optional. Leave Min K/DST at 0 unless the script is FG-heavy.</li>
                     </ul>
                 </div>
 
@@ -2482,7 +2482,7 @@
                         This is especially useful in preseason when base projections are thin or zero — bump players you like so the optimizer naturally lands on them more.
                     </li>
                     <li><strong>Presets</strong> — set global style (Cash vs GPP vs K/DST). Start here, then add only a few player tiers.</li>
-                    <li><strong>Stacks</strong> — force QB/CPT + pass catcher(s) in a % of builds. Recipes: QB+1 WR (default winner), QB+2 WR for pocket passers, optional same-game RB bring-back. No DST to fade.</li>
+                    <li><strong>Stacks</strong> — force QB/CPT + pass catcher(s) in a % of builds. Recipes: QB+1 WR, QB+2 WR for pocket passers, optional same-game RB bring-back. No DST to fade.</li>
                     <li><strong>Groups</strong> — structural “at least N of these players.” Prefer 1 group, not 4.</li>
                     <li><strong>Min K/DST</strong> (Showdown) — same idea as a group of kickers/DSTs, but simpler. Don’t also Group the same players.</li>
                     <li><strong>CPT / FLEX bulk exposure</strong> (Showdown) — set all Captains or all FLEX rows at once, then tighten favorites with tiers.</li>
@@ -2558,7 +2558,7 @@
                             <input type="checkbox" id="sflexQbOnly" checked>
                             QB only at Superflex
                         </label>
-                        <span class="sd-field-hint">ETR: 26/28 flagship GPPs on 12+ game slates won with two QBs. Uncheck on 1–3 game slates to allow RB/WR at SFLEX.</span>
+                        <span class="sd-field-hint">On for main slates so Superflex stays a QB. Uncheck on 1–3 game slates to allow RB/WR at SFLEX.</span>
                     </div>
                     <div>
                         <label>Max Player Exposure (%)</label>
@@ -2591,14 +2591,14 @@
                     <button class="preset-btn contest-classic" data-tip="Cash Floor Lock: one lineup everywhere. Highest floor, eat chalk, leftover ≤$500, stacks off. 50/50 · Double-Up · H2H." onclick="applyPreset('cash_floor')">Cash Floor Lock</button>
                     <button class="preset-btn contest-classic" data-tip="Cash 3RB Floor: FLEX locked to RB. Matches the cash FLEX tree when 3 live RBs exist." onclick="applyPreset('cash_3rb')">Cash 3RB Floor</button>
                     <button class="preset-btn contest-classic" data-tip="Eat the Chalk: cash knobs + min-exposure on the highest-owned skill players. Ownership is not a fade in cash." onclick="applyPreset('cash_eat_chalk')">Eat the Chalk</button>
-                    <button class="preset-btn contest-classic" data-tip="Large-field GPP: 150 lineups, unique 4–5, default QB+1 WR stack (74% of flagship winners), optional pocket-passer +2, two QBs, leverage on." onclick="applyPreset('gpp_milly')">GPP Large Field</button>
-                    <button class="preset-btn contest-classic" data-tip="GPP Mini-Stack: QB + 1 WR only — the 74/14 CFB winner split (most winners use one pass catcher, not two)." onclick="applyPreset('gpp_mini')">GPP Mini-Stack</button>
+                    <button class="preset-btn contest-classic" data-tip="Large-field GPP: 150 lineups, unique 4–5, QB + 1 WR by default, optional pocket-passer +2, two QBs, leverage on." onclick="applyPreset('gpp_milly')">GPP Large Field</button>
+                    <button class="preset-btn contest-classic" data-tip="GPP Mini-Stack: QB + 1 WR only. Leaves more room for unique pieces." onclick="applyPreset('gpp_mini')">GPP Mini-Stack</button>
                     <button class="preset-btn contest-classic" data-tip="Four Uniques: GPP mix — cap chalk at ~40% and boost &lt;10% owned pieces so builds can land 4+ contrarian names." onclick="applyPreset('gpp_uniques')">Four Uniques</button>
                     <span class="preset-group-label">Showdown</span>
                     <button class="preset-btn contest-showdown" data-tip="Showdown Cash: Cash settings + 3–3 team split. Safer CPT builds for single-game cash." onclick="applyPreset('sd_cash')">Showdown Cash</button>
                     <button class="preset-btn contest-showdown" data-tip="Showdown GPP: GPP settings + 4–2 split. Pair with Build around a leverage CPT for upside." onclick="applyPreset('sd_gpp')">Showdown GPP</button>
                     <button class="preset-btn contest-showdown" data-tip="Showdown GPP smash: 5–1 team split for one-sided game scripts." onclick="applyPreset('sd_gpp_smash')">Showdown GPP 5–1</button>
-                    <button class="preset-btn contest-showdown" data-tip="Showdown Kicker sprinkle. CFB kickers hit fewer optimals than NFL — use sparingly." onclick="applyPreset('sd_kdst')">Showdown Kicker Mix</button>
+                    <button class="preset-btn contest-showdown" data-tip="Showdown Kicker sprinkle. Use sparingly unless the game script is field-goal heavy." onclick="applyPreset('sd_kdst')">Showdown Kicker Mix</button>
                     <span class="preset-group-label">General</span>
                     <button class="preset-btn" data-tip="Balanced: middle ground between cash safety and GPP upside." onclick="applyPreset('balanced')">Balanced</button>
                     <button class="preset-btn" data-tip="Stack Heavy: force QB/CPT + pass catcher stacking with lower uniqueness." onclick="applyPreset('stackheavy')">Stack Heavy</button>
@@ -2619,7 +2619,7 @@
                     <span class="recipe-group-label">GPP (Milly · large field)</span>
                     <button type="button" class="ghost" data-tip="Classic GPP style + max exp ~40%. Next: tag 6–12 players with High/Mid tiers." onclick="applyRecipe('classic_gpp_simple')">Classic GPP starter</button>
                     <button type="button" class="ghost" data-tip="150-max Milly shape: unique 5, QB+2 PCs, opposing RB bring-back, fade both game DSTs." onclick="applyRecipe('gpp_milly_winner')">Large-field GPP shape</button>
-                    <button type="button" class="ghost" data-tip="GPP + QB + 2 PCs + opposing RB bring-back. Default 2025 game-stack winner." onclick="applyRecipe('gpp_qb2_bb_rb')">Pocket QB + 2 WR</button>
+                    <button type="button" class="ghost" data-tip="GPP + QB + 2 PCs + opposing RB bring-back." onclick="applyRecipe('gpp_qb2_bb_rb')">Pocket QB + 2 WR</button>
                     <button type="button" class="ghost" data-tip="GPP + QB + 1 PC only (mini-stack). More room for 4 uniques." onclick="applyRecipe('gpp_mini_stack')">GPP mini-stack</button>
                     <button type="button" class="ghost" data-tip="Cap chalk ~40% and boost &lt;10% owned names so the pool can produce 4+ uniques." onclick="applyRecipe('gpp_four_uniques')">Four uniques mix</button>
                     <button type="button" class="ghost" data-tip="Classic GPP + QB must have WR+TE. Next: suggest stacks or pick QBs." onclick="applyRecipe('classic_3man')">Classic QB+WR stack</button>
@@ -3282,7 +3282,7 @@
                     </div>
 
                     <h3 style="font-size:0.95rem;margin:1.25rem 0 0.35rem;">Game stacks with bring-back</h3>
-                    <p class="sl-note">Among 2025 game-stack winners the default bring-back was the <strong>opposing RB</strong> (4 of 8). A lone opposing WR as the only bring-back did not win.</p>
+                    <p class="sl-note">Default bring-back is the opposing RB. You can switch that to a pass catcher in the stack settings.</p>
                     <div class="table-wrapper">
                         <table>
                             <thead>
@@ -3707,10 +3707,6 @@
         const CLASSIC_SLOTS = ['QB','RB1','RB2','WR1','WR2','WR3','FLEX','SFLEX'];
         const DK_CLASSIC_HEADER = 'QB,RB,RB,WR,WR,WR,FLEX,S-FLEX';
         const CFB_RECIPE = {
-            twoQbMainSlateWinRate: 0.93,
-            qbStackedOnePc: 0.74,
-            qbStackedTwoPc: 0.141,
-            qbStackedWithRb: 0.18,
             defaultSflexIsQb: true,
             maxWrPerTeam: 2
         };
@@ -9304,7 +9300,7 @@ function parseOddsCsv(text) {
                 model.constraints[name].max = 1;
             });
 
-            // CFB recipe: cap same-team WRs at 2 on classic slates (triple stacks almost never win 12+ game GPPs)
+            // CFB recipe: cap same-team WRs at 2 on classic slates
             if (!isShowdown) {
                 const wrByTeam = {};
                 Object.keys(model.variables).forEach(v => {
