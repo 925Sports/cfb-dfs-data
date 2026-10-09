@@ -4,6 +4,9 @@
 Mirrors 925Sports-nfl-dfs-data/fetch_draftkings.py but targets CFB slates.
 Classic CFB uses QB / RB / RB / WR / WR / WR / FLEX / SFLEX (no TE, no DST).
 Showdown remains CPT + 5 FLEX and may include kickers.
+
+Injury Status comes from the DK salaries CSV Status column (OUT / D / Q / P).
+News Flag (Breaking / Recent) is merged from the draftables JSON when DK returns it.
 """
 import csv
 import io
@@ -21,7 +24,6 @@ HEADERS = {
     "Origin": "https://www.draftkings.com",
 }
 
-# DK has used both codes historically; try them in order.
 SPORT_CODES = ("CFB", "CF", "COLLEGEFOOTBALL")
 
 
@@ -68,6 +70,20 @@ def classify_slate(name, num_games=None):
     return "Classic"
 
 
+def clean_status(value):
+    s = str(value or "").strip().upper()
+    if s in ("", "NONE", "NULL", "N/A", "NA"):
+        return ""
+    return s
+
+
+def clean_news(value):
+    s = str(value or "").strip()
+    if s.lower() in ("", "none", "null", "n/a", "na"):
+        return ""
+    return s
+
+
 def fetch_lobby():
     last_err = None
     for sport in SPORT_CODES:
@@ -87,12 +103,57 @@ def fetch_lobby():
     raise RuntimeError(f"Failed to fetch CFB contests: {last_err}")
 
 
-# Classic salary (94) and Showdown captain (95). Skip snake / TD-only / other formats.
 KEEP_CONTEST_TYPES = {94, 95}
 
 
+def fetch_json_meta(dg_id):
+    """Map draftableId -> injury status + news flag from the draftables JSON."""
+    urls = [
+        f"https://api.draftkings.com/sites/US-DK/draftgroups/v1/draftgroups/{dg_id}/draftables",
+        f"https://api.draftkings.com/draftgroups/v1/draftgroups/{dg_id}/draftables?format=json",
+    ]
+    for url in urls:
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=30)
+            if r.status_code != 200:
+                print(f"    meta {r.status_code} {url.split('/')[2]}")
+                continue
+            data = r.json()
+            meta = {}
+            for p in data.get("draftables") or []:
+                did = str(p.get("draftableId") or "").strip()
+                if not did:
+                    continue
+                meta[did] = {
+                    "injury_status": clean_status(p.get("status")),
+                    "news_flag": clean_news(p.get("newsStatus")),
+                }
+            if meta:
+                tagged = sum(1 for v in meta.values() if v["injury_status"] or v["news_flag"])
+                print(f"    injury/news meta {len(meta)} players, {tagged} tagged, from {url.split('/')[2]}")
+                return meta
+        except Exception as e:
+            print(f"    meta error {url.split('/')[2]}: {e}")
+    print("    no injury/news meta from JSON")
+    return {}
+
+
+def apply_meta(rows, meta):
+    if not meta:
+        return rows
+    for row in rows:
+        info = meta.get(str(row.get("draftableId") or "").strip()) or {}
+        if not row.get("status"):
+            row["status"] = info.get("injury_status", "")
+        if not row.get("newsStatus"):
+            row["newsStatus"] = info.get("news_flag", "")
+    return rows
+
+
 def fetch_draftables(dg_id):
-    """DK blocks some hosts on the old draftables URL. The salaries CSV has the upload ID."""
+    """Salaries CSV has the upload ID and Status. JSON adds the news chip."""
+    meta = fetch_json_meta(dg_id)
+
     csv_url = f"https://www.draftkings.com/lineup/getavailableplayerscsv?draftGroupId={dg_id}"
     try:
         r = requests.get(csv_url, headers=HEADERS, timeout=30)
@@ -133,6 +194,8 @@ def fetch_draftables(dg_id):
                     "position": pos,
                     "teamAbbreviation": p.get("TeamAbbrev") or "",
                     "playerImage50": "",
+                    "status": clean_status(p.get("Status")),
+                    "newsStatus": "",
                     "competition": {
                         "competitionId": matchup,
                         "startTime": start,
@@ -142,7 +205,9 @@ def fetch_draftables(dg_id):
                     },
                 })
             if converted:
-                print(f"    ok {len(converted)} from salaries CSV")
+                apply_meta(converted, meta)
+                outs = sum(1 for row in converted if row.get("status") == "OUT")
+                print(f"    ok {len(converted)} from salaries CSV ({outs} OUT)")
                 return {"draftables": converted}
         else:
             print(f"    salaries CSV {r.status_code}")
@@ -162,8 +227,13 @@ def fetch_draftables(dg_id):
                 print(f"    {r.status_code} {url.split('/')[2]}")
                 continue
             data = r.json()
-            if data.get("draftables"):
-                print(f"    ok {len(data['draftables'])} from {url.split('/')[2]}")
+            draftables = data.get("draftables") or []
+            if draftables:
+                for p in draftables:
+                    p["status"] = clean_status(p.get("status"))
+                    p["newsStatus"] = clean_news(p.get("newsStatus"))
+                outs = sum(1 for p in draftables if p.get("status") == "OUT")
+                print(f"    ok {len(draftables)} from {url.split('/')[2]} ({outs} OUT)")
                 return data
         except Exception as e:
             print(f"    error {url.split('/')[2]}: {e}")
@@ -205,7 +275,6 @@ def main():
         elif "early" in suffix.lower():
             slate_type = "Early"
         else:
-            # Use weekday + game count so a Friday 2-gamer is not folded into Saturday Classic
             weekday = ""
             try:
                 weekday = datetime.fromisoformat(str(start_est).split(".")[0]).strftime("%A")
@@ -250,6 +319,7 @@ def main():
         "Player Name", "First Name", "Last Name", "Salary", "Position", "Team",
         "Game", "Game Start Time", "Player Image", "Tournament", "Slate Type",
         "Game Type", "Date", "Role", "Contest Names", "Contest IDs (Full)", "Slate Header",
+        "Injury Status", "News Flag",
     ]
 
     for dg_id, group in draft_groups.items():
@@ -317,7 +387,6 @@ def main():
             except (TypeError, ValueError):
                 salary = 0
             pos = p.get("position") or ""
-            # CFB lists TEs as WR on DK Classic. Keep CPT/K as-is for Showdown.
             if pos == "TE":
                 pos = "WR"
             team = p.get("teamAbbreviation") or p.get("team") or ""
@@ -327,6 +396,8 @@ def main():
             game = comps.get(comp_id, {}).get("matchup", "")
             start = comps.get(comp_id, {}).get("startTime", "")
             tournament = comp.get("name") or ""
+            injury_status = clean_status(p.get("status"))
+            news_flag = clean_news(p.get("newsStatus"))
             if salary <= 0 or not player_id or not draftable_id or name == "Unknown":
                 continue
             player_versions[player_id].append({
@@ -342,6 +413,8 @@ def main():
                 "start": start,
                 "tournament": tournament,
                 "date": format_date_only(start),
+                "injury_status": injury_status,
+                "news_flag": news_flag,
             })
 
         is_showdown = "Showdown" in group["slate_type"]
@@ -376,6 +449,8 @@ def main():
                         ";".join(group["contest_names"][:10]),
                         ";".join(group["contest_ids"][:20]),
                         slate_header,
+                        ver["injury_status"],
+                        ver["news_flag"],
                     ])
             else:
                 seen = {}
@@ -384,7 +459,6 @@ def main():
                     if key not in seen or int(v["draftable_id"]) < int(seen[key]["draftable_id"]):
                         seen[key] = v
                 for v in seen.values():
-                    # Role string used by the optimizer as the slate key.
                     role = slate_header or group["slate_type"]
                     rows.append([
                         f"{v['name']} - {group['slate_type']}",
@@ -408,6 +482,8 @@ def main():
                         ";".join(group["contest_names"][:10]),
                         ";".join(group["contest_ids"][:20]),
                         slate_header,
+                        v["injury_status"],
+                        v["news_flag"],
                     ])
 
     if not rows:
@@ -419,7 +495,8 @@ def main():
         writer = csv.writer(f)
         writer.writerow(headers)
         writer.writerows(rows)
-    print(f"Wrote {len(rows)} rows to drafttable.csv (sport={sport_used})")
+    outs = sum(1 for row in rows if len(row) > 21 and row[21] == "OUT")
+    print(f"Wrote {len(rows)} rows to drafttable.csv ({outs} OUT) (sport={sport_used})")
 
 
 if __name__ == "__main__":
