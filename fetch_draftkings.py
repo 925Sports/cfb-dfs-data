@@ -5,8 +5,9 @@ Mirrors 925Sports-nfl-dfs-data/fetch_draftkings.py but targets CFB slates.
 Classic CFB uses QB / RB / RB / WR / WR / WR / FLEX / SFLEX (no TE, no DST).
 Showdown remains CPT + 5 FLEX and may include kickers.
 
-Injury Status comes from the DK salaries CSV Status column (OUT / D / Q / P).
-News Flag (Breaking / Recent) is merged from the draftables JSON when DK returns it.
+Injury Status and News Flag come from the draftables JSON (status / newsStatus).
+The salaries CSV does not include them, so they are overlaid after the CSV parse.
+OUT rows are still written; apply_injuries.py zeros projections in players.csv.
 """
 import csv
 import io
@@ -24,6 +25,7 @@ HEADERS = {
     "Origin": "https://www.draftkings.com",
 }
 
+# DK has used both codes historically; try them in order.
 SPORT_CODES = ("CFB", "CF", "COLLEGEFOOTBALL")
 
 
@@ -72,14 +74,22 @@ def classify_slate(name, num_games=None):
 
 def clean_status(value):
     s = str(value or "").strip().upper()
-    if s in ("", "NONE", "NULL", "N/A", "NA"):
+    if s in ("", "NONE", "NULL", "NAN"):
         return ""
+    if s == "O":
+        return "OUT"
     return s
 
 
 def clean_news(value):
     s = str(value or "").strip()
-    if s.lower() in ("", "none", "null", "n/a", "na"):
+    if s.lower() in ("", "none", "null", "nan"):
+        return ""
+    if s == "2":
+        return "Breaking"
+    if s == "1":
+        return "Recent"
+    if s == "0":
         return ""
     return s
 
@@ -103,117 +113,72 @@ def fetch_lobby():
     raise RuntimeError(f"Failed to fetch CFB contests: {last_err}")
 
 
+# Classic salary (94) and Showdown captain (95). Skip snake / TD-only / other formats.
 KEEP_CONTEST_TYPES = {94, 95}
 
 
-def fetch_json_meta(dg_id):
-    """Map draftableId -> injury status + news flag from the draftables JSON."""
-    urls = [
-        f"https://api.draftkings.com/sites/US-DK/draftgroups/v1/draftgroups/{dg_id}/draftables",
-        f"https://api.draftkings.com/draftgroups/v1/draftgroups/{dg_id}/draftables?format=json",
-    ]
-    for url in urls:
-        try:
-            r = requests.get(url, headers=HEADERS, timeout=30)
-            if r.status_code != 200:
-                print(f"    meta {r.status_code} {url.split('/')[2]}")
-                continue
-            data = r.json()
-            meta = {}
-            for p in data.get("draftables") or []:
-                did = str(p.get("draftableId") or "").strip()
-                if not did:
-                    continue
-                meta[did] = {
-                    "injury_status": clean_status(p.get("status")),
-                    "news_flag": clean_news(p.get("newsStatus")),
-                }
-            if meta:
-                tagged = sum(1 for v in meta.values() if v["injury_status"] or v["news_flag"])
-                print(f"    injury/news meta {len(meta)} players, {tagged} tagged, from {url.split('/')[2]}")
-                return meta
-        except Exception as e:
-            print(f"    meta error {url.split('/')[2]}: {e}")
-    print("    no injury/news meta from JSON")
-    return {}
-
-
-def apply_meta(rows, meta):
-    if not meta:
-        return rows
-    for row in rows:
-        info = meta.get(str(row.get("draftableId") or "").strip()) or {}
-        if not row.get("status"):
-            row["status"] = info.get("injury_status", "")
-        if not row.get("newsStatus"):
-            row["newsStatus"] = info.get("news_flag", "")
-    return rows
-
-
-def fetch_draftables(dg_id):
-    """Salaries CSV has the upload ID and Status. JSON adds the news chip."""
-    meta = fetch_json_meta(dg_id)
-
+def _salary_csv_rows(dg_id):
     csv_url = f"https://www.draftkings.com/lineup/getavailableplayerscsv?draftGroupId={dg_id}"
     try:
         r = requests.get(csv_url, headers=HEADERS, timeout=30)
-        if r.status_code == 200 and "Name" in r.text and "ID" in r.text:
-            text = r.text.lstrip("\ufeff")
-            reader = csv.DictReader(io.StringIO(text))
-            converted = []
-            for p in reader:
-                name = (p.get("Name") or "").strip()
-                draftable_id = (p.get("ID") or "").strip()
-                if not name or not draftable_id:
-                    continue
-                roster = (p.get("Roster Position") or "").strip()
-                pos = (p.get("Position") or roster or "").split("/")[0].strip()
-                if roster == "CPT":
-                    pos = "CPT"
-                game = p.get("Game Info") or ""
-                parts = game.split()
-                matchup = parts[0] if parts else ""
-                away, home = (matchup.split("@") + ["", ""])[:2]
-                start = ""
-                if len(parts) >= 3:
-                    raw_start = " ".join(parts[1:3]).replace("ET", "").strip()
-                    try:
-                        start = datetime.strptime(raw_start, "%m/%d/%Y %I:%M%p").replace(
-                            tzinfo=ZoneInfo("America/New_York")
-                        ).isoformat()
-                    except Exception:
-                        start = ""
-                first, _, last = name.partition(" ")
-                converted.append({
-                    "draftableId": draftable_id,
-                    "playerId": draftable_id,
-                    "displayName": name,
-                    "firstName": first,
-                    "lastName": last,
-                    "salary": p.get("Salary") or 0,
-                    "position": pos,
-                    "teamAbbreviation": p.get("TeamAbbrev") or "",
-                    "playerImage50": "",
-                    "status": clean_status(p.get("Status")),
-                    "newsStatus": "",
-                    "competition": {
-                        "competitionId": matchup,
-                        "startTime": start,
-                        "name": f"{away} @ {home}" if away and home else game,
-                        "homeTeam": {"abbreviation": home},
-                        "awayTeam": {"abbreviation": away},
-                    },
-                })
-            if converted:
-                apply_meta(converted, meta)
-                outs = sum(1 for row in converted if row.get("status") == "OUT")
-                print(f"    ok {len(converted)} from salaries CSV ({outs} OUT)")
-                return {"draftables": converted}
-        else:
+        if r.status_code != 200 or "Name" not in r.text or "ID" not in r.text:
             print(f"    salaries CSV {r.status_code}")
+            return []
+        text = r.text.lstrip("\ufeff")
+        reader = csv.DictReader(io.StringIO(text))
+        converted = []
+        for p in reader:
+            name = (p.get("Name") or "").strip()
+            draftable_id = (p.get("ID") or "").strip()
+            if not name or not draftable_id:
+                continue
+            roster = (p.get("Roster Position") or "").strip()
+            pos = (p.get("Position") or roster or "").split("/")[0].strip()
+            if roster == "CPT":
+                pos = "CPT"
+            game = p.get("Game Info") or ""
+            parts = game.split()
+            matchup = parts[0] if parts else ""
+            away, home = (matchup.split("@") + ["", ""])[:2]
+            start = ""
+            if len(parts) >= 3:
+                raw_start = " ".join(parts[1:3]).replace("ET", "").strip()
+                try:
+                    start = datetime.strptime(raw_start, "%m/%d/%Y %I:%M%p").replace(
+                        tzinfo=ZoneInfo("America/New_York")
+                    ).isoformat()
+                except Exception:
+                    start = ""
+            first, _, last = name.partition(" ")
+            converted.append({
+                "draftableId": draftable_id,
+                "playerId": draftable_id,
+                "displayName": name,
+                "firstName": first,
+                "lastName": last,
+                "salary": p.get("Salary") or 0,
+                "position": pos,
+                "teamAbbreviation": p.get("TeamAbbrev") or "",
+                "playerImage50": "",
+                "injuryStatus": "",
+                "newsStatus": "",
+                "competition": {
+                    "competitionId": matchup,
+                    "startTime": start,
+                    "name": f"{away} @ {home}" if away and home else game,
+                    "homeTeam": {"abbreviation": home},
+                    "awayTeam": {"abbreviation": away},
+                },
+            })
+        if converted:
+            print(f"    ok {len(converted)} from salaries CSV")
+        return converted
     except Exception as e:
         print(f"    salaries CSV error: {e}")
+        return []
 
+
+def _json_draftables(dg_id):
     urls = [
         f"https://api.draftkings.com/sites/US-DK/draftgroups/v1/draftgroups/{dg_id}/draftables",
         f"https://api.draftkings.com/draftgroups/v1/draftgroups/{dg_id}/draftables?format=json",
@@ -227,18 +192,100 @@ def fetch_draftables(dg_id):
                 print(f"    {r.status_code} {url.split('/')[2]}")
                 continue
             data = r.json()
-            draftables = data.get("draftables") or []
-            if draftables:
-                for p in draftables:
-                    p["status"] = clean_status(p.get("status"))
-                    p["newsStatus"] = clean_news(p.get("newsStatus"))
-                outs = sum(1 for p in draftables if p.get("status") == "OUT")
-                print(f"    ok {len(draftables)} from {url.split('/')[2]} ({outs} OUT)")
-                return data
+            rows = data.get("draftables") or []
+            if rows:
+                print(f"    ok {len(rows)} from {url.split('/')[2]}")
+                return rows
         except Exception as e:
             print(f"    error {url.split('/')[2]}: {e}")
             last = e
-    print(f"    all endpoints failed ({last})")
+    print(f"    draftables JSON unavailable ({last})")
+    return []
+
+
+def _available_players(dg_id):
+    """Backup status source. Field `i` is P/Q/D/OUT. `news` is 0/1/2."""
+    url = f"https://www.draftkings.com/lineup/getavailableplayers?draftGroupId={dg_id}"
+    try:
+        r = requests.get(url, headers=HEADERS, timeout=30)
+        if r.status_code != 200:
+            print(f"    available players {r.status_code}")
+            return []
+        data = r.json()
+        out = []
+        for p in data.get("playerList") or []:
+            name = f"{p.get('fn') or ''} {p.get('ln') or ''}".strip()
+            pos = (p.get("pn") or "").strip()
+            out.append({
+                "displayName": name,
+                "position": pos,
+                "teamAbbreviation": p.get("htabbr") or "",
+                "status": p.get("i") or "",
+                "newsStatus": p.get("news"),
+                "playerId": p.get("pid") or "",
+            })
+        if out:
+            print(f"    ok {len(out)} from getavailableplayers")
+        return out
+    except Exception as e:
+        print(f"    available players error: {e}")
+        return []
+
+
+def _overlay_status(converted, status_rows):
+    by_id = {}
+    by_name = {}
+    for p in status_rows:
+        status = clean_status(p.get("status") or p.get("injuryStatus") or p.get("i"))
+        news = clean_news(p.get("newsStatus") if p.get("newsStatus") is not None else p.get("news"))
+        did = str(p.get("draftableId") or "").strip()
+        pid = str(p.get("playerId") or "").strip()
+        if did and did != "0":
+            by_id[did] = (status, news, pid)
+        name = str(p.get("displayName") or "").strip().lower()
+        team = str(p.get("teamAbbreviation") or "").strip().upper()
+        pos = str(p.get("position") or "").strip().upper()
+        if name and (status or news):
+            by_name[(name, team, pos)] = (status, news, pid)
+            by_name[(name, team, "")] = by_name.get((name, team, "")) or (status, news, pid)
+    tagged = 0
+    for row in converted:
+        status, news, pid = "", "", ""
+        hit = by_id.get(str(row.get("draftableId") or "").strip())
+        if not hit:
+            name = str(row.get("displayName") or "").strip().lower()
+            team = str(row.get("teamAbbreviation") or "").strip().upper()
+            pos = str(row.get("position") or "").strip().upper()
+            hit = by_name.get((name, team, pos)) or by_name.get((name, team, ""))
+        if hit:
+            status, news, pid = hit
+        if status or news:
+            tagged += 1
+        row["injuryStatus"] = status
+        row["newsStatus"] = news
+        if pid and pid not in ("", "0") and str(row.get("playerId") or "") == str(row.get("draftableId") or ""):
+            row["playerId"] = pid
+    print(f"    injury overlay tagged {tagged}/{len(converted)}")
+    return converted
+
+
+def fetch_draftables(dg_id):
+    """CSV keeps the upload IDs the optimizer exports. JSON supplies injury status."""
+    converted = _salary_csv_rows(dg_id)
+    json_rows = _json_draftables(dg_id)
+    if converted:
+        if json_rows:
+            return {"draftables": _overlay_status(converted, json_rows)}
+        avail = _available_players(dg_id)
+        if avail:
+            return {"draftables": _overlay_status(converted, avail)}
+        return {"draftables": converted}
+    if json_rows:
+        for p in json_rows:
+            p["injuryStatus"] = clean_status(p.get("status") or p.get("injuryStatus"))
+            p["newsStatus"] = clean_news(p.get("newsStatus"))
+        return {"draftables": json_rows}
+    print("    all endpoints failed")
     return None
 
 
@@ -396,7 +443,7 @@ def main():
             game = comps.get(comp_id, {}).get("matchup", "")
             start = comps.get(comp_id, {}).get("startTime", "")
             tournament = comp.get("name") or ""
-            injury_status = clean_status(p.get("status"))
+            injury_status = clean_status(p.get("injuryStatus") or p.get("status"))
             news_flag = clean_news(p.get("newsStatus"))
             if salary <= 0 or not player_id or not draftable_id or name == "Unknown":
                 continue
@@ -495,8 +542,8 @@ def main():
         writer = csv.writer(f)
         writer.writerow(headers)
         writer.writerows(rows)
-    outs = sum(1 for row in rows if len(row) > 21 and row[21] == "OUT")
-    print(f"Wrote {len(rows)} rows to drafttable.csv ({outs} OUT) (sport={sport_used})")
+    out_n = sum(1 for r in rows if str(r[-2]).upper() == "OUT")
+    print(f"Wrote {len(rows)} rows to drafttable.csv (sport={sport_used}, OUT={out_n})")
 
 
 if __name__ == "__main__":
