@@ -27,6 +27,8 @@ jobs:
           curl -sL "https://docs.google.com/spreadsheets/d/e/2PACX-1vSV0x8a_qRCwt9t2MRmRph7MwHioKNrZTN00niOF2spzpMzxrlaz3cKr5oE_soDhjkeH8NbU4UxsIqe/pub?gid=807849522&single=true&output=csv" -o final.csv || true
           # Optional ownership sheet — leave empty file if you add one later
           touch ownership.csv
+      - name: Zero DK Out players in players.csv
+        run: python apply_injuries.py
       - name: Commit and push if changed
         run: |
           git config user.name "github-actions[bot]"
