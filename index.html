@@ -8630,13 +8630,21 @@ function parseOddsCsv(text) {
                         slotType = 'FLEX';
                     }
                 }
+                const injuryStatus = dkInjuryStatus(row);
+                const newsFlag = dkNewsFlag(row);
+                if (OUT_STATUS.has(injuryStatus)) projectedFP = 0;
                 if (minExposures[displayName] === undefined) {
                     minExposures[displayName] = 0;
                     maxExposures[displayName] = 100;
                 }
+                if (OUT_STATUS.has(injuryStatus)) {
+                    minExposures[displayName] = 0;
+                    maxExposures[displayName] = 0;
+                }
                 return {
                     displayName, baseName, Position: row.Position, Team: normalizeTeam(row.Team), Opponent: row.Opponent,
                     salary: row.salary, id: row.id, projectedFP,
+                    injuryStatus, newsFlag,
                     minExposure: minExposures[displayName], maxExposure: maxExposures[displayName],
                     slotType, positions, gameStartTime: row.gameStartTime,
                     ownership: (custom && custom.ownership != null) ? custom.ownership : row.ownership,
@@ -8684,6 +8692,7 @@ function parseOddsCsv(text) {
                         case 'Opp': valA = (a.Opponent||'').toLowerCase(); valB = (b.Opponent||'').toLowerCase(); break;
                         case 'Impl Tot': valA = Number(a.impliedTotal)||0; valB = Number(b.impliedTotal)||0; break;
                         case 'Position': valA = a.Position.toLowerCase(); valB = b.Position.toLowerCase(); break;
+                        case 'Status': valA = dkInjuryStatus(a) || 'ZZZ'; valB = dkInjuryStatus(b) || 'ZZZ'; break;
                         case 'Salary': valA = a.salary; valB = b.salary; break;
                         case 'Projected FP': valA = a.projectedFP; valB = b.projectedFP; break;
                         case 'Value': valA = a.salary > 0 ? a.projectedFP / a.salary * 1000 : 0; valB = b.salary > 0 ? b.projectedFP / b.salary * 1000 : 0; break;
@@ -8699,7 +8708,7 @@ function parseOddsCsv(text) {
 
             _heatImpl = heatRange(filteredData, r => Number(r.impliedTotal));
             _heatVal = heatRange(filteredData, r => r.salary > 0 ? r.projectedFP / r.salary * 1000 : null);
-            const headers = [' ', 'Player', 'Team', 'Opp', 'Impl Tot', 'Position', 'Salary', 'Projected FP', 'Value', 'Projected Ownership', 'Min Exposure', 'Max Exposure'];
+            const headers = [' ', 'Player', 'Team', 'Opp', 'Impl Tot', 'Position', 'Status', 'Salary', 'Projected FP', 'Value', 'Projected Ownership', 'Min Exposure', 'Max Exposure'];
             document.getElementById('tableHeader').innerHTML = headers.map(h => {
                 const active = h === sortColumn ? ` class="${sortDirection}"` : '';
                 const tip = h === ' ' ? '' : ' title="Click to sort"';
@@ -8756,6 +8765,13 @@ function parseOddsCsv(text) {
                     <td>${row.Opponent || ''}</td>
                     <td>${heatPill(row.impliedTotal, _heatImpl, row.impliedTotal != null ? Number(row.impliedTotal).toFixed(1) : '')}</td>
                     <td>${row.Position}</td>
+                    <td>${(function () {
+                        const st = dkInjuryStatus(row);
+                        const news = dkNewsFlag(row);
+                        if (!st && !news) return '';
+                        const cls = OUT_STATUS.has(st) ? 'badge-excl' : 'badge-inj';
+                        return `<span class="player-badge ${cls}">${st || 'NEWS'}</span>${news ? ` <span class="player-badge badge-inj">${news}</span>` : ''}`;
+                    })()}</td>
                     <td>${row.salary}</td>
                     <td style="${row._userEditedFP ? 'background:rgba(245,158,11,0.15);' : ''}">
                         <input type="number" step="0.1" min="0" max="80" value="${row.projectedFP.toFixed(2)}"
