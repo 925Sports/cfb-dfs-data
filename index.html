@@ -3778,6 +3778,32 @@
         let forcedPlayers = new Set();      // must appear in every lineup
         // Exposure-tier priority (works even when projection is 0 — uses floor FP)
         let playerPriority = {}; // displayName -> ''|core|high|mid|low|lower
+        const OUT_STATUS = new Set(["OUT", "O", "IR", "OFS", "SUSP", "SUSPENDED", "OUT FOR SEASON"]);
+        function dkInjuryStatus(row) {
+            return String((row && (row.injuryStatus || row["Injury Status"])) || "").trim().toUpperCase();
+        }
+        function dkNewsFlag(row) {
+            const n = String((row && (row.newsFlag || row["News Flag"])) || "").trim();
+            return (!n || n.toLowerCase() === "none") ? "" : n;
+        }
+        function isDkOut(row) {
+            return OUT_STATUS.has(dkInjuryStatus(row));
+        }
+        function applyInjuryZero(row) {
+            if (!row || !isDkOut(row)) return row;
+            row.injuryStatus = "OUT";
+            row["Injury Status"] = "OUT";
+            row["Projected FP"] = 0;
+            row.projectedFP = 0;
+            row.combinedFP = 0;
+            row.impliedFP = 0;
+            row.fantasyScore = 0;
+            row.value = 0;
+            row.minExposure = 0;
+            row.maxExposure = 0;
+            return row;
+        }
+
         const PRIORITY_META = {
             '':     { label: '—',          boost: 1.00, floor: 0,  minExp: null, maxExp: null, badge: null,          badgeClass: '' },
             core:   { label: 'Core Play',  boost: 1.55, floor: 14, minExp: 30,   maxExp: 40,   badge: 'CORE PLAY',  badgeClass: 'badge-prio-core' },
@@ -6854,7 +6880,10 @@ function parseOddsCsv(text) {
                                 }
 
                                 // Keep original source projection so Reset can restore it
-                                const sourceProj = parseFloat(row['Projected FP']) || (window._sheetProj && window._sheetProj.get(String(row['Player Name']||'').trim().toLowerCase())) || 0;
+                                const injuryStatus = String(row['Injury Status'] || '').trim().toUpperCase();
+                                const newsFlag = String(row['News Flag'] || '').trim();
+                                const isOut = OUT_STATUS.has(injuryStatus);
+                                const sourceProj = isOut ? 0 : (parseFloat(row['Projected FP']) || (window._sheetProj && window._sheetProj.get(String(row['Player Name']||'').trim().toLowerCase())) || 0);
                                 // Apply custom projections if present
                                 let proj = sourceProj;
                                 let own = ownershipMap.get(norm) || 0;
@@ -6902,6 +6931,8 @@ function parseOddsCsv(text) {
                                     passAtt: parseFloat(row['Passing Attempts']) || 0,
                                     fantasyScore: parseFloat(row['Fantasy Score']) || 0,
                                     headshot: row['Headshot URL'] || '',
+                                    injuryStatus: isOut ? 'OUT' : injuryStatus,
+                                    newsFlag: (!newsFlag || newsFlag.toLowerCase() === 'none') ? '' : newsFlag,
                                     matchTitle: row['Match Title (Underdog)'] || '',
                                     gameShort: row['Game Short Title (Underdog)'] || '',
                                     venue: row['Venue Name (Underdog)'] || '',
@@ -7510,11 +7541,12 @@ function parseOddsCsv(text) {
                     passYds: row.passYds, rushYds: row.rushYds, recYds: row.recYds,
                     passTd: row.passTd, atd: row.atd, passAtt: row.passAtt,
                     fantasyScore: row.fantasyScore, headshot: row.headshot,
+                    injuryStatus: row.injuryStatus || '', newsFlag: row.newsFlag || '',
                     matchTitle: row.matchTitle, gameShort: row.gameShort,
                     venue: row.venue, venueType: row.venueType, broadcasts: row.broadcasts,
                     startDisplay: row.startDisplay
                 };
-            });
+            }).map(applyInjuryZero);
             try { enrichPlayerMatchups(allSlatePlayers); } catch (e) { console.warn(e); }
 
             // Showdown DST CPT/FLEX injection
@@ -8695,12 +8727,15 @@ function parseOddsCsv(text) {
                 if (isCore) badges += '<span class="player-badge badge-core">CORE LOCK</span>';
                 else if (isForced) badges += '<span class="player-badge badge-force">FORCE</span>';
                 if (meta.badge) badges += `<span class="player-badge ${meta.badgeClass}">${meta.badge}</span>`;
+                if (isDkOut(row)) badges += '<span class="player-badge badge-excl">OUT</span>';
+                else if (dkInjuryStatus(row)) badges += `<span class="player-badge badge-inj">${dkInjuryStatus(row)}</span>`;
+                if (dkNewsFlag(row)) badges += `<span class="player-badge badge-inj">${dkNewsFlag(row)}</span>`;
                 if (isInjured) badges += '<span class="player-badge badge-inj">INJ</span>';
                 if (isDeselected) badges += '<span class="player-badge badge-excl">EXCL</span>';
                 let rowClass = '';
                 if (isDeselected) rowClass = 'deselected';
                 else if (isForced) rowClass = 'forced-player';
-                else if (isInjured) rowClass = 'injured-player';
+                else if (isDkOut(row) || isInjured) rowClass = 'injured-player';
                 const safeName = row.displayName.replace(/'/g, "\\'");
                 const zeroNote = (prioKey && row.projectedFP <= 0)
                     ? `<div style="font-size:0.65rem;color:var(--warning);">0 proj → floor ${meta.floor} FP in opt</div>`
@@ -9187,6 +9222,7 @@ function parseOddsCsv(text) {
             const byPos = { QB: [], RB: [], WR: [], TE: [], OTHER: [] };
             filteredData.forEach(p => {
                 if (deselectedPlayers.has(p.displayName)) return;
+                if (isDkOut(p)) return;
                 if (!isShowdown && (p.Position === 'DST' || p.Position === 'K')) return;
                 const bucket = byPos[p.Position] ? p.Position : 'OTHER';
                 byPos[bucket].push(p);
@@ -9211,10 +9247,12 @@ function parseOddsCsv(text) {
 
                 // Objective: points with optional leverage penalty
                 // Exposure-tier priority: if projection is 0/low, use a floor so preseason favorites still get weight
+                if (isDkOut(player)) return;
                 const prioKey = playerPriority[displayName] || '';
                 const prioMeta = PRIORITY_META[prioKey] || PRIORITY_META[''];
                 let baseProj = player.projectedFP;
-                if (prioKey && prioMeta.floor > 0) {
+                if (isDkOut(player)) baseProj = 0;
+                else if (prioKey && prioMeta.floor > 0) {
                     baseProj = Math.max(baseProj, prioMeta.floor);
                 }
                 let adjustedPoints = baseProj * (1 + (Math.random() - 0.5) * 2 * randomnessFactor);
@@ -10281,6 +10319,7 @@ function parseOddsCsv(text) {
 
             const availablePlayers = filteredData.filter(r => {
                 if (deselectedPlayers.has(r.displayName)) return false;
+                if (isDkOut(r)) return false;
                 if (!isShowdown && (r.Position === 'DST' || r.Position === 'K')) return false;
                 return true;
             }).map(r => ({
