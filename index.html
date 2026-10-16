@@ -1020,36 +1020,77 @@
         }
         .badge-inj { background: var(--warning); color: #1e293b; }
         .badge-excl { background: var(--danger); color: white; }
-        .player-badge.inj-tip { cursor: help; }
-        .injury-blurb {
-            display: block;
-            white-space: normal;
-            max-width: 340px;
-            margin-top: 0.2rem;
-            font-size: 0.68rem;
-            font-weight: 600;
-            line-height: 1.35;
-            color: var(--warning);
-            cursor: help;
+        .player-badge.inj-tip { cursor: pointer; }
+        .badge-news { background: #38bdf8; color: #0f172a; }
+        button.ghost.is-on,
+        body[data-theme="dark"] button.ghost.is-on {
+            border: 1px solid var(--danger);
+            color: #fecaca;
+            box-shadow: inset 0 0 0 1px var(--danger);
+            background: rgba(239, 68, 68, 0.16);
         }
-        #injuryTip {
+        button.ghost.is-on:hover,
+        body[data-theme="dark"] button.ghost.is-on:hover {
+            border-color: var(--danger);
+            color: #fff;
+            background: rgba(239, 68, 68, 0.28);
+        }
+        #injuryPop { display: none; }
+        #injuryPop.open { display: block; }
+        .injury-pop-card {
             position: fixed;
-            z-index: 4000;
-            display: none;
-            max-width: 360px;
-            white-space: pre-wrap;
-            text-align: left;
+            z-index: 5000;
+            width: min(380px, calc(100vw - 16px));
+            max-height: min(70vh, 440px);
+            overflow: auto;
             background: #0f172a;
             color: #f8fafc;
-            font-size: 0.75rem;
-            font-weight: 500;
-            line-height: 1.35;
-            padding: 0.5rem 0.65rem;
-            border-radius: 8px;
-            box-shadow: 0 8px 20px rgba(0,0,0,0.35);
-            pointer-events: none;
+            border: 1px solid rgba(148, 163, 184, 0.4);
+            border-radius: 12px;
+            box-shadow: 0 16px 40px rgba(0, 0, 0, 0.45);
+            padding: 0.85rem 2.1rem 0.95rem 0.95rem;
         }
-        td.player-name-cell { overflow: visible; white-space: normal; }
+        .injury-pop-x {
+            position: absolute;
+            top: 0.35rem;
+            right: 0.35rem;
+            width: 28px;
+            height: 28px;
+            padding: 0;
+            border: none;
+            border-radius: 6px;
+            background: transparent;
+            color: #cbd5e1;
+            font-size: 1.15rem;
+            line-height: 1;
+        }
+        .injury-pop-x:hover { background: rgba(255,255,255,0.08); color: #fff; }
+        .injury-pop-name {
+            font-weight: 700;
+            font-size: 0.98rem;
+            line-height: 1.3;
+            margin: 0 0 0.4rem;
+        }
+        .injury-pop-tags { display: flex; flex-wrap: wrap; gap: 0.35rem; margin-bottom: 0.65rem; }
+        .injury-pop-tag {
+            font-size: 0.68rem;
+            font-weight: 800;
+            letter-spacing: 0.02em;
+            padding: 0.12rem 0.45rem;
+            border-radius: 999px;
+        }
+        .injury-pop-tag.is-out { background: #ef4444; color: #fff; }
+        .injury-pop-tag.is-q { background: #f59e0b; color: #1e293b; }
+        .injury-pop-tag.is-news { background: #38bdf8; color: #0f172a; }
+        .injury-pop-body p {
+            margin: 0 0 0.6rem;
+            font-size: 0.84rem;
+            line-height: 1.45;
+            color: #e2e8f0;
+        }
+        .injury-pop-body p.injury-pop-lead { color: #fff; font-weight: 600; }
+        .injury-pop-body p.injury-pop-wait { color: #94a3b8; font-weight: 500; }
+        td.player-name-cell { overflow: visible; white-space: nowrap; }
 
         /* Player action menu */
         .player-action-menu {
@@ -3047,7 +3088,7 @@
                         <input id="fpFloorInput" type="number" min="0" max="80" step="0.5" value="8" style="width:68px;padding:0.35rem 0.4rem;" title="Players under this projected fantasy-point floor get the X. Press Enter or Apply floor." onkeydown="if(event.key==='Enter'){event.preventDefault();bulkExcludeUnderFloor();}">
                     </label>
                     <button class="ghost" data-tip="Hit the X on every player in this slate under the min FP floor you typed." onclick="bulkExcludeUnderFloor()">Apply floor</button>
-                    <button class="ghost" data-tip="Hit the X on Out, Questionable, and Doubtful. Probable players stay in." onclick="bulkExcludeInjuryTags()">Exclude OUT / Q / D</button>
+                    <button class="ghost" id="excludeInjuryBtn" aria-pressed="false" data-tip="Hit the X on Out, Questionable, and Doubtful. Probable players stay in. Stays outlined in red after you click it." onclick="bulkExcludeInjuryTags()">Exclude OUT / Q / D</button>
                     <button class="ghost" data-tip="Exclude every player currently showing 0 projected fantasy points from the pool." onclick="bulkExcludeZeroProj()">Exclude 0 FP</button>
                     <button class="ghost" data-tip="Reset every player's min exposure to 0% and max to 100%." onclick="bulkResetExposures()">Reset Exposures</button>
                     <button class="ghost" data-tip="Clear all Force and Core Lock flags from the player pool." onclick="clearAllForces()">Clear Forces</button>
@@ -3888,55 +3929,108 @@
             if (st || news) return label + ".";
             return "";
         }
-        function injuryBlurbHtml(row) {
-            const summary = injurySummaryText(row);
-            if (!summary) return "";
-            const tip = escAttr(injuryHoverText(row));
-            const pdk = escAttr((row && row.playerDkId) || "");
-            return `<div class="injury-blurb inj-tip" data-tip="${tip}" data-pdk="${pdk}">${escHtml(summary)}</div>`;
-        }
         function injuryBadgeHtml(row) {
             const st = dkInjuryStatus(row);
             const news = dkNewsFlag(row);
             const pdk = escAttr((row && (row.playerDkId || row["Player DK ID"])) || "");
+            const name = escAttr((row && row.displayName) || "");
             let html = "";
             if (st) {
-                const tip = escAttr(injuryHoverText(row));
                 const cls = OUT_STATUS.has(st) ? "badge-excl" : "badge-inj";
-                html += `<span class="player-badge ${cls} inj-tip" data-tip="${tip}" data-pdk="${pdk}">${st}</span>`;
+                html += `<span class="player-badge ${cls} inj-tip" data-name="${name}" data-pdk="${pdk}" title="Click for the injury note">${st}</span>`;
             }
             if (news) {
-                const tip = escAttr(injuryHoverText(row) || (news + " news"));
-                html += ` <span class="player-badge badge-inj inj-tip" data-tip="${tip}">${news}</span>`;
+                html += ` <span class="player-badge badge-news inj-tip" data-name="${name}" data-pdk="${pdk}" title="Click for recent news">${news}</span>`;
             }
             return html;
         }
-        function positionInjuryTip(badge) {
-            let el = document.getElementById("injuryTip");
-            if (!el) {
-                el = document.createElement("div");
-                el.id = "injuryTip";
-                document.body.appendChild(el);
+        let injuryPopAnchor = null;
+        function injuryRowFromBadge(badge) {
+            if (!badge) return null;
+            const name = badge.getAttribute("data-name") || "";
+            const pdk = badge.getAttribute("data-pdk") || "";
+            const pools = [filteredData, allSlatePlayers, rawData];
+            for (let i = 0; i < pools.length; i++) {
+                const pool = pools[i];
+                if (!pool || !pool.length) continue;
+                const hit = pool.find(pl => (name && (pl.displayName === name || pl.Name === name || pl["Player Name"] === name))
+                    || (pdk && String(pl.playerDkId || pl["Player DK ID"] || "") === pdk));
+                if (hit) return hit;
             }
-            const tip = badge.getAttribute("data-tip") || "";
-            if (!tip) { el.style.display = "none"; return; }
-            el.textContent = tip;
-            el.style.display = "block";
+            return null;
+        }
+        function ensureInjuryPop() {
+            let el = document.getElementById("injuryPop");
+            if (el) return el;
+            el = document.createElement("div");
+            el.id = "injuryPop";
+            el.innerHTML = '<div class="injury-pop-card" role="dialog" aria-label="Player news"><button type="button" class="injury-pop-x" aria-label="Close">&times;</button><div class="injury-pop-name"></div><div class="injury-pop-tags"></div><div class="injury-pop-body"></div></div>';
+            document.body.appendChild(el);
+            el.querySelector(".injury-pop-x").addEventListener("click", function (e) {
+                e.stopPropagation();
+                closeInjuryPop();
+            });
+            return el;
+        }
+        function closeInjuryPop() {
+            const el = document.getElementById("injuryPop");
+            if (el) el.classList.remove("open");
+            injuryPopAnchor = null;
+        }
+        function openInjuryPop(badge) {
+            if (!badge) return;
+            const row = injuryRowFromBadge(badge);
+            const pop = ensureInjuryPop();
+            const st = row ? dkInjuryStatus(row) : "";
+            const news = row ? dkNewsFlag(row) : (badge.textContent || "").trim();
+            const note = row ? injuryNoteText(row) : "";
+            const parts = note ? note.split(/\n\n+/).map(s => s.trim()).filter(Boolean) : [];
+            const rawName = (row && (row.displayName || row.Name || row["Player Name"])) || badge.getAttribute("data-name") || "Player";
+            pop.querySelector(".injury-pop-name").textContent = String(rawName).replace(/ \((CPT|FLEX)\)$/, "");
+            const tags = pop.querySelector(".injury-pop-tags");
+            tags.textContent = "";
+            if (st) {
+                const s = document.createElement("span");
+                s.className = "injury-pop-tag " + (OUT_STATUS.has(st) ? "is-out" : "is-q");
+                s.textContent = INJURY_LABEL[st] || st;
+                tags.appendChild(s);
+            }
+            if (news && news !== st) {
+                const s = document.createElement("span");
+                s.className = "injury-pop-tag is-news";
+                s.textContent = news;
+                tags.appendChild(s);
+            }
+            const body = pop.querySelector(".injury-pop-body");
+            body.textContent = "";
+            if (!parts.length) {
+                const p = document.createElement("p");
+                p.className = "injury-pop-wait";
+                p.textContent = "Pulling the DraftKings note…";
+                body.appendChild(p);
+            } else {
+                parts.forEach(function (text, i) {
+                    const p = document.createElement("p");
+                    if (i === 0) p.className = "injury-pop-lead";
+                    p.textContent = text;
+                    body.appendChild(p);
+                });
+            }
+            injuryPopAnchor = badge;
+            pop.setAttribute("data-pdk", badge.getAttribute("data-pdk") || "");
+            pop.classList.add("open");
+            const card = pop.querySelector(".injury-pop-card");
             const r = badge.getBoundingClientRect();
-            const width = Math.min(360, window.innerWidth - 16);
-            el.style.maxWidth = width + "px";
+            const width = Math.min(380, window.innerWidth - 16);
+            card.style.width = width + "px";
             let left = r.left;
             if (left + width > window.innerWidth - 8) left = window.innerWidth - width - 8;
             if (left < 8) left = 8;
             let top = r.bottom + 8;
-            el.style.left = left + "px";
-            el.style.top = top + "px";
-            const h = el.offsetHeight || 48;
-            if (top + h > window.innerHeight - 8) el.style.top = Math.max(8, r.top - h - 8) + "px";
-        }
-        function hideInjuryTip() {
-            const el = document.getElementById("injuryTip");
-            if (el) el.style.display = "none";
+            card.style.left = left + "px";
+            card.style.top = top + "px";
+            const h = card.offsetHeight || 140;
+            if (top + h > window.innerHeight - 8) card.style.top = Math.max(8, r.top - h - 8) + "px";
         }
         function rememberInjuryNote(pdk, note) {
             if (!pdk || !note) return;
@@ -3949,10 +4043,9 @@
             document.querySelectorAll(".inj-tip").forEach(badge => {
                 if ((badge.getAttribute("data-pdk") || "") !== pdk) return;
                 const row = (filteredData || []).find(pl => String(pl.playerDkId || "") === pdk);
-                if (row) badge.setAttribute("data-tip", injuryHoverText(row));
+                if (row && injuryPopAnchor === badge) openInjuryPop(badge);
             });
-            const open = document.querySelector(".inj-tip:hover");
-            if (open && open.getAttribute("data-pdk") === pdk) positionInjuryTip(open);
+            if (injuryPopAnchor && (injuryPopAnchor.getAttribute("data-pdk") || "") === pdk) openInjuryPop(injuryPopAnchor);
         }
         function fetchInjuryNote(pdk) {
             if (!pdk) return;
@@ -4024,26 +4117,22 @@
 
         // ====================== INIT ======================
         document.addEventListener('DOMContentLoaded', () => {
-            document.addEventListener('mouseover', (e) => {
-                const badge = e.target.closest && e.target.closest('.inj-tip');
-                if (!badge) return;
-                positionInjuryTip(badge);
-                fetchInjuryNote(badge.getAttribute('data-pdk') || '');
-            });
-            document.addEventListener('mouseout', (e) => {
-                const badge = e.target.closest && e.target.closest('.inj-tip');
-                if (!badge) return;
-                const next = e.relatedTarget;
-                if (next && badge.contains(next)) return;
-                hideInjuryTip();
-            });
             document.addEventListener('click', (e) => {
                 const badge = e.target.closest && e.target.closest('.inj-tip');
-                if (!badge) { hideInjuryTip(); return; }
-                e.stopPropagation();
-                positionInjuryTip(badge);
-                fetchInjuryNote(badge.getAttribute('data-pdk') || '');
+                if (badge) {
+                    e.stopPropagation();
+                    e.preventDefault();
+                    if (injuryPopAnchor === badge) { closeInjuryPop(); return; }
+                    openInjuryPop(badge);
+                    fetchInjuryNote(badge.getAttribute('data-pdk') || '');
+                    return;
+                }
+                if (!e.target.closest || !e.target.closest('#injuryPop')) closeInjuryPop();
             });
+            document.addEventListener('keydown', (e) => {
+                if (e.key === 'Escape') closeInjuryPop();
+            });
+            document.addEventListener('scroll', () => { if (injuryPopAnchor) closeInjuryPop(); }, true);
             window._loadStarted = Date.now();
             // Start data load immediately while loading screen is visible
             fetchData(false);
@@ -7352,6 +7441,7 @@ function parseOddsCsv(text) {
                     injuredPlayers: [...injuredPlayers],
                     deselectedPlayers: [...deselectedPlayers],
                     injuryKept: [...injuryKept],
+                    injuryExcludeOn,
                     minExposures: {...minExposures},
                     maxExposures: {...maxExposures},
                     buildAroundCpt,
@@ -7493,6 +7583,8 @@ function parseOddsCsv(text) {
                 injuryKept.clear();
                 session.injuryKept.forEach(n => injuryKept.add(n));
             }
+            injuryExcludeOn = !!session.injuryExcludeOn;
+            paintInjuryExcludeBtn();
             if (session.minExposures) minExposures = session.minExposures;
             if (session.maxExposures) maxExposures = session.maxExposures;
             if (session.buildAroundCpt) buildAroundCpt = session.buildAroundCpt;
@@ -7540,6 +7632,7 @@ function parseOddsCsv(text) {
             try { forcedPlayers = new Set(); } catch (e) {}
             try { deselectedPlayers = new Set(); } catch (e) {}
             try { injuryKept.clear(); } catch (e) {}
+            try { injuryExcludeOn = false; paintInjuryExcludeBtn(); } catch (e) {}
             try { injuredPlayers = new Set(); } catch (e) {}
             try { minExposures = {}; } catch (e) {}
             try { maxExposures = {}; } catch (e) {}
@@ -8994,7 +9087,6 @@ function parseOddsCsv(text) {
                             <span style="display:inline-flex;align-items:center;flex-wrap:wrap;gap:0.15rem;">
                                 <span onclick="openStackSuggest('${safeName}')" oncontextmenu="showPlayerMenu(event, '${safeName}')" title="Click = stack partners • Right-click = actions" style="cursor:pointer;">${row.displayName}</span>${badges}
                             </span>
-                            ${injuryBlurbHtml(row)}
                             <select title="Exposure tier — boosts optimizer weight &amp; sets min/max exposure (works with 0 projection)" onchange="playerActionTarget='${safeName}'; setPlayerPriority(this.value)">
                                 <option value="" ${!prioKey?'selected':''}>— Exposure tier</option>
                                 <option value="core" ${prioKey==='core'?'selected':''}>Core Play 30–40%</option>
@@ -9148,6 +9240,13 @@ function parseOddsCsv(text) {
             setDataStatus('', `Excluded ${n} players under ${floor} FP`);
         }
         function bulkZeroLowProj() { bulkExcludeUnderFloor(); }
+        let injuryExcludeOn = false;
+        function paintInjuryExcludeBtn() {
+            const btn = document.getElementById('excludeInjuryBtn');
+            if (!btn) return;
+            btn.classList.toggle('is-on', !!injuryExcludeOn);
+            btn.setAttribute('aria-pressed', injuryExcludeOn ? 'true' : 'false');
+        }
         function bulkExcludeInjuryTags() {
             let n = 0;
             const pool = (allSlatePlayers && allSlatePlayers.length) ? allSlatePlayers : filteredData;
@@ -9158,7 +9257,10 @@ function parseOddsCsv(text) {
                     n++;
                 }
             });
+            injuryExcludeOn = true;
+            paintInjuryExcludeBtn();
             updateTable();
+            queueSessionSave();
             setDataStatus('', `Excluded ${n} OUT / Q / D players`);
         }
         function bulkExcludeZeroProj() {
@@ -11805,4 +11907,3 @@ function parseOddsCsv(text) {
 </script>
 </body>
 </html>
-CFB DFS Optimizer Injury Updates - Grok
