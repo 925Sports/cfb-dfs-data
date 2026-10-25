@@ -1,63 +1,65 @@
 Player Name,Position,Team,Slate Type,Date,Role,Salary,Draftable ID,Projected FP,Combined FP,Value,Implied FP,Passing TDs,Rushing Yards,Receiving Yards,Passing Yards,Rush+Rec Yards,Anytime TD,Passing Attempts,Fantasy Score,Headshot URL,Game Start Time,Match Title (Underdog),Game Short Title (Underdog),Venue Name (Underdog),Venue Type (Underdog),Broadcasts (Underdog),Game Start Time (DRAFTTABLE),Injury Status,News Flag
-Conner Weigman,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),16500,44624476,27.07,31.56,1.64,49.5,,,,,,,,,,,,,,,,10/24/2026,,
-Devon Dampier,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),15600,44624477,26.91,30.89,1.73,46.8,,,,,,,,,,,,,,,,10/24/2026,,Recent
-Conner Weigman,QB,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),11000,44624401,27.07,28.26,2.46,33,,,,,,,,,,,,,,,,10/24/2026,,
-Devon Dampier,QB,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),10400,44624402,26.91,27.77,2.59,31.2,,,,,,,,,,,,,,,,10/24/2026,,Recent
-Conner Weigman,QB,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",8600,44600794,27.07,26.82,3.15,25.8,,,,,,,,,,,,,,,,10/24/2026,,
-Devon Dampier,QB,UTAH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",8000,44600796,26.91,26.33,3.36,24,,,,,,,,,,,,,,,,10/24/2026,,Recent
-Wayshawn Parker,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),14700,44624478,17.32,22.68,1.18,44.1,,,,,,,,,,,,,,,,10/24/2026,,Recent
-Amare Thomas,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),13200,44624480,16.79,21.35,1.27,39.6,,,,,,,,,,,,,,,,10/24/2026,,
-Patrick Overmyer,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),10200,44624485,18.89,21.23,1.85,30.6,,,,,,,,,,,,,,,,10/24/2026,,
-Wayshawn Parker,RB,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),9800,44624403,17.32,19.74,1.77,29.4,,,,,,,,,,,,,,,,10/24/2026,,Recent
-Patrick Overmyer,WR,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),6800,44624410,18.89,19.19,2.78,20.4,,,,,,,,,,,,,,,,10/24/2026,,
-Wayshawn Parker,RB,UTAH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",8300,44600840,17.32,18.84,2.09,24.9,,,,,,,,,,,,,,,,10/24/2026,,Recent
-Amare Thomas,WR,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),8800,44624405,16.79,18.71,1.91,26.4,,,,,,,,,,,,,,,,10/24/2026,,
-Nathan Hayes,QB,NDSU,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",6800,44600802,17.96,18.44,2.64,20.4,,,,,,,,,,,,,,,,10/24/2026,,
-Patrick Overmyer,WR,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",5300,44600942,18.89,18.29,3.56,15.9,,,,,,,,,,,,,,,,10/24/2026,,
-Braden Pegan,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),12300,44624482,13.19,17.93,1.07,36.9,,,,,,,,,,,,,,,,10/24/2026,,Recent
-Amare Thomas,WR,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",7500,44600933,16.79,17.93,2.24,22.5,,,,,,,,,,,,,,,,10/24/2026,,
-Scottre Humphrey,RB,UNM,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",7000,44600843,15.95,16.96,2.28,21,,,,,,,,,,,,,,,,10/24/2026,,Recent
-Makhi Hughes,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),10500,44624484,13.23,16.88,1.26,31.5,,,,,,,,,,,,,,,,10/24/2026,,
+Conner Weigman,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),16500,44624476,28.66,32.83,1.74,49.5,,,,,,,,,,,,,,,,10/24/2026,,
+Devon Dampier,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),15600,44624477,26.84,30.83,1.72,46.8,,,,,,,,,,,,,,,,10/24/2026,,Recent
+Wayshawn Parker,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),14700,44624478,27.04,30.45,1.84,44.1,,,,,,,,,,,,,,,,10/24/2026,,Recent
+Conner Weigman,QB,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),11000,44624401,28.66,29.53,2.61,33,,,,,,,,,,,,,,,,10/24/2026,,
+Conner Weigman,QB,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",8600,44600794,28.66,28.09,3.33,25.8,,,,,,,,,,,,,,,,10/24/2026,,
+Devon Dampier,QB,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),10400,44624402,26.84,27.71,2.58,31.2,,,,,,,,,,,,,,,,10/24/2026,,Recent
+Wayshawn Parker,RB,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),9800,44624403,27.04,27.51,2.76,29.4,,,,,,,,,,,,,,,,10/24/2026,,Recent
+Wayshawn Parker,RB,UTAH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",8300,44600840,27.04,26.61,3.26,24.9,,,,,,,,,,,,,,,,10/24/2026,,Recent
+Devon Dampier,QB,UTAH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",8000,44600796,26.84,26.27,3.36,24,,,,,,,,,,,,,,,,10/24/2026,,Recent
+Braden Pegan,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),12300,44624482,19.29,22.81,1.57,36.9,,,,,,,,,,,,,,,,10/24/2026,,Recent
+Patrick Overmyer,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),10200,44624485,18.98,21.3,1.86,30.6,,,,,,,,,,,,,,,,10/24/2026,,
+Amare Thomas,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),13200,44624480,16.36,21.01,1.24,39.6,,,,,,,,,,,,,,,,10/24/2026,,
+Braden Pegan,WR,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),8200,44624407,19.29,20.35,2.35,24.6,,,,,,,,,,,,,,,,10/24/2026,,Recent
+Braden Pegan,WR,UTAH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",7000,44600936,19.29,19.63,2.76,21,,,,,,,,,,,,,,,,10/24/2026,,Recent
+Patrick Overmyer,WR,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),6800,44624410,18.98,19.26,2.79,20.4,,,,,,,,,,,,,,,,10/24/2026,,
+Nathan Hayes,QB,NDSU,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",6800,44600802,18.01,18.49,2.65,20.4,,,,,,,,,,,,,,,,10/24/2026,,
+Amare Thomas,WR,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),8800,44624405,16.36,18.37,1.86,26.4,,,,,,,,,,,,,,,,10/24/2026,,
+Patrick Overmyer,WR,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",5300,44600942,18.98,18.36,3.58,15.9,,,,,,,,,,,,,,,,10/24/2026,,
+Amare Thomas,WR,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",7500,44600933,16.36,17.59,2.18,22.5,,,,,,,,,,,,,,,,10/24/2026,,
+Makhi Hughes,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),10500,44624484,13.43,17.04,1.28,31.5,,,,,,,,,,,,,,,,10/24/2026,,
+Trent Walker,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),9300,44624486,14.13,16.89,1.52,27.9,,,,,,,,,,,,,,,,10/24/2026,,
+Scottre Humphrey,RB,UNM,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",7000,44600843,15.82,16.86,2.26,21,,,,,,,,,,,,,,,,10/24/2026,,Recent
 Re'Shaun Sanford II,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),11400,44624483,10.88,15.54,0.95,34.2,,,,,,,,,,,,,,,,10/24/2026,,
-Braden Pegan,WR,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),8200,44624407,13.19,15.47,1.61,24.6,,,,,,,,,,,,,,,,10/24/2026,,Recent
-Jackson Williams,WR,NDSU,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",5800,44600939,14.37,14.97,2.48,17.4,,,,,,,,,,,,,,,,10/24/2026,,
-Makhi Hughes,RB,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),7000,44624409,13.23,14.78,1.89,21,,,,,,,,,,,,,,,,10/24/2026,,
-Braden Pegan,WR,UTAH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",7000,44600936,13.19,14.75,1.88,21,,,,,,,,,,,,,,,,10/24/2026,,Recent
-Makhi Hughes,RB,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",5400,44600852,13.23,13.82,2.45,16.2,,,,,,,,,,,,,,,,10/24/2026,,
-Kiefer Sibley,RB,UNM,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",4600,44600858,13.56,13.61,2.95,13.8,,,,,,,,,,,,,,,,10/24/2026,,
+Trent Walker,WR,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),6200,44624411,14.13,15.03,2.28,18.6,,,,,,,,,,,,,,,,10/24/2026,,
+Jackson Williams,WR,NDSU,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",5800,44600939,14.36,14.97,2.48,17.4,,,,,,,,,,,,,,,,10/24/2026,,
+Makhi Hughes,RB,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),7000,44624409,13.43,14.94,1.92,21,,,,,,,,,,,,,,,,10/24/2026,,
+Trent Walker,WR,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",4500,44600945,14.13,14.01,3.14,13.5,,,,,,,,,,,,,,,,10/24/2026,,
+Makhi Hughes,RB,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",5400,44600852,13.43,13.98,2.49,16.2,,,,,,,,,,,,,,,,10/24/2026,,
+Kiefer Sibley,RB,UNM,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",4600,44600858,13.59,13.64,2.96,13.8,,,,,,,,,,,,,,,,10/24/2026,,
 Re'Shaun Sanford II,RB,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),7600,44624408,10.88,13.26,1.43,22.8,,,,,,,,,,,,,,,,10/24/2026,,
-DJ Scott,RB,NDSU,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",6200,44600846,11.5,12.92,1.85,18.6,,,,,,,,,,,,,,,,10/24/2026,,
-Toa Fa'avae,QB,UNM,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",6000,44600806,10.86,12.28,1.81,18,,,,,,,,,,,,,,,,10/24/2026,,Recent
+DJ Scott,RB,NDSU,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",6200,44600846,11.54,12.96,1.86,18.6,,,,,,,,,,,,,,,,10/24/2026,,
+Toa Fa'avae,QB,UNM,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",6000,44600806,10.82,12.26,1.8,18,,,,,,,,,,,,,,,,10/24/2026,,Recent
 Re'Shaun Sanford II,RB,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",5800,44600849,10.88,12.18,1.88,17.4,,,,,,,,,,,,,,,,10/24/2026,,
 Troy Omeire,WR,UNM,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3000,44601089,0,0,0,0,,,,,,,,0,,,,,,,,10/24/2026,OUT,
-Myles Mitchell,RB,NDSU,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",5000,44600855,10.43,11.35,2.09,15,,,,,,,,,,,,,,,,10/24/2026,,
-Trent Walker,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),9300,44624486,6.05,10.42,0.65,27.9,,,,,,,,,,,,,,,,10/24/2026,,
+Ricky Johnson,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),7500,44624498,8.63,11.4,1.15,22.5,,,,,,,,,,,,,,,,10/24/2026,,
+Myles Mitchell,RB,NDSU,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",5000,44600855,10.39,11.31,2.08,15,,,,,,,,,,,,,,,,10/24/2026,,
+Creed Whittemore,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),5400,44624505,8.93,10.39,1.65,16.2,,,,,,,,,,,,,,,,10/24/2026,,Recent
 Keisean Henderson,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),13500,44624479,2.39,10.01,0.18,40.5,,,,,,,,,,,,,,,,10/24/2026,,
-Daniel Bray,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),8400,44624495,5.35,9.32,0.64,25.2,,,,,,,,,,,,,,,,10/24/2026,,
-Koby Young,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),6900,44624502,6.39,9.26,0.93,20.7,,,,,,,,,,,,,,,,10/24/2026,,
-Creed Whittemore,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),5400,44624505,7.35,9.12,1.36,16.2,,,,,,,,,,,,,,,,10/24/2026,,Recent
-Cade Keith,WR,UNM,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3400,44600969,8.51,8.85,2.5,10.2,,,,,,,,,,,,,,,,10/24/2026,,
+Ricky Johnson,WR,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),5000,44624423,8.63,9.9,1.73,15,,,,,,,,,,,,,,,,10/24/2026,,
+Noah Bennee,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),6000,44624504,7.53,9.63,1.26,18,,,,,,,,,,,,,,,,10/24/2026,,Recent
+Koby Young,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),6900,44624502,6.57,9.4,0.95,20.7,,,,,,,,,,,,,,,,10/24/2026,,
+Ricky Johnson,WR,UTAH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",4100,44600951,8.63,9.36,2.1,12.3,,,,,,,,,,,,,,,,10/24/2026,,
+Creed Whittemore,WR,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),3600,44624430,8.93,9.31,2.48,10.8,,,,,,,,,,,,,,,,10/24/2026,,Recent
+Daniel Bray,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),8400,44624495,5.32,9.3,0.63,25.2,,,,,,,,,,,,,,,,10/24/2026,,
+Creed Whittemore,WR,UTAH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3500,44600966,8.93,9.25,2.55,10.5,,,,,,,,,,,,,,,,10/24/2026,,Recent
+Cade Keith,WR,UNM,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3400,44600969,8.5,8.84,2.5,10.2,,,,,,,,,,,,,,,,10/24/2026,,
 Byrd Ficklin,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),12900,44624481,1.31,8.79,0.1,38.7,,,,,,,,,,,,,,,,10/24/2026,,Recent
-Mekhi Collins,WR,NDSU,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",4300,44600948,7.71,8.75,1.79,12.9,,,,,,,,,,,,,,,,10/24/2026,,
-Trent Walker,WR,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),6200,44624411,6.05,8.56,0.98,18.6,,,,,,,,,,,,,,,,10/24/2026,,
-Noah Bennee,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),6000,44624504,5.83,8.26,0.97,18,,,,,,,,,,,,,,,,10/24/2026,,Recent
-Creed Whittemore,WR,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),3600,44624430,7.35,8.04,2.04,10.8,,,,,,,,,,,,,,,,10/24/2026,,Recent
-Creed Whittemore,WR,UTAH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3500,44600966,7.35,7.98,2.1,10.5,,,,,,,,,,,,,,,,10/24/2026,,Recent
-Koby Young,WR,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),4600,44624427,6.39,7.88,1.39,13.8,,,,,,,,,,,,,,,,10/24/2026,,
-Daniel Bray,RB,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),5600,44624420,5.35,7.64,0.96,16.8,,,,,,,,,,,,,,,,10/24/2026,,
-Trent Walker,WR,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",4500,44600945,6.05,7.54,1.34,13.5,,,,,,,,,,,,,,,,10/24/2026,,
-Koby Young,WR,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",4000,44600954,6.39,7.52,1.6,12,,,,,,,,,,,,,,,,10/24/2026,,
+Mekhi Collins,WR,NDSU,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",4300,44600948,7.7,8.74,1.79,12.9,,,,,,,,,,,,,,,,10/24/2026,,
+Noah Bennee,WR,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),4000,44624429,7.53,8.43,1.88,12,,,,,,,,,,,,,,,,10/24/2026,,Recent
+Noah Bennee,WR,UTAH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3600,44600963,7.53,8.19,2.09,10.8,,,,,,,,,,,,,,,,10/24/2026,,Recent
+Koby Young,WR,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),4600,44624427,6.57,8.02,1.43,13.8,,,,,,,,,,,,,,,,10/24/2026,,
+Koby Young,WR,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",4000,44600954,6.57,7.66,1.64,12,,,,,,,,,,,,,,,,10/24/2026,,
+Daniel Bray,RB,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),5600,44624420,5.32,7.62,0.95,16.8,,,,,,,,,,,,,,,,10/24/2026,,
 Keisean Henderson,QB,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),9000,44624404,2.39,7.31,0.27,27,,,,,,,,,,,,,,,,10/24/2026,,
-Noah Bennee,WR,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),4000,44624429,5.83,7.06,1.46,12,,,,,,,,,,,,,,,,10/24/2026,,Recent
-Daniel Bray,RB,UTAH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",4400,44600861,5.35,6.92,1.22,13.2,,,,,,,,,,,,,,,,10/24/2026,,
-Noah Bennee,WR,UTAH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3600,44600963,5.83,6.82,1.62,10.8,,,,,,,,,,,,,,,,10/24/2026,,Recent
-Reis Kessel,WR,NDSU,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3700,44600960,5.66,6.75,1.53,11.1,,,,,,,,,,,,,,,,10/24/2026,,
+Daniel Bray,RB,UTAH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",4400,44600861,5.32,6.9,1.21,13.2,,,,,,,,,,,,,,,,10/24/2026,,
+Reis Kessel,WR,NDSU,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3700,44600960,5.65,6.74,1.53,11.1,,,,,,,,,,,,,,,,10/24/2026,,
 Stephon Johnson,WR,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3000,44601017,6.17,6.74,2.06,9,,,,,,,,,,,,,,,,10/24/2026,,
-Ricky Johnson,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),7500,44624498,2.61,6.59,0.35,22.5,,,,,,,,,,,,,,,,10/24/2026,,
 Keisean Henderson,QB,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",7700,44600798,2.39,6.53,0.31,23.1,,,,,,,,,,,,,,,,10/24/2026,,
-Bailen George,WR,UNM,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3800,44600957,5.08,6.34,1.34,11.4,,,,,,,,,,,,,,,,10/24/2026,,
+Bailen George,WR,UNM,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3800,44600957,5.07,6.34,1.33,11.4,,,,,,,,,,,,,,,,10/24/2026,,
 Byrd Ficklin,QB,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),8600,44624406,1.31,6.21,0.15,25.8,,,,,,,,,,,,,,,,10/24/2026,,Recent
-Massiah Mingo,WR,UNM,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3200,44600981,5.12,6.01,1.6,9.6,,,,,,,,,,,,,,,,10/24/2026,,
+Massiah Mingo,WR,UNM,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3200,44600981,5.15,6.04,1.61,9.6,,,,,,,,,,,,,,,,10/24/2026,,
 Luke Carney,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),9000,44624487,0.72,5.98,0.08,27,,,,,,,,,,,,,,,,10/24/2026,,
 Larry Simmons,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),4200,44624507,4.25,5.92,1.01,12.6,,,,,,,,,,,,,,,,10/24/2026,,
 Stephon Johnson,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),1500,44624526,6.17,5.84,4.11,4.5,,,,,,,,,,,,,,,,10/24/2026,,
@@ -72,28 +74,26 @@ Ryan Smith,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdow
 Michael Johnson,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),9000,44624494,0,5.4,0,27,,,,,,,,,,,,,,,,10/24/2026,,
 Larry Simmons,WR,UTAH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3200,44600984,4.25,5.32,1.33,9.6,,,,,,,,,,,,,,,,10/24/2026,,
 Chris Kiel,WR,NDSU,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3300,44600978,4.14,5.29,1.25,9.9,,,,,,,,,,,,,,,,10/24/2026,,
-DJ Darling,WR,UNM,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3300,44600972,4.07,5.23,1.23,9.9,,,,,,,,,,,,,,,,10/24/2026,,
+DJ Darling,WR,UNM,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3300,44600972,4.1,5.26,1.24,9.9,,,,,,,,,,,,,,,,10/24/2026,,
 Shawn Miller,WR,UNM,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3100,44600996,0,0,0,0,,,,,,,,0,,,,,,,,10/24/2026,OUT,Breaking
-Hunter Andrews,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),4500,44624506,3.02,5.12,0.67,13.5,,,,,,,,,,,,,,,,10/24/2026,,Recent
+Hunter Andrews,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),4500,44624506,3.01,5.11,0.67,13.5,,,,,,,,,,,,,,,,10/24/2026,,Recent
 Logan Conklin,WR,NDSU,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3200,44600987,3.99,5.11,1.25,9.6,,,,,,,,,,,,,,,,10/24/2026,,
-Ricky Johnson,WR,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),5000,44624423,2.61,5.09,0.52,15,,,,,,,,,,,,,,,,10/24/2026,,
 Larry Simmons,WR,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),2800,44624432,4.25,5.08,1.52,8.4,,,,,,,,,,,,,,,,10/24/2026,,
 Nyeoti Punni,RB,NDSU,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",4000,44600906,3.25,5,0.81,12,,,,,,,,,,,,,,,,10/24/2026,,
 Dillon Curtis,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),7800,44624496,0,4.68,0,23.4,,,,,,,,,,,,,,,,10/24/2026,,Recent
 Tanner Cragun,CPT,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),7800,44624497,0,4.68,0,23.4,,,,,,,,,,,,,,,,10/24/2026,,
-DJ Butler,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),6300,44624503,1.13,4.68,0.18,18.9,,,,,,,,,,,,,,,,10/24/2026,,
 Zhaiel Smith,WR,UNM,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3000,44601074,3.6,4.68,1.2,9,,,,,,,,,,,,,,,,10/24/2026,,
-Ricky Johnson,WR,UTAH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",4100,44600951,2.61,4.55,0.64,12.3,,,,,,,,,,,,,,,,10/24/2026,,
+DJ Butler,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),6300,44624503,1.11,4.66,0.18,18.9,,,,,,,,,,,,,,,,10/24/2026,,
 Cameron Mathews,RB,UNM,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",4200,44600864,2.42,4.46,0.58,12.6,,,,,,,,,,,,,,,,10/24/2026,,
-Hunter Andrews,WR,UTAH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3300,44600975,3.02,4.4,0.92,9.9,,,,,,,,,,,,,,,,10/24/2026,,Recent
+Hunter Andrews,WR,UTAH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3300,44600975,3.01,4.39,0.91,9.9,,,,,,,,,,,,,,,,10/24/2026,,Recent
 Zac Yoakam,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),7200,44624499,0,4.32,0,21.6,,,,,,,,,,,,,,,,10/24/2026,,
 Evan Noel,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),7200,44624500,0,4.32,0,21.6,,,,,,,,,,,,,,,,10/24/2026,,
 Jonathan Dimas,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),7200,44624501,0,4.32,0,21.6,,,,,,,,,,,,,,,,10/24/2026,,
 Luke Moga,QB,UNM,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",5600,44600808,1.12,4.25,0.2,16.8,,,,,,,,,,,,,,,,10/24/2026,,
-Hunter Andrews,WR,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),3000,44624431,3.02,4.22,1.01,9,,,,,,,,,,,,,,,,10/24/2026,,Recent
+Hunter Andrews,WR,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),3000,44624431,3.01,4.21,1,9,,,,,,,,,,,,,,,,10/24/2026,,Recent
 Muizz Tounkara,WR,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3000,44601020,3,4.2,1,9,,,,,,,,,,,,,,,,10/24/2026,,
 Luke Carney,QB,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),6000,44624412,0.72,4.18,0.12,18,,,,,,,,,,,,,,,,10/24/2026,,
-Isiah St. Romain,WR,NDSU,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3100,44600999,2.9,4.18,0.94,9.3,,,,,,,,,,,,,,,,10/24/2026,,
+Isiah St. Romain,WR,NDSU,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3100,44600999,2.89,4.17,0.93,9.3,,,,,,,,,,,,,,,,10/24/2026,,
 Tripp Walsh,WR,UNM,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3100,44600993,2.66,3.99,0.86,9.3,,,,,,,,,,,,,,,,10/24/2026,,
 Preston Brown,QB,NDSU,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",6300,44600804,0.25,3.98,0.04,18.9,,,,,,,,,,,,,,,,10/24/2026,,
 Tobias Merriweather,WR,UTAH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3000,44601134,2.51,3.81,0.84,9,,,,,,,,,,,,,,,,10/24/2026,,
@@ -108,8 +108,8 @@ Ryan Smith,QB,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown
 Michael Johnson,QB,UTAH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),6000,44624419,0,3.6,0,18,,,,,,,,,,,,,,,,10/24/2026,,
 LaMarcus Bell,RB,UTAH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",4000,44600897,1.5,3.6,0.38,12,,,,,,,,,,,,,,,,10/24/2026,,
 John Hebert,RB,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",4000,44600879,1.44,3.55,0.36,12,,,,,,,,,,,,,,,,10/24/2026,,
-DJ Butler,RB,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),4200,44624428,1.13,3.42,0.27,12.6,,,,,,,,,,,,,,,,10/24/2026,,
-DJ Butler,RB,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",4100,44600867,1.13,3.36,0.27,12.3,,,,,,,,,,,,,,,,10/24/2026,,
+DJ Butler,RB,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),4200,44624428,1.11,3.4,0.26,12.6,,,,,,,,,,,,,,,,10/24/2026,,
+DJ Butler,RB,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",4100,44600867,1.11,3.34,0.27,12.3,,,,,,,,,,,,,,,,10/24/2026,,
 Luke McGary,WR,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",3100,44600990,1.82,3.32,0.59,9.3,,,,,,,,,,,,,,,,10/24/2026,,
 Muizz Tounkara,CPT,UH,Showdown Captain Mode,10/24/2026,Showdown Captain Mode Showdown Captain Mode 10/24 10:15PM (UH @ UTAH),1500,44624538,3,3.3,2,4.5,,,,,,,,,,,,,,,,10/24/2026,,
 Luke Carney,QB,UH,Late Night,10/24/2026,"Late Night Late Night 10/24 10:00PM, 2 Games",4500,44600810,0.72,3.28,0.16,13.5,,,,,,,,,,,,,,,,10/24/2026,,
