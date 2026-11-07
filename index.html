@@ -3088,7 +3088,7 @@
                         <input id="fpFloorInput" type="number" min="0" max="80" step="0.5" value="8" style="width:68px;padding:0.35rem 0.4rem;" title="Players under this projected fantasy-point floor get the X. Press Enter or Apply floor." onkeydown="if(event.key==='Enter'){event.preventDefault();bulkExcludeUnderFloor();}">
                     </label>
                     <button class="ghost" data-tip="Hit the X on every player in this slate under the min FP floor you typed." onclick="bulkExcludeUnderFloor()">Apply floor</button>
-                    <button class="ghost" id="excludeInjuryBtn" aria-pressed="false" data-tip="Hit the X on Out, Questionable, and Doubtful. Probable players stay in. Stays outlined in red after you click it." onclick="bulkExcludeInjuryTags()">Exclude OUT / Q / D</button>
+                    <button class="ghost is-on" id="excludeInjuryBtn" aria-pressed="true" data-tip="ON by default. Hides and excludes OUT, Questionable, and Doubtful from the pool and the optimizer. Probable stays in. Click to show them again. Players you re-include with the checkmark stay in." onclick="bulkExcludeInjuryTags()">OUT / Q / D hidden</button>
                     <button class="ghost" data-tip="Exclude every player currently showing 0 projected fantasy points from the pool." onclick="bulkExcludeZeroProj()">Exclude 0 FP</button>
                     <button class="ghost" data-tip="Reset every player's min exposure to 0% and max to 100%." onclick="bulkResetExposures()">Reset Exposures</button>
                     <button class="ghost" data-tip="Clear all Force and Core Lock flags from the player pool." onclick="clearAllForces()">Clear Forces</button>
@@ -7583,7 +7583,8 @@ function parseOddsCsv(text) {
                 injuryKept.clear();
                 session.injuryKept.forEach(n => injuryKept.add(n));
             }
-            injuryExcludeOn = !!session.injuryExcludeOn;
+            // Filter stays on unless the user explicitly turned it off last session.
+            injuryExcludeOn = session.injuryExcludeOn === false ? false : true;
             paintInjuryExcludeBtn();
             if (session.minExposures) minExposures = session.minExposures;
             if (session.maxExposures) maxExposures = session.maxExposures;
@@ -7617,6 +7618,9 @@ function parseOddsCsv(text) {
             } else {
                 if (typeof updateTable === 'function') updateTable();
             }
+            // Session restore can rehydrate an old deselected set. Re-apply so OUT / Q / D stay out.
+            try { applyInjuryExclusion(allSlatePlayers); } catch (e) {}
+            try { if (typeof updateTable === 'function') updateTable(); } catch (e) {}
             if (typeof updateCoreBar === 'function') updateCoreBar();
 
             if (!silent) {
@@ -7632,7 +7636,7 @@ function parseOddsCsv(text) {
             try { forcedPlayers = new Set(); } catch (e) {}
             try { deselectedPlayers = new Set(); } catch (e) {}
             try { injuryKept.clear(); } catch (e) {}
-            try { injuryExcludeOn = false; paintInjuryExcludeBtn(); } catch (e) {}
+            try { injuryExcludeOn = true; paintInjuryExcludeBtn(); } catch (e) {}
             try { injuredPlayers = new Set(); } catch (e) {}
             try { minExposures = {}; } catch (e) {}
             try { maxExposures = {}; } catch (e) {}
@@ -8991,11 +8995,15 @@ function parseOddsCsv(text) {
                 };
             });
 
-            tempData.forEach(p => {
-                if (INJURY_EXCLUDE.has(dkInjuryStatus(p)) && !injuryKept.has(p.displayName)) {
-                    deselectedPlayers.add(p.displayName);
-                }
-            });
+            // Always re-apply so a restored session cannot leave OUT / Q / D active.
+            // injuryKept is the only way a user keeps one of these in the pool.
+            if (injuryExcludeOn) {
+                tempData.forEach(p => {
+                    if (INJURY_EXCLUDE.has(dkInjuryStatus(p)) && !injuryKept.has(p.displayName)) {
+                        deselectedPlayers.add(p.displayName);
+                    }
+                });
+            }
 
             // Also inject Showdown DST entries if needed (already in allSlatePlayers, but for table consistency)
             const q = (poolSearchQuery || '').trim().toLowerCase();
@@ -9011,7 +9019,11 @@ function parseOddsCsv(text) {
                 const playerOk = !selectedPlayers.length || selectedPlayers.includes(row.baseName);
                 const searchOk = !q || row.displayName.toLowerCase().includes(q) || row.baseName.toLowerCase().includes(q)
                     || (row.Team || '').toLowerCase().includes(q);
-                return posOk && teamOk && playerOk && searchOk;
+                // Hide OUT / Q / D from the pool while the filter is on, unless the user kept them.
+                const injuryHidden = injuryExcludeOn
+                    && INJURY_EXCLUDE.has(dkInjuryStatus(row))
+                    && !injuryKept.has(row.displayName);
+                return posOk && teamOk && playerOk && searchOk && !injuryHidden;
             });
             try { enrichPlayerMatchups(filteredData); } catch (e) {}
             filteredData.forEach(p => {
@@ -9240,28 +9252,49 @@ function parseOddsCsv(text) {
             setDataStatus('', `Excluded ${n} players under ${floor} FP`);
         }
         function bulkZeroLowProj() { bulkExcludeUnderFloor(); }
-        let injuryExcludeOn = false;
+        let injuryExcludeOn = true; // default: hide and exclude OUT / Q / D
         function paintInjuryExcludeBtn() {
             const btn = document.getElementById('excludeInjuryBtn');
             if (!btn) return;
             btn.classList.toggle('is-on', !!injuryExcludeOn);
             btn.setAttribute('aria-pressed', injuryExcludeOn ? 'true' : 'false');
+            btn.textContent = injuryExcludeOn ? 'OUT / Q / D hidden' : 'Exclude OUT / Q / D';
         }
-        function bulkExcludeInjuryTags() {
+        function applyInjuryExclusion(players) {
+            if (!injuryExcludeOn) return 0;
             let n = 0;
-            const pool = (allSlatePlayers && allSlatePlayers.length) ? allSlatePlayers : filteredData;
-            pool.forEach(p => {
-                if (INJURY_EXCLUDE.has(dkInjuryStatus(p))) {
-                    deselectedPlayers.add(p.displayName);
-                    injuryKept.delete(p.displayName);
+            (players || []).forEach(p => {
+                if (!p) return;
+                const name = p.displayName || p.baseName;
+                if (!name) return;
+                if (INJURY_EXCLUDE.has(dkInjuryStatus(p)) && !injuryKept.has(name)) {
+                    deselectedPlayers.add(name);
                     n++;
                 }
             });
-            injuryExcludeOn = true;
+            return n;
+        }
+        function bulkExcludeInjuryTags() {
+            injuryExcludeOn = !injuryExcludeOn;
+            let n = 0;
+            const pool = (allSlatePlayers && allSlatePlayers.length) ? allSlatePlayers : (filteredData || []);
+            if (injuryExcludeOn) {
+                n = applyInjuryExclusion(pool);
+            } else {
+                // Turning the filter off does not re-include players the user manually X'd.
+                // It only stops auto-excluding OUT / Q / D that were not kept.
+                pool.forEach(p => {
+                    if (INJURY_EXCLUDE.has(dkInjuryStatus(p)) && !injuryKept.has(p.displayName)) {
+                        deselectedPlayers.delete(p.displayName);
+                    }
+                });
+            }
             paintInjuryExcludeBtn();
             updateTable();
             queueSessionSave();
-            setDataStatus('', `Excluded ${n} OUT / Q / D players`);
+            setDataStatus('', injuryExcludeOn
+                ? `Hiding ${n} OUT / Q / D players`
+                : 'OUT / Q / D filter off — those players are back in the pool');
         }
         function bulkExcludeZeroProj() {
             // Exclude everyone at exactly 0 FP in the current pool view (and raw slate rows)
@@ -10698,6 +10731,7 @@ function parseOddsCsv(text) {
             const availablePlayers = filteredData.filter(r => {
                 if (deselectedPlayers.has(r.displayName)) return false;
                 if (isDkOut(r)) return false;
+                if (injuryExcludeOn && INJURY_EXCLUDE.has(dkInjuryStatus(r)) && !injuryKept.has(r.displayName)) return false;
                 if (!isShowdown && (r.Position === 'DST' || r.Position === 'K')) return false;
                 return true;
             }).map(r => ({
