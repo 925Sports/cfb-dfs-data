@@ -1,121 +1,126 @@
 Player Name,Position,Team,Slate Type,Date,Role,Salary,Draftable ID,Projected FP,Combined FP,Value,Implied FP,Passing TDs,Rushing Yards,Receiving Yards,Passing Yards,Rush+Rec Yards,Anytime TD,Passing Attempts,Fantasy Score,Headshot URL,Game Start Time,Match Title (Underdog),Game Short Title (Underdog),Venue Name (Underdog),Venue Type (Underdog),Broadcasts (Underdog),Game Start Time (DRAFTTABLE),Injury Status,News Flag
-Jesse Legree,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),15000,44812477,29.15,32.32,1.94,45,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Brad Jackson,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),13800,44812478,26.87,29.77,1.95,41.4,,,,,,,,,,,,,,,,11/7/2026,,
-Jesse Legree,WR,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),10000,44812407,29.15,29.32,2.92,30,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Jesse Legree,WR,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",9000,44790989,29.15,28.72,3.24,27,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Braden Atkinson,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),16200,44812476,22.09,27.4,1.36,48.6,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Michael Hawkins Jr.,QB,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",9500,44790671,26.95,27.26,2.84,28.5,,,,,,,,,,,,,,,,11/7/2026,,
-Brad Jackson,QB,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),9200,44812408,26.87,27.01,2.92,27.6,,,,,,,,,,,,,,,,11/7/2026,,
-Brad Jackson,QB,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",7800,44790681,26.87,26.17,3.44,23.4,,,,,,,,,,,,,,,,11/7/2026,,
-Thomas Castellanos,QB,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",8100,44790679,24.46,24.43,3.02,24.3,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Braden Atkinson,QB,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),10800,44812406,22.09,24.16,2.05,32.4,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Braden Atkinson,QB,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",9000,44790675,22.09,23.08,2.45,27,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Jai'Den Thomas,RB,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",7400,44790782,21.35,21.52,2.89,22.2,,,,,,,,,,,,,,,,11/7/2026,,Breaking
-Torrance Burgess Jr.,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),12000,44812481,17.65,21.32,1.47,36,,,,,,,,,,,,,,,,11/7/2026,,
-J'Koby Williams,RB,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",8300,44790773,20.18,21.12,2.43,24.9,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Jackson Arnold,QB,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",7300,44790685,19.77,20.2,2.71,21.9,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Micah Alejado,QB,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",6900,44790689,19.69,19.89,2.85,20.7,,,,,,,,,,,,,,,,11/7/2026,,
-Cam Cook,RB,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",7900,44790776,18.78,19.76,2.38,23.7,,,,,,,,,,,,,,,,11/7/2026,,
-Torrance Burgess Jr.,RB,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),8000,44812411,17.65,18.92,2.21,24,,,,,,,,,,,,,,,,11/7/2026,,
-Torrance Burgess Jr.,RB,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",7000,44790779,17.65,18.32,2.52,21,,,,,,,,,,,,,,,,11/7/2026,,
-Javen Jacobs,RB,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5800,44790797,17.28,17.31,2.98,17.4,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Jayden Mandal,QB,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",6700,44790693,16.54,17.25,2.47,20.1,,,,,,,,,,,,,,,,11/7/2026,,
-Chris Dawn Jr.,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),10200,44812484,13.64,17.03,1.34,30.6,,,,,,,,,,,,,,,,11/7/2026,,
+Jesse Legree,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),15000,44812477,30.64,33.51,2.04,45,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Jesse Legree,WR,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),10000,44812407,30.64,30.51,3.06,30,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Brad Jackson,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),13800,44812478,27.41,30.21,1.99,41.4,,,,,,,,,,,,,,,,11/7/2026,,
+Jesse Legree,WR,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",9000,44790989,30.64,29.91,3.4,27,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Braden Atkinson,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),16200,44812476,22.55,27.76,1.39,48.6,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Brad Jackson,QB,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),9200,44812408,27.41,27.45,2.98,27.6,,,,,,,,,,,,,,,,11/7/2026,,
+Michael Hawkins Jr.,QB,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",9500,44790671,26.83,27.16,2.82,28.5,,,,,,,,,,,,,,,,11/7/2026,,
+Brad Jackson,QB,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",7800,44790681,27.41,26.61,3.51,23.4,,,,,,,,,,,,,,,,11/7/2026,,
+Braden Atkinson,QB,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),10800,44812406,22.55,24.52,2.09,32.4,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Braden Atkinson,QB,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",9000,44790675,22.55,23.44,2.51,27,,,,,,,,,,,,,,,,11/7/2026,,Recent
+J'Koby Williams,RB,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",8300,44790773,22.35,22.86,2.69,24.9,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Jai'Den Thomas,RB,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",7400,44790782,21.64,21.76,2.92,22.2,,,,,,,,,,,,,,,,11/7/2026,,Breaking
+Torrance Burgess Jr.,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),12000,44812481,18.18,21.74,1.51,36,,,,,,,,,,,,,,,,11/7/2026,,
+Cam Cook,RB,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",7900,44790776,19.78,20.57,2.5,23.7,,,,,,,,,,,,,,,,11/7/2026,,
+Micah Alejado,QB,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",6900,44790689,19.98,20.13,2.9,20.7,,,,,,,,,,,,,,,,11/7/2026,,
+Thomas Castellanos,QB,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",8100,44790679,18.84,19.93,2.33,24.3,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Jackson Arnold,QB,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",7300,44790685,18.73,19.36,2.57,21.9,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Torrance Burgess Jr.,RB,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),8000,44812411,18.18,19.34,2.27,24,,,,,,,,,,,,,,,,11/7/2026,,
+Torrance Burgess Jr.,RB,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",7000,44790779,18.18,18.74,2.6,21,,,,,,,,,,,,,,,,11/7/2026,,
+Jayden Mandal,QB,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",6700,44790693,16.56,17.27,2.47,20.1,,,,,,,,,,,,,,,,11/7/2026,,
+Beau Sparks,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),9900,44812485,13.39,16.65,1.35,29.7,,,,,,,,,,,,,,,,11/7/2026,,
+Chris Dawn Jr.,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),10200,44812484,13.12,16.61,1.29,30.6,,,,,,,,,,,,,,,,11/7/2026,,
+AJ Newberry,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),11400,44812482,12.12,16.54,1.06,34.2,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Javen Jacobs,RB,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5800,44790797,15.95,16.24,2.75,17.4,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Markell Holman,RB,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",6100,44790788,15.43,16,2.53,18.3,,,,,,,,,,,,,,,,11/7/2026,,
+Josiah Freeman,WR,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",6200,44790995,14.98,15.71,2.42,18.6,,,,,,,,,,,,,,,,11/7/2026,,
+Kenny Johnson,WR,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5100,44791016,15.25,15.26,2.99,15.3,,,,,,,,,,,,,,,,11/7/2026,,Breaking
 Eli Wood,WR,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",6500,44790992,0,0,0,0,,,,,,,,0,,,,,,,,11/7/2026,OUT,Breaking
-Markell Holman,RB,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",6100,44790788,16.55,16.9,2.71,18.3,,,,,,,,,,,,,,,,11/7/2026,,
-Pofele Ashlock,WR,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5700,44791001,16.55,16.66,2.9,17.1,,,,,,,,,,,,,,,,11/7/2026,,
-AJ Newberry,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),11400,44812482,11.89,16.35,1.04,34.2,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Beau Sparks,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),9900,44812485,12.82,16.2,1.3,29.7,,,,,,,,,,,,,,,,11/7/2026,,
-Kenny Johnson,WR,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5100,44791016,15.94,15.81,3.12,15.3,,,,,,,,,,,,,,,,11/7/2026,,Breaking
-Josiah Freeman,WR,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",6200,44790995,15.06,15.77,2.43,18.6,,,,,,,,,,,,,,,,11/7/2026,,
-Anthony Garcia,WR,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5600,44791004,15.1,15.44,2.7,16.8,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Chris Dawn Jr.,WR,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),6800,44812414,13.64,14.99,2.01,20.4,,,,,,,,,,,,,,,,11/7/2026,,
-Tyler Hughes,QB,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",6100,44790699,13.53,14.49,2.22,18.3,,,,,,,,,,,,,,,,11/7/2026,,
-Eric Olsen,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),9300,44812487,10.92,14.32,1.17,27.9,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Beau Sparks,WR,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),6600,44812415,12.82,14.22,1.94,19.8,,,,,,,,,,,,,,,,11/7/2026,,
-Chris Dawn Jr.,WR,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5400,44791010,13.64,14.15,2.53,16.2,,,,,,,,,,,,,,,,11/7/2026,,
-DJ Epps,WR,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5500,44791007,13.55,14.14,2.46,16.5,,,,,,,,,,,,,,,,11/7/2026,,
-AJ Newberry,RB,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),7600,44812412,11.89,14.07,1.56,22.8,,,,,,,,,,,,,,,,11/7/2026,,Recent
-DeVon Rice,RB,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5900,44790794,12.9,13.86,2.19,17.7,,,,,,,,,,,,,,,,11/7/2026,,
-Davian Jackson,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),10500,44812483,9.18,13.65,0.87,31.5,,,,,,,,,,,,,,,,11/7/2026,,
-Beau Sparks,WR,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5200,44791013,12.82,13.38,2.47,15.6,,,,,,,,,,,,,,,,11/7/2026,,
-AJ Newberry,RB,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",6400,44790785,11.89,13.35,1.86,19.2,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Beau Sparks,WR,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),6600,44812415,13.39,14.67,2.03,19.8,,,,,,,,,,,,,,,,11/7/2026,,
+Chris Dawn Jr.,WR,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),6800,44812414,13.12,14.57,1.93,20.4,,,,,,,,,,,,,,,,11/7/2026,,
+Eric Olsen,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),9300,44812487,10.97,14.36,1.18,27.9,,,,,,,,,,,,,,,,11/7/2026,,Recent
+DJ Epps,WR,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5500,44791007,13.78,14.32,2.5,16.5,,,,,,,,,,,,,,,,11/7/2026,,
+AJ Newberry,RB,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),7600,44812412,12.12,14.26,1.6,22.8,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Tyler Hughes,QB,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",6100,44790699,13.26,14.26,2.17,18.3,,,,,,,,,,,,,,,,11/7/2026,,
+Anthony Garcia,WR,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5600,44791004,13.47,14.14,2.41,16.8,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Davian Jackson,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),10500,44812483,9.65,14.02,0.92,31.5,,,,,,,,,,,,,,,,11/7/2026,,
+Beau Sparks,WR,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5200,44791013,13.39,13.83,2.57,15.6,,,,,,,,,,,,,,,,11/7/2026,,
+Chris Dawn Jr.,WR,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5400,44791010,13.12,13.73,2.43,16.2,,,,,,,,,,,,,,,,11/7/2026,,
+AJ Newberry,RB,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",6400,44790785,12.12,13.54,1.89,19.2,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Pofele Ashlock,WR,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5700,44791001,12.53,13.44,2.2,17.1,,,,,,,,,,,,,,,,11/7/2026,,
 Grady Brosterhous,QB,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5300,44790707,12.6,13.26,2.38,15.9,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Cornell Hatcher Jr.,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),9600,44812486,9.21,13.13,0.96,28.8,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Rayshon Luke,RB,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5700,44790800,12.08,13.09,2.12,17.1,,,,,,,,,,,,,,,,11/7/2026,,
+Samuel Harris,RB,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5400,44790806,12.15,12.96,2.25,16.2,,,,,,,,,,,,,,,,11/7/2026,,
+DeVon Rice,RB,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5900,44790794,11.7,12.9,1.98,17.7,,,,,,,,,,,,,,,,11/7/2026,,
+Rayshon Luke,RB,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5700,44790800,11.63,12.72,2.04,17.1,,,,,,,,,,,,,,,,11/7/2026,,
 Audric Harris,WR,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4300,44791034,12.59,12.65,2.93,12.9,,,,,,,,,,,,,,,,11/7/2026,,
-EJ Colson Jr.,QB,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5400,44790705,11.69,12.59,2.17,16.2,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Cornell Hatcher Jr.,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),9600,44812486,8.6,12.64,0.9,28.8,,,,,,,,,,,,,,,,11/7/2026,,Recent
 Kayden McGee,WR,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5900,44790998,11.25,12.54,1.91,17.7,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Eric Olsen,WR,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),6200,44812417,10.92,12.46,1.76,18.6,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Cameron Dickey,RB,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",6000,44790791,10.98,12.39,1.83,18,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Bryson Donelson,RB,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5300,44790809,11.22,12.16,2.12,15.9,,,,,,,,,,,,,,,,11/7/2026,,
-Tavorus Jones,RB,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4800,44790821,11.44,12.03,2.38,14.4,,,,,,,,,,,,,,,,11/7/2026,,Breaking
-Kainoa Carvalho,WR,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4600,44791022,11.35,11.84,2.47,13.8,,,,,,,,,,,,,,,,11/7/2026,,
-Ezekiel Avit,WR,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4800,44791025,10.92,11.62,2.28,14.4,,,,,,,,,,,,,,,,11/7/2026,,
-Tama Uiliata,WR,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4900,44791019,10.78,11.56,2.2,14.7,,,,,,,,,,,,,,,,11/7/2026,,
-Eric Olsen,WR,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4700,44791028,10.92,11.56,2.32,14.1,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Davian Jackson,RB,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),7000,44812413,9.18,11.55,1.31,21,,,,,,,,,,,,,,,,11/7/2026,,
-Samuel Harris,RB,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5400,44790806,10.35,11.52,1.92,16.2,,,,,,,,,,,,,,,,11/7/2026,,
-Cornell Hatcher Jr.,RB,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),6400,44812416,9.21,11.21,1.44,19.2,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Jaden Smith,WR,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4200,44791037,10.76,11.13,2.56,12.6,,,,,,,,,,,,,,,,11/7/2026,,Breaking
-Davian Jackson,RB,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5600,44790803,9.18,10.71,1.64,16.8,,,,,,,,,,,,,,,,11/7/2026,,
-Terrance Carter Jr.,WR,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3900,44791052,10.16,10.47,2.6,11.7,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Eric Olsen,WR,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),6200,44812417,10.97,12.5,1.77,18.6,,,,,,,,,,,,,,,,11/7/2026,,Recent
+EJ Colson Jr.,QB,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5400,44790705,11.24,12.23,2.08,16.2,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Ezekiel Avit,WR,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4800,44791025,11.32,11.94,2.36,14.4,,,,,,,,,,,,,,,,11/7/2026,,
+Davian Jackson,RB,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),7000,44812413,9.65,11.92,1.38,21,,,,,,,,,,,,,,,,11/7/2026,,
+Cameron Dickey,RB,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",6000,44790791,10.37,11.89,1.73,18,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Jaden Smith,WR,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4200,44791037,11.55,11.76,2.75,12.6,,,,,,,,,,,,,,,,11/7/2026,,Breaking
+Tavorus Jones,RB,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4800,44790821,10.99,11.67,2.29,14.4,,,,,,,,,,,,,,,,11/7/2026,,Breaking
+Eric Olsen,WR,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4700,44791028,10.97,11.6,2.33,14.1,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Bryson Donelson,RB,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5300,44790809,10.4,11.5,1.96,15.9,,,,,,,,,,,,,,,,11/7/2026,,
+Davian Jackson,RB,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5600,44790803,9.65,11.08,1.72,16.8,,,,,,,,,,,,,,,,11/7/2026,,
+Terrance Carter Jr.,WR,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3900,44791052,10.66,10.86,2.73,11.7,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Cornell Hatcher Jr.,RB,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),6400,44812416,8.6,10.72,1.34,19.2,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Zechariah Sample,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),6900,44812503,8.18,10.69,1.19,20.7,,,,,,,,,,,,,,,,11/7/2026,,
+Quinten Joyner,RB,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5200,44790812,9.37,10.62,1.8,15.6,,,,,,,,,,,,,,,,11/7/2026,,
 Maalik Murphy,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),13500,44812479,2.94,10.45,0.22,40.5,,,,,,,,,,,,,,,,11/7/2026,,
-Cornell Hatcher Jr.,RB,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4900,44790818,9.21,10.31,1.88,14.7,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Aaron Butler,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),8100,44812495,6.72,10.24,0.83,24.3,,,,,,,,,,,,,,,,11/7/2026,,
-Coy Eakin,WR,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3800,44791061,9.93,10.22,2.61,11.4,,,,,,,,,,,,,,,,11/7/2026,,
-Jake Wilson,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4100,44791043,9.69,10.21,2.36,12.3,,,,,,,,,,,,,,,,11/7/2026,,
-Zechariah Sample,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),6900,44812503,7.52,10.15,1.09,20.7,,,,,,,,,,,,,,,,11/7/2026,,
-Devin Alves,WR,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3800,44791064,9.67,10.01,2.54,11.4,,,,,,,,,,,,,,,,11/7/2026,,
-Quinten Joyner,RB,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5200,44790812,8.23,9.7,1.58,15.6,,,,,,,,,,,,,,,,11/7/2026,,
-DeCorion Temple,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),5400,44812507,7.98,9.62,1.48,16.2,,,,,,,,,,,,,,,,11/7/2026,,Recent
-McCae Hillstead,QB,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5800,44790701,7.38,9.38,1.27,17.4,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Chris Hunter,RB,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4000,44790968,8.71,9.36,2.18,12,,,,,,,,,,,,,,,,11/7/2026,,
-Taz Reddicks,WR,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4400,44791031,8.3,9.28,1.89,13.2,,,,,,,,,,,,,,,,11/7/2026,,
+Kainoa Carvalho,WR,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4600,44791022,9.55,10.4,2.08,13.8,,,,,,,,,,,,,,,,11/7/2026,,
+Prince Strachan,WR,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3800,44791058,9.69,10.03,2.55,11.4,,,,,,,,,,,,,,,,11/7/2026,,
+Jake Wilson,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4100,44791043,9.37,9.96,2.29,12.3,,,,,,,,,,,,,,,,11/7/2026,,
+McCae Hillstead,QB,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5800,44790701,8.01,9.88,1.38,17.4,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Aaron Butler,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),8100,44812495,6.24,9.85,0.77,24.3,,,,,,,,,,,,,,,,11/7/2026,,
+Cornell Hatcher Jr.,RB,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4900,44790818,8.6,9.82,1.75,14.7,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Tama Uiliata,WR,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4900,44791019,8.48,9.73,1.73,14.7,,,,,,,,,,,,,,,,11/7/2026,,
+DeCorion Temple,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),5400,44812507,8.01,9.64,1.48,16.2,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Coy Eakin,WR,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3800,44791061,9.14,9.59,2.4,11.4,,,,,,,,,,,,,,,,11/7/2026,,
+Zechariah Sample,WR,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),4600,44812433,8.18,9.31,1.78,13.8,,,,,,,,,,,,,,,,11/7/2026,,
+Devin Alves,WR,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3800,44791064,8.78,9.31,2.31,11.4,,,,,,,,,,,,,,,,11/7/2026,,
+Taz Reddicks,WR,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4400,44791031,8.33,9.3,1.89,13.2,,,,,,,,,,,,,,,,11/7/2026,,
+Ty Stamey,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),4200,44812511,8.11,9.01,1.93,12.6,,,,,,,,,,,,,,,,11/7/2026,,
 Tariq Thomas,RB,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4000,44790932,8.22,8.98,2.06,12,,,,,,,,,,,,,,,,11/7/2026,,
-Ty Stamey,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),4200,44812511,8,8.92,1.91,12.6,,,,,,,,,,,,,,,,11/7/2026,,
-Zechariah Sample,WR,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),4600,44812433,7.52,8.77,1.63,13.8,,,,,,,,,,,,,,,,11/7/2026,,
-Taeshaun Lyons,WR,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4200,44791040,7.75,8.72,1.84,12.6,,,,,,,,,,,,,,,,11/7/2026,,
-Aaron Butler,WR,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),5400,44812425,6.72,8.62,1.25,16.2,,,,,,,,,,,,,,,,11/7/2026,,
-Carver Cheeks,WR,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3700,44791070,7.92,8.56,2.14,11.1,,,,,,,,,,,,,,,,11/7/2026,,
-DeCorion Temple,WR,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),3600,44812437,7.98,8.54,2.22,10.8,,,,,,,,,,,,,,,,11/7/2026,,Recent
-DeCorion Temple,WR,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3600,44791076,7.98,8.54,2.22,10.8,,,,,,,,,,,,,,,,11/7/2026,,Recent
-Prince Strachan,WR,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3800,44791058,7.62,8.38,2.01,11.4,,,,,,,,,,,,,,,,11/7/2026,,
-Ty Stamey,WR,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3300,44791115,8,8.38,2.43,9.9,,,,,,,,,,,,,,,,11/7/2026,,
-Zechariah Sample,WR,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3900,44791055,7.52,8.35,1.93,11.7,,,,,,,,,,,,,,,,11/7/2026,,
-Javon Robinson,WR,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4000,44791046,7.37,8.3,1.84,12,,,,,,,,,,,,,,,,11/7/2026,,
-Jaylen Jenkins,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),8700,44812494,3.77,8.23,0.43,26.1,,,,,,,,,,,,,,,,11/7/2026,,
-Jahlil McClain,WR,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3600,44791082,7.43,8.1,2.06,10.8,,,,,,,,,,,,,,,,11/7/2026,,
+Zechariah Sample,WR,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3900,44791055,8.18,8.89,2.1,11.7,,,,,,,,,,,,,,,,11/7/2026,,
+Titan Lacaden,WR,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791484,8.86,8.89,2.95,9,,,,,,,,,,,,,,,,11/7/2026,,
+DeCorion Temple,WR,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),3600,44812437,8.01,8.56,2.22,10.8,,,,,,,,,,,,,,,,11/7/2026,,Recent
+DeCorion Temple,WR,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3600,44791076,8.01,8.56,2.22,10.8,,,,,,,,,,,,,,,,11/7/2026,,Recent
+Taeshaun Lyons,WR,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4200,44791040,7.49,8.51,1.78,12.6,,,,,,,,,,,,,,,,11/7/2026,,
+Ty Stamey,WR,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3300,44791115,8.11,8.47,2.46,9.9,,,,,,,,,,,,,,,,11/7/2026,,
+Jordan Williams,WR,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791610,8.34,8.47,2.78,9,,,,,,,,,,,,,,,,11/7/2026,,
+Carver Cheeks,WR,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3700,44791070,7.6,8.3,2.05,11.1,,,,,,,,,,,,,,,,11/7/2026,,
+Chris Hunter,RB,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4000,44790968,7.36,8.29,1.84,12,,,,,,,,,,,,,,,,11/7/2026,,
+Aaron Butler,WR,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),5400,44812425,6.24,8.23,1.15,16.2,,,,,,,,,,,,,,,,11/7/2026,,
+Jahlil McClain,WR,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3600,44791082,7.54,8.19,2.09,10.8,,,,,,,,,,,,,,,,11/7/2026,,
+Ty Stamey,WR,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),2800,44812441,8.11,8.17,2.9,8.4,,,,,,,,,,,,,,,,11/7/2026,,
 Gavin Parkhurst,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),12300,44812480,0.89,8.09,0.07,36.9,,,,,,,,,,,,,,,,11/7/2026,,
-Ty Stamey,WR,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),2800,44812441,8,8.08,2.86,8.4,,,,,,,,,,,,,,,,11/7/2026,,
-Aaron Butler,WR,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4000,44791049,6.72,7.78,1.68,12,,,,,,,,,,,,,,,,11/7/2026,,
+Jaylen Jenkins,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),8700,44812494,3.42,7.96,0.39,26.1,,,,,,,,,,,,,,,,11/7/2026,,
 Maalik Murphy,QB,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),9000,44812409,2.94,7.75,0.33,27,,,,,,,,,,,,,,,,11/7/2026,,
-Frank Abreu,WR,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3500,44791085,6.75,7.5,1.93,10.5,,,,,,,,,,,,,,,,11/7/2026,,
-Eric Richardson,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3700,44791073,6.47,7.4,1.75,11.1,,,,,,,,,,,,,,,,11/7/2026,,
+Micah Hudson,WR,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3600,44791079,6.94,7.71,1.93,10.8,,,,,,,,,,,,,,,,11/7/2026,,
+Jordan Williams,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),1500,44812530,8.34,7.57,5.56,4.5,,,,,,,,,,,,,,,,11/7/2026,,
 Maalik Murphy,QB,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",8400,44790677,2.94,7.39,0.35,25.2,,,,,,,,,,,,,,,,11/7/2026,,
-Micah Hudson,WR,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3600,44791079,6.45,7.32,1.79,10.8,,,,,,,,,,,,,,,,11/7/2026,,
-Jordan Williams,WR,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791610,6.83,7.26,2.28,9,,,,,,,,,,,,,,,,11/7/2026,,
-Keyan Burnett,WR,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3400,44791109,6.1,6.92,1.79,10.2,,,,,,,,,,,,,,,,11/7/2026,,Breaking
-Julius Gillick,RB,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4400,44790830,5.12,6.73,1.16,13.2,,,,,,,,,,,,,,,,11/7/2026,,
+Javon Robinson,WR,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4000,44791046,6.24,7.39,1.56,12,,,,,,,,,,,,,,,,11/7/2026,,
+Aaron Butler,WR,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4000,44791049,6.24,7.39,1.56,12,,,,,,,,,,,,,,,,11/7/2026,,
+Eric Richardson,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3700,44791073,6.35,7.3,1.72,11.1,,,,,,,,,,,,,,,,11/7/2026,,
+Jordan Williams,WR,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),1000,44812460,8.34,7.27,8.34,3,,,,,,,,,,,,,,,,11/7/2026,,
+Lamar Sperling,RB,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4300,44790842,5.61,7.07,1.3,12.9,,,,,,,,,,,,,,,,11/7/2026,,
+Amari Latimer,RB,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4400,44790827,5.17,6.78,1.18,13.2,,,,,,,,,,,,,,,,11/7/2026,,
+Keyan Burnett,WR,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3400,44791109,5.89,6.75,1.73,10.2,,,,,,,,,,,,,,,,11/7/2026,,Breaking
 Demick Starling,WR,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3400,44791097,5.77,6.66,1.7,10.2,,,,,,,,,,,,,,,,11/7/2026,,Breaking
-Jaylen Jenkins,RB,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),5800,44812424,3.77,6.49,0.65,17.4,,,,,,,,,,,,,,,,11/7/2026,,
-Kourdey Glass,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),7200,44812502,2.64,6.44,0.37,21.6,,,,,,,,,,,,,,,,11/7/2026,,
-Amari Latimer,RB,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4400,44790827,4.69,6.39,1.07,13.2,,,,,,,,,,,,,,,,11/7/2026,,
-Cash Cheeks,WR,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3400,44791112,5.44,6.39,1.6,10.2,,,,,,,,,,,,,,,,11/7/2026,,
+Julius Gillick,RB,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4400,44790830,4.96,6.61,1.13,13.2,,,,,,,,,,,,,,,,11/7/2026,,
+Cash Cheeks,WR,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3400,44791112,5.62,6.53,1.65,10.2,,,,,,,,,,,,,,,,11/7/2026,,
+Kourdey Glass,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),7200,44812502,2.71,6.49,0.38,21.6,,,,,,,,,,,,,,,,11/7/2026,,
 Malcolm Simmons,WR,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3200,44791160,0,0,0,0,,,,,,,,0,,,,,,,,11/7/2026,OUT,Breaking
-Jordan Williams,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),1500,44812530,6.83,6.36,4.55,4.5,,,,,,,,,,,,,,,,11/7/2026,,
-Lamar Sperling,RB,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4300,44790842,4.67,6.32,1.09,12.9,,,,,,,,,,,,,,,,11/7/2026,,
+Jaylen Jenkins,RB,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),5800,44812424,3.42,6.22,0.59,17.4,,,,,,,,,,,,,,,,11/7/2026,,
 Nik Henry,WR,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3100,44791208,5.41,6.19,1.74,9.3,,,,,,,,,,,,,,,,11/7/2026,,
-Jordan Williams,WR,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),1000,44812460,6.83,6.06,6.83,3,,,,,,,,,,,,,,,,11/7/2026,,
+Kyle Frendt,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3500,44791088,4.98,6.09,1.42,10.5,,,,,,,,,,,,,,,,11/7/2026,,
+Jaden Bray,WR,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3500,44791091,4.95,6.06,1.42,10.5,,,,,,,,,,,,,,,,11/7/2026,,
+Kaina Watson,WR,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3200,44791118,5.17,6.06,1.62,9.6,,,,,,,,,,,,,,,,11/7/2026,,
 Scotty Fox Jr.,QB,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",8900,44790673,0.86,6.03,0.1,26.7,,,,,,,,,,,,,,,,11/7/2026,,
-Kyle Frendt,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3500,44791088,4.81,5.95,1.37,10.5,,,,,,,,,,,,,,,,11/7/2026,,
-Charlie Coenen,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3400,44791094,4.82,5.9,1.42,10.2,,,,,,,,,,,,,,,,11/7/2026,,
-Jaden Bray,WR,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3500,44791091,4.74,5.89,1.35,10.5,,,,,,,,,,,,,,,,11/7/2026,,
+Frank Abreu,WR,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3500,44791085,4.84,5.97,1.38,10.5,,,,,,,,,,,,,,,,11/7/2026,,
 DeAngelo Irvin Jr.,WR,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3200,44791145,4.89,5.83,1.53,9.6,,,,,,,,,,,,,,,,11/7/2026,Q,
 Royal Capell,WR,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791529,5.01,5.81,1.67,9,,,,,,,,,,,,,,,,11/7/2026,,
-Jaylen Jenkins,RB,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4500,44790824,3.77,5.71,0.84,13.5,,,,,,,,,,,,,,,,11/7/2026,,
+Charlie Coenen,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3400,44791094,4.66,5.77,1.37,10.2,,,,,,,,,,,,,,,,11/7/2026,,
+Malachi Durant,WR,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791355,4.9,5.72,1.63,9,,,,,,,,,,,,,,,,11/7/2026,,
+Blake Smith,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),3900,44812512,4.2,5.7,1.08,11.7,,,,,,,,,,,,,,,,11/7/2026,,
 Gavin Parkhurst,QB,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),8200,44812410,0.89,5.63,0.11,24.6,,,,,,,,,,,,,,,,11/7/2026,,
+Kylen Evans,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),4800,44812509,3.39,5.59,0.71,14.4,,,,,,,,,,,,,,,,11/7/2026,,
 Troy Stellato,WR,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3300,44791127,4.49,5.57,1.36,9.9,,,,,,,,,,,,,,,,11/7/2026,Q,Breaking
+Jaylen Jenkins,RB,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4500,44790824,3.42,5.44,0.76,13.5,,,,,,,,,,,,,,,,11/7/2026,,
 Gavin Correia,WR,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3300,44791133,4.31,5.43,1.31,9.9,,,,,,,,,,,,,,,,11/7/2026,,
 Brady Jones,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),9000,44812488,0,5.4,0,27,,,,,,,,,,,,,,,,11/7/2026,,
 Stone Walker,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),9000,44812489,0,5.4,0,27,,,,,,,,,,,,,,,,11/7/2026,,
@@ -123,58 +128,60 @@ Isaiah Arriaza,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Sh
 Easton Webb,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),9000,44812491,0,5.4,0,27,,,,,,,,,,,,,,,,11/7/2026,,
 Danny Leary,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),9000,44812492,0,5.4,0,27,,,,,,,,,,,,,,,,11/7/2026,,
 Shaker Reisig,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),9000,44812493,0,5.4,0,27,,,,,,,,,,,,,,,,11/7/2026,,
-Blake Smith,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),3900,44812512,3.83,5.4,0.98,11.7,,,,,,,,,,,,,,,,11/7/2026,,
+Blake Smith,WR,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3300,44791139,4.2,5.34,1.27,9.9,,,,,,,,,,,,,,,,11/7/2026,,
 Tavian McNair,WR,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791280,4.41,5.33,1.47,9,,,,,,,,,,,,,,,,11/7/2026,,
-Noah White,RB,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4300,44790836,3.41,5.31,0.79,12.9,,,,,,,,,,,,,,,,11/7/2026,,
-Devon Tauaefa,WR,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3400,44791121,4.09,5.31,1.2,10.2,,,,,,,,,,,,,,,,11/7/2026,,
 Vincent Carner,WR,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3100,44791178,4.29,5.29,1.38,9.3,,,,,,,,,,,,,,,,11/7/2026,,
-Kylen Evans,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),4800,44812509,2.96,5.25,0.62,14.4,,,,,,,,,,,,,,,,11/7/2026,,
+Jake Appleget,WR,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3100,44791196,4.17,5.19,1.34,9.3,,,,,,,,,,,,,,,,11/7/2026,,
 Will Hammond,QB,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",7700,44790683,0.67,5.15,0.09,23.1,,,,,,,,,,,,,,,,11/7/2026,,
 Carson Brown,WR,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3300,44791136,3.93,5.13,1.19,9.9,,,,,,,,,,,,,,,,11/7/2026,,
 Jake Reichle,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),6300,44812504,1.68,5.12,0.27,18.9,,,,,,,,,,,,,,,,11/7/2026,,
 Gabe Milbourn,WR,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3200,44791154,3.98,5.1,1.24,9.6,,,,,,,,,,,,,,,,11/7/2026,,
-John Neider,WR,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3400,44791100,3.79,5.07,1.11,10.2,,,,,,,,,,,,,,,,11/7/2026,,
-Eddie Freauff,WR,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3200,44791157,0,0,0,0,,,,,,,,0,,,,,,,,11/7/2026,OUT,Breaking
-Blake Smith,WR,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3300,44791139,3.83,5.04,1.16,9.9,,,,,,,,,,,,,,,,11/7/2026,,
+Kourdey Glass,RB,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),4800,44812432,2.71,5.05,0.56,14.4,,,,,,,,,,,,,,,,11/7/2026,,
 Jett Carpenter,WR,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3100,44791190,3.97,5.04,1.28,9.3,,,,,,,,,,,,,,,,11/7/2026,,
 Cyrus Traugh,WR,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791235,4.05,5.04,1.35,9,,,,,,,,,,,,,,,,11/7/2026,,
 Gavin Parkhurst,QB,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",7200,44790687,0.89,5.03,0.12,21.6,,,,,,,,,,,,,,,,11/7/2026,,
 Alex Orji,QB,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",6800,44790691,1.18,5.02,0.17,20.4,,,,,,,,,,,,,,,,11/7/2026,,
-Kourdey Glass,RB,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),4800,44812432,2.64,5,0.55,14.4,,,,,,,,,,,,,,,,11/7/2026,,
+Devon Tauaefa,WR,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3400,44791121,3.72,5.02,1.09,10.2,,,,,,,,,,,,,,,,11/7/2026,,
+John Neider,WR,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3400,44791100,3.7,5,1.09,10.2,,,,,,,,,,,,,,,,11/7/2026,,
 Cynai Thomas,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),4500,44812510,2.85,4.98,0.63,13.5,,,,,,,,,,,,,,,,11/7/2026,,
 Gabe Milbourn,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),3000,44812515,3.98,4.98,1.33,9,,,,,,,,,,,,,,,,11/7/2026,,
-Eddie Freauff,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),2700,44812516,0,0,0,0,,,,,,,,0,,,,,,,,11/7/2026,OUT,Breaking
-Kache Kaio,WR,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3200,44791148,3.51,4.73,1.1,9.6,,,,,,,,,,,,,,,,11/7/2026,,
-Kourdey Glass,RB,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4300,44790839,2.64,4.7,0.61,12.9,,,,,,,,,,,,,,,,11/7/2026,,
+Blake Smith,WR,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),2600,44812442,4.2,4.92,1.62,7.8,,,,,,,,,,,,,,,,11/7/2026,,
+Malachi Durant,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),1500,44812525,4.9,4.82,3.27,4.5,,,,,,,,,,,,,,,,11/7/2026,,
+Kourdey Glass,RB,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4300,44790839,2.71,4.75,0.63,12.9,,,,,,,,,,,,,,,,11/7/2026,,
+Kylen Evans,WR,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3400,44791106,3.39,4.75,1,10.2,,,,,,,,,,,,,,,,11/7/2026,,
+Ryan Ward,WR,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3300,44791124,3.45,4.74,1.05,9.9,,,,,,,,,,,,,,,,11/7/2026,,
 Jadyn Oh,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),7800,44812496,0,4.68,0,23.4,,,,,,,,,,,,,,,,11/7/2026,,
 Caleb Ojeda,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),7800,44812497,0,4.68,0,23.4,,,,,,,,,,,,,,,,11/7/2026,,
 Cameron Smith,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),7800,44812498,0,4.68,0,23.4,,,,,,,,,,,,,,,,11/7/2026,,
-Sitani Mikaele,RB,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4100,44790872,2.72,4.64,0.66,12.3,,,,,,,,,,,,,,,,11/7/2026,,
-Blake Smith,WR,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),2600,44812442,3.83,4.62,1.47,7.8,,,,,,,,,,,,,,,,11/7/2026,,
+Jeremiah Nash,WR,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3200,44791163,3.4,4.64,1.06,9.6,,,,,,,,,,,,,,,,11/7/2026,,
+Kylen Evans,WR,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),3200,44812439,3.39,4.63,1.06,9.6,,,,,,,,,,,,,,,,11/7/2026,,
 Tucker Cusano,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),3600,44812513,3.08,4.62,0.86,10.8,,,,,,,,,,,,,,,,11/7/2026,,
-Jeremiah Nash,WR,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3200,44791163,3.36,4.61,1.05,9.6,,,,,,,,,,,,,,,,11/7/2026,,
-Jake Appleget,WR,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3100,44791196,3.42,4.6,1.1,9.3,,,,,,,,,,,,,,,,11/7/2026,,
-Nico Hamilton,RB,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4200,44790845,2.5,4.52,0.6,12.6,,,,,,,,,,,,,,,,11/7/2026,,
+Nico Hamilton,RB,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4200,44790845,2.56,4.57,0.61,12.6,,,,,,,,,,,,,,,,11/7/2026,,
+Noah White,RB,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4300,44790836,2.44,4.53,0.57,12.9,,,,,,,,,,,,,,,,11/7/2026,,
+Malachi Durant,WR,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),1000,44812455,4.9,4.52,4.9,3,,,,,,,,,,,,,,,,11/7/2026,,
 Michael James,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),7500,44812499,0,4.5,0,22.5,,,,,,,,,,,,,,,,11/7/2026,,
 Jacob Bonilla,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),7500,44812500,0,4.5,0,22.5,,,,,,,,,,,,,,,,11/7/2026,,
 Dylan Cunanan,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),7500,44812501,0,4.5,0,22.5,,,,,,,,,,,,,,,,11/7/2026,,
-Ryan Ward,WR,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3300,44791124,3.14,4.49,0.95,9.9,,,,,,,,,,,,,,,,11/7/2026,,
+Ke'Lyn Washom,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791574,3.36,4.49,1.12,9,,,,,,,,,,,,,,,,11/7/2026,,
 Khristian Martin,QB,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",6300,44790697,0.87,4.47,0.14,18.9,,,,,,,,,,,,,,,,11/7/2026,,
+Eddie Freauff,WR,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3200,44791157,0,0,0,0,,,,,,,,0,,,,,,,,11/7/2026,OUT,Breaking
 Tucker Cusano,WR,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3300,44791142,3.08,4.44,0.93,9.9,,,,,,,,,,,,,,,,11/7/2026,,
-Kylen Evans,WR,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3400,44791106,2.96,4.41,0.87,10.2,,,,,,,,,,,,,,,,11/7/2026,,
-Deion DeBlanc,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3200,44791166,3.09,4.39,0.96,9.6,,,,,,,,,,,,,,,,11/7/2026,,
 Gabe Milbourn,WR,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),2000,44812445,3.98,4.38,1.99,6,,,,,,,,,,,,,,,,11/7/2026,,
+Kache Kaio,WR,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3200,44791148,3.02,4.34,0.94,9.6,,,,,,,,,,,,,,,,11/7/2026,,
 Cynai Thomas,WR,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3400,44791103,2.85,4.32,0.84,10.2,,,,,,,,,,,,,,,,11/7/2026,,
-Kylen Evans,WR,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),3200,44812439,2.96,4.29,0.93,9.6,,,,,,,,,,,,,,,,11/7/2026,,
+Sitani Mikaele,RB,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4100,44790872,2.29,4.29,0.56,12.3,,,,,,,,,,,,,,,,11/7/2026,,
 Josh Sapp,WR,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3100,44791172,3,4.26,0.97,9.3,,,,,,,,,,,,,,,,11/7/2026,,
-Eddie Freauff,WR,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),1800,44812446,0,0,0,0,,,,,,,,0,,,,,,,,11/7/2026,OUT,Breaking
 Tre' Griffiths,WR,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791481,3,4.2,1,9,,,,,,,,,,,,,,,,11/7/2026,,
 Diezel Kamoku,WR,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791496,3,4.2,1,9,,,,,,,,,,,,,,,,11/7/2026,,
 Bricen Brantley,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791571,3,4.2,1,9,,,,,,,,,,,,,,,,11/7/2026,,
 Jayon Farrar,WR,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3100,44791199,2.91,4.19,0.94,9.3,,,,,,,,,,,,,,,,11/7/2026,,
+Eddie Freauff,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),2700,44812516,0,0,0,0,,,,,,,,0,,,,,,,,11/7/2026,OUT,Breaking
+Deion DeBlanc,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3200,44791166,2.75,4.12,0.86,9.6,,,,,,,,,,,,,,,,11/7/2026,,
 Bjorn Jurgensen,QB,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",6400,44790695,0.31,4.09,0.05,19.2,,,,,,,,,,,,,,,,11/7/2026,,
 Cynai Thomas,WR,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),3000,44812440,2.85,4.08,0.95,9,,,,,,,,,,,,,,,,11/7/2026,,
 Tre Garrison,RB,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4000,44790917,2.1,4.08,0.53,12,,,,,,,,,,,,,,,,11/7/2026,,
+Jaylon Glover,RB,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4300,44790833,1.79,4.01,0.42,12.9,,,,,,,,,,,,,,,,11/7/2026,,
+Sesi Vailahi,RB,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4100,44790866,1.94,4.01,0.47,12.3,,,,,,,,,,,,,,,,11/7/2026,,
 Lawrence Autry,RB,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4000,44790887,1.94,3.95,0.49,12,,,,,,,,,,,,,,,,11/7/2026,,
 Xavier Owens,WR,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791451,2.67,3.93,0.89,9,,,,,,,,,,,,,,,,11/7/2026,,
 Tucker Cusano,WR,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),2400,44812443,3.08,3.9,1.28,7.2,,,,,,,,,,,,,,,,11/7/2026,,
@@ -182,11 +189,10 @@ Jake Reichle,RB,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showd
 Jake Reichle,RB,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4200,44790854,1.68,3.86,0.4,12.6,,,,,,,,,,,,,,,,11/7/2026,,
 Taji Atkins,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),5100,44812508,0.97,3.84,0.19,15.3,,,,,,,,,,,,,,,,11/7/2026,,
 Matt Ludwig,WR,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3300,44791130,2.27,3.8,0.69,9.9,,,,,,,,,,,,,,,,11/7/2026,,
-Titan Lacaden,WR,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791484,2.49,3.79,0.83,9,,,,,,,,,,,,,,,,11/7/2026,,
-Martavious Boswell,RB,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4100,44790860,1.65,3.78,0.4,12.3,,,,,,,,,,,,,,,,11/7/2026,,
 Preston McDaniel,WR,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791307,2.37,3.7,0.79,9,,,,,,,,,,,,,,,,11/7/2026,,
 Donte Lee Jr.,WR,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791397,0,0,0,0,,,,,,,,0,,,,,,,,11/7/2026,OUT,
 Matt Byrnes,WR,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791265,2.34,3.67,0.78,9,,,,,,,,,,,,,,,,11/7/2026,,
+Eddie Freauff,WR,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),1800,44812446,0,0,0,0,,,,,,,,0,,,,,,,,11/7/2026,OUT,Breaking
 Brady Jones,QB,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),6000,44812418,0,3.6,0,18,,,,,,,,,,,,,,,,11/7/2026,,
 Stone Walker,QB,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),6000,44812419,0,3.6,0,18,,,,,,,,,,,,,,,,11/7/2026,,
 Isaiah Arriaza,QB,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),6000,44812420,0,3.6,0,18,,,,,,,,,,,,,,,,11/7/2026,,
@@ -195,9 +201,9 @@ Danny Leary,QB,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdo
 Shaker Reisig,QB,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),6000,44812423,0,3.6,0,18,,,,,,,,,,,,,,,,11/7/2026,,
 Juntavious Harris,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),6000,44812505,0,3.6,0,18,,,,,,,,,,,,,,,,11/7/2026,,
 Judah Ezinwa,WR,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3100,44791205,2.15,3.58,0.69,9.3,,,,,,,,,,,,,,,,11/7/2026,,
-Jaylon Glover,RB,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4300,44790833,1.19,3.53,0.28,12.9,,,,,,,,,,,,,,,,11/7/2026,,
 Landon Sims,QB,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5700,44790703,0,3.42,0,17.1,,,,,,,,,,,,,,,,11/7/2026,,
 Bubba Hampton,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),5700,44812506,0,3.42,0,17.1,,,,,,,,,,,,,,,,11/7/2026,,
+Martavious Boswell,RB,WVU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4100,44790860,1.19,3.41,0.29,12.3,,,,,,,,,,,,,,,,11/7/2026,,
 Raymond Moore III,QB,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4900,44790709,0.57,3.39,0.12,14.7,,,,,,,,,,,,,,,,11/7/2026,,Recent
 Jackson Holman,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3100,44791214,1.78,3.29,0.58,9.3,,,,,,,,,,,,,,,,11/7/2026,,
 Xayvion Noland,WR,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3100,44791187,1.78,3.28,0.57,9.3,,,,,,,,,,,,,,,,11/7/2026,,
@@ -213,12 +219,12 @@ Jadyn Oh,K,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown C
 Caleb Ojeda,K,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),5200,44812427,0,3.12,0,15.6,,,,,,,,,,,,,,,,11/7/2026,,
 Cameron Smith,K,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),5200,44812428,0,3.12,0,15.6,,,,,,,,,,,,,,,,11/7/2026,,
 Kirk Francis,QB,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4500,44790737,0.52,3.12,0.12,13.5,,,,,,,,,,,,,,,,11/7/2026,,
-Sesi Vailahi,RB,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4100,44790866,0.74,3.05,0.18,12.3,,,,,,,,,,,,,,,,11/7/2026,,
 Michael James,K,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),5000,44812429,0,3,0,15,,,,,,,,,,,,,,,,11/7/2026,,
 Jacob Bonilla,K,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),5000,44812430,0,3,0,15,,,,,,,,,,,,,,,,11/7/2026,,
 Dylan Cunanan,K,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),5000,44812431,0,3,0,15,,,,,,,,,,,,,,,,11/7/2026,,
 Cam Barfield,RB,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",5000,44790815,0,3,0,15,,,,,,,,,,,,,,,,11/7/2026,,
 Mason Drube,QB,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4500,44790761,0.36,2.98,0.08,13.5,,,,,,,,,,,,,,,,11/7/2026,,
+Amorion Walker,WR,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791286,1.47,2.98,0.49,9,,,,,,,,,,,,,,,,11/7/2026,,
 Jordan Martin,WR,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791613,1.32,2.86,0.44,9,,,,,,,,,,,,,,,,11/7/2026,,
 La'Keyleon Graves,CPT,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),2400,44812517,1.76,2.85,0.73,7.2,,,,,,,,,,,,,,,,11/7/2026,,
 Elijah McCoy,RB,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4000,44790965,0.54,2.83,0.14,12,,,,,,,,,,,,,,,,11/7/2026,,
@@ -256,14 +262,12 @@ Shaker Reisig,QB,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5
 Stone Walker,QB,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4500,44790769,0,2.7,0,13.5,,,,,,,,,,,,,,,,11/7/2026,,
 Easton Webb,QB,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4500,44790771,0,2.7,0,13.5,,,,,,,,,,,,,,,,11/7/2026,,
 Xayvion Noland,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),2100,44812518,1.78,2.68,0.85,6.3,,,,,,,,,,,,,,,,11/7/2026,,
-Kaina Watson,WR,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3200,44791118,0.84,2.59,0.26,9.6,,,,,,,,,,,,,,,,11/7/2026,,
 Jalen Jones,WR,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3100,44791193,0,0,0,0,,,,,,,,0,,,,,,,,11/7/2026,OUT,
 Tre Garrison,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),1500,44812523,2.1,2.58,1.4,4.5,,,,,,,,,,,,,,,,11/7/2026,,
 Josiah Fetui,WR,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791490,0.96,2.57,0.32,9,,,,,,,,,,,,,,,,11/7/2026,,
 Mohammad Maali,RB,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4200,44790848,0,2.52,0,12.6,,,,,,,,,,,,,,,,11/7/2026,,
 Nikko Boncore,WR,UTST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791325,0,0,0,0,,,,,,,,0,,,,,,,,11/7/2026,OUT,
 Jaylan Brown,WR,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791526,0.85,2.48,0.28,9,,,,,,,,,,,,,,,,11/7/2026,,
-Malachi Durant,WR,ORST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791355,0.84,2.47,0.28,9,,,,,,,,,,,,,,,,11/7/2026,,
 Juntavious Harris,RB,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4100,44790857,0,2.46,0,12.3,,,,,,,,,,,,,,,,11/7/2026,,
 DJ Jones,RB,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4100,44790863,0,2.46,0,12.3,,,,,,,,,,,,,,,,11/7/2026,,
 Brock Lium,WR,FRES,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791409,0.8,2.44,0.27,9,,,,,,,,,,,,,,,,11/7/2026,,
@@ -300,7 +304,6 @@ Dontae Burch,RB,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 G
 Cole Pryor,RB,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",4000,44790986,0,2.4,0,12,,,,,,,,,,,,,,,,11/7/2026,,
 Nick Delgadillo,WR,HAW,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791487,0.72,2.38,0.24,9,,,,,,,,,,,,,,,,11/7/2026,,
 La'Keyleon Graves,WR,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),1600,44812447,1.76,2.37,1.1,4.8,,,,,,,,,,,,,,,,11/7/2026,,
-Amorion Walker,WR,UNLV,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791286,0.65,2.32,0.22,9,,,,,,,,,,,,,,,,11/7/2026,,
 Bubba Hampton,WR,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),3800,44812436,0,2.28,0,11.4,,,,,,,,,,,,,,,,11/7/2026,,
 Bryson Jones,WR,TTU,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791382,0.6,2.28,0.2,9,,,,,,,,,,,,,,,,11/7/2026,,
 Marcus Torres,WR,UTEP,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791532,0.6,2.28,0.2,9,,,,,,,,,,,,,,,,11/7/2026,,
@@ -409,7 +412,6 @@ Gage Brook,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Gam
 Colin Ford,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791562,0,1.8,0,9,,,,,,,,,,,,,,,,11/7/2026,,
 Tyler Hampton,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791565,0,1.8,0,9,,,,,,,,,,,,,,,,11/7/2026,,
 Ishmael Muhammad,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791568,0,1.8,0,9,,,,,,,,,,,,,,,,11/7/2026,,
-Ke'Lyn Washom,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791574,0,1.8,0,9,,,,,,,,,,,,,,,,11/7/2026,,
 Justin Popovich,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791577,0,1.8,0,9,,,,,,,,,,,,,,,,11/7/2026,,
 Jarell Gary,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791580,0,1.8,0,9,,,,,,,,,,,,,,,,11/7/2026,,
 Pierre Jackson,WR,WYO,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791583,0,1.8,0,9,,,,,,,,,,,,,,,,11/7/2026,,
@@ -428,10 +430,8 @@ Xavier Warren,WR,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5
 Kris Willis Jr.,WR,TXST,Late Night,11/7/2026,"Late Night Late Night 11/7 9:30PM, 5 Games",3000,44791628,0,1.8,0,9,,,,,,,,,,,,,,,,11/7/2026,,
 Jordan Martin,WR,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),1000,44812452,1.32,1.66,1.32,3,,,,,,,,,,,,,,,,11/7/2026,,
 Skyler Jackson,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),1500,44812529,0.93,1.64,0.62,4.5,,,,,,,,,,,,,,,,11/7/2026,,
-Malachi Durant,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),1500,44812525,0.84,1.57,0.56,4.5,,,,,,,,,,,,,,,,11/7/2026,,
 Skyler Jackson,RB,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),1000,44812459,0.93,1.34,0.93,3,,,,,,,,,,,,,,,,11/7/2026,,
 Dameon Crowe,WR,TXST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),2200,44812444,0,1.32,0,6.6,,,,,,,,,,,,,,,,11/7/2026,,
-Malachi Durant,WR,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),1000,44812455,0.84,1.27,0.84,3,,,,,,,,,,,,,,,,11/7/2026,,
 Jameson Powell,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),1500,44812521,0.36,1.19,0.24,4.5,,,,,,,,,,,,,,,,11/7/2026,,
 Jackson Bowers,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),1800,44812519,0,1.08,0,5.4,,,,,,,,,,,,,,,,11/7/2026,,
 Adonis McDaniel,CPT,ORST,Showdown Captain Mode,11/7/2026,Showdown Captain Mode Showdown Captain Mode 11/7 10:30PM (TXST @ ORST),1500,44812520,0,0.9,0,4.5,,,,,,,,,,,,,,,,11/7/2026,,
