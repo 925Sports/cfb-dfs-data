@@ -1,45 +1,45 @@
 Player Name,Position,Team,Slate Type,Date,Role,Salary,Draftable ID,Projected FP,Combined FP,Value,Implied FP,Passing TDs,Rushing Yards,Receiving Yards,Passing Yards,Rush+Rec Yards,Anytime TD,Passing Attempts,Fantasy Score,Headshot URL,Game Start Time,Match Title (Underdog),Game Short Title (Underdog),Venue Name (Underdog),Venue Type (Underdog),Broadcasts (Underdog),Game Start Time (DRAFTTABLE),Injury Status,News Flag
 Malachi Toney,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8800,45072717,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,Recent
-Darian Mensah,QB,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",9300,45071912,28.06,28.03,3.02,27.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
-Jeremiah Smith,WR,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",9500,45072714,26.13,26.56,2.75,28.5,,,92.5,,,,,,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,Breaking
+Darian Mensah,QB,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",9300,45071912,28.06,28.03,3.02,27.9,1.5,,,224.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
+Jeremiah Smith,WR,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",9500,45072714,26.19,26.61,2.76,28.5,,,92.5,,,,,,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,Breaking
 Bear Bachmeier,QB,BYU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8400,45071920,26.29,26.14,3.13,25.2,1.5,19.5,,149.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Nate Sheppard,RB,DUKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",9900,45072174,23.51,24.75,2.37,29.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Sam Leavitt,QB,LSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8800,45071914,23.93,24.42,2.72,26.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Jackson Harris,WR,LSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7600,45072729,24.74,24.35,3.26,22.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Thomas Castellanos,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),16500,45045725,21.28,24.1,1.29,49.5,1,24.5,,186,,,21.5,23.5,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,Breaking
-Jalen Buckley,CPT,WMU,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),16500,45046890,19.91,24.06,1.21,49.5,,78.5,7,,,,,18.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,Recent
+Thomas Castellanos,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),16500,45045725,21.28,24.1,1.29,49.5,1.5,24.5,,186,,,21.5,23.5,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,Breaking
 Cole Tabb,RB,CINCY,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8900,45072177,23.2,23.9,2.61,26.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Jalen Buckley,CPT,WMU,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),16500,45046890,19.63,23.81,1.19,49.5,,78.5,7,,,,,18.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,Recent
 J'Koby Williams,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),15000,45045726,20.17,23.64,1.34,45,,79,13.5,,,,,19.5,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,Breaking
 CJ Carr,QB,ND,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8000,45071930,23.3,23.44,2.91,24,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Gio Lopez,QB,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8200,45071924,22.25,22.72,2.71,24.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
+Gio Lopez,QB,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8200,45071924,22.25,22.63,2.71,24.6,1.5,,,199.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 LaNorris Sellers,QB,SCAR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7700,45071936,22.41,22.55,2.91,23.1,,,,,,,,,,,,,,,,11/28/2026,,
-Thomas Castellanos,QB,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),11000,45045654,21.28,22.45,1.93,33,1,24.5,,186,,,21.5,23.5,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,Breaking
-Cooper Barkate,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7200,45072738,22.6,22.4,3.14,21.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
+Thomas Castellanos,QB,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),11000,45045654,21.28,22.45,1.93,33,1.5,24.5,,186,,,21.5,23.5,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,Breaking
+Cooper Barkate,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7200,45072738,22.6,22.42,3.14,21.6,,,49.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Lincoln Kienholz,QB,UL,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8600,45071916,21.54,22.13,2.5,25.8,0.5,4.5,,169.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 David McComb,CPT,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),9000,45046900,20.46,21.77,2.27,27,,,,,,,,,,,,,,,,11/24/2026,,
-Jalen Buckley,RB,WMU,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),11000,45046815,19.91,21.75,1.81,33,,78.5,7,,,,,18.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,Recent
 J'Koby Williams,RB,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),10000,45045655,20.17,21.54,2.02,30,,79,13.5,,,,,19.5,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,Breaking
 Gunner Stockton,QB,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8200,45071926,20.75,21.52,2.53,24.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
+Jalen Buckley,RB,WMU,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),11000,45046815,19.63,21.5,1.78,33,,78.5,7,,,,,18.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,Recent
 Dilin Jones,RB,LSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7800,45072192,20.48,21.06,2.63,23.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Caleb Heavner,CPT,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),12000,45046896,16.9,20.72,1.41,36,,,,,,,,,,,,,,,,11/24/2026,,
 Carlos Hernandez,WR,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8500,45072720,19.31,20.55,2.27,25.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
-Jalen Buckley,RB,WMU,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",8000,45045836,19.91,20.49,2.49,24,,78.5,7,,,,,18.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,Recent
 Julian Sayin,QB,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6400,45071962,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,
 Nolan James Jr.,RB,ND,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7700,45072195,19.82,20.47,2.57,23.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Trent Mosley,WR,USC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8300,45072723,19.55,20.41,2.36,24.9,,,66,,,0.5,,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,
+Jalen Buckley,RB,WMU,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",8000,45045836,19.63,20.24,2.45,24,,78.5,7,,,,,18.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,Recent
 Rocco Becht,QB,PSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6600,45071956,20.29,20.19,3.07,19.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Jamal Roberts,RB,MIZZ,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8100,45072186,18.94,20.01,2.34,24.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 David McComb,QB,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),6000,45046825,20.46,19.97,3.41,18,,,,,,,,,,,,,,,,11/24/2026,,
 Bo Jackson,RB,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8300,45072183,18.35,19.4,2.21,24.9,,58,4.5,,,,,,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,Breaking
 Jordan Faison,WR,ND,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6900,45072750,18.92,19.27,2.74,20.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Austin Simmons,QB,MIZZ,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6400,45071960,19.22,19.22,3,19.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
-Broc Lowry,CPT,WMU,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),15600,45046891,16.07,19.14,1.03,46.8,0.5,19.5,,132,,,18.5,15.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,Recent
 Dru DeShields,QB,KENT,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",7700,45045796,18.56,19.1,2.41,23.1,0.5,4.5,,187,,,,16.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,,
+Broc Lowry,CPT,WMU,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),15600,45046891,16.01,19.09,1.03,46.8,0.5,19.5,,132,,,18.5,15.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,Recent
 David McComb,QB,MIAOH,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",4500,45045828,20.46,19.07,4.55,13.5,,,,,,,,,,,,,,,,11/24/2026,,
 Drew Bellisari,CPT,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),13800,45046893,16.53,19.02,1.2,41.4,0.5,15,,124.5,,,19.5,12.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,
 Amareon Blue,RB,EMU,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",7100,45045839,18.48,18.99,2.6,21.3,,84,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,,Recent
-Mark Fletcher Jr.,RB,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8000,45072189,17.5,18.8,2.19,24,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Tait Reynolds,QB,CLEM,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4500,45072012,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,
+Mark Fletcher Jr.,RB,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8000,45072189,17.5,18.67,2.19,24,,29.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Cayden Lee,WR,MIZZ,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6800,45072753,17.89,18.39,2.63,20.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Caleb Heavner,QB,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),8000,45046821,16.9,18.32,2.11,24,,,,,,,,,,,,,,,,11/24/2026,,
 Wayne Harris,WR,KENT,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",7600,45045926,17.45,18.3,2.3,22.8,,,55.5,,,,,14.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,,
@@ -49,32 +49,32 @@ Jaden Craig,CPT,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showd
 DeJuan Williams,RB,UMD,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6400,45072219,17.38,17.75,2.72,19.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Calvin Russell III,WR,SYR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5700,45072780,17.9,17.74,3.14,17.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Drew Bellisari,QB,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),9200,45046818,16.53,17.64,1.8,27.6,0.5,15,,124.5,,,19.5,12.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,
-Broc Lowry,QB,WMU,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),10400,45046816,16.07,17.58,1.55,31.2,0.5,19.5,,132,,,18.5,15.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,Recent
-D'Shawntae Jones,CPT,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),13200,45046894,12.51,17.39,0.95,39.6,,47,,,,,,,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,
+Broc Lowry,QB,WMU,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),10400,45046816,16.01,17.53,1.54,31.2,0.5,19.5,,132,,,18.5,15.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,Recent
+D'Shawntae Jones,CPT,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),13200,45046894,12.54,17.41,0.95,39.6,,47,,,,,,,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,
 Steve Angeli,QB,SYR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4500,45072058,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,Breaking
 Malik Washington,QB,UMD,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6200,45071972,17.05,17.36,2.75,18.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Wayne Knight,RB,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8400,45072180,15.78,17.29,1.88,25.2,,54,4.5,,,,,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,Breaking
-Bo MacCormack III,RB,BC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5800,45072240,17.11,17.17,2.95,17.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Bo MacCormack III,RB,BC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5800,45072240,17.11,17.16,2.95,17.4,,19.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 John Mateer,QB,OU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6700,45071954,16.56,17.06,2.47,20.1,0.5,9.5,,149.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Micah Gilbert,WR,ND,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5800,45072777,16.95,17.04,2.92,17.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Caleb Heavner,QB,MIAOH,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",5800,45045810,16.9,17,2.91,17.4,,,,,,,,,,,,,,,,11/24/2026,,
 Nate Frazier,RB,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7300,45072198,15.76,16.99,2.16,21.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Jordan Dwyer,CPT,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),12300,45045729,13.11,16.92,1.07,36.9,,,43.5,,,,,12,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,
 Donovan Olugbode,WR,MIZZ,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7200,45072741,15.53,16.75,2.16,21.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
-Kenny Minchey,QB,UK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6300,45071970,16.33,16.74,2.59,18.9,0.5,,,149.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
-Broc Lowry,QB,WMU,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",7300,45045798,16.07,16.65,2.2,21.9,0.5,19.5,,132,,,18.5,15.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,Recent
+Kenny Minchey,QB,UK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6300,45071970,16.34,16.75,2.59,18.9,0.5,,,149.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Drew Bellisari,QB,MIAOH,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",5900,45045808,16.53,16.65,2.8,17.7,0.5,15,,124.5,,,19.5,12.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,
 Noah Kim,QB,EMU,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",6200,45045806,0,0,0,0,,,,,,,,0,,,,,,,,11/24/2026,OUT,Recent
+Broc Lowry,QB,WMU,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",7300,45045798,16.01,16.6,2.19,21.9,0.5,19.5,,132,,,18.5,15.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,Recent
 JC French IV,QB,CINCY,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7200,45071944,15.68,16.51,2.18,21.6,0.5,4.5,,149.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Cam Wallace,RB,PSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5700,45072246,16.36,16.51,2.87,17.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Jeremy Payne,CPT,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),11700,45045731,12.4,16.48,1.06,35.1,,46,,,,,,,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,
+Jeremy Payne,CPT,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),11700,45045731,12.39,16.48,1.06,35.1,,46,,,,,,,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,
 Chris Durr Jr.,WR,UMD,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7500,45072732,14.81,16.35,1.97,22.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Chase Sowell,WR,PSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7100,45072744,15.01,16.27,2.11,21.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Nico Iamaleava,QB,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4500,45072104,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,
 Tre Richardson,WR,UL,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7400,45072735,14.61,15.97,1.97,22.2,,,29.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Javian Mallory,RB,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6700,45072213,14.84,15.89,2.21,20.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
-Kenny Johnson,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),10500,45045733,12.86,15.84,1.22,31.5,,,45,,,,,11.5,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,Q,Breaking
+Javian Mallory,RB,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6700,45072213,14.84,15.79,2.21,20.1,,19.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Carson Hansen,RB,PSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5900,45072237,15.3,15.78,2.59,17.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Kenny Johnson,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),10500,45045733,12.59,15.61,1.2,31.5,,,45,,,,,11.5,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,Q,Breaking
 LJ Martin,RB,BYU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6800,45072210,14.38,15.46,2.11,20.4,,49.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Koby Howard,WR,PSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6500,45072762,14.45,15.46,2.22,19.5,,,,,,,,,,,,,,,,11/28/2026,,
 Jabree Coleman,RB,SCAR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6600,45072216,14.34,15.44,2.17,19.8,,,,,,,,,,,,,,,,11/28/2026,,
@@ -83,33 +83,33 @@ Trey'Dez Green,WR,LSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 G
 Ty Clark III,RB,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6300,45072225,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,Breaking
 Kari Ashley,CPT,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),9900,45045734,12.41,15.18,1.25,29.7,,,19.5,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,,
 CJ Miller,WR,EMU,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",3000,45046040,16.59,15.07,5.53,9,,,,,,,,,,,,,,,,11/24/2026,,
-D'Shawntae Jones,RB,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),8800,45046819,12.51,15.01,1.42,26.4,,47,,,,,,,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,
+D'Shawntae Jones,RB,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),8800,45046819,12.54,15.04,1.43,26.4,,47,,,,,,,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,
 Ty Dieffenbach,QB,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6100,45071976,14.17,15,2.32,18.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,Q,Breaking
 Jaden Craig,QB,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),9400,45045656,11.65,14.96,1.24,28.2,,,,,,,,,,,,,,,,11/26/2026,,
 Jordan Dwyer,WR,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),8200,45045658,13.11,14.95,1.6,24.6,,,43.5,,,,,12,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,
 Isaiah Sategna III,WR,OU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6900,45072747,13.57,14.86,1.97,20.7,,,24.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Legend Glasker,WR,BYU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6600,45072759,13.69,14.79,2.07,19.8,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Jonaz Walton,RB,ND,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6200,45072228,13.81,14.77,2.23,18.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Mason McKenzie,QB,BC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6900,45071946,13.02,14.56,1.89,20.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Willie Rodriguez,WR,UK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4500,45072870,14.75,14.53,3.28,13.5,,,24.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
-Jeremy Payne,RB,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),7800,45045660,12.4,14.38,1.59,23.4,,46,,,,,,,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,
+Jeremy Payne,RB,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),7800,45045660,12.39,14.37,1.59,23.4,,46,,,,,,,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,
 KJ Jackson,QB,ARK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5400,45071992,13.87,14.34,2.57,16.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Justice Haynes,RB,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6900,45072207,12.69,14.29,1.84,20.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Luke Fahey,QB,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6500,45071958,13.58,14.29,2.09,19.5,0.5,3.5,,180,,,25.5,,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,Breaking
-Elija Lofton,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5000,45072825,14.02,14.22,2.8,15,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Kenny Johnson,WR,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),7000,45045662,12.86,14.16,1.84,21,,,45,,,,,11.5,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,Q,Breaking
+Mason McKenzie,QB,BC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6900,45071946,13.02,14.25,1.89,20.7,0.5,,,99.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Elija Lofton,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5000,45072825,14.02,14.2,2.8,15,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Luke Fahey,QB,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6500,45071958,13.4,14.13,2.06,19.5,0.5,3.5,,180,,,25.5,,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,Breaking
 Ayden Harris,RB,KENT,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",4000,45045893,14.42,13.94,3.61,12,,,,,,,,,,,,,,,,11/24/2026,,
+Kenny Johnson,WR,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),7000,45045662,12.59,13.93,1.8,21,,,45,,,,,11.5,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,Q,Breaking
 Terrance Carter Jr.,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),8700,45045743,11.61,13.92,1.33,26.1,,,40.5,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,,Breaking
+D'Shawntae Jones,RB,MIAOH,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",6600,45045842,12.54,13.85,1.9,19.8,,47,,,,,,,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,
 Isaac Brown,RB,UL,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7000,45072204,12.26,13.83,1.75,21,,24.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-D'Shawntae Jones,RB,MIAOH,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",6600,45045842,12.51,13.82,1.9,19.8,,47,,,,,,,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,
 Aveion Chenault,CPT,WMU,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),12300,45046895,9.35,13.76,0.76,36.9,,,14.5,,,,,9,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,Q,Recent
 Evan Dickens,RB,BC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4000,45072489,14.19,13.75,3.55,12,,,,,,,,,,,,,,,,11/28/2026,,
 Kari Ashley,WR,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),6600,45045663,12.41,13.59,1.88,19.8,,,19.5,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,,
 Lawayne McCoy,WR,UL,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6700,45072756,12.15,13.58,1.81,20.1,,,24.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Talyn Taylor,WR,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6000,45072771,12.44,13.55,2.07,18,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Walker Eget,QB,DUKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5200,45071996,13.04,13.55,2.51,15.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Ahmad Miller,RB,SYR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5500,45072258,12.78,13.53,2.32,16.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Cam Settles,RB,ARK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4900,45072282,13.16,13.47,2.69,14.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Walker Eget,QB,DUKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5200,45071996,13.04,13.45,2.51,15.6,0.5,,,124.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Rodney Nelson,CPT,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),11100,45046897,9.07,13.43,0.82,33.3,,33.5,,,,,,,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,
 JV Gibson,WR,CINCY,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5700,45072783,12.56,13.38,2.2,17.1,,,24.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Kyler Kasper,WR,BYU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5500,45072792,12.54,13.25,2.28,16.5,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
@@ -123,30 +123,30 @@ Waymond Jordan,RB,USC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 G
 Bryant Wesco Jr.,WR,CLEM,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5300,45072804,11.8,12.62,2.23,15.9,,,,,,,,,,,,,,,,11/28/2026,,
 Harold Mack,WR,EMU,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",4800,45045938,12.27,12.61,2.56,14.4,,,35,,,,,9.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,,
 King Miller,RB,USC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6000,45072231,11.56,12.59,1.93,18,,29.5,8.5,,,,,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,
-Daylyn Upshaw,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5200,45072816,11.84,12.59,2.28,15.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Cole Cabana,CPT,WMU,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),9600,45046899,8.53,12.58,0.89,28.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,,Breaking
 Antonio Jordan,WR,ARK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4200,45072906,12.58,12.58,3,12.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Terrance Carter Jr.,WR,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),5800,45045672,11.61,12.53,2,17.4,,,40.5,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,,Breaking
+Daylyn Upshaw,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5200,45072816,11.84,12.52,2.28,15.6,,,14.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Mikey Matthews,WR,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3000,45073932,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,
 Craig Dandridge,WR,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5300,45072810,11.47,12.36,2.16,15.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Walker Lyons,WR,BYU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5100,45072822,11.72,12.36,2.3,15.3,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Alberto Mendoza,QB,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4800,45072004,11.78,12.3,2.45,14.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Jeremiah Hasley,WR,DUKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5200,45072813,11.4,12.24,2.19,15.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Savion Hiter,RB,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5900,45072234,10.97,12.18,1.86,17.7,,29.5,,,,,,,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,
 Keyjuan Brown,RB,UL,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6400,45072222,10.63,12.17,1.66,19.2,,29.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Andrew Marsh,WR,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4900,45072837,11.57,12.13,2.36,14.7,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Andrew Marsh,WR,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4900,45072837,11.56,12.13,2.36,14.7,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Savion Hiter,RB,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5900,45072234,10.9,12.12,1.85,17.7,,29.5,,,,,,,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,
 Ed Small,CPT,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),11100,45045732,7.27,11.95,0.65,33.3,,,22.5,,,,,,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,
 Trelain Maddox,RB,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5000,45072276,11.14,11.91,2.23,15,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 JJ Buchanan,WR,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3000,45073749,12.63,11.9,4.21,9,,,,,,,,,,,,,,,,11/28/2026,,
-Maleek Huggins,CPT,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),10500,45046898,8.15,11.89,0.78,31.5,,,23.5,,,,,7.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,
+Maleek Huggins,CPT,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),10500,45046898,8.13,11.87,0.77,31.5,,,23.5,,,,,7.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,
 Aveion Chenault,WR,WMU,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),8200,45046820,9.35,11.79,1.14,24.6,,,14.5,,,,,9,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,Q,Recent
 Mazeo Bennett Jr.,WR,SCAR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4900,45072840,11.03,11.77,2.25,14.7,,,,,,,,,,,,,,,,11/28/2026,,
 Jack Foley,WR,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5900,45072774,10.27,11.76,1.74,17.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Quinten Joyner,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),8100,45045744,0,0,0,0,,,,,,,,0,,,,,,,,11/26/2026,OUT,Recent
 Trent Pearman,QB,CLEM,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5600,45071990,10.34,11.63,1.85,16.8,,,,,,,,,,,,,,,,11/28/2026,,Breaking
 Dalen Penson,WR,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4000,45072921,11.49,11.6,2.87,12,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Vandrevius Jacobs,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5600,45072786,10.28,11.58,1.84,16.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Rodney Nelson,RB,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),7400,45046822,9.07,11.44,1.23,22.2,,33.5,,,,,,,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,
+Vandrevius Jacobs,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5600,45072786,10.28,11.45,1.84,16.8,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Rodney Nelson,RB,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),7400,45046822,9.07,11.43,1.23,22.2,,33.5,,,,,,,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,
 Joey Mattord,RB,EMU,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",5000,45045851,0,0,0,0,,,,,,,,0,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,OUT,Recent
 Tommy Carr,QB,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5700,45071986,9.93,11.37,1.74,17.1,,,,,,,,,,,,,,,,11/28/2026,,
 Joshua Long,WR,EMU,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",3500,45045965,11.53,11.34,3.29,10.5,,,28.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,,Recent
@@ -160,7 +160,7 @@ Gideon Davidson,RB,CLEM,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12
 Cameron Dickey,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),9300,45045735,6.51,10.79,0.7,27.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,,Breaking
 T.J. Moore,WR,CLEM,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4800,45072843,9.87,10.77,2.06,14.4,,,,,,,,,,,,,,,,11/28/2026,,
 Bryce Underwood,QB,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6000,45071980,9.57,10.75,1.59,18,0.5,4.5,,99.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Aveion Chenault,WR,WMU,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",6000,45045929,9.35,10.73,1.56,18,,,14.5,,,,,9,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,Q,Recent
+Aveion Chenault,WR,WMU,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",6000,45045929,9.35,10.74,1.56,18,,,14.5,,,,,9,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,Q,Recent
 Cole Cabana,RB,WMU,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),6400,45046824,8.53,10.66,1.33,19.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,,Breaking
 Malachi Nelson,QB,SYR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5000,45072000,9.55,10.64,1.91,15,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Gi'Bran Payne,RB,CINCY,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5100,45072273,9.44,10.62,1.85,15.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
@@ -169,13 +169,13 @@ Ja'Kobi Jackson,RB,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 
 Winston Watkins Jr.,WR,LSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5000,45072831,9.37,10.5,1.87,15,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Kevin Roche Jr.,WR,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3700,45072966,10.34,10.49,2.79,11.1,,,,,,,,,,,,,,,,11/28/2026,,
 Rodney Nelson,RB,MIAOH,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",5600,45045845,9.07,10.46,1.62,16.8,,33.5,,,,,,,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,
-Javarius Green,WR,BC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5300,45072807,9.08,10.45,1.71,15.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Dwight Phillips Jr.,RB,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5600,45072255,8.71,10.33,1.56,16.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Keith Reynolds,CPT,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),1500,45046938,11.77,10.32,7.85,4.5,,,,,,,,,,,,,,,,11/24/2026,,
+Javarius Green,WR,BC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5300,45072807,9.08,10.31,1.71,15.9,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Tyler Brown,WR,CLEM,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4700,45072849,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,Breaking
 Kayden Dixon-Wyatt,WR,USC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4600,45072861,9.51,10.28,2.07,13.8,,,21,,,,,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,
-Maleek Huggins,WR,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),7000,45046823,8.15,10.21,1.16,21,,,23.5,,,,,7.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,
 Daunte Bacheyie,WR,SYR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4500,45072867,9.38,10.2,2.08,13.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Maleek Huggins,WR,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),7000,45046823,8.13,10.19,1.16,21,,,23.5,,,,,7.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,
 Anthony Woods,RB,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5400,45072261,8.58,10.1,1.59,16.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Semaj Morgan,WR,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4600,45072864,9.27,10.08,2.02,13.8,,,29.5,,,,,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,
 Nyck Harbor,WR,SCAR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4500,45072873,9.19,10.05,2.04,13.5,,,,,,,,,,,,,,,,11/28/2026,,
@@ -190,7 +190,7 @@ Benjamin Brahmer,WR,PSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12
 Preston Rex,RB,BYU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4500,45072327,8.76,9.71,1.95,13.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Baylin Brooks,WR,WMU,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),5600,45046831,8.07,9.64,1.44,16.8,,,19,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,,
 Jarvis Green,RB,CLEM,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4600,45072303,8.59,9.63,1.87,13.8,,,,,,,,,,,,,,,,11/28/2026,,Breaking
-Maleek Huggins,WR,MIAOH,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",5500,45045932,8.15,9.49,1.48,16.5,,,23.5,,,,,7.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,
+Maleek Huggins,WR,MIAOH,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",5500,45045932,8.13,9.47,1.48,16.5,,,23.5,,,,,7.5,,n/a,M-OH @ WMU,Miami (OH) @ W. Michigan,Waldo Stadium,outdoor,ESPN2,11/24/2026,,
 Aidan Mizell,WR,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5400,45072798,7.98,9.46,1.48,16.2,,,19,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Braylon Isom,CPT,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),7800,45046907,6.31,9.38,0.81,23.4,,,15.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,,
 Tylik Hill,RB,SYR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4700,45072291,8.18,9.37,1.74,14.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
@@ -201,9 +201,9 @@ Sutton Smith,RB,ARK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Gam
 Lolo Mataele,CPT,WMU,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),9000,45046902,0,0,0,0,,,,,,,,0,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,OUT,Recent
 Malachi Henry,WR,CINCY,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4300,45072891,8.25,9.18,1.92,12.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Na'eem Abdul-Rahim Gladding,WR,UMD,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5400,45072795,7.4,9.16,1.37,16.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Devin McCuin,WR,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4700,45072855,8.07,9.16,1.72,14.1,,,24.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 DJ Black,WR,SCAR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4300,45072888,8.23,9.16,1.91,12.9,,,,,,,,,,,,,,,,11/28/2026,,
 Deuce Lawrence,RB,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5300,45072264,7.46,9.15,1.41,15.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
-Devin McCuin,WR,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4700,45072855,8.06,9.14,1.71,14.1,,,24.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Baylin Brooks,WR,WMU,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",4500,45045941,8.07,9.05,1.79,13.5,,,19,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,,
 Da'Realyst Clark,WR,KENT,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",5000,45045935,7.88,9.02,1.58,15,,,30.5,,,,,8.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,,
 Trell Harris,WR,OU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5000,45072828,7.52,9.02,1.5,15,,,,,,,,,,,,,,,,11/28/2026,,
@@ -241,11 +241,11 @@ Antonio Meeks,WR,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 G
 Tory Blaylock,RB,OU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4800,45072285,6.07,7.74,1.26,14.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Amante Martin,CPT,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),7200,45045746,4.27,7.73,0.59,21.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,,
 Coy Eakin,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),3900,45045757,6.66,7.67,1.71,11.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,P,Breaking
-Isaiah West,RB,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4600,45072312,6.31,7.66,1.37,13.8,,11.5,,,,,,,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,
 Damarion Witten,WR,MIAOH,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",3600,45045962,6.86,7.65,1.91,10.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,,
 Will Hammond,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),12000,45045730,0.51,7.61,0.04,36,,,,,,,,,,,,,,,,11/26/2026,,
 Braylon Isom,WR,MIAOH,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",4400,45045944,6.31,7.55,1.43,13.2,,,15.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,,
 Preston Howard,WR,UMD,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4200,45072897,6.29,7.55,1.5,12.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Isaiah West,RB,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4600,45072312,6.13,7.51,1.33,13.8,,11.5,,,,,,,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,
 Javen Nicholas,WR,DUKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3200,45073131,6.97,7.5,2.18,9.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Isiah Canion,WR,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4000,45072927,6.29,7.43,1.57,12,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Lolo Mataele,RB,WMU,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),6000,45046827,0,0,0,0,,,,,,,,0,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,OUT,Recent
@@ -257,7 +257,7 @@ Isaiah Augustave,RB,SCAR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 1
 Jaden Greathouse,WR,ND,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4300,45072894,5.96,7.35,1.39,12.9,,,,,,,,,,,,,,,,11/28/2026,,
 Malcolm Simmons,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),4500,45045755,5.81,7.34,1.29,13.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,,Breaking
 Ahmad Hardy,RB,MIZZ,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4200,45072378,6.01,7.33,1.43,12.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Travis Johnson,WR,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3400,45073047,6.57,7.22,1.93,10.2,,,18.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Travis Johnson,WR,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3400,45073047,6.55,7.2,1.93,10.2,,,18.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Manny Choice,WR,OU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3800,45072954,6.11,7.17,1.61,11.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Kaleb Webb,WR,UMD,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4300,45072885,5.72,7.16,1.33,12.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 London Humphreys,WR,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3500,45073029,6.32,7.16,1.81,10.5,,,,,,,,,,,,,,,,11/28/2026,,
@@ -364,9 +364,9 @@ Corey Simms,WR,USC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Game
 Elyiss Williams,WR,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3000,45073959,4.44,5.35,1.48,9,,,,,,,,,,,,,,,,11/28/2026,,
 Vance Spafford,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3100,45073203,4.35,5.34,1.4,9.3,,,,,,,,,,,,,,,,11/28/2026,,
 Landen Clark,QB,LSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8300,45071922,0.43,5.33,0.05,24.9,,,,,,,,,,,,,,,,11/28/2026,,
-Mason Williams,WR,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3400,45073050,4.26,5.33,1.25,10.2,,,13.5,,,,,,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,
 Adam Parks,WR,WMU,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",3400,45045968,4.1,5.32,1.21,10.2,,,,,,,,,,,,,,,,11/24/2026,,
 Ryan Puglisi,QB,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7600,45071938,0.94,5.31,0.12,22.8,,,,,,,,,,,,,,,,11/28/2026,,
+Mason Williams,WR,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3400,45073050,4.2,5.28,1.24,10.2,,,13.5,,,,,,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,
 Chris Johnson Jr.,RB,CLEM,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4100,45072390,3.5,5.26,0.85,12.3,,,,,,,,,,,,,,,,11/28/2026,,
 Will Hammond,QB,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),8000,45045659,0.51,5.21,0.06,24,,,,,,,,,,,,,,,,11/26/2026,,
 Zay Robinson,WR,PSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3800,45072957,3.67,5.21,0.97,11.4,,,,,,,,,,,,,,,,11/28/2026,,
@@ -401,8 +401,8 @@ DaMarion Fowlkes,WR,MIZZ,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 1
 Cutter Woods,QB,SCAR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7300,45071942,0.47,4.76,0.06,21.9,,,,,,,,,,,,,,,,11/28/2026,,
 Chad Alexander,RB,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4000,45072438,2.93,4.74,0.73,12,,,,,,,,,,,,,,,,11/28/2026,,
 Jayden Kitchens,WR,UMD,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3000,45073416,3.68,4.74,1.23,9,,,,,,,,,,,,,,,,11/28/2026,,
+Christian Ross,CPT,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),3600,45046922,3.27,4.63,0.91,10.8,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,,
 Landon Ellis,WR,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3400,45073059,3.24,4.63,0.95,10.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Christian Ross,CPT,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),3600,45046922,3.26,4.62,0.91,10.8,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,,
 Zach Grace,WR,LSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3200,45073167,3.36,4.61,1.05,9.6,,,,,,,,,,,,,,,,11/28/2026,,
 Noah Meyers,WR,SYR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3100,45073206,3.44,4.61,1.11,9.3,,,,,,,,,,,,,,,,11/28/2026,,
 Brody Foley,WR,UL,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3100,45073245,3.39,4.58,1.09,9.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
@@ -426,10 +426,10 @@ Elijah Moore,WR,SYR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Gam
 AJ Green Jr.,CPT,WMU,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),5400,45046917,1.51,4.45,0.28,16.2,,,,,,,,,,,,,,,,11/24/2026,,
 Jayden Moore,WR,DUKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3200,45073128,3.15,4.44,0.98,9.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Dawson Pough,WR,BC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3500,45073008,2.91,4.43,0.83,10.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Jaedn Skeete,WR,BC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3200,45073140,3.14,4.43,0.98,9.6,,,,,,,,,,,,,,,,11/28/2026,,
+Jaedn Skeete,WR,BC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3200,45073140,3.14,4.43,0.98,9.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Trey Petty,QB,WMU,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",6800,45045802,0,0,0,0,,,,,,,,0,,,,,,,,11/24/2026,OUT,Recent
+Christian Ross,WR,MIAOH,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",3200,45045986,3.27,4.41,1.02,9.6,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,,
 Ju'Juan Johnson,RB,SYR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4000,45072507,0,0,0,0,,,,,,,,0,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,OUT,Recent
-Christian Ross,WR,MIAOH,Tuesday 2-Game,11/24/2026,"Tuesday 2-Game Tuesday 2-Game 11/24 7:00PM, 2 Games",3200,45045986,3.26,4.4,1.02,9.6,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,,
 Quinton Martin Jr.,RB,PSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4100,45072402,2.4,4.38,0.58,12.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Danny Edgehille,WR,BC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3000,45073497,3.21,4.37,1.07,9,,,,,,,,,,,,,,,,11/28/2026,,
 Jaiven Plummer,WR,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3100,45073182,3.12,4.36,1.01,9.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
@@ -468,18 +468,18 @@ Gabe Burkle,WR,PSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Game
 Kamrean Johnson,WR,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3200,45073134,2.6,4,0.81,9.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Donovan Faupel,WR,ARK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3200,45073164,2.59,4,0.81,9.6,,,,,,,,,,,,,,,,11/28/2026,,
 Kirk Francis,QB,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),6000,45045667,0.49,3.99,0.08,18,,,,,,,,,,,,,,,,11/26/2026,,
+Christian Ross,WR,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),2400,45046847,3.27,3.98,1.36,7.2,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,,
 Leland Smith,WR,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3300,45073095,2.5,3.98,0.76,9.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Christian Ross,WR,MIAOH,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),2400,45046847,3.26,3.97,1.36,7.2,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/24/2026,,
 Jeremy Scott,WR,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),2000,45045689,3.46,3.97,1.73,6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,,
 Dieter Kelly,CPT,WMU,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),6600,45046910,0,3.96,0,19.8,,,,,,,,,,,,,,,,11/24/2026,,
 Palmer Domschke,CPT,WMU,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),6600,45046911,0,3.96,0,19.8,,,,,,,,,,,,,,,,11/24/2026,,
 Zak Zeman,CPT,WMU,Showdown Captain Mode,11/24/2026,Showdown Captain Mode Showdown Captain Mode 11/24 7:00PM (MIAOH @ WMU),6600,45046912,0,3.96,0,19.8,,,,,,,,,,,,,,,,11/24/2026,,
 Cardell Williams,QB,UMD,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5800,45071984,0.6,3.96,0.1,17.4,,,,,,,,,,,,,,,,11/28/2026,,
-Jalen Hoffman,WR,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3200,45073149,2.71,3.95,0.85,9.6,,,8.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Mike Tyler,WR,SCAR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3200,45073161,2.54,3.95,0.79,9.6,,,,,,,,,,,,,,,,11/28/2026,,
 Jake Taylor,WR,DUKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3200,45073125,2.52,3.94,0.79,9.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Matt Zollers,QB,MIZZ,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6000,45071978,0.4,3.92,0.07,18,,,,,,,,,,,,,,,,11/28/2026,,
 CJ Brown,WR,ARK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3300,45073110,2.43,3.92,0.74,9.9,,,,,,,,,,,,,,,,11/28/2026,,
+Jalen Hoffman,WR,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3200,45073149,2.68,3.92,0.84,9.6,,,8.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Deakon Tonielli,WR,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3000,45073725,2.65,3.92,0.88,9,,,,,,,,,,,,,,,,11/28/2026,,
 Brady Clough,WR,BC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3300,45073077,2.41,3.91,0.73,9.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Madden Iamaleava,QB,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5700,45071988,0.59,3.89,0.1,17.1,,,,,,,,,,,,,,,,11/28/2026,,Breaking
