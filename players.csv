@@ -1,7 +1,7 @@
 Player Name,Position,Team,Slate Type,Date,Role,Salary,Draftable ID,Projected FP,Combined FP,Value,Implied FP,Passing TDs,Rushing Yards,Receiving Yards,Passing Yards,Rush+Rec Yards,Anytime TD,Passing Attempts,Fantasy Score,Headshot URL,Game Start Time,Match Title (Underdog),Game Short Title (Underdog),Venue Name (Underdog),Venue Type (Underdog),Broadcasts (Underdog),Game Start Time (DRAFTTABLE),Injury Status,News Flag
-Devon Dampier,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),18000,45096115,34.26,36.24,1.9,54,1.5,56.5,,240.5,,1.5,,32.5,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,Breaking
-Devon Dampier,QB,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),12000,45096037,34.26,34.44,2.86,36,1.5,56.5,,240.5,,1.5,,32.5,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,Breaking
-Devon Dampier,QB,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",9300,45078445,34.26,33.63,3.68,27.9,1.5,56.5,,240.5,,1.5,,32.5,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,Breaking
+Devon Dampier,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),18000,45096115,34.02,36.02,1.89,54,1.5,56.5,,237,,1.5,,32.5,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,Breaking
+Devon Dampier,QB,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),12000,45096037,34.02,34.22,2.84,36,1.5,56.5,,237,,1.5,,32.5,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,Breaking
+Devon Dampier,QB,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",9300,45078445,34.02,33.41,3.66,27.9,1.5,56.5,,237,,1.5,,32.5,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,Breaking
 Michael Hawkins Jr.,CPT,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),17400,45096116,26.91,31.97,1.55,52.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Malachi Toney,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8800,45072717,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,Recent
 Michael Hawkins Jr.,QB,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),11600,45096038,26.91,28.49,2.32,34.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
@@ -9,53 +9,53 @@ Marcus Stokes,QB,MEM,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",88
 Marcus Stokes,QB,MEM,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",8800,45079279,28.31,28,3.22,26.4,1.5,,,199.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Jeremiah Smith,WR,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",9500,45072714,26.73,27.05,2.81,28.5,,,92.5,,,,,,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,Breaking
 Michael Hawkins Jr.,QB,WVU,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",9100,45078447,26.91,26.99,2.96,27.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Bear Bachmeier,QB,BYU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8400,45071920,26.4,26.25,3.14,25.2,1.5,34.5,,189.5,,,25.5,,,n/a,CIN @ BYU,Cincinnati @ BYU,LaVell Edwards Stadium,outdoor,FOX,11/28/2026,,Breaking
-Trinidad Chambliss,QB,MISS,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",7600,45074391,25.87,25.51,3.4,22.8,1.5,14.5,,246.5,,,,25.5,,n/a,MSST @ MISS,Mississippi St @ Ole Miss,Vaught-Hemingway Stadium,outdoor,ABC,11/27/2026,,Breaking
-Ashton Daniels,CPT,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),15600,45095665,21.39,24.44,1.37,46.8,0.5,20.5,,149.5,,,,19.5,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,Breaking
+Bear Bachmeier,QB,BYU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8400,45071920,26.32,26.19,3.13,25.2,1.5,34.5,,189.5,,,25.5,,,n/a,CIN @ BYU,Cincinnati @ BYU,LaVell Edwards Stadium,outdoor,FOX,11/28/2026,,Breaking
+Trinidad Chambliss,QB,MISS,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",7600,45074391,25.33,25.02,3.33,22.8,1.5,14.5,,246.5,,,,25.5,,n/a,MSST @ MISS,Mississippi St @ Ole Miss,Vaught-Hemingway Stadium,outdoor,ABC,11/27/2026,,Breaking
 Sam Leavitt,QB,LSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8800,45071914,23.93,24.42,2.72,26.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Ashton Daniels,CPT,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),15600,45095665,21.29,24.35,1.36,46.8,0.5,20.5,,149.5,,,,19.5,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,Breaking
 Jackson Harris,WR,LSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7600,45072729,24.74,24.35,3.26,22.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Thomas Castellanos,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),16500,45045725,21.3,24.12,1.29,49.5,1.5,24.5,,184.5,,,21.5,23.5,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,Breaking
-Nate Sheppard,RB,DUKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",9900,45072174,22.78,23.89,2.3,29.7,,78.5,13.5,,,,,,,n/a,DUKE @ WAKE,Duke @ Wake Forest,Allegacy Federal Credit Union Stadium,outdoor,ESPN,11/28/2026,,
+Nate Sheppard,RB,DUKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",9900,45072174,22.79,23.9,2.3,29.7,,78.5,13.5,,,,,,,n/a,DUKE @ WAKE,Duke @ Wake Forest,Allegacy Federal Credit Union Stadium,outdoor,ESPN,11/28/2026,,
 J'Koby Williams,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),15000,45045726,20.26,23.72,1.35,45,,79,4.5,,,,,19.5,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,Breaking
 Messiah Burch,RB,BUFF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",7200,45074577,24.06,23.57,3.34,21.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Gunner Stockton,QB,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8200,45071926,23.37,23.54,2.85,24.6,1.5,4.5,,174.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
-Gio Lopez,QB,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8200,45071924,22.93,23.17,2.8,24.6,1.5,17.5,,224,,,,,,n/a,DUKE @ WAKE,Duke @ Wake Forest,Allegacy Federal Credit Union Stadium,outdoor,ESPN,11/28/2026,,Recent
-Jadan Baugh,CPT,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),15000,45095666,19.16,22.78,1.28,45,,59.5,7.5,,,,,17.5,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
-Ashton Daniels,QB,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),10400,45095593,21.39,22.57,2.06,31.2,0.5,20.5,,149.5,,,,19.5,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,Breaking
+Gio Lopez,QB,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8200,45071924,22.84,23.09,2.79,24.6,1.5,17.5,,224,,,,,,n/a,DUKE @ WAKE,Duke @ Wake Forest,Allegacy Federal Credit Union Stadium,outdoor,ESPN,11/28/2026,,Recent
+Jadan Baugh,CPT,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),15000,45095666,19.14,22.76,1.28,45,,59.5,7.5,,,,,17.5,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
+Arch Manning,CPT,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),16200,45095961,19.61,22.51,1.21,48.6,0.5,13.5,,193,,,25.5,18.5,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
+Ashton Daniels,QB,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),10400,45095593,21.29,22.48,2.05,31.2,0.5,20.5,,149.5,,,,19.5,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,Breaking
 Thomas Castellanos,QB,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),11000,45045654,21.3,22.47,1.94,33,1.5,24.5,,184.5,,,21.5,23.5,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,Breaking
-Arch Manning,CPT,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),16200,45095961,19.3,22.23,1.19,48.6,0.5,13.5,,193,,,25.5,18.5,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
-Lincoln Kienholz,QB,UL,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8600,45071916,21.33,21.95,2.48,25.8,0.5,17.5,,194.5,,,,,,n/a,LOU @ UK,Louisville @ Kentucky,Kroger Field,outdoor,ESPN2,11/28/2026,,
-Darian Mensah,QB,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",9300,45071912,20.79,21.93,2.24,27.9,1.5,,,224.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
-Aaron Philo,CPT,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),14100,45095667,19.57,21.84,1.39,42.3,0.5,31,,174,,,23.5,19,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
-Cooper Barkate,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7200,45072738,21.73,21.7,3.02,21.6,,,49.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
-Ashton Daniels,QB,FSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",7900,45074383,21.39,21.67,2.71,23.7,0.5,20.5,,149.5,,,,19.5,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,Breaking
-Ashton Daniels,QB,FSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",7900,45079096,21.39,21.67,2.71,23.7,0.5,20.5,,149.5,,,,19.5,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,Breaking
+Darian Mensah,QB,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",9300,45071912,20.94,22.05,2.25,27.9,1.5,,,224.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
+Lincoln Kienholz,QB,UL,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8600,45071916,21.3,21.93,2.48,25.8,0.5,17.5,,194.5,,,,,,n/a,LOU @ UK,Louisville @ Kentucky,Kroger Field,outdoor,ESPN2,11/28/2026,,
+Cooper Barkate,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7200,45072738,21.88,21.83,3.04,21.6,,,49.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
+Aaron Philo,CPT,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),14100,45095667,19.54,21.81,1.39,42.3,0.5,31,,174,,,23.5,19,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
 J'Koby Williams,RB,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),10000,45045655,20.26,21.62,2.03,30,,79,4.5,,,,,19.5,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,Breaking
 Cam Cook,CPT,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),15600,45096117,17.5,21.6,1.12,46.8,,49.5,4.5,,,,,16.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Carlos Hernandez,WR,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8500,45072720,20.33,21.26,2.39,25.5,,,78,,,,,,,n/a,DUKE @ WAKE,Duke @ Wake Forest,Allegacy Federal Credit Union Stadium,outdoor,ESPN,11/28/2026,,Recent
+Ashton Daniels,QB,FSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",7900,45074383,21.29,21.58,2.7,23.7,0.5,20.5,,149.5,,,,19.5,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,Breaking
+Ashton Daniels,QB,FSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",7900,45079096,21.29,21.58,2.7,23.7,0.5,20.5,,149.5,,,,19.5,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,Breaking
+CJ Carr,QB,ND,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8000,45071930,20.9,21.4,2.61,24,1.5,,,211.5,,,,,,n/a,ND @ SYR,Notre Dame @ Syracuse,JMA Wireless Dome,dome,ABC,11/28/2026,,
+Carlos Hernandez,WR,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8500,45072720,20.35,21.28,2.39,25.5,,,78,,,,,,,n/a,DUKE @ WAKE,Duke @ Wake Forest,Allegacy Federal Credit Union Stadium,outdoor,ESPN,11/28/2026,,Recent
 Jaylin Carter,RB,MEM,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",8900,45074565,19.99,21.2,2.25,26.7,,59.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Jaylin Carter,RB,MEM,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",8900,45079455,19.99,21.2,2.25,26.7,,59.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Dilin Jones,RB,LSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7800,45072192,20.48,21.06,2.63,23.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-CJ Carr,QB,ND,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8000,45071930,20.4,20.97,2.55,24,1.5,,,211.5,,,,,,n/a,ND @ SYR,Notre Dame @ Syracuse,JMA Wireless Dome,dome,ABC,11/28/2026,,
-Jadan Baugh,RB,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),10000,45095594,19.16,20.68,1.92,30,,59.5,7.5,,,,,17.5,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
-Arch Manning,QB,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),10800,45095885,19.3,20.61,1.79,32.4,0.5,13.5,,193,,,25.5,18.5,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
+Arch Manning,QB,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),10800,45095885,19.61,20.89,1.82,32.4,0.5,13.5,,193,,,25.5,18.5,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
+Jadan Baugh,RB,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),10000,45095594,19.14,20.66,1.91,30,,59.5,7.5,,,,,17.5,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
 Nolan James Jr.,RB,ND,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7700,45072195,19.99,20.55,2.6,23.1,,83.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Oran Singleton Jr.,WR,TLSA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",7700,45074955,19.97,20.53,2.59,23.1,,,39.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Trent Mosley,WR,USC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8300,45072723,19.66,20.5,2.37,24.9,,,66,,,0.5,,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,
+Trent Mosley,WR,USC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8300,45072723,19.65,20.49,2.37,24.9,,,66,,,0.5,,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,
 Julian Sayin,QB,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6400,45071962,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,
-Aaron Philo,QB,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),9400,45095595,19.57,20.43,2.08,28.2,0.5,31,,174,,,23.5,19,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
+Aaron Philo,QB,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),9400,45095595,19.54,20.4,2.08,28.2,0.5,31,,174,,,23.5,19,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
 Nathan Hayes,QB,NDSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6900,45074407,20.29,20.37,2.94,20.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Nathan Hayes,QB,NDSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",6900,45079121,20.29,20.37,2.94,20.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 LaNorris Sellers,QB,SCAR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7700,45071936,20.04,20.34,2.6,23.1,0.5,24.5,,149.5,,0.5,25.5,,,n/a,SCAR @ CLEM,S. Carolina @ Clemson,"Memorial Stadium (Clemson, SC)",outdoor,ESPN2,11/28/2026,,
 Jaden Craig,CPT,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),14100,45045727,14.79,20.29,1.05,42.3,,,,,,,,,,,,,,,,11/26/2026,,
 Rocco Becht,QB,PSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6600,45071956,20.29,20.19,3.07,19.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Jadan Baugh,RB,UF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",8500,45074568,19.16,20.05,2.25,25.5,,59.5,7.5,,,,,17.5,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
-Jadan Baugh,RB,UF,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",8500,45079290,19.16,20.05,2.25,25.5,,59.5,7.5,,,,,17.5,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
+Jadan Baugh,RB,UF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",8500,45074568,19.14,20.03,2.25,25.5,,59.5,7.5,,,,,17.5,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
+Jadan Baugh,RB,UF,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",8500,45079290,19.14,20.03,2.25,25.5,,59.5,7.5,,,,,17.5,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
 Wayshawn Parker,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),13500,45096120,14.79,19.93,1.1,40.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,Q,Breaking
-Raleek Brown,CPT,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),14700,45095963,15.64,19.62,1.06,44.1,,58.5,11,,,,,16,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
-Arch Manning,QB,TEX,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",7500,45078453,19.3,19.62,2.57,22.5,0.5,13.5,,193,,,25.5,18.5,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
-Aaron Philo,QB,UF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6400,45074417,19.57,19.53,3.06,19.2,0.5,31,,174,,,23.5,19,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
-Aaron Philo,QB,UF,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",6400,45079305,19.57,19.53,3.06,19.2,0.5,31,,174,,,23.5,19,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
+Arch Manning,QB,TEX,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",7500,45078453,19.61,19.9,2.61,22.5,0.5,13.5,,193,,,25.5,18.5,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
+Raleek Brown,CPT,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),14700,45095963,15.72,19.69,1.07,44.1,,58.5,11,,,,,16,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
+Aaron Philo,QB,UF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6400,45074417,19.54,19.5,3.05,19.2,0.5,31,,174,,,23.5,19,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
+Aaron Philo,QB,UF,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",6400,45079305,19.54,19.5,3.05,19.2,0.5,31,,174,,,23.5,19,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
 Braden Pegan,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),12000,45096121,16.32,19.47,1.36,36,,,55,,,,,16.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,Q,Breaking
 Jordan Gant,RB,AKR,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",7600,45074571,18.64,19.47,2.45,22.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Recent
 Cam Cook,RB,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),10400,45096039,17.5,19.42,1.68,31.2,,49.5,4.5,,,,,16.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
@@ -67,22 +67,22 @@ Carson Clark,WR,SJSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 G
 Baylor Hayes,QB,TLSA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6600,45074413,19.08,19.17,2.89,19.8,0.5,4.5,,174.5,,,,18.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Kamario Taylor,QB,MSST,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4500,45074515,20.32,18.95,4.51,13.5,,,,,,,,,,,,,,,,11/27/2026,,
 Nick Poulos,QB,OHIO,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",7400,45074397,18.14,18.79,2.45,22.2,0.5,,,124.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Recent
-L.J. Phillips Jr.,CPT,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),14400,45095813,14.77,18.75,1.03,43.2,,86.5,6.5,,,,,13.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Tait Reynolds,QB,CLEM,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4500,45072012,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,
 Mark Fletcher Jr.,RB,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8000,45072189,17.46,18.63,2.18,24,,29.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
-John Mateer,QB,OU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6700,45071954,18.34,18.55,2.74,20.1,0.5,14.5,,177.5,,,27.5,,,n/a,OKLA @ MIZZ,Oklahoma @ Missouri,Memorial Stadium/Faurot Field,outdoor,SEC Network,11/28/2026,,
 Cam Cook,RB,WVU,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",8300,45078513,17.5,18.54,2.11,24.9,,49.5,4.5,,,,,16.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+John Mateer,QB,OU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6700,45071954,18.28,18.5,2.73,20.1,0.5,14.5,,177.5,,,27.5,,,n/a,OKLA @ MIZZ,Oklahoma @ Missouri,Memorial Stadium/Faurot Field,outdoor,SEC Network,11/28/2026,,
 Quintrevion Wisner,CPT,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),10800,45095673,14.86,18.37,1.38,32.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,Q,Recent
 Vernell Brown III,CPT,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),12000,45095670,13.9,18.32,1.16,36,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Bishop Davenport,QB,SALA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6700,45074411,17.87,18.31,2.67,20.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Bishop Davenport,QB,SALA,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",6700,45079104,17.87,18.31,2.67,20.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
-Jayden Maiava,QB,USC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6800,45071948,17.75,18.12,2.61,20.4,0.5,,,210,,,29.5,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,
+Jayden Maiava,QB,USC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6800,45071948,17.77,18.14,2.61,20.4,0.5,,,210,,,29.5,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,
+L.J. Phillips Jr.,CPT,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),14400,45095813,13.92,18.02,0.97,43.2,,86.5,6.5,,,,,13.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Marcel Reed,CPT,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),11400,45095968,13.87,17.94,1.22,34.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Recent
-Anthony Colandrea,CPT,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),18000,45095811,13.74,17.77,0.76,54,0.5,13.5,,153.5,,,27.5,16,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
+Anthony Colandrea,CPT,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),18000,45095811,13.76,17.78,0.76,54,0.5,13.5,,153.5,,,27.5,16,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
 DeJuan Williams,RB,UMD,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6400,45072219,17.38,17.75,2.72,19.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 A'Marion Peterson,RB,UTSA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6300,45074598,17.41,17.68,2.76,18.9,,9.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,Q,Recent
+Raleek Brown,RB,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),9800,45095887,15.72,17.63,1.6,29.4,,58.5,11,,,,,16,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
 Mason Cumbie,QB,BUFF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",7200,45074401,16.6,17.6,2.31,21.6,,,,,,,,,,,,,,,,11/27/2026,,
-Raleek Brown,RB,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),9800,45095887,15.64,17.56,1.6,29.4,,58.5,11,,,,,16,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
 Braden Pegan,WR,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),8000,45096043,16.32,17.55,2.04,24,,,55,,,,,16.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,Q,Breaking
 Ryan Hopkins,QB,WISC,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",6100,45078459,17.29,17.5,2.84,18.3,,,,,,,,,,,,,,,,11/27/2026,,Recent
 Jaden Craig,QB,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),9400,45045656,14.79,17.47,1.57,28.2,,,,,,,,,,,,,,,,11/26/2026,,
@@ -92,62 +92,61 @@ Cibastian Broughton,QB,AKR,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Gam
 Steve Angeli,QB,SYR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4500,45072058,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,Breaking
 Malik Washington,QB,UMD,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6200,45071972,17.05,17.36,2.75,18.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Wayshawn Parker,RB,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),9000,45096042,14.79,17.23,1.64,27,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,Q,Breaking
-Deuce Alexander,WR,MISS,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",8000,45074952,15.77,17.09,1.97,24,,,53,,,,,14.5,,n/a,MSST @ MISS,Mississippi St @ Ole Miss,Vaught-Hemingway Stadium,outdoor,ABC,11/27/2026,,Breaking
-Wayne Knight,RB,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8400,45072180,15.52,17.07,1.85,25.2,,54,4.5,,,,,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,Breaking
+Wayne Knight,RB,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8400,45072180,15.48,17.04,1.84,25.2,,54,4.5,,,,,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,Breaking
+Deuce Alexander,WR,MISS,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",8000,45074952,15.64,16.97,1.95,24,,,53,,,,,14.5,,n/a,MSST @ MISS,Mississippi St @ Ole Miss,Vaught-Hemingway Stadium,outdoor,ABC,11/27/2026,,Breaking
 Chance Morrow,WR,BUFF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6700,45074967,16.11,16.91,2.4,20.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Micahi Danzy,CPT,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),11100,45095672,13.76,16.89,1.24,33.3,,,35,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Micahi Danzy,CPT,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),11100,45095672,13.75,16.88,1.24,33.3,,,35,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Daniel Bray,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),11100,45096122,12.78,16.88,1.15,33.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
-Kenny Minchey,QB,UK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6300,45071970,16.6,16.88,2.64,18.9,0.5,7.5,,185,,,27.5,,,n/a,LOU @ UK,Louisville @ Kentucky,Kroger Field,outdoor,ESPN2,11/28/2026,,Breaking
+Kenny Minchey,QB,UK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6300,45071970,16.57,16.85,2.63,18.9,0.5,7.5,,185,,,27.5,,,n/a,LOU @ UK,Louisville @ Kentucky,Kroger Field,outdoor,ESPN2,11/28/2026,,Breaking
 Braden Pegan,WR,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",6500,45078660,16.32,16.83,2.51,19.5,,,55,,,,,16.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,Q,Breaking
 Malachi Singleton,QB,APPST,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5800,45074429,16.63,16.79,2.87,17.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Malachi Singleton,QB,APPST,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",5800,45079141,16.63,16.79,2.87,17.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-L.J. Phillips Jr.,RB,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),9600,45095739,14.77,16.73,1.54,28.8,,86.5,6.5,,,,,13.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
-JC French IV,QB,CINCY,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7200,45071944,15.83,16.52,2.2,21.6,0.5,4.5,,206.5,,,27.5,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Cam Wallace,RB,PSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5700,45072246,16.36,16.51,2.87,17.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Jackson Williams,WR,NDSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6500,45074973,15.73,16.49,2.42,19.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Jackson Williams,WR,NDSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",6500,45079377,15.73,16.49,2.42,19.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Raleek Brown,RB,TEX,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",7000,45078519,15.72,16.46,2.25,21,,58.5,11,,,,,16,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
 Jaquari Lewis,RB,APPST,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6600,45074589,15.57,16.42,2.36,19.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Jaquari Lewis,RB,APPST,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",6600,45079469,15.57,16.42,2.36,19.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Raleek Brown,RB,TEX,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",7000,45078519,15.64,16.39,2.23,21,,58.5,11,,,,,16,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
-Ryan Wingo,CPT,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),12900,45095964,12.11,16.36,0.94,38.7,,,34,,,,,11,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
+JC French IV,QB,CINCY,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7200,45071944,15.65,16.37,2.17,21.6,0.5,4.5,,206.5,,,27.5,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Chris Durr Jr.,WR,UMD,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7500,45072732,14.81,16.35,1.97,22.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Jordan Dwyer,CPT,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),12300,45045729,12.42,16.34,1.01,36.9,,,42.5,,,,,12,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,
 Jeremy Payne,CPT,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),11700,45045731,12.2,16.32,1.04,35.1,,39.5,,,,,,,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,
+Colton Joseph,QB,WISC,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",6600,45078457,15.89,16.28,2.41,19.8,0.5,26.5,,150.5,,,21.5,17.5,,n/a,MINN @ WIS,Minnesota @ Wisconsin,Camp Randall Stadium,outdoor,NBC/Peacock,11/27/2026,,Breaking
 Chase Sowell,WR,PSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7100,45072744,15.01,16.27,2.11,21.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Quintrevion Wisner,RB,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),7200,45095601,14.86,16.21,2.06,21.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,Q,Recent
 Wayshawn Parker,RB,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",7300,45078516,14.79,16.21,2.03,21.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,Q,Breaking
-Colton Joseph,QB,WISC,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",6600,45078457,15.8,16.2,2.39,19.8,0.5,26.5,,150.5,,,21.5,17.5,,n/a,MINN @ WIS,Minnesota @ Wisconsin,Camp Randall Stadium,outdoor,NBC/Peacock,11/27/2026,,Breaking
 Anthony Evans III,WR,MSST,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",7500,45074958,14.81,16.04,1.97,22.5,,,29.5,,,,,12.5,,n/a,MSST @ MISS,Mississippi St @ Ole Miss,Vaught-Hemingway Stadium,outdoor,ABC,11/27/2026,,
-LJ Martin,RB,BYU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6800,45072210,15.2,16.03,2.23,20.4,,49.5,6.5,,,,,,,n/a,CIN @ BYU,Cincinnati @ BYU,LaVell Edwards Stadium,outdoor,FOX,11/28/2026,,Breaking
+Ryan Wingo,CPT,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),12900,45095964,11.71,16.03,0.91,38.7,,,34,,,,,11,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
+L.J. Phillips Jr.,RB,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),9600,45095739,13.92,16,1.45,28.8,,86.5,6.5,,,,,13.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Nico Iamaleava,QB,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4500,45072104,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,
-Anthony Colandrea,QB,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),12000,45095737,13.74,15.97,1.15,36,0.5,13.5,,153.5,,,27.5,16,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
+Anthony Colandrea,QB,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),12000,45095737,13.76,15.98,1.15,36,0.5,13.5,,153.5,,,27.5,16,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
+LJ Martin,RB,BYU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6800,45072210,15.12,15.96,2.22,20.4,,49.5,6.5,,,,,,,n/a,CIN @ BYU,Cincinnati @ BYU,LaVell Edwards Stadium,outdoor,FOX,11/28/2026,,Breaking
 Vernell Brown III,WR,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),8000,45095598,13.9,15.92,1.74,24,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Jordan Faison,WR,ND,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6900,45072750,14.82,15.88,2.15,20.7,,,24.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Austin Simmons,QB,MIZZ,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6400,45071960,15.32,15.86,2.39,19.2,0.5,,,187,,,27.5,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Umari Hatcher,WR,SYR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7800,45072726,14.14,15.81,1.81,23.4,,,42.5,,,,,,,n/a,ND @ SYR,Notre Dame @ Syracuse,JMA Wireless Dome,dome,ABC,11/28/2026,,Breaking
 Carson Hansen,RB,PSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5900,45072237,15.3,15.78,2.59,17.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Samuel Singleton Jr.,CPT,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),10500,45095674,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,Recent
-Dallas Wilson,CPT,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),11700,45095671,11.97,15.67,1.02,35.1,,,33.5,,,,,10,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
+Dallas Wilson,CPT,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),11700,45095671,11.96,15.66,1.02,35.1,,,33.5,,,,,10,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
 Marcel Reed,QB,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),7600,45095892,13.87,15.66,1.82,22.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Recent
-Tre Richardson,WR,UL,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7400,45072735,14.21,15.65,1.92,22.2,,,46,,,,,,,n/a,LOU @ UK,Louisville @ Kentucky,Kroger Field,outdoor,ESPN2,11/28/2026,,
+Tre Richardson,WR,UL,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7400,45072735,14.22,15.66,1.92,22.2,,,46,,,,,,,n/a,LOU @ UK,Louisville @ Kentucky,Kroger Field,outdoor,ESPN2,11/28/2026,,
 AJ Swann,QB,MSST,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5000,45074445,15.82,15.65,3.16,15,,,,,,,,,,,,,,,,11/27/2026,,
 Ajani Sheppard,QB,TEMP,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5700,45074431,15.24,15.61,2.67,17.1,,,,,,,,,,,,,,,,11/27/2026,,
 Ajani Sheppard,QB,TEMP,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",5700,45079175,15.24,15.61,2.67,17.1,,,,,,,,,,,,,,,,11/27/2026,,
-Kwazi Gilmer,CPT,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),13500,45095815,10.77,15.52,0.8,40.5,,,19.5,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Jasen Lopez,CPT,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),7800,45095686,14.01,15.52,1.8,23.4,,,29.5,,,,,12,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,Breaking
+Kwazi Gilmer,CPT,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),13500,45095815,10.81,15.56,0.8,40.5,,,19.5,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Jasen Lopez,CPT,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),7800,45095686,14.04,15.54,1.8,23.4,,,29.5,,,,,12,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,Breaking
 Anthony Eager,WR,SALA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6300,45074976,14.66,15.51,2.33,18.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Anthony Eager,WR,SALA,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",6300,45079183,14.66,15.51,2.33,18.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Cayden Lee,WR,MIZZ,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6800,45072753,14.37,15.46,2.11,20.4,,,44,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Koby Howard,WR,PSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6500,45072762,14.45,15.46,2.22,19.5,,,,,,,,,,,,,,,,11/28/2026,,
-Hank Brown,CPT,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),13800,45095814,12.51,15.4,0.91,41.4,0.5,10.5,,146.5,,,23.5,13.5,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,Breaking
+Hank Brown,CPT,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),13800,45095814,12.55,15.43,0.91,41.4,0.5,10.5,,146.5,,,23.5,13.5,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,Breaking
 John Alan Richter,QB,TOL,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",7300,45074399,14.15,15.39,1.94,21.9,0.5,,,149.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-L.J. Phillips Jr.,RB,IOWA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6400,45074595,14.77,15.39,2.31,19.2,,86.5,6.5,,,,,13.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Chris Marshall,WR,ARK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6500,45072765,14.33,15.36,2.2,19.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Adjatay Dabbs,WR,TOL,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6900,45074964,14.18,15.35,2.05,20.7,,,24.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Trey'Dez Green,WR,LSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4900,45072834,15.46,15.31,3.15,14.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Ty Clark III,RB,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6300,45072225,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,Breaking
 Kamari Moulton,RB,IOWA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4000,45074760,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,
-Micahi Danzy,WR,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),7400,45095600,13.76,15.11,1.86,22.2,,,35,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Micahi Danzy,WR,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),7400,45095600,13.75,15.1,1.86,22.2,,,35,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Donovan Olugbode,WR,MIZZ,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7200,45072741,13.68,15.1,1.9,21.6,,,44,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Kenny Johnson,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),10500,45045733,11.92,15.05,1.14,31.5,,,45,,,,,11.5,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,Q,Breaking
 Kewan Lacy,RB,MISS,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4000,45074829,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,
@@ -156,47 +155,48 @@ Calvin Russell III,WR,SYR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 
 Ousmane Kromah,RB,FSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4000,45074721,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,
 Ousmane Kromah,RB,FSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4000,45079520,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,
 Micah Gilbert,WR,ND,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5800,45072777,14.48,14.94,2.5,17.4,,,42,,,0.5,,,,n/a,ND @ SYR,Notre Dame @ Syracuse,JMA Wireless Dome,dome,ABC,11/28/2026,,
-Anthony Colandrea,QB,NEB,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",8500,45074379,13.74,14.92,1.62,25.5,0.5,13.5,,153.5,,,27.5,16,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
+Anthony Colandrea,QB,NEB,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",8500,45074379,13.76,14.93,1.62,25.5,0.5,13.5,,153.5,,,27.5,16,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
 Quintrevion Wisner,RB,FSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5000,45074634,14.86,14.89,2.97,15,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,Q,Recent
 Quintrevion Wisner,RB,FSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",5000,45079261,14.86,14.89,2.97,15,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,Q,Recent
-Legend Glasker,WR,BYU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6600,45072759,13.74,14.83,2.08,19.8,,,38.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
+Legend Glasker,WR,BYU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6600,45072759,13.75,14.84,2.08,19.8,,,38.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Elijah Holmes,QB,BUFF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4500,45074541,15.09,14.77,3.35,13.5,,,,,,,,,,,,,,,,11/27/2026,,
 Vernell Brown III,WR,UF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6000,45074985,13.9,14.72,2.32,18,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Vernell Brown III,WR,UF,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",6000,45079409,13.9,14.72,2.32,18,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Daniel Bray,RB,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),7400,45096044,12.78,14.66,1.73,22.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+L.J. Phillips Jr.,RB,IOWA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6400,45074595,13.92,14.66,2.17,19.2,,86.5,6.5,,,,,13.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Isaiah Sategna III,WR,OU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6900,45072747,13.29,14.63,1.93,20.7,,,56.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Emmett Mosley V,CPT,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),12000,45095966,10.54,14.61,0.88,36,,,19.5,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Willie Rodriguez,WR,UK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4500,45072870,14.88,14.63,3.31,13.5,,,41.5,,,,,,,n/a,LOU @ UK,Louisville @ Kentucky,Kroger Field,outdoor,ESPN2,11/28/2026,,Breaking
+Emmett Mosley V,CPT,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),12000,45095966,10.54,14.62,0.88,36,,,19.5,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 CJ Miller,RB,TOL,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",7500,45074574,12.87,14.6,1.72,22.5,,24.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Willie Rodriguez,WR,UK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4500,45072870,14.84,14.6,3.3,13.5,,,41.5,,,,,,,n/a,LOU @ UK,Louisville @ Kentucky,Kroger Field,outdoor,ESPN2,11/28/2026,,Breaking
 Marcel Williams,WR,AKR,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5900,45074988,13.67,14.48,2.32,17.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Jordan Dwyer,WR,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),8200,45045658,12.42,14.37,1.51,24.6,,,42.5,,,,,12,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,
 KJ Jackson,QB,ARK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5400,45071992,13.87,14.34,2.57,16.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
-Tony Diaz,CPT,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),9900,45095820,11.38,14.31,1.15,29.7,,,33,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,Q,Breaking
-Ryan Wingo,WR,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),8600,45095888,12.11,14.3,1.41,25.8,,,34,,,,,11,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
+Mario Craver,CPT,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),11700,45095967,10.36,14.32,0.89,35.1,,,29.5,,,,,9,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
+Jasen Lopez,WR,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),5200,45095614,14.04,14.29,2.7,15.6,,,29.5,,,,,12,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,Breaking
 Kari Ashley,CPT,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),9900,45045734,11.34,14.28,1.15,29.7,,,19.5,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,,
-Jasen Lopez,WR,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),5200,45095614,14.01,14.27,2.69,15.6,,,29.5,,,,,12,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,Breaking
+Tony Diaz,CPT,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),9900,45095820,11.28,14.23,1.14,29.7,,,33,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,Q,Breaking
 Jeremy Payne,RB,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),7800,45045660,12.2,14.21,1.56,23.4,,39.5,,,,,,,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,
 Elija Lofton,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5000,45072825,14.02,14.2,2.8,15,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,P,Breaking
-DJ Epps,CPT,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),10500,45096123,10.85,14.16,1.03,31.5,,,19.5,,,,,9,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+DJ Epps,CPT,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),10500,45096123,10.86,14.16,1.03,31.5,,,19.5,,,,,9,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Luke Fahey,QB,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6500,45071958,13.43,14.16,2.07,19.5,0.5,3.5,,180,,,27.5,,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,Breaking
 Sam Pickett III,WR,APPST,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6100,45074982,13.02,14.08,2.14,18.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Sam Pickett III,WR,APPST,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",6100,45079549,13.02,14.08,2.14,18.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 PJ Martin,RB,SALA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5900,45074610,13.15,14.06,2.23,17.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 PJ Martin,RB,SALA,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",5900,45079186,13.15,14.06,2.23,17.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+Hank Brown,QB,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),9200,45095740,12.55,14.05,1.36,27.6,0.5,10.5,,146.5,,,23.5,13.5,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,Breaking
 Marcel Reed,QB,TA&M,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4900,45078467,13.87,14.04,2.83,14.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Recent
-Mario Craver,CPT,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),11700,45095967,10.02,14.03,0.86,35.1,,,29.5,,,,,9,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
-Hank Brown,QB,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),9200,45095740,12.51,14.02,1.36,27.6,0.5,10.5,,146.5,,,23.5,13.5,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,Breaking
 Isaac Brown,RB,UL,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7000,45072204,12.48,14.02,1.78,21,,29.5,,,,,,,,n/a,LOU @ UK,Louisville @ Kentucky,Kroger Field,outdoor,ESPN2,11/28/2026,,
-Jonaz Walton,RB,ND,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6200,45072228,13.01,14.02,2.1,18.6,,49.5,,,,,,,,n/a,ND @ SYR,Notre Dame @ Syracuse,JMA Wireless Dome,dome,ABC,11/28/2026,,
-Micahi Danzy,WR,FSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5000,45075021,13.76,13.96,2.75,15,,,35,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Micahi Danzy,WR,FSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",5000,45079335,13.76,13.96,2.75,15,,,35,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Jonaz Walton,RB,ND,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6200,45072228,13.01,14.02,2.1,18.6,,39.5,,,,,,,,n/a,ND @ SYR,Notre Dame @ Syracuse,JMA Wireless Dome,dome,ABC,11/28/2026,,
+Ryan Wingo,WR,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),8600,45095888,11.71,13.96,1.36,25.8,,,34,,,,,11,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
+Micahi Danzy,WR,FSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5000,45075021,13.75,13.95,2.75,15,,,35,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Micahi Danzy,WR,FSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",5000,45079335,13.75,13.95,2.75,15,,,35,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Fluff Bothwell,RB,MSST,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6800,45074583,12.51,13.93,1.84,20.4,,39.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Javian Mallory,RB,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6700,45072213,12.52,13.88,1.87,20.1,,19.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Connor Walendzak,RB,TOL,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",7100,45074580,12.21,13.84,1.72,21.3,,29.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Riley Neer,WR,OHIO,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6600,45074970,12.51,13.82,1.9,19.8,,,24.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Recent
-Dallas Wilson,WR,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),7800,45095599,11.97,13.79,1.53,23.4,,,33.5,,,,,10,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
-Jasen Lopez,WR,FSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4200,45075069,14.01,13.79,3.34,12.6,,,29.5,,,,,12,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,Breaking
-Jasen Lopez,WR,FSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4200,45079631,14.01,13.79,3.34,12.6,,,29.5,,,,,12,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,Breaking
+Jasen Lopez,WR,FSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4200,45075069,14.04,13.81,3.34,12.6,,,29.5,,,,,12,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,Breaking
+Jasen Lopez,WR,FSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4200,45079631,14.04,13.81,3.34,12.6,,,29.5,,,,,12,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,Breaking
+Dallas Wilson,WR,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),7800,45095599,11.96,13.79,1.53,23.4,,,33.5,,,,,10,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
 Brendan Jenkins,WR,SALA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5600,45075000,13.02,13.78,2.33,16.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Brendan Jenkins,WR,SALA,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",5600,45079253,13.02,13.78,2.33,16.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Daniel Bray,RB,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",5900,45078525,12.78,13.76,2.17,17.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
@@ -205,115 +205,116 @@ Terrance Carter Jr.,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mo
 Daniel Rolovich,QB,SJSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5100,45074443,13.31,13.71,2.61,15.3,,,,,,,,,,,,,,,,11/27/2026,Q,Breaking
 Daniel Rolovich,QB,SJSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",5100,45079693,13.31,13.71,2.61,15.3,,,,,,,,,,,,,,,,11/27/2026,Q,Breaking
 Javon Ross,WR,TLSA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4800,45075030,13.56,13.71,2.83,14.4,,,24.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Jamal Rule,CPT,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),13200,45095816,8.75,13.69,0.66,39.6,,29.5,1.5,,,,,,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
 Will Henderson III,RB,UTSA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6000,45074607,12.86,13.68,2.14,18,,39.5,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
-Jamal Rule,CPT,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),13200,45095816,8.73,13.67,0.66,39.6,,29.5,1.5,,,,,,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
+Drake Lindsey,QB,MINN,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",6000,45078461,13.04,13.64,2.17,18,0.5,,,151.5,,,29.5,11,,n/a,MINN @ WIS,Minnesota @ Wisconsin,Camp Randall Stadium,outdoor,NBC/Peacock,11/27/2026,,
 Kamari Moulton,CPT,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),1500,45095848,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,
-Drake Lindsey,QB,MINN,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",6000,45078461,13.02,13.61,2.17,18,0.5,,,151.5,,,29.5,11,,n/a,MINN @ WIS,Minnesota @ Wisconsin,Camp Randall Stadium,outdoor,NBC/Peacock,11/27/2026,,
 Samuel Singleton Jr.,RB,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),7000,45095602,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,Recent
-Lawayne McCoy,WR,UL,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6700,45072756,12.11,13.55,1.81,20.1,,,46,,,,,,,n/a,LOU @ UK,Louisville @ Kentucky,Kroger Field,outdoor,ESPN2,11/28/2026,,
-Darius Taylor,RB,MINN,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",6200,45078522,12.73,13.55,2.05,18.6,,32.5,9.5,,,,,11,,n/a,MINN @ WIS,Minnesota @ Wisconsin,Camp Randall Stadium,outdoor,NBC/Peacock,11/27/2026,,
+Lawayne McCoy,WR,UL,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6700,45072756,12.16,13.59,1.81,20.1,,,46,,,,,,,n/a,LOU @ UK,Louisville @ Kentucky,Kroger Field,outdoor,ESPN2,11/28/2026,,
+Darius Taylor,RB,MINN,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",6200,45078522,12.76,13.58,2.06,18.6,,32.5,9.5,,,,,11,,n/a,MINN @ WIS,Minnesota @ Wisconsin,Camp Randall Stadium,outdoor,NBC/Peacock,11/27/2026,,
 Ahmad Miller,RB,SYR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5500,45072258,12.78,13.53,2.32,16.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
-JV Gibson,WR,CINCY,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5700,45072783,12.73,13.52,2.23,17.1,,,43.5,,,,,,,n/a,CIN @ BYU,Cincinnati @ BYU,LaVell Edwards Stadium,outdoor,FOX,11/28/2026,,
+JV Gibson,WR,CINCY,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5700,45072783,12.7,13.5,2.23,17.1,,,43.5,,,,,,,n/a,CIN @ BYU,Cincinnati @ BYU,LaVell Edwards Stadium,outdoor,FOX,11/28/2026,,
 Ousmane Kromah,CPT,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),1500,45095704,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,
 Malachi Nelson,QB,SYR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5000,45072000,13.18,13.47,2.64,15,0.5,,,152.5,,,,,,n/a,ND @ SYR,Notre Dame @ Syracuse,JMA Wireless Dome,dome,ABC,11/28/2026,,Breaking
 Cam Settles,RB,ARK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4900,45072282,13.16,13.47,2.69,14.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Bo MacCormack III,RB,BC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5800,45072240,12.55,13.43,2.16,17.4,,19.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Adam Schobel,CPT,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),12600,45045728,8.75,13.4,0.69,37.8,0.5,,,163,,,,,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,
+Adam Schobel,CPT,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),12600,45045728,8.76,13.41,0.7,37.8,0.5,,,163,,,,,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,
+Kwazi Gilmer,WR,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),9000,45095741,10.81,13.4,1.2,27,,,19.5,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Luke Weaver,QB,SJSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4800,45074447,13.14,13.39,2.74,14.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Luke Weaver,QB,SJSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4800,45079484,13.14,13.39,2.74,14.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Kenny Johnson,WR,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),7000,45045662,11.92,13.37,1.7,21,,,45,,,,,11.5,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,Q,Breaking
-Kwazi Gilmer,WR,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),9000,45095741,10.77,13.36,1.2,27,,,19.5,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Owen McCown,QB,UTSA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5900,45074427,12.74,13.34,2.16,17.7,0.5,4.5,,149.5,,,,13.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Jermane Hayes,WR,MEM,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5100,45075018,12.91,13.34,2.53,15.3,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Jermane Hayes,WR,MEM,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",5100,45079460,12.91,13.34,2.53,15.3,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Kamari Moulton,RB,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),1000,45095774,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,
-Makhi Frazier,RB,MISS,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5300,45074625,12.68,13.26,2.39,15.9,,19.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+Makhi Frazier,RB,MISS,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5300,45074625,12.7,13.28,2.4,15.9,,19.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 CJ Baxter,RB,UK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7200,45072201,11.1,13.2,1.54,21.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Damari Alston,RB,TLSA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6700,45074586,11.88,13.2,1.77,20.1,,24.5,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Ousmane Kromah,RB,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),1000,45095632,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,
-Kyler Kasper,WR,BYU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5500,45072792,12.36,13.11,2.25,16.5,,,35,,,,,,,n/a,CIN @ BYU,Cincinnati @ BYU,LaVell Edwards Stadium,outdoor,FOX,11/28/2026,,
 Eugene Wilson III,WR,LSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4800,45072846,12.75,13.08,2.66,14.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Owen McCown,QB,UTSA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5900,45074427,12.44,13.07,2.11,17.7,0.5,4.5,,149.5,,,,13.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
-Ryan Wingo,WR,TEX,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",5900,45078663,12.11,13,2.05,17.7,,,34,,,,,11,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
+Kyler Kasper,WR,BYU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5500,45072792,12.32,13.07,2.24,16.5,,,35,,,,,,,n/a,CIN @ BYU,Cincinnati @ BYU,LaVell Edwards Stadium,outdoor,FOX,11/28/2026,,
+Hank Brown,QB,IOWA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5600,45074433,12.55,12.97,2.24,16.8,0.5,10.5,,146.5,,,23.5,13.5,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,Breaking
 Talyn Taylor,WR,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6000,45072771,11.84,12.95,1.97,18,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Hank Brown,QB,IOWA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5600,45074433,12.51,12.94,2.23,16.8,0.5,10.5,,146.5,,,23.5,13.5,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,Breaking
 Rocky Beers,WR,OU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4600,45072858,12.64,12.87,2.75,13.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Horatio Fields,WR,MISS,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5800,45074991,11.94,12.81,2.06,17.4,,,32.5,,,,,10,,n/a,MSST @ MISS,Mississippi St @ Ole Miss,Vaught-Hemingway Stadium,outdoor,ABC,11/27/2026,,
 Caleb Odom,WR,MISS,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5200,45075015,12.28,12.81,2.36,15.6,,,30,,,,,9.5,,n/a,MSST @ MISS,Mississippi St @ Ole Miss,Vaught-Hemingway Stadium,outdoor,ABC,11/27/2026,Q,Breaking
 Walker Eget,QB,DUKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5200,45071996,12.27,12.81,2.36,15.6,0.5,,,162,,,,,,n/a,DUKE @ WAKE,Duke @ Wake Forest,Allegacy Federal Credit Union Stadium,outdoor,ESPN,11/28/2026,,
 Amari Thomas,RB,FSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4000,45074724,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,
 Amari Thomas,RB,FSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4000,45079645,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,
 King Miller,RB,USC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6000,45072231,11.77,12.76,1.96,18,,29.5,8.5,,,,,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,
-Tony Diaz,WR,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),6600,45095746,11.38,12.73,1.72,19.8,,,33,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,Q,Breaking
-Kenny Darby,WR,UK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6200,45072768,11.43,12.72,1.84,18.6,,,39.5,,,,,,,n/a,LOU @ UK,Louisville @ Kentucky,Kroger Field,outdoor,ESPN2,11/28/2026,,Breaking
+Kenny Darby,WR,UK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6200,45072768,11.44,12.73,1.84,18.6,,,39.5,,,,,,,n/a,LOU @ UK,Louisville @ Kentucky,Kroger Field,outdoor,ESPN2,11/28/2026,,Breaking
+Emmett Mosley V,WR,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),8000,45095890,10.54,12.7,1.32,24,,,19.5,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Kari Ashley,WR,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),6600,45045663,11.34,12.7,1.72,19.8,,,19.5,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,,
-Emmett Mosley V,WR,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),8000,45095890,10.54,12.69,1.32,24,,,19.5,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Zay Parks,CPT,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),9600,45095676,9.15,12.69,0.95,28.8,,19.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Duncan Brune,RB,OHIO,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6500,45074592,11.17,12.67,1.72,19.5,,19.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Recent
+Ryan Wingo,WR,TEX,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",5900,45078663,11.71,12.67,1.98,17.7,,,34,,,,,11,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
+Tony Diaz,WR,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),6600,45095746,11.28,12.65,1.71,19.8,,,33,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,Q,Breaking
 Jabree Coleman,RB,SCAR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6600,45072216,11.29,12.65,1.71,19.8,,37.5,12.5,,,,,,,n/a,SCAR @ CLEM,S. Carolina @ Clemson,"Memorial Stadium (Clemson, SC)",outdoor,ESPN2,11/28/2026,,
 Waymond Jordan,RB,USC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5700,45072249,11.52,12.64,2.02,17.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Dallas Wilson,WR,UF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5400,45075009,11.97,12.64,2.22,16.2,,,33.5,,,,,10,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
-Dallas Wilson,WR,UF,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",5400,45079406,11.97,12.64,2.22,16.2,,,33.5,,,,,10,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
-Zay Parks,CPT,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),9600,45095676,9.07,12.62,0.94,28.8,,16.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+Dallas Wilson,WR,UF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5400,45075009,11.96,12.64,2.21,16.2,,,33.5,,,,,10,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
+Dallas Wilson,WR,UF,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",5400,45079406,11.96,12.64,2.21,16.2,,,33.5,,,,,10,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
 Bryant Wesco Jr.,WR,CLEM,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5300,45072804,11.8,12.62,2.23,15.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Antonio Jordan,WR,ARK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4200,45072906,12.58,12.58,3,12.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Jacory Barney Jr.,CPT,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),11700,45095818,8.26,12.55,0.71,35.1,,,9.5,,,,,7,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Hunter Tipton,WR,MEM,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4300,45075066,12.46,12.54,2.9,12.9,,,37.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,Q,Breaking
 Hunter Tipton,WR,MEM,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4300,45079317,12.46,12.54,2.9,12.9,,,37.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,Q,Breaking
 Hollywood Smothers,RB,TEX,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4000,45078627,12.63,12.5,3.16,12,,,,,,,,,,,,,,,,11/27/2026,,
 Mikey Matthews,WR,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3000,45073932,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,
-DJ Epps,WR,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),7000,45096045,10.85,12.48,1.55,21,,,19.5,,,,,9,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Jacory Barney Jr.,CPT,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),11700,45095818,8.18,12.48,0.7,35.1,,,9.5,,,,,7,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+DJ Epps,WR,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),7000,45096045,10.86,12.48,1.55,21,,,19.5,,,,,9,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Mario Craver,WR,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),7800,45095891,10.36,12.45,1.33,23.4,,,29.5,,,,,9,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
+Horatio Fields,WR,MISS,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5800,45074991,11.51,12.45,1.98,17.4,,,32.5,,,,,10,,n/a,MSST @ MISS,Mississippi St @ Ole Miss,Vaught-Hemingway Stadium,outdoor,ABC,11/27/2026,,
 Mazeo Bennett Jr.,WR,SCAR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4900,45072840,11.95,12.44,2.44,14.7,,,50.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 DJ Scott,RB,NDSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5700,45074613,11.25,12.42,1.97,17.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 DJ Scott,RB,NDSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",5700,45079256,11.25,12.42,1.97,17.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Jimmy Calloway,WR,TLSA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3900,45075090,12.56,12.41,3.22,11.7,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Mason McKenzie,QB,BC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6900,45071946,10.8,12.38,1.56,20.7,0.5,,,99.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Creed Whittemore,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),8400,45096134,9.52,12.34,1.13,25.2,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+Creed Whittemore,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),8400,45096134,9.53,12.35,1.13,25.2,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+Mason McKenzie,QB,BC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6900,45071946,10.76,12.35,1.56,20.7,0.5,,,99.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Samuel Singleton Jr.,RB,FSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4900,45074637,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,Recent
 Samuel Singleton Jr.,RB,FSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4900,45079191,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,Recent
 Terrance Carter Jr.,WR,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),5800,45045672,11.37,12.33,1.96,17.4,,,40.5,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,,Breaking
 Chris Lofton,WR,APPST,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4800,45075033,11.79,12.32,2.46,14.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Chris Lofton,WR,APPST,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4800,45079215,11.79,12.32,2.46,14.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Alberto Mendoza,QB,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4800,45072004,11.78,12.3,2.45,14.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Andrew Marsh,WR,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4900,45072837,11.68,12.22,2.38,14.7,,,36,,,,,,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,
-Mario Craver,WR,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),7800,45095891,10.02,12.16,1.28,23.4,,,29.5,,,,,9,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
+Andrew Marsh,WR,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4900,45072837,11.68,12.22,2.38,14.7,,,33.5,,,,,,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,
 Keyjuan Brown,RB,UL,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6400,45072222,10.62,12.16,1.66,19.2,,29.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Kwazi Gilmer,WR,NEB,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6200,45074979,10.77,12.02,1.74,18.6,,,19.5,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Kwazi Gilmer,WR,NEB,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6200,45074979,10.81,12.05,1.74,18.6,,,19.5,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Viliami Teu,RB,SJSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4400,45074673,11.68,11.98,2.65,13.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Viliami Teu,RB,SJSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4400,45079172,11.68,11.98,2.65,13.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Duce Robinson,WR,FSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3000,45075246,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,
 Duce Robinson,WR,FSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",3000,45079247,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,
 JJ Buchanan,WR,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3000,45073749,12.63,11.9,4.21,9,,,,,,,,,,,,,,,,11/28/2026,,
 Ed Small,CPT,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),11100,45045732,7.19,11.89,0.65,33.3,,,9.5,,,,,,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,
-DJ Epps,WR,WVU,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",5700,45078666,10.85,11.85,1.9,17.1,,,19.5,,,,,9,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+DJ Epps,WR,WVU,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",5700,45078666,10.86,11.85,1.9,17.1,,,19.5,,,,,9,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Trent Pearman,QB,CLEM,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5600,45071990,10.87,11.82,1.94,16.8,0.5,,,124.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Parker Puckett,QB,MSST,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5300,45074439,10.8,11.82,2.04,15.9,,,,,,,,,,,,,,,,11/27/2026,,
-Walker Lyons,WR,BYU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5100,45072822,11.05,11.82,2.17,15.3,,,33.5,,,,,,,n/a,CIN @ BYU,Cincinnati @ BYU,LaVell Edwards Stadium,outdoor,FOX,11/28/2026,,
-Tony Diaz,WR,IOWA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4500,45075048,11.38,11.72,2.53,13.5,,,33,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,Q,Breaking
-Jeremiah Hasley,WR,DUKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5200,45072813,10.83,11.69,2.08,15.6,,,24.5,,,,,,,n/a,DUKE @ WAKE,Duke @ Wake Forest,Allegacy Federal Credit Union Stadium,outdoor,ESPN,11/28/2026,,
+Walker Lyons,WR,BYU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5100,45072822,11.06,11.82,2.17,15.3,,,33.5,,,,,,,n/a,CIN @ BYU,Cincinnati @ BYU,LaVell Edwards Stadium,outdoor,FOX,11/28/2026,,
+Jeremiah Hasley,WR,DUKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5200,45072813,10.79,11.65,2.07,15.6,,,24.5,,,,,,,n/a,DUKE @ WAKE,Duke @ Wake Forest,Allegacy Federal Credit Union Stadium,outdoor,ESPN,11/28/2026,,
+Tony Diaz,WR,IOWA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4500,45075048,11.28,11.64,2.51,13.5,,,33,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,Q,Breaking
 Quinten Joyner,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),8100,45045744,0,0,0,0,,,,,,,,0,,,,,,,,11/26/2026,OUT,Breaking
 Nate Branch,WR,APPST,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4900,45075027,10.83,11.6,2.21,14.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Nate Branch,WR,APPST,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4900,45079360,10.83,11.6,2.21,14.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Justice Haynes,RB,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6900,45072207,9.86,11.59,1.43,20.7,,19.5,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Jamal Rule,RB,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),8800,45095742,8.73,11.56,0.99,26.4,,29.5,1.5,,,,,,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
-Savion Hiter,RB,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5900,45072234,10.37,11.55,1.76,17.7,,41.5,2.5,,,,,,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,
-Javon Tracy,WR,MINN,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",5500,45078669,10.6,11.55,1.93,16.5,,,31,,,,,10,,n/a,MINN @ WIS,Minnesota @ Wisconsin,Camp Randall Stadium,outdoor,NBC/Peacock,11/27/2026,,
+Jamal Rule,RB,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),8800,45095742,8.75,11.58,0.99,26.4,,29.5,1.5,,,,,,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
+Javon Tracy,WR,MINN,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",5500,45078669,10.64,11.58,1.93,16.5,,,31,,,,,10,,n/a,MINN @ WIS,Minnesota @ Wisconsin,Camp Randall Stadium,outdoor,NBC/Peacock,11/27/2026,,
 Keenan Phillips,RB,SALA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5400,45074622,10.37,11.54,1.92,16.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Keenan Phillips,RB,SALA,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",5400,45079494,10.37,11.54,1.92,16.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+Savion Hiter,RB,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5900,45072234,10.35,11.53,1.75,17.7,,41.5,2.5,,,,,,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,
 Bailey Stockton,CPT,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),8700,45095684,8.31,11.51,0.95,26.1,,,14.5,,,,,,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
-Darrion Dupree,RB,WISC,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",5500,45078528,10.34,11.45,1.88,16.5,,38,,,,,,,,n/a,MINN @ WIS,Minnesota @ Wisconsin,Camp Randall Stadium,outdoor,NBC/Peacock,11/27/2026,,Breaking
+Darrion Dupree,RB,WISC,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",5500,45078528,10.36,11.47,1.88,16.5,,38,,,,,,,,n/a,MINN @ WIS,Minnesota @ Wisconsin,Camp Randall Stadium,outdoor,NBC/Peacock,11/27/2026,,Breaking
+Emmett Mosley V,WR,TEX,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",5400,45078672,10.54,11.45,1.95,16.2,,,19.5,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Keveun Mason,RB,TEMP,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5200,45074628,10.54,11.45,2.03,15.6,,29.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Keveun Mason,RB,TEMP,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",5200,45079526,10.54,11.45,2.03,15.6,,29.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Emmett Mosley V,WR,TEX,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",5400,45078672,10.54,11.44,1.95,16.2,,,19.5,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Mekhi Anderson,WR,UTSA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5500,45075003,10.27,11.4,1.87,16.5,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Adam Schobel,QB,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),8400,45045657,8.75,11.39,1.04,25.2,0.5,,,163,,,,,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,
+Adam Schobel,QB,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),8400,45045657,8.76,11.39,1.04,25.2,0.5,,,163,,,,,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,
 Tommy Carr,QB,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5700,45071986,9.93,11.37,1.74,17.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Reece Vander Zee,CPT,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),8400,45095827,8.72,11.36,1.04,25.2,,,14.5,,,,,8,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
+Reece Vander Zee,CPT,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),8400,45095827,8.71,11.35,1.04,25.2,,,14.5,,,,,8,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
+DJ Vonnahme,CPT,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),6000,45095831,10.07,11.34,1.68,18,,,9.5,,,,,7,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
 Jemyri Davis,WR,MEM,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5000,45075024,10.43,11.34,2.09,15,,,,,,,,,,,,,,,,11/27/2026,,Breaking
 Jemyri Davis,WR,MEM,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",5000,45079437,10.43,11.34,2.09,15,,,,,,,,,,,,,,,,11/27/2026,,Breaking
 Chauncey Bowens,RB,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4800,45072288,10.56,11.33,2.2,14.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-DJ Vonnahme,CPT,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),6000,45095831,10.04,11.31,1.67,18,,,9.5,,,,,7,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
 Amari Thomas,CPT,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),1500,45095705,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,
 Stonka Burnside,WR,MEM,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4600,45075042,10.61,11.25,2.31,13.8,,,,,,,,,,,,,,,,11/27/2026,,
 Stonka Burnside,WR,MEM,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4600,45079299,10.61,11.25,2.31,13.8,,,,,,,,,,,,,,,,11/27/2026,,
+Mario Craver,WR,TA&M,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",5200,45078675,10.36,11.2,1.99,15.6,,,29.5,,,,,9,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
 Mekhi Nelson,CPT,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),10800,45095819,5.89,11.19,0.55,32.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Daylyn Upshaw,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5200,45072816,10.21,11.18,1.96,15.6,,,14.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Reis Kessel,WR,NDSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3600,45075117,11.11,11.05,3.09,10.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
@@ -322,71 +323,70 @@ David Amador II,WR,UTSA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games"
 Duce Robinson,CPT,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),1500,45095710,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,
 Amari Thomas,RB,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),1000,45095633,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,
 Hollywood Smothers,CPT,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),1500,45096001,12.63,11,8.42,4.5,,,,,,,,,,,,,,,,11/27/2026,,
-Deuce Lawrence,RB,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5300,45072264,9.92,10.99,1.87,15.9,,41.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Recent
+Deuce Lawrence,RB,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5300,45072264,9.9,10.98,1.87,15.9,,41.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Recent
+Zay Parks,RB,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),6400,45095604,9.15,10.96,1.43,19.2,,19.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Christopher Vizzina,QB,CLEM,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5300,45071994,9.73,10.96,1.84,15.9,,,,,,,,,,,,,,,,11/28/2026,Q,
-Mario Craver,WR,TA&M,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",5200,45078675,10.02,10.91,1.93,15.6,,,29.5,,,,,9,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
-Zay Parks,RB,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),6400,45095604,9.07,10.89,1.42,19.2,,16.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Gideon Davidson,RB,CLEM,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5800,45072243,9.26,10.89,1.6,17.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Recent
-TreyShun Hurry,WR,UL,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5400,45072801,9.71,10.88,1.8,16.2,,,30.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Isaiah Horton,CPT,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),9300,45095972,7.61,10.86,0.82,27.9,,,21.5,,,,,6.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
-Creed Whittemore,WR,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),5600,45096056,9.52,10.83,1.7,16.8,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+TreyShun Hurry,WR,UL,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5400,45072801,9.7,10.87,1.8,16.2,,,30.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Creed Whittemore,WR,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),5600,45096056,9.53,10.83,1.7,16.8,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Cameron Dickey,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),9300,45045735,6.51,10.79,0.7,27.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,,Breaking
 Trae'von Dunbar,RB,SALA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4600,45074658,10.02,10.78,2.18,13.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Trae'von Dunbar,RB,SALA,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4600,45079369,10.02,10.78,2.18,13.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 T.J. Moore,WR,CLEM,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4800,45072843,9.87,10.77,2.06,14.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Vandrevius Jacobs,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5600,45072786,9.41,10.74,1.68,16.8,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Duce Robinson,WR,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),1000,45095638,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,
 Jabari Bates,RB,SJSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6100,45074604,8.81,10.71,1.44,18.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Jabari Bates,RB,SJSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",6100,45079101,8.81,10.71,1.44,18.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Hollywood Smothers,RB,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),1000,45095925,12.63,10.7,12.63,3,,,,,,,,,,,,,,,,11/27/2026,,
-Jacory Barney Jr.,WR,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),7800,45095744,8.26,10.68,1.06,23.4,,,9.5,,,,,7,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Bryce Underwood,QB,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6000,45071980,9.49,10.68,1.58,18,0.5,4.5,,99.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Amari Latimer,CPT,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),9300,45096124,6.35,10.66,0.68,27.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Jermaine Bishop Jr.,CPT,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),6600,45095982,8.33,10.63,1.26,19.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Jack Foley,WR,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5900,45072774,9.06,10.62,1.54,17.7,,,14.5,,,,,,,n/a,DUKE @ WAKE,Duke @ Wake Forest,Allegacy Federal Credit Union Stadium,outdoor,ESPN,11/28/2026,,Recent
 Gi'Bran Payne,RB,CINCY,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5100,45072273,9.44,10.62,1.85,15.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Vandrevius Jacobs,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5600,45072786,9.25,10.61,1.65,16.8,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Jacory Barney Jr.,WR,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),7800,45095744,8.18,10.61,1.05,23.4,,,9.5,,,,,7,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Kyan Mason,WR,AKR,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4400,45075057,9.95,10.6,2.26,13.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Jack Foley,WR,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5900,45072774,9.01,10.57,1.53,17.7,,,14.5,,,,,,,n/a,DUKE @ WAKE,Duke @ Wake Forest,Allegacy Federal Credit Union Stadium,outdoor,ESPN,11/28/2026,,Recent
-Duke Clark,CPT,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),10200,45095675,6.71,10.53,0.66,30.6,,20,3.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Colin Chase,WR,TEMP,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5400,45075006,9.28,10.53,1.72,16.2,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Colin Chase,WR,TEMP,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",5400,45079115,9.28,10.53,1.72,16.2,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Isaiah Horton,CPT,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),9300,45095972,7.21,10.52,0.78,27.9,,,21.5,,,,,6.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+Duke Clark,CPT,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),10200,45095675,6.68,10.51,0.65,30.6,,20,3.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Ja'Kobi Jackson,RB,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5200,45072267,9.23,10.5,1.78,15.6,,,,,,,,,,,,,,,,11/28/2026,D,Breaking
 Winston Watkins Jr.,WR,LSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5000,45072831,9.37,10.5,1.87,15,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Luke Lindenmeyer,CPT,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),6600,45095830,8.72,10.49,1.32,19.8,,,23.5,,,,,8.5,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
 Kevin Roche Jr.,WR,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3700,45072966,10.34,10.49,2.79,11.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Luke Lindenmeyer,CPT,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),6600,45095830,8.7,10.48,1.32,19.8,,,23.5,,,,,8.5,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
 Mekhi Collins,WR,NDSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4000,45075084,10.1,10.48,2.52,12,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Mekhi Collins,WR,NDSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4000,45079135,10.1,10.48,2.52,12,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-DJ Vonnahme,WR,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),4000,45095757,10.04,10.35,2.51,12,,,9.5,,,,,7,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
+DJ Vonnahme,WR,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),4000,45095757,10.07,10.38,2.52,12,,,9.5,,,,,7,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
+KJ Edwards,CPT,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),9900,45095971,6.66,10.35,0.67,29.7,,28,4.5,,,,,,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,Recent
 Terrance Shelton Jr.,RB,BUFF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5500,45074619,8.8,10.34,1.6,16.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Isiah Canion,WR,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4000,45072927,9.97,10.34,2.49,12,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-KJ Edwards,CPT,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),9900,45095971,6.64,10.33,0.67,29.7,,28,4.5,,,,,,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,Recent
-Jamal Rule,RB,NEB,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6200,45074601,8.73,10.31,1.41,18.6,,29.5,1.5,,,,,,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
-DJ Vonnahme,WR,IOWA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3900,45075087,10.04,10.3,2.57,11.7,,,9.5,,,,,7,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
+Jamal Rule,RB,NEB,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6200,45074601,8.75,10.33,1.41,18.6,,29.5,1.5,,,,,,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
+DJ Vonnahme,WR,IOWA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3900,45075087,10.07,10.33,2.58,11.7,,,9.5,,,,,7,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
 Tyler Brown,WR,CLEM,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4700,45072849,9.34,10.29,1.99,14.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,Q,Breaking
-Creed Whittemore,WR,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4600,45078687,9.52,10.29,2.07,13.8,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+Creed Whittemore,WR,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4600,45078687,9.53,10.29,2.07,13.8,,,19.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Kayden Dixon-Wyatt,WR,USC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4600,45072861,9.51,10.28,2.07,13.8,,,21,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Daunte Bacheyie,WR,SYR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4500,45072867,9.38,10.2,2.08,13.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Cooper Hoch,WR,SJSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5600,45074997,8.5,10.16,1.52,16.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Recent
 Cooper Hoch,WR,SJSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",5600,45079226,8.5,10.16,1.52,16.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Recent
-Semaj Morgan,WR,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4600,45072864,9.3,10.11,2.02,13.8,,,27,,,,,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,
 Anthony Woods,RB,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5400,45072261,8.58,10.1,1.59,16.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Semaj Morgan,WR,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4600,45072864,9.26,10.07,2.01,13.8,,,27,,,,,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,
 Isaiah Mozee,CPT,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),9300,45095826,6.13,10.05,0.66,27.9,,,13.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Trelain Maddox,RB,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5000,45072276,8.96,10.05,1.79,15,,14.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Marquis Johnson,WR,MSST,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4000,45075081,9.68,10.05,2.42,12,,,31,,,,,10,,n/a,MSST @ MISS,Mississippi St @ Ole Miss,Vaught-Hemingway Stadium,outdoor,ABC,11/27/2026,,
 Byrd Ficklin,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),15000,45096118,1.26,10.01,0.08,45,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
-Reece Vander Zee,WR,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),5600,45095753,8.72,10.01,1.56,16.8,,,14.5,,,,,8,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
+Reece Vander Zee,WR,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),5600,45095753,8.71,10.01,1.56,16.8,,,14.5,,,,,8,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
 Quinten Joyner,RB,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),5400,45045673,0,0,0,0,,,,,,,,0,,,,,,,,11/26/2026,OUT,Breaking
+Zay Parks,RB,FSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4600,45074655,9.15,9.99,1.99,13.8,,19.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+Zay Parks,RB,FSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4600,45079338,9.15,9.99,1.99,13.8,,19.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Treyaun Webb,RB,APPST,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4300,45074688,9.23,9.97,2.15,12.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Treyaun Webb,RB,APPST,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4300,45079143,9.23,9.97,2.15,12.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Andrew Rappleyea,WR,PSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3600,45072999,9.75,9.96,2.71,10.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Miles Burris,WR,AKR,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4100,45075078,9.36,9.95,2.28,12.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Recent
 Bailey Stockton,WR,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),5800,45095612,8.31,9.94,1.43,17.4,,,14.5,,,,,,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
 Micah Hudson,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),6600,45045749,7.45,9.92,1.13,19.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,Q,Breaking
-Lloyd Avant,RB,OU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5600,45072252,8.61,9.92,1.54,16.8,,23,9.5,,,,,,,n/a,OKLA @ MIZZ,Oklahoma @ Missouri,Memorial Stadium/Faurot Field,outdoor,SEC Network,11/28/2026,,
-Zay Parks,RB,FSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4600,45074655,9.07,9.92,1.97,13.8,,16.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
-Zay Parks,RB,FSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4600,45079338,9.07,9.92,1.97,13.8,,16.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Benjamin Brahmer,WR,PSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4100,45072909,9.31,9.91,2.27,12.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Ed Small,WR,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),7400,45045661,7.19,9.9,0.97,22.2,,,9.5,,,,,,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,
 Michael Terry III,CPT,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),7500,45095980,6.7,9.86,0.89,22.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Lloyd Avant,RB,OU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5600,45072252,8.53,9.86,1.52,16.8,,23,9.5,,,,,,,n/a,OKLA @ MIZZ,Oklahoma @ Missouri,Memorial Stadium/Faurot Field,outdoor,SEC Network,11/28/2026,,
 Jaxon Smolik,QB,TEMP,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6000,45074425,8.05,9.84,1.34,18,0.5,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Jaxon Smolik,QB,TEMP,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",6000,45079158,8.05,9.84,1.34,18,0.5,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Craig Dandridge,WR,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5300,45072810,8.4,9.75,1.58,15.9,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
@@ -398,29 +398,27 @@ Karle Lacey Jr.,CPT,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode S
 Brady Hart,CPT,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),12600,45095965,4.1,9.5,0.33,37.8,0.5,,,99.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Peter Clarke,WR,TEMP,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3000,45075276,9.62,9.5,3.21,9,,,,,,,,,,,,,,,,11/27/2026,,
 Peter Clarke,WR,TEMP,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",3000,45079166,9.62,9.5,3.21,9,,,,,,,,,,,,,,,,11/27/2026,,
-Jacory Barney Jr.,WR,NEB,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5300,45075012,8.26,9.48,1.56,15.9,,,9.5,,,,,7,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Reece Vander Zee,WR,IOWA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4400,45075063,8.72,9.44,1.98,13.2,,,14.5,,,,,8,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
-Luke Lindenmeyer,WR,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),4400,45095756,8.7,9.42,1.98,13.2,,,23.5,,,,,8.5,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
+Luke Lindenmeyer,WR,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),4400,45095756,8.72,9.43,1.98,13.2,,,23.5,,,,,8.5,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
+Reece Vander Zee,WR,IOWA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4400,45075063,8.71,9.43,1.98,13.2,,,14.5,,,,,8,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
 Aidan Mizell,WR,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5400,45072798,7.92,9.41,1.47,16.2,,,9.5,,,,,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,Breaking
-Isaiah Horton,WR,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),6200,45095896,7.61,9.37,1.23,18.6,,,21.5,,,,,6.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+Jacory Barney Jr.,WR,NEB,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5300,45075012,8.18,9.41,1.54,15.9,,,9.5,,,,,7,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Manny Covey,RB,MEM,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4700,45074652,8.31,9.35,1.77,14.1,,14.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Manny Covey,RB,MEM,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4700,45079149,8.31,9.35,1.77,14.1,,14.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
-Javarius Green,WR,BC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5300,45072807,7.88,9.32,1.49,15.9,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Jermaine Bishop Jr.,WR,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),4400,45095906,8.33,9.31,1.89,13.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Luke Lindenmeyer,WR,NEB,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4100,45075075,8.7,9.28,2.12,12.3,,,23.5,,,,,8.5,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
-Eric Singleton Jr.,CPT,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),6300,45095692,7.16,9.27,1.14,18.9,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Eric Singleton Jr.,CPT,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),6300,45095692,7.2,9.3,1.14,18.9,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Luke Lindenmeyer,WR,NEB,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4100,45075075,8.72,9.29,2.13,12.3,,,23.5,,,,,8.5,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
 Sutton Smith,RB,ARK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4500,45072324,8.2,9.26,1.82,13.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 TK Norman,CPT,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),3900,45095993,0,0,0,0,,,,,,,,0,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,OUT,Recent
 Hunter Andrews,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),5100,45096145,7.7,9.22,1.51,15.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+Javarius Green,WR,BC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5300,45072807,7.72,9.19,1.46,15.9,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Bailey Stockton,WR,UF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4400,45075060,8.31,9.19,1.89,13.2,,,14.5,,,,,,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
 Bailey Stockton,WR,UF,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4400,45079250,8.31,9.19,1.89,13.2,,,14.5,,,,,,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
 Malachi Henry,WR,CINCY,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4300,45072891,8.25,9.18,1.92,12.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Scotty Fox Jr.,CPT,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),14100,45096119,0.89,9.17,0.06,42.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Noah Bennee,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),6600,45096141,6.84,9.17,1.04,19.8,,,16.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Dom Dorwart,WR,OHIO,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5700,45074994,7.42,9.16,1.3,17.1,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Recent
 Na'eem Abdul-Rahim Gladding,WR,UMD,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5400,45072795,7.4,9.16,1.37,16.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Devin McCuin,WR,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4700,45072855,8.04,9.13,1.71,14.1,,,22,,,,,,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,
-DJ Miller,WR,UK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4400,45072882,8.22,9.12,1.87,13.2,,,22.5,,,,,,,n/a,LOU @ UK,Louisville @ Kentucky,Kroger Field,outdoor,ESPN2,11/28/2026,,
+DJ Miller,WR,UK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4400,45072882,8.22,9.11,1.87,13.2,,,22.5,,,,,,,n/a,LOU @ UK,Louisville @ Kentucky,Kroger Field,outdoor,ESPN2,11/28/2026,,
 Autavius Ison,RB,TOL,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4900,45074640,7.7,9.1,1.57,14.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Jayce Freeman,WR,TEMP,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4200,45075072,8.33,9.1,1.98,12.6,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Jayce Freeman,WR,TEMP,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4200,45079138,8.33,9.1,1.98,12.6,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
@@ -429,55 +427,57 @@ Luke Sivon,WR,AKR,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3000,
 Jermaine Bishop Jr.,WR,TEX,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4000,45078702,8.33,9.07,2.08,12,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Naeshaun Montgomery,WR,MIZZ,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4700,45072852,7.94,9.05,1.69,14.1,,,23.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Mekhi Nelson,RB,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),7200,45095745,5.89,9.03,0.82,21.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Isaiah Horton,WR,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),6200,45095896,7.21,9.03,1.16,18.6,,,21.5,,,,,6.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 JoJo Bermudez,WR,TEMP,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4500,45075054,8.05,9.03,1.79,13.5,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 JoJo Bermudez,WR,TEMP,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4500,45079088,8.05,9.03,1.79,13.5,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Trell Harris,WR,OU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5000,45072828,7.52,9.02,1.5,15,,,,,,,,,,,,,,,,11/28/2026,,
 Quincy Porter,WR,ND,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3000,45074361,9,9,3,9,,,,,,,,,,,,,,,,11/28/2026,,
+Noah Jennings,WR,MINN,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4900,45078678,7.9,8.99,1.61,14.7,,,27.5,,,,,8.5,,n/a,MINN @ WIS,Minnesota @ Wisconsin,Camp Randall Stadium,outdoor,NBC/Peacock,11/27/2026,,
 Abu Sama III,RB,WISC,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",5000,45078534,7.47,8.98,1.49,15,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Noah Jennings,WR,MINN,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4900,45078678,7.87,8.96,1.61,14.7,,,27.5,,,,,8.5,,n/a,MINN @ WIS,Minnesota @ Wisconsin,Camp Randall Stadium,outdoor,NBC/Peacock,11/27/2026,,
 Terry Bussey,WR,TA&M,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3000,45078993,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,
 Cameron Dickey,RB,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),6200,45045664,6.51,8.93,1.05,18.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,,Breaking
+Jayvan Boggs,CPT,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),5700,45095693,7.14,8.93,1.25,17.1,,,22,,,,,,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
 Dante Dowdell,RB,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4000,45072600,8.16,8.93,2.04,12,,,,,,,,,,,,,,,,11/28/2026,,
-Jayvan Boggs,CPT,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),5700,45095693,7.11,8.91,1.25,17.1,,,22,,,,,,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
-Duke Clark,RB,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),6800,45095603,6.71,8.9,0.99,20.4,,20,3.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Nyck Harbor,WR,SCAR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4500,45072873,7.89,8.9,1.75,13.5,,,9.5,,,,,,,n/a,SCAR @ CLEM,S. Carolina @ Clemson,"Memorial Stadium (Clemson, SC)",outdoor,ESPN2,11/28/2026,,
-Xavier Williams,CPT,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),7800,45095828,5.67,8.86,0.73,23.4,,9.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Duke Clark,RB,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),6800,45095603,6.68,8.87,0.98,20.4,,20,3.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Xavier Williams,CPT,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),7800,45095828,5.68,8.87,0.73,23.4,,9.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Noah Bennee,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),6600,45096141,6.4,8.81,0.97,19.8,,,16.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Amari Latimer,RB,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),6200,45096046,6.35,8.8,1.02,18.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+KJ Edwards,RB,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),6600,45095895,6.66,8.76,1.01,19.8,,28,4.5,,,,,,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,Recent
 TK Norman,WR,TA&M,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3100,45078753,0,0,0,0,,,,,,,,0,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,OUT,Recent
-KJ Edwards,RB,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),6600,45095895,6.64,8.74,1.01,19.8,,28,4.5,,,,,,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,Recent
 DJ Black,WR,SCAR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4300,45072888,7.79,8.71,1.81,12.9,,,24,,,,,,,n/a,SCAR @ CLEM,S. Carolina @ Clemson,"Memorial Stadium (Clemson, SC)",outdoor,ESPN2,11/28/2026,,
 Dwight Phillips Jr.,RB,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5600,45072255,6.91,8.69,1.23,16.8,,19.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Jordan Allen,WR,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5500,45072789,6.97,8.68,1.27,16.5,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Derrek Cooper,CPT,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),10800,45095969,2.73,8.67,0.25,32.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Isaiah Horton,WR,TA&M,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4700,45078684,7.61,8.65,1.62,14.1,,,21.5,,,,,6.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Micah Hudson,WR,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),4400,45045678,7.45,8.6,1.69,13.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,Q,Breaking
 Joshua Dye,RB,MISS,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4500,45074664,7.37,8.6,1.64,13.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Tanook Hines,WR,USC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4100,45072915,7.75,8.57,1.89,12.3,,,9.5,,,,,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,
 Myles Mitchell,RB,NDSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4200,45074700,7.54,8.56,1.8,12.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Myles Mitchell,RB,NDSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4200,45079584,7.54,8.56,1.8,12.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Sanfrisco Magee,WR,MSST,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4700,45075039,7.33,8.55,1.56,14.1,,,18,,,,,,,n/a,MSST @ MISS,Mississippi St @ Ole Miss,Vaught-Hemingway Stadium,outdoor,ABC,11/27/2026,,
 Caleb Cunningham,WR,MISS,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3900,45075093,7.75,8.54,1.99,11.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,P,Breaking
 Jerry McClure,WR,SJSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4500,45075051,7.29,8.53,1.62,13.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Jerry McClure,WR,SJSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4500,45079238,7.29,8.53,1.62,13.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Tanook Hines,WR,USC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4100,45072915,7.7,8.53,1.88,12.3,,,9.5,,,,,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,
 Ivan Carreon,WR,OU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3300,45073086,8.19,8.53,2.48,9.9,,,,,,,,,,,,,,,,11/28/2026,,
 Aaron Gregory,WR,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),3600,45095913,7.94,8.51,2.21,10.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Zacharyus Williams,WR,USC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4000,45072924,7.61,8.49,1.9,12,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 TK Norman,WR,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),2600,45095917,0,0,0,0,,,,,,,,0,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,OUT,Recent
+Prince Strachan,CPT,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),7500,45096137,5.37,8.45,0.72,22.5,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Aaron Gregory,WR,TA&M,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3500,45078720,7.94,8.45,2.27,10.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Kevin Sperry,CPT,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),13500,45095668,0.43,8.44,0.03,40.5,,,,,,,,,,,,,,,,11/27/2026,,
-Prince Strachan,CPT,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),7500,45096137,5.34,8.43,0.71,22.5,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Rueben Owens II,CPT,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),8100,45095979,4.92,8.41,0.61,24.3,,9.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Jalen Smith,WR,MINN,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4500,45078690,7.29,8.41,1.62,13.5,,,22,,,,,,,n/a,MINN @ WIS,Minnesota @ Wisconsin,Camp Randall Stadium,outdoor,NBC/Peacock,11/27/2026,,
 Isaiah Mozee,RB,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),6200,45095752,6.13,8.38,0.99,18.6,,,13.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Jalen Smith,WR,MINN,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4500,45078690,7.25,8.38,1.61,13.5,,,22,,,,,,,n/a,MINN @ WIS,Minnesota @ Wisconsin,Camp Randall Stadium,outdoor,NBC/Peacock,11/27/2026,,
 Jon Denman,CPT,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),7800,45045745,4.62,8.37,0.59,23.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,,
 Michael Terry III,RB,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),5000,45095904,6.7,8.36,1.34,15,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Isaiah Horton,WR,TA&M,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4700,45078684,7.21,8.31,1.53,14.1,,,21.5,,,,,6.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Grady Adamson,QB,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4700,45072008,6.84,8.29,1.45,14.1,,,,,,,,,,,,,,,,11/28/2026,,
 Jamarion Morrow,CPT,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),7200,45095981,4.95,8.28,0.69,21.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Hunter Andrews,WR,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3500,45078723,7.7,8.26,2.2,10.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Kaelan Chudzinski,WR,BC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3000,45073494,8.05,8.24,2.68,9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Mark Bowman,WR,USC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4100,45072912,7.31,8.21,1.78,12.3,,,9.5,,,,,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,
 Hunter Andrews,WR,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),3400,45096067,7.7,8.2,2.27,10.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
-Eric Singleton Jr.,WR,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),4200,45095620,7.16,8.14,1.7,12.6,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Eric Singleton Jr.,WR,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),4200,45095620,7.2,8.17,1.71,12.6,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Preston Bowman,WR,OHIO,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3800,45075099,7.4,8.12,1.95,11.4,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Jason Patterson,RB,UK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4700,45072300,6.61,8.1,1.41,14.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Davion Kerr,RB,SYR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4100,45072396,7.04,8.09,1.72,12.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
@@ -488,56 +488,55 @@ Terry Bussey,CPT,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Sho
 Tramell Jones Jr.,CPT,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),12600,45095669,0.59,8.03,0.05,37.8,,,,,,,,,,,,,,,,11/27/2026,,
 Justus Ross-Simmons,WR,SYR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3900,45072936,7.11,8.03,1.82,11.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Clint Walker,WR,BUFF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3600,45075126,7.33,8.03,2.04,10.8,,,,,,,,,,,,,,,,11/27/2026,,
-Jonah Burton,WR,DUKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5100,45072819,6.4,8,1.26,15.3,,,19.5,,,,,,,n/a,DUKE @ WAKE,Duke @ Wake Forest,Allegacy Federal Credit Union Stadium,outdoor,ESPN,11/28/2026,,
-Noah Bennee,WR,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),4400,45096063,6.84,7.99,1.56,13.2,,,16.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+Jonah Burton,WR,DUKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5100,45072819,6.4,8,1.25,15.3,,,19.5,,,,,,,n/a,DUKE @ WAKE,Duke @ Wake Forest,Allegacy Federal Credit Union Stadium,outdoor,ESPN,11/28/2026,,
 CharMar Brown,RB,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4000,45072504,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,
-Eric Singleton Jr.,WR,UF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3800,45075105,7.16,7.92,1.88,11.4,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Eric Singleton Jr.,WR,UF,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",3800,45079155,7.16,7.92,1.88,11.4,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Eric Singleton Jr.,WR,UF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3800,45075105,7.2,7.95,1.89,11.4,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Eric Singleton Jr.,WR,UF,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",3800,45079155,7.2,7.95,1.89,11.4,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Jacob Harris,WR,WISC,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4100,45078699,6.97,7.93,1.7,12.3,,,19.5,,,,,,,n/a,MINN @ WIS,Minnesota @ Wisconsin,Camp Randall Stadium,outdoor,NBC/Peacock,11/27/2026,,
+Jayvan Boggs,WR,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),3800,45095621,7.14,7.91,1.88,11.4,,,22,,,,,,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
 Bryson Kuzdzal,RB,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4400,45072333,6.58,7.91,1.5,13.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Jacob Harris,WR,WISC,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4100,45078699,6.95,7.91,1.69,12.3,,,19.5,,,,,,,n/a,MINN @ WIS,Minnesota @ Wisconsin,Camp Randall Stadium,outdoor,NBC/Peacock,11/27/2026,,
+KJ Edwards,RB,TA&M,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4800,45078540,6.66,7.9,1.39,14.4,,28,4.5,,,,,,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,Recent
 Bryson Hammer,WR,TOL,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4700,45075036,6.54,7.9,1.39,14.1,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Amari Latimer,RB,WVU,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4700,45078543,6.35,7.9,1.35,14.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Duke Clark,RB,UF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4700,45074649,6.71,7.89,1.43,14.1,,20,3.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Duke Clark,RB,UF,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4700,45079417,6.71,7.89,1.43,14.1,,20,3.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Jonathan Hatton Jr.,RB,OU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4600,45072309,6.41,7.89,1.39,13.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Jayvan Boggs,WR,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),3800,45095621,7.11,7.88,1.87,11.4,,,22,,,,,,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
-KJ Edwards,RB,TA&M,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4800,45078540,6.64,7.88,1.38,14.4,,28,4.5,,,,,,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,Recent
+Duke Clark,RB,UF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4700,45074649,6.68,7.87,1.42,14.1,,20,3.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Duke Clark,RB,UF,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4700,45079417,6.68,7.87,1.42,14.1,,20,3.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Jayvan Boggs,WR,FSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3700,45075111,7.14,7.85,1.93,11.1,,,22,,,,,,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
+Jayvan Boggs,WR,FSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",3700,45079422,7.14,7.85,1.93,11.1,,,22,,,,,,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
 Carter Nelson,WR,NEB,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3000,45075318,7.57,7.85,2.52,9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Carter Nelson,CPT,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),3000,45095843,7.57,7.85,2.52,9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Jayvan Boggs,WR,FSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3700,45075111,7.11,7.83,1.92,11.1,,,22,,,,,,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
-Jayvan Boggs,WR,FSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",3700,45079422,7.11,7.83,1.92,11.1,,,22,,,,,,,n/a,FLA @ FSU,Florida @ Florida St,Bobby Bowden Field at Doak Campbell Stadium,outdoor,ABC,11/27/2026,,
 Jovantae Barnes,RB,UK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4500,45072321,6.36,7.79,1.41,13.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
+Tyrell Henry,WR,WISC,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4200,45078696,6.72,7.78,1.6,12.6,,,18.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Jeremy Hecklinski,CPT,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),12300,45095817,0.49,7.77,0.04,36.9,,,,,,,,,,,,,,,,11/27/2026,,
-Tyrell Henry,WR,WISC,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4200,45078696,6.71,7.77,1.6,12.6,,,18.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Terry Bussey,WR,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),1000,45095926,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,
 Tory Blaylock,RB,OU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4800,45072285,6.07,7.74,1.26,14.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Amante Martin,CPT,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),7200,45045746,4.27,7.73,0.59,21.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,,
-Noah Bennee,WR,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3900,45078705,6.84,7.72,1.75,11.7,,,16.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Traylon Ray,WR,MISS,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3700,45075114,6.88,7.72,1.86,11.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Jordan Anderson,WR,SJSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3000,45075450,7.38,7.71,2.46,9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Jordan Anderson,WR,SJSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",3000,45079293,7.38,7.71,2.46,9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Coy Eakin,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),3900,45045757,6.66,7.67,1.71,11.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,P,Breaking
 Jaden Greathouse,WR,ND,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4300,45072894,6.49,7.64,1.51,12.9,,,14.5,,,,,,,n/a,ND @ SYR,Notre Dame @ Syracuse,JMA Wireless Dome,dome,ABC,11/28/2026,,
+Noah Bennee,WR,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),4400,45096063,6.4,7.63,1.46,13.2,,,16.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 TJ Johnson,WR,MEM,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3000,45075756,7.29,7.63,2.43,9,,,,,,,,,,,,,,,,11/27/2026,,
 TJ Johnson,WR,MEM,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",3000,45079152,7.29,7.63,2.43,9,,,,,,,,,,,,,,,,11/27/2026,,
 Will Hammond,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),12000,45045730,0.51,7.61,0.04,36,,,,,,,,,,,,,,,,11/26/2026,,
 Mekhi Nelson,RB,NEB,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4800,45074643,5.89,7.59,1.23,14.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Preston Howard,WR,UMD,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4200,45072897,6.29,7.55,1.5,12.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Dalen Penson,WR,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4000,45072921,6.52,7.51,1.63,12,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Larry Simmons,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),5400,45096144,5.57,7.49,1.03,16.2,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Brady Hart,QB,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),8400,45095889,4.1,7.48,0.49,25.2,0.5,,,99.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
-Xavier Williams,RB,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),5200,45095754,5.67,7.46,1.09,15.6,,9.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Xavier Williams,RB,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),5200,45095754,5.68,7.46,1.09,15.6,,9.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Isaiah Mozee,RB,NEB,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4500,45074661,6.13,7.46,1.36,13.5,,,13.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Chris Corbo,WR,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3600,45072981,6.71,7.45,1.86,10.8,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Javen Nicholas,WR,DUKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3200,45073131,6.98,7.45,2.18,9.6,,,19,,,,,,,n/a,DUKE @ WAKE,Duke @ Wake Forest,Allegacy Federal Credit Union Stadium,outdoor,ESPN,11/28/2026,,
 Eugene Hilton Jr.,WR,WISC,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3600,45078714,6.6,7.44,1.83,10.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+Javen Nicholas,WR,DUKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3200,45073131,6.93,7.41,2.16,9.6,,,19,,,,,,,n/a,DUKE @ WAKE,Duke @ Wake Forest,Allegacy Federal Credit Union Stadium,outdoor,ESPN,11/28/2026,,
 Isaiah Augustave,RB,SCAR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4400,45072336,5.94,7.39,1.35,13.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Noah Bennee,WR,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3900,45078705,6.4,7.36,1.64,11.7,,,16.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Zion Steptoe,WR,MINN,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3000,45078852,6.93,7.34,2.31,9,,,,,,,,,,,,,,,,11/27/2026,,
 Ahmad Hardy,RB,MIZZ,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4200,45072378,6.01,7.33,1.43,12.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Isaiah West,RB,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4600,45072312,5.88,7.31,1.28,13.8,,10.5,,,,,,,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,
+Isaiah West,RB,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4600,45072312,5.87,7.3,1.28,13.8,,10.5,,,,,,,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,
 Rod Gibbs,WR,SALA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3400,45075150,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,Breaking
 Rod Gibbs,WR,SALA,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",3400,45079363,0,0,0,0,,,,,,,,0,,,,,,,,11/27/2026,OUT,Breaking
-John Neider,CPT,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),6000,45096142,4.93,7.28,0.82,18,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+John Neider,CPT,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),6000,45096142,4.93,7.29,0.82,18,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Carter Nelson,WR,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),2000,45095769,7.57,7.25,3.78,6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Braeden Jackson,CPT,IOWA,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),7500,45095829,3.41,7.23,0.45,22.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Travis Johnson,WR,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3400,45073047,6.55,7.21,1.93,10.2,,,18.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
@@ -546,41 +545,42 @@ Kaleb Webb,WR,UMD,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games
 London Humphreys,WR,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3500,45073029,6.32,7.16,1.81,10.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Roger Saleapaga II,WR,BYU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3100,45073242,6.6,7.14,2.13,9.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,Q,Recent
 Zion Ragins,WR,MSST,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3500,45075135,6.26,7.11,1.79,10.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Prince Strachan,WR,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),5000,45096059,5.34,7.08,1.07,15,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Antonio Meeks,WR,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4200,45072900,5.85,7.06,1.39,12.6,,,19,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Recent
+Prince Strachan,WR,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),5000,45096059,5.37,7.1,1.07,15,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Antonio Meeks,WR,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4200,45072900,5.84,7.06,1.39,12.6,,,19,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Recent
 Sam Lee,WR,TOL,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3400,45075141,6.28,7.06,1.85,10.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Phillip Wright III,WR,LSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3000,45074166,6.58,7.06,2.19,9,,,,,,,,,,,,,,,,11/28/2026,,
 Darrin Fugitt,WR,APPST,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3400,45075144,6.26,7.05,1.84,10.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Darrin Fugitt,WR,APPST,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",3400,45079068,6.26,7.05,1.84,10.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Ricky Johnson,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),4500,45096146,5.62,7.04,1.25,13.5,,,18.5,,,,,,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,
 Nyziah Hunter,CPT,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),4800,45095838,5.41,7.03,1.13,14.4,,,13.5,,,,,,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
-Xavier Williams,RB,IOWA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4400,45074670,5.67,7.03,1.29,13.2,,9.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Xavier Williams,RB,IOWA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4400,45074670,5.68,7.03,1.29,13.2,,9.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Byrd Ficklin,QB,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),10000,45096040,1.26,7.01,0.13,30,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
-Isaiah Johnson,WR,CINCY,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4000,45072930,5.91,7,1.48,12,,,13.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Isaiah Johnson,WR,CINCY,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4000,45072930,5.9,7,1.47,12,,,13.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Donovan Murph,WR,SCAR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3600,45073002,6.05,7,1.68,10.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Ricky Johnson,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),4500,45096146,5.55,6.98,1.23,13.5,,,18.5,,,,,,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,
 Brett Eskildsen,WR,PSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4200,45072903,5.56,6.97,1.32,12.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Larry Simmons,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),5400,45096144,4.93,6.96,0.91,16.2,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Harry Dalton III,RB,UMD,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5000,45072279,4.96,6.96,0.99,15,,,,,,,,,,,,,,,,11/28/2026,Q,Recent
 Rueben Owens II,RB,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),5400,45095903,4.92,6.95,0.91,16.2,,9.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Jamel Howse,WR,APPST,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3000,45075843,6.43,6.94,2.14,9,,,,,,,,,,,,,,,,11/27/2026,,
 Jamel Howse,WR,APPST,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",3000,45079715,6.43,6.94,2.14,9,,,,,,,,,,,,,,,,11/27/2026,,
 Jordan Marshall,RB,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4700,45072294,5.14,6.93,1.09,14.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Daryl Barnett Jr.,WR,TOL,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3800,45075102,5.8,6.92,1.53,11.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Jojo Phillips,WR,BYU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3800,45072960,5.93,6.92,1.56,11.4,,,13.5,,,,,,,n/a,CIN @ BYU,Cincinnati @ BYU,LaVell Edwards Stadium,outdoor,FOX,11/28/2026,,
+Jaylon Domingeaux,WR,WISC,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3400,45078729,6.28,6.91,1.85,10.2,,,22.5,,,,,7,,n/a,MINN @ WIS,Minnesota @ Wisconsin,Camp Randall Stadium,outdoor,NBC/Peacock,11/27/2026,,
+Jojo Phillips,WR,BYU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3800,45072960,5.91,6.9,1.55,11.4,,,13.5,,,,,,,n/a,CIN @ BYU,Cincinnati @ BYU,LaVell Edwards Stadium,outdoor,FOX,11/28/2026,,
 Coy Eakin,WR,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),2600,45045686,6.66,6.89,2.56,7.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,P,Breaking
 Olsen Patt-Henry,WR,CLEM,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3300,45073068,6.14,6.89,1.86,9.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Jaivon Solomon,WR,DUKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3800,45072948,5.75,6.88,1.51,11.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Jaylon Domingeaux,WR,WISC,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3400,45078729,6.24,6.87,1.83,10.2,,,22.5,,,,,7,,n/a,MINN @ WIS,Minnesota @ Wisconsin,Camp Randall Stadium,outdoor,NBC/Peacock,11/27/2026,,
 Jamarion Morrow,RB,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),4800,45095905,4.95,6.84,1.03,14.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Parker Livingstone,WR,OU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3500,45073020,6.01,6.82,1.72,10.5,,,16.5,,,,,,,n/a,OKLA @ MIZZ,Oklahoma @ Missouri,Memorial Stadium/Faurot Field,outdoor,SEC Network,11/28/2026,,
 Jon Denman,RB,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),5200,45045674,4.62,6.81,0.89,15.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,,
+Parker Livingstone,WR,OU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3500,45073020,6,6.81,1.71,10.5,,,16.5,,,,,,,n/a,OKLA @ MIZZ,Oklahoma @ Missouri,Memorial Stadium/Faurot Field,outdoor,SEC Network,11/28/2026,,
 Aidan O'Callaghan,WR,MEM,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3200,45075177,6.09,6.79,1.9,9.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Aidan O'Callaghan,WR,MEM,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",3200,45079355,6.09,6.79,1.9,9.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Kolin Wilson,RB,MSST,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4200,45074694,5.33,6.78,1.27,12.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Braylen Russell,RB,ARK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4400,45072339,5.13,6.75,1.17,13.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Ja'Quez Cross,RB,APPST,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4100,45074709,5.35,6.74,1.3,12.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Ja'Quez Cross,RB,APPST,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4100,45079065,5.35,6.74,1.3,12.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Prince Strachan,WR,WVU,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4300,45078693,5.37,6.73,1.25,12.9,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Brady Hunt,WR,SCAR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3700,45072975,5.78,6.73,1.56,11.1,,,12,,,,,,,n/a,SCAR @ CLEM,S. Carolina @ Clemson,"Memorial Stadium (Clemson, SC)",outdoor,ESPN2,11/28/2026,,
-Prince Strachan,WR,WVU,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4300,45078693,5.34,6.7,1.24,12.9,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Hogan Hansen,WR,MICH,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3600,45072990,5.67,6.7,1.57,10.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Brian Rowe Jr.,WR,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4100,45072918,5.28,6.68,1.29,12.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Recent
 Ka'Morreun Pimpton,CPT,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),4200,45045756,5.13,6.63,1.22,12.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,,
@@ -594,10 +594,8 @@ TJ Lateef,QB,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown
 James Peoples,RB,PSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4700,45072297,4.69,6.57,1,14.1,,,,,,,,,,,,,,,,11/28/2026,,
 Will Loerzel,WR,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3000,45073443,5.96,6.57,1.99,9,,,,,,,,,,,,,,,,11/28/2026,,
 Rueben Owens II,RB,TA&M,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4600,45078546,4.92,6.52,1.07,13.8,,9.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Jamar Searcy,RB,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4300,45072348,5.12,6.52,1.19,12.9,,24.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Recent
 Derrek Cooper,RB,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),7200,45095893,2.73,6.51,0.38,21.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Larry Simmons,WR,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),3600,45096066,5.57,6.51,1.55,10.8,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
-Larry Simmons,WR,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3600,45078717,5.57,6.51,1.55,10.8,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+Jamar Searcy,RB,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4300,45072348,5.11,6.51,1.19,12.9,,24.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Recent
 Karle Lacey Jr.,QB,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),10000,45095886,0.63,6.5,0.06,30,,,,,,,,,,,,,,,,11/27/2026,,
 Malachi Hosley,RB,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4200,45072372,4.97,6.49,1.18,12.6,,,,,,,,,,,,,,,,11/28/2026,,
 Bo Walker,RB,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4100,45072408,5.03,6.48,1.23,12.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
@@ -606,12 +604,12 @@ Brandon Young Jr.,WR,UTSA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Game
 Victor Rosa,RB,OHIO,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",5100,45074631,4.47,6.42,0.88,15.3,,9.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Christian Bentancur,WR,CLEM,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3500,45073005,5.39,6.42,1.54,10.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Darius Johnson,WR,SYR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3200,45073143,5.59,6.4,1.75,9.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Ricky Johnson,WR,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3300,45078732,5.62,6.39,1.7,9.9,,,18.5,,,,,,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,
 Nyziah Hunter,WR,NEB,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3600,45075120,5.41,6.38,1.5,10.8,,,13.5,,,,,,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
 Scotty Fox Jr.,QB,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),9400,45096041,0.89,6.35,0.09,28.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Brandon High Jr.,RB,UTSA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4100,45074718,5.05,6.35,1.23,12.3,,4.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Elijah Alexander,WR,AKR,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3500,45075132,5.29,6.33,1.51,10.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Recent
 Conner Cravaack,WR,AKR,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3300,45075153,5.44,6.33,1.65,9.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Ricky Johnson,WR,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3300,45078732,5.55,6.33,1.68,9.9,,,18.5,,,,,,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,
 TJ Abrams,CPT,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),4500,45095695,4.52,6.32,1,13.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Jaden Bray,WR,WVU,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3000,45078828,5.65,6.32,1.88,9,,,,,,,,,,,,,,,,11/27/2026,,
 Jaden Bray,CPT,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),3000,45096150,5.65,6.32,1.88,9,,,,,,,,,,,,,,,,11/27/2026,,
@@ -624,9 +622,9 @@ Richie Anderson III,WR,TA&M,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games"
 Nate Roberts,WR,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3600,45072996,5.11,6.25,1.42,10.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Jack Larsen,WR,ND,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3100,45073257,5.49,6.25,1.77,9.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Michael Masunas,CPT,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),4800,45095990,4.19,6.23,0.87,14.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Ricky Johnson,WR,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),3000,45096068,5.62,6.23,1.87,9,,,18.5,,,,,,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,
 Brody Keefe,WR,DUKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3000,45073335,5.53,6.22,1.84,9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-John Neider,WR,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),4000,45096064,4.93,6.2,1.23,12,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+John Neider,WR,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),4000,45096064,4.93,6.21,1.23,12,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Ricky Johnson,WR,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),3000,45096068,5.55,6.17,1.85,9,,,18.5,,,,,,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,
 Kavon Simmons,WR,DUKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3300,45073071,5.24,6.17,1.59,9.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Nyziah Hunter,WR,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),3200,45095764,5.41,6.16,1.69,9.6,,,13.5,,,,,,,n/a,NEB @ IOWA,Nebraska @ Iowa,Kinnick Stadium,outdoor,CBS,11/27/2026,,
 Jaden Reddell,WR,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3700,45072972,5.07,6.16,1.37,11.1,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
@@ -638,7 +636,9 @@ Chris Brooks Jr.,WR,WISC,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",37
 Taniela Tupou,WR,USC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3400,45073056,5.04,6.07,1.48,10.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Jaleel Skinner,WR,UL,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3900,45072945,4.65,6.06,1.19,11.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Jordan Williams,RB,UMD,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4000,45072465,4.55,6.04,1.14,12,,,,,,,,,,,,,,,,11/28/2026,,
+Larry Simmons,WR,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),3600,45096066,4.93,5.99,1.37,10.8,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Brady Hart,QB,TA&M,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",5300,45078465,4.1,5.99,0.77,15.9,0.5,,,99.5,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+Larry Simmons,WR,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3600,45078717,4.93,5.99,1.37,10.8,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
 Chase Campbell,WR,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),1800,45045690,6.07,5.94,3.37,5.4,,,,,,,,,,,,,,,,11/26/2026,,
 TJ Thomas,RB,MINN,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",5300,45078531,3.44,5.93,0.65,15.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Thomas Blackshear,WR,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3300,45073101,4.94,5.93,1.5,9.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
@@ -670,7 +670,7 @@ Jacobe Hayes,CPT,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Show
 Isaiah Fuhrmann,WR,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3400,45073038,4.58,5.7,1.35,10.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Evan Haynes,WR,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3000,45073386,4.86,5.69,1.62,9,,,,,,,,,,,,,,,,11/28/2026,,
 Mackenzie Alleyne,WR,OU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3000,45073695,4.85,5.68,1.62,9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Bryan Jackson II,RB,WISC,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4300,45078555,4.08,5.66,0.95,12.9,,22.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Bryan Jackson II,RB,WISC,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4300,45078555,4.08,5.67,0.95,12.9,,22.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Luke Nickel,QB,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8500,45071918,0.69,5.65,0.08,25.5,,,,,,,,,,,,,,,,11/28/2026,,
 Iverson Howard,RB,UMD,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5100,45072270,3.24,5.65,0.64,15.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Aneyas Williams,RB,ND,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4600,45072315,3.61,5.65,0.79,13.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
@@ -752,9 +752,9 @@ Chris Johnson Jr.,RB,CLEM,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 
 Emaree Winston,CPT,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),4500,45095991,3.17,5.24,0.71,13.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Will Hammond,QB,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),8000,45045659,0.51,5.21,0.06,24,,,,,,,,,,,,,,,,11/26/2026,,
 Zay Robinson,WR,PSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3800,45072957,3.67,5.21,0.97,11.4,,,,,,,,,,,,,,,,11/28/2026,,
+Taron Francis,CPT,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),3300,45096149,4.18,5.21,1.27,9.9,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Steele Pizzella,QB,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7700,45071934,0.72,5.2,0.09,23.1,,,,,,,,,,,,,,,,11/28/2026,,
 Zylan Perry,RB,CINCY,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4200,45072387,3.35,5.2,0.8,12.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Taron Francis,CPT,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),3300,45096149,4.17,5.2,1.26,9.9,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Cooper Flanagan,WR,ND,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3300,45073119,4.03,5.2,1.22,9.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Quinn Clark,CPT,NEB,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 12:00PM (NEB @ IOWA),4200,45095839,3.34,5.19,0.8,12.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Desirrio Riles,CPT,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),3300,45095698,4.02,5.19,1.22,9.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
@@ -775,10 +775,10 @@ Alexander Sanchez,WR,APPST,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00P
 Xavier Gayten,RB,MSST,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4300,45074685,3.17,5.11,0.74,12.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Lacota Dippre,WR,UF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3000,45075609,4.11,5.09,1.37,9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Lacota Dippre,WR,UF,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",3000,45079194,4.11,5.09,1.37,9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Gavin Grover,WR,CINCY,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3300,45073116,4,5.06,1.21,9.9,,,9.5,,,,,,,n/a,CIN @ BYU,Cincinnati @ BYU,LaVell Edwards Stadium,outdoor,FOX,11/28/2026,,
 Richie Anderson III,WR,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),1000,45095931,5.58,5.06,5.58,3,,,,,,,,,,,,,,,,11/27/2026,,
 Brett Norfleet,WR,MIZZ,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3500,45073014,3.69,5.05,1.05,10.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Gavin Grover,WR,CINCY,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3300,45073116,3.99,5.05,1.21,9.9,,,9.5,,,,,,,n/a,CIN @ BYU,Cincinnati @ BYU,LaVell Edwards Stadium,outdoor,FOX,11/28/2026,,
-Taron Francis,WR,WVU,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3000,45078762,4.17,5.04,1.39,9,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Taron Francis,WR,WVU,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3000,45078762,4.18,5.05,1.39,9,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Roman Mothershed,WR,LSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3000,45074145,4.05,5.04,1.35,9,,,,,,,,,,,,,,,,11/28/2026,,
 Landon Walker,CPT,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),5700,45045753,2,5.02,0.35,17.1,,,,,,,,,,,,,,,,11/26/2026,,
 Desirrio Riles,WR,FSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3000,45075219,4.02,5.01,1.34,9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
@@ -816,9 +816,9 @@ Jeremiah Jones-Thomas,WR,SALA,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:
 Joey Schlaffer,WR,TEMP,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3000,45075270,3.73,4.78,1.24,9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Joey Schlaffer,WR,TEMP,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",3000,45079160,3.73,4.78,1.24,9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Cutter Woods,QB,SCAR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7300,45071942,0.47,4.76,0.06,21.9,,,,,,,,,,,,,,,,11/28/2026,,
+Ryan Ward,CPT,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),4200,45096147,3.01,4.74,0.72,12.6,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Chad Alexander,RB,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4000,45072438,2.93,4.74,0.73,12,,,,,,,,,,,,,,,,11/28/2026,,
 Jayden Kitchens,WR,UMD,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3000,45073416,3.68,4.74,1.23,9,,,,,,,,,,,,,,,,11/28/2026,,
-Ryan Ward,CPT,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),4200,45096147,3.01,4.73,0.72,12.6,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Karle Lacey Jr.,QB,TEX,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",7000,45078455,0.63,4.7,0.09,21,,,,,,,,,,,,,,,,11/27/2026,,
 Hunter Smith,RB,TEMP,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4100,45074703,2.8,4.7,0.68,12.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Hunter Smith,RB,TEMP,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4100,45079077,2.8,4.7,0.68,12.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
@@ -835,7 +835,7 @@ Landon Ellis,WR,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Ga
 Chris Gacayan II,WR,TLSA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3000,45075795,3.53,4.62,1.18,9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 De'Carlos Young,RB,TEMP,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4400,45074667,2.46,4.61,0.56,13.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 De'Carlos Young,RB,TEMP,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4400,45079446,2.46,4.61,0.56,13.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Taron Francis,WR,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),2200,45096071,4.17,4.61,1.9,6.6,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Taron Francis,WR,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),2200,45096071,4.18,4.61,1.9,6.6,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 AJ Miller,WR,OHIO,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3200,45075165,3.37,4.61,1.05,9.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Zach Grace,WR,LSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3200,45073167,3.36,4.61,1.05,9.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Noah Meyers,WR,SYR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3100,45073206,3.44,4.61,1.11,9.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
@@ -955,7 +955,7 @@ Gabe Burkle,WR,PSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Game
 Kamrean Johnson,WR,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3200,45073134,2.6,4,0.81,9.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Donovan Faupel,WR,ARK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3200,45073164,2.59,4,0.81,9.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Kirk Francis,QB,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),6000,45045667,0.49,3.99,0.08,18,,,,,,,,,,,,,,,,11/26/2026,,
-Ryan Ward,WR,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),2800,45096069,3.01,3.98,1.07,8.4,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
+Ryan Ward,WR,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),2800,45096069,3.01,3.98,1.08,8.4,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Leland Smith,WR,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3300,45073095,2.5,3.98,0.76,9.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Carsyn Baker,RB,TA&M,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4000,45078564,1.96,3.97,0.49,12,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Jeremy Scott,WR,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),2000,45045689,3.46,3.97,1.73,6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,,
