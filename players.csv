@@ -1,7 +1,7 @@
 Player Name,Position,Team,Slate Type,Date,Role,Salary,Draftable ID,Projected FP,Combined FP,Value,Implied FP,Passing TDs,Rushing Yards,Receiving Yards,Passing Yards,Rush+Rec Yards,Anytime TD,Passing Attempts,Fantasy Score,Headshot URL,Game Start Time,Match Title (Underdog),Game Short Title (Underdog),Venue Name (Underdog),Venue Type (Underdog),Broadcasts (Underdog),Game Start Time (DRAFTTABLE),Injury Status,News Flag
-Devon Dampier,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),18000,45096115,34.04,36.03,1.89,54,1.5,56.5,,237,,1.5,,32.5,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,Breaking
-Devon Dampier,QB,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),12000,45096037,34.04,34.23,2.84,36,1.5,56.5,,237,,1.5,,32.5,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,Breaking
-Devon Dampier,QB,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",9300,45078445,34.04,33.42,3.66,27.9,1.5,56.5,,237,,1.5,,32.5,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,Breaking
+Devon Dampier,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),18000,45096115,34.04,36.03,1.89,54,1.5,56.5,,237,,1.5,,32.5,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,Recent
+Devon Dampier,QB,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),12000,45096037,34.04,34.23,2.84,36,1.5,56.5,,237,,1.5,,32.5,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,Recent
+Devon Dampier,QB,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",9300,45078445,34.04,33.42,3.66,27.9,1.5,56.5,,237,,1.5,,32.5,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,Recent
 Michael Hawkins Jr.,CPT,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),17400,45096116,26.91,31.97,1.55,52.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Malachi Toney,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8800,45072717,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,Recent
 Michael Hawkins Jr.,QB,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),11600,45096038,26.91,28.49,2.32,34.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
@@ -96,7 +96,7 @@ Raleek Brown,RB,TEX,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",7000,45
 Wayne Knight,RB,UCLA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8400,45072180,15.47,17.03,1.84,25.2,,54,8.5,,,,,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,Breaking
 Jordan Dwyer,CPT,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),12300,45045729,13.11,16.92,1.07,36.9,,,42.5,,,,,12,,n/a,TCU @ TTU,TCU @ Texas Tech,Galaxy Stadium,outdoor,ESPN,11/26/2026,,
 Chance Morrow,WR,BUFF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6700,45074967,16.11,16.91,2.4,20.1,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Daniel Bray,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),11100,45096122,12.78,16.88,1.15,33.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+Daniel Bray,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),11100,45096122,12.78,16.88,1.15,33.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Recent
 Micahi Danzy,CPT,FSU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),11100,45095672,13.72,16.85,1.24,33.3,,,35,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Kenny Minchey,QB,UK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6300,45071970,16.55,16.83,2.63,18.9,0.5,7.5,,185,,,27.5,,,n/a,LOU @ UK,Louisville @ Kentucky,Kroger Field,outdoor,ESPN2,11/28/2026,,Breaking
 Braden Pegan,WR,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",6500,45078660,16.28,16.8,2.51,19.5,,,55,,,,,16.5,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,Q,Breaking
@@ -166,7 +166,7 @@ Willie Rodriguez,WR,UK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 
 Isaiah Sategna III,WR,OU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6900,45072747,13.42,14.73,1.94,20.7,,,56.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Vernell Brown III,WR,UF,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6000,45074985,13.9,14.72,2.32,18,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Vernell Brown III,WR,UF,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",6000,45079409,13.9,14.72,2.32,18,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Daniel Bray,RB,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),7400,45096044,12.78,14.66,1.73,22.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+Daniel Bray,RB,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),7400,45096044,12.78,14.66,1.73,22.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Recent
 Emmett Mosley V,CPT,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),12000,45095966,10.56,14.63,0.88,36,,,19.5,,,,,10,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 CJ Miller,RB,TOL,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",7500,45074574,12.87,14.6,1.72,22.5,,29.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 L.J. Phillips Jr.,RB,IOWA,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",6400,45074595,13.71,14.48,2.14,19.2,,86.5,6.5,,,,,13.5,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
@@ -440,7 +440,7 @@ Nyck Harbor,WR,SCAR,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Gam
 Dante Dowdell,RB,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4000,45072600,8.16,8.93,2.04,12,,,,,,,,,,,,,,,,11/28/2026,,
 Duke Clark,RB,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 3:30PM (UF @ FSU),6800,45095603,6.61,8.82,0.97,20.4,,22.5,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Amari Latimer,RB,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),6200,45096046,6.35,8.8,1.02,18.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Noah Bennee,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),6600,45096141,6.39,8.8,0.97,19.8,,,16.5,,,,,,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,Breaking
+Noah Bennee,CPT,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),6600,45096141,6.39,8.8,0.97,19.8,,,16.5,,,,,,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,Recent
 Jayce Freeman,WR,TEMP,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4200,45075072,7.92,8.76,1.88,12.6,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Jayce Freeman,WR,TEMP,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4200,45079138,7.92,8.76,1.88,12.6,,,9.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 TK Norman,WR,TA&M,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3100,45078753,0,0,0,0,,,,,,,,0,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,OUT,Recent
@@ -475,7 +475,7 @@ Eric Singleton Jr.,WR,UF,Showdown Captain Mode,11/27/2026,Showdown Captain Mode 
 Grady Adamson,QB,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4700,45072008,6.84,8.29,1.45,14.1,,,,,,,,,,,,,,,,11/28/2026,,
 Jamarion Morrow,CPT,TA&M,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),7200,45095981,4.95,8.28,0.69,21.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 KJ Edwards,RB,TA&M,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",4800,45078540,7.1,8.26,1.48,14.4,,28,4.5,,,,,,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
-Hunter Andrews,WR,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3500,45078723,7.7,8.26,2.2,10.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+Hunter Andrews,WR,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3500,45078723,7.7,8.26,2.2,10.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Recent
 Kaelan Chudzinski,WR,BC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3000,45073494,8.05,8.24,2.68,9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Mark Bowman,WR,USC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4100,45072912,7.31,8.21,1.78,12.3,,,9.5,,,,,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,
 Hunter Andrews,WR,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),3400,45096067,7.7,8.2,2.27,10.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Recent
@@ -519,7 +519,7 @@ Coy Eakin,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdow
 TJ Johnson,WR,MEM,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3000,45075756,7.29,7.63,2.43,9,,,,,,,,,,,,,,,,11/27/2026,,
 TJ Johnson,WR,MEM,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",3000,45079152,7.29,7.63,2.43,9,,,,,,,,,,,,,,,,11/27/2026,,
 Will Hammond,CPT,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),12000,45045730,0.51,7.61,0.04,36,,,,,,,,,,,,,,,,11/26/2026,,
-Noah Bennee,WR,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),4400,45096063,6.39,7.61,1.45,13.2,,,16.5,,,,,,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,Breaking
+Noah Bennee,WR,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),4400,45096063,6.39,7.61,1.45,13.2,,,16.5,,,,,,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,Recent
 Mekhi Nelson,RB,NEB,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4800,45074643,5.89,7.59,1.23,14.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Preston Howard,WR,UMD,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4200,45072897,6.29,7.55,1.5,12.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Dalen Penson,WR,GT,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4000,45072921,6.52,7.51,1.63,12,,,4.5,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
@@ -615,7 +615,7 @@ Jaden Bray,CPT,WVU,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdo
 Cam Coleman,CPT,TEX,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 7:30PM (TEX @ TA&M),10500,45095970,0,6.3,0,31.5,,,19.5,,,,,6.5,,n/a,TEX @ TXAM,Texas @ Texas A&M,Kyle Field,outdoor,ABC,11/27/2026,,
 Barry Kpeenu,RB,NDSU,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",4100,45074715,4.8,6.3,1.17,12.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Barry Kpeenu,RB,NDSU,Afternoon,11/27/2026,"Afternoon Afternoon 11/27 3:00PM, 4 Games",4100,45079602,4.8,6.3,1.17,12.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
-Byrd Ficklin,QB,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",8800,45078449,1.26,6.29,0.14,26.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Breaking
+Byrd Ficklin,QB,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",8800,45078449,1.26,6.29,0.14,26.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,Recent
 Amante Martin,RB,TCU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Showdown Captain Mode 11/26 8:00PM (TCU @ TTU),4800,45045675,4.27,6.29,0.89,14.4,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/26/2026,,
 Ricky Johnson,WR,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3300,45078732,5.47,6.27,1.66,9.9,,,18.5,,,,,,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,
 Richie Anderson III,WR,TA&M,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3000,45078957,5.58,6.26,1.86,9,,,,,,,,,,,,,,,,11/27/2026,,
@@ -642,7 +642,7 @@ Chase Campbell,WR,TTU,Showdown Captain Mode,11/26/2026,Showdown Captain Mode Sho
 TJ Thomas,RB,MINN,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",5300,45078531,3.44,5.93,0.65,15.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/27/2026,,
 Thomas Blackshear,WR,UGA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3300,45073101,4.94,5.93,1.5,9.9,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Larry Simmons,WR,UTAH,Showdown Captain Mode,11/27/2026,Showdown Captain Mode Showdown Captain Mode 11/27 9:00PM (WVU @ UTAH),3600,45096066,4.84,5.92,1.35,10.8,,,4.5,,,,,,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,Recent
-Larry Simmons,WR,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3600,45078717,4.84,5.92,1.35,10.8,,,4.5,,,,,,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,Breaking
+Larry Simmons,WR,UTAH,Night,11/27/2026,"Night Night 11/27 7:30PM, 3 Games",3600,45078717,4.84,5.92,1.35,10.8,,,4.5,,,,,,,n/a,WVU @ UTAH,W. Virginia @ Utah,Rice-Eccles Stadium,outdoor,FOX,11/27/2026,,Recent
 Jared Richardson,WR,DUKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3900,45072933,4.45,5.9,1.14,11.7,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Andrew Metzger,WR,OHIO,Friday,11/27/2026,"Friday Friday 11/27 12:00PM, 9 Games",3000,45075516,5.12,5.9,1.71,9,,,,,,,,,,,,,,,,11/27/2026,,
 Joshua Moore,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3000,45073584,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,
