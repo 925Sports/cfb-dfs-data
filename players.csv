@@ -1,10 +1,10 @@
 Player Name,Position,Team,Slate Type,Date,Role,Salary,Draftable ID,Projected FP,Combined FP,Value,Implied FP,Passing TDs,Rushing Yards,Receiving Yards,Passing Yards,Rush+Rec Yards,Anytime TD,Passing Attempts,Fantasy Score,Headshot URL,Game Start Time,Match Title (Underdog),Game Short Title (Underdog),Venue Name (Underdog),Venue Type (Underdog),Broadcasts (Underdog),Game Start Time (DRAFTTABLE),Injury Status,News Flag
-Conner Weigman,CPT,UH,Showdown Captain Mode,11/28/2026,Showdown Captain Mode Showdown Captain Mode 11/28 9:30PM (BAY @ UH),17100,45104734,28.45,33.02,1.66,51.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,Q,Breaking
+Conner Weigman,CPT,UH,Showdown Captain Mode,11/28/2026,Showdown Captain Mode Showdown Captain Mode 11/28 9:30PM (BAY @ UH),17100,45104734,28.45,33.02,1.66,51.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,P,Breaking
 Jeremiah Smith,CPT,OSU,Showdown Captain Mode,11/28/2026,Showdown Captain Mode Showdown Captain Mode 11/28 12:00PM (MICH @ OSU),18900,45104412,26.28,31.15,1.39,56.7,,,92.5,,,,,24.5,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,Recent
 Malachi Toney,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8800,45072717,32.01,30.88,3.64,26.4,,,,,,,,,,,,,,,,11/28/2026,D,Breaking
-Conner Weigman,QB,UH,Showdown Captain Mode,11/28/2026,Showdown Captain Mode Showdown Captain Mode 11/28 9:30PM (BAY @ UH),11400,45104661,28.45,29.6,2.5,34.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,Q,Breaking
+Conner Weigman,QB,UH,Showdown Captain Mode,11/28/2026,Showdown Captain Mode Showdown Captain Mode 11/28 9:30PM (BAY @ UH),11400,45104661,28.45,29.6,2.5,34.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,P,Breaking
 Brad Jackson,QB,TXST,Late Night,11/28/2026,"Late Night Late Night 11/28 9:00PM, 6 Games",9300,45096193,28.81,28.67,3.1,27.9,0.5,,,175,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Conner Weigman,QB,UH,Late Night,11/28/2026,"Late Night Late Night 11/28 9:00PM, 6 Games",9000,45096195,28.45,28.16,3.16,27,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,Q,Breaking
+Conner Weigman,QB,UH,Late Night,11/28/2026,"Late Night Late Night 11/28 9:00PM, 6 Games",9000,45096195,28.45,28.16,3.16,27,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,P,Breaking
 Jeremiah Smith,WR,OSU,Showdown Captain Mode,11/28/2026,Showdown Captain Mode Showdown Captain Mode 11/28 12:00PM (MICH @ OSU),12600,45104333,26.28,28.13,2.09,37.8,,,92.5,,,,,24.5,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,Recent
 Jeremiah Smith,WR,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",9500,45072714,26.28,26.64,2.77,28.5,,,92.5,,,,,24.5,,n/a,MICH @ OSU,Michigan @ Ohio St,Ohio Stadium,outdoor,FOX,11/28/2026,,Recent
 Jesse Legree,WR,ORST,Late Night,11/28/2026,"Late Night Late Night 11/28 9:00PM, 6 Games",9000,45096565,26.31,26.44,2.92,27,,,82,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
@@ -351,7 +351,7 @@ La'Vell Wright,RB,PITT,Night,11/28/2026,"Night Night 11/28 7:00PM, 5 Games",4600
 Ryelan Morris,RB,BAY,Late Night,11/28/2026,"Late Night Late Night 11/28 9:00PM, 6 Games",4800,45096361,9.75,10.59,2.03,14.4,,14.5,,,,,,,,n/a,BAY @ HOU,Baylor @ Houston,TDECU Stadium,outdoor,ESPN2,11/28/2026,,
 Ryan Browne,QB,PUR,Night,11/28/2026,"Night Night 11/28 7:00PM, 5 Games",5800,45097364,9.65,10.58,1.66,17.4,0.5,5,,154.5,,,31.5,,,n/a,PUR @ IND,Purdue @ Indiana,"Memorial Stadium (Bloomington, IN)",outdoor,Fox Sports 1,11/28/2026,,
 Ja'Kobi Jackson,RB,OSU,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5200,45072267,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,Breaking
-Quincy Craig,RB,ARIZ,Late Night,11/28/2026,"Late Night Late Night 11/28 9:00PM, 6 Games",4600,45096364,9.68,10.5,2.1,13.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,Q,Breaking
+Quincy Craig,RB,ARIZ,Late Night,11/28/2026,"Late Night Late Night 11/28 9:00PM, 6 Games",4600,45096364,9.68,10.5,2.1,13.8,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 Madden Iamaleava,CPT,UCLA,Showdown Captain Mode,11/28/2026,Showdown Captain Mode Showdown Captain Mode 11/28 3:30PM (USC @ UCLA),11400,45104260,4.57,10.49,0.4,34.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Recent
 Taeshaun Lyons,WR,UNLV,Late Night,11/28/2026,"Late Night Late Night 11/28 9:00PM, 6 Games",4100,45096640,10.05,10.46,2.45,12.3,,,25,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Recent
 Semaj Morgan,CPT,UCLA,Showdown Captain Mode,11/28/2026,Showdown Captain Mode Showdown Captain Mode 11/28 3:30PM (USC @ UCLA),9300,45104264,6.61,10.44,0.71,27.9,,,19.5,,,,,,,n/a,USC @ UCLA,USC  @ UCLA,Rose Bowl,outdoor,CBS,11/28/2026,,
@@ -869,7 +869,7 @@ Landon Wright,WR,BC,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Gam
 Cooper McCutchan,WR,PUR,Night,11/28/2026,"Night Night 11/28 7:00PM, 5 Games",3100,45097873,4.07,5.12,1.31,9.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Tyler Powell,WR,ARIZ,Late Night,11/28/2026,"Late Night Late Night 11/28 9:00PM, 6 Games",3200,45096754,3.98,5.1,1.24,9.6,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Omar Mabson II,RB,AUB,Night,11/28/2026,"Night Night 11/28 7:00PM, 5 Games",4300,45097522,3.37,5.08,0.78,12.9,,13.5,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
-Jahlil McClain,WR,FRES,Late Night,11/28/2026,"Late Night Late Night 11/28 9:00PM, 6 Games",3600,45096694,3.81,5.07,1.06,10.8,,,12,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
+Jahlil McClain,WR,FRES,Late Night,11/28/2026,"Late Night Late Night 11/28 9:00PM, 6 Games",3600,45096694,0,0,0,0,,,12,,,,,0,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,OUT,
 Jahlil McClain,WR,FRES,Saturday 2-Game,11/28/2026,"Saturday 2-Game Saturday 2-Game 11/28 10:00PM, 2 Games",3600,45102600,3.81,5.07,1.06,10.8,,,12,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Brett Norfleet,WR,MIZZ,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",3500,45073014,3.69,5.05,1.05,10.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Brett Norfleet,WR,MIZZ,Afternoon,11/28/2026,"Afternoon Afternoon 11/28 3:30PM, 6 Games",3500,45103222,3.69,5.05,1.05,10.5,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
