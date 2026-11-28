@@ -1,6 +1,6 @@
 Player Name,Position,Team,Slate Type,Date,Role,Salary,Draftable ID,Projected FP,Combined FP,Value,Implied FP,Passing TDs,Rushing Yards,Receiving Yards,Passing Yards,Rush+Rec Yards,Anytime TD,Passing Attempts,Fantasy Score,Headshot URL,Game Start Time,Match Title (Underdog),Game Short Title (Underdog),Venue Name (Underdog),Venue Type (Underdog),Broadcasts (Underdog),Game Start Time (DRAFTTABLE),Injury Status,News Flag
 Conner Weigman,CPT,UH,Showdown Captain Mode,11/28/2026,Showdown Captain Mode Showdown Captain Mode 11/28 9:30PM (BAY @ UH),17100,45104734,28.45,33.02,1.66,51.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,P,Breaking
-Malachi Toney,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8800,45072717,32.01,30.88,3.64,26.4,,,,,,,,,,,,,,,,11/28/2026,D,Breaking
+Malachi Toney,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",8800,45072717,32.01,30.88,3.64,26.4,,,,,,,,,,,,,,,,11/28/2026,Q,Breaking
 Conner Weigman,QB,UH,Showdown Captain Mode,11/28/2026,Showdown Captain Mode Showdown Captain Mode 11/28 9:30PM (BAY @ UH),11400,45104661,28.45,29.6,2.5,34.2,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,P,Breaking
 Brad Jackson,QB,TXST,Late Night,11/28/2026,"Late Night Late Night 11/28 9:00PM, 6 Games",9300,45096193,28.91,28.75,3.11,27.9,0.5,,,175,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,
 Conner Weigman,QB,UH,Late Night,11/28/2026,"Late Night Late Night 11/28 9:00PM, 6 Games",9000,45096195,28.45,28.16,3.16,27,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,P,Breaking
@@ -246,7 +246,7 @@ JV Gibson,WR,CINCY,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Game
 JV Gibson,WR,CINCY,Afternoon,11/28/2026,"Afternoon Afternoon 11/28 3:30PM, 6 Games",5700,45103507,12.5,13.24,2.19,17.1,,,43.5,,,,,11,,n/a,CIN @ BYU,Cincinnati @ BYU,LaVell Edwards Stadium,outdoor,FOX,11/28/2026,,
 Turbo Richard,RB,IU,Night,11/28/2026,"Night Night 11/28 7:00PM, 5 Games",6100,45097465,11.95,13.22,1.96,18.3,,,,,,,,,,12/30/1899,n/a,n/a,n/a,n/a,n/a,11/28/2026,,Breaking
 CJ Baxter,RB,UK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",7200,45072201,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,Breaking
-Elija Lofton,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5000,45072825,12.8,13.19,2.56,15,,,29.5,,,,,,,n/a,BC @ MIA,Boston College @ Miami (FL),Hard Rock Stadium,outdoor,ESPN,11/28/2026,P,Breaking
+Elija Lofton,WR,MIA,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",5000,45072825,12.8,13.19,2.56,15,,,29.5,,,,,,,n/a,BC @ MIA,Boston College @ Miami (FL),Hard Rock Stadium,outdoor,ESPN,11/28/2026,Q,Breaking
 Cam Settles,RB,ARK,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",4900,45072282,12.83,13.16,2.62,14.7,,34.5,,,,,,,,n/a,LSU @ ARK,LSU  @ Arkansas,Donald W. Reynolds Razorback Stadium,outdoor,SEC Network,11/28/2026,,
 Cataurus Hicks,WR,PITT,Night,11/28/2026,"Night Night 11/28 7:00PM, 5 Games",6000,45097702,11.91,13.13,1.98,18,,,,,,,,,,,,,,,,11/28/2026,,
 Ty Clark III,RB,WAKE,Saturday,11/28/2026,"Saturday Saturday 11/28 12:00PM, 12 Games",6300,45072225,0,0,0,0,,,,,,,,0,,,,,,,,11/28/2026,OUT,Recent
